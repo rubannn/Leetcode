@@ -1,9 +1,9 @@
 # Leetcode
 Leetcode solutions
 
-68. Text Justification (https://leetcode.com/problems/text-justification/)
+[0068.] Text Justification (https://leetcode.com/problems/text-justification/)
 
-223. Rectangle Area (https://leetcode.com/problems/rectangle-area/)
+[0223.] Rectangle Area (https://leetcode.com/problems/rectangle-area/)
 
 225. Implement Stack using Queues (https://leetcode.com/problems/implement-stack-using-queues/)
 
