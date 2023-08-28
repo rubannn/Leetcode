@@ -1,6 +1,9 @@
 # Leetcode
 Leetcode solutions
 
+- [0001] Two Sum (https://leetcode.com/problems/two-sum/)
+- [0002] Add Two Numbers (https://leetcode.com/problems/add-two-numbers/)
+
 - [0012] Integer to Roman (https://leetcode.com/problems/integer-to-roman/)
 - [0013] Roman to Integer (https://leetcode.com/problems/roman-to-integer/)
 
@@ -35,7 +38,11 @@ Leetcode solutions
 - [0459] Repeated Substring Pattern (https://leetcode.com/problems/repeated-substring-pattern/)
 - [0518] Coin Change II (https://leetcode.com/problems/coin-change-ii/)
 
+- [0645] Set Mismatch (https://leetcode.com/problems/set-mismatch/)
+
 - [0767] Reorganize String (https://leetcode.com/problems/reorganize-string/)
 - [0836] Rectangle Overlap (https://leetcode.com/problems/rectangle-overlap/)
 
 - [1275] Find Winner on a Tic Tac Toe Game (https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game/)
+
+- [1662] Check If Two String Arrays are Equivalent (https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)
