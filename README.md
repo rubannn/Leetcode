@@ -1,6 +1,9 @@
 # Leetcode
 Leetcode solutions
 
+- [0012] Integer to Roman (https://leetcode.com/problems/integer-to-roman/)
+- [0013] Roman to Integer (https://leetcode.com/problems/roman-to-integer/)
+
 - [0033] Search in Rotated Sorted Array (https://leetcode.com/problems/search-in-rotated-sorted-array/)
 - [0048] Rotate Image (https://leetcode.com/problems/rotate-image/)
 - [0068] Text Justification (https://leetcode.com/problems/text-justification/)
