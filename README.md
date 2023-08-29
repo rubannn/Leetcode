@@ -1,8 +1,8 @@
 # Leetcode
 Leetcode solutions
 
-- [0001] [Two Sum](https://leetcode.com/problems/two-sum/)
-- [0002] [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
+- [ ][0001] [Two Sum](https://leetcode.com/problems/two-sum/)
+- [x][0002] [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
 
 - [0012] [Integer to Roman](https://leetcode.com/problems/integer-to-roman/)
 - [0013] [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)
