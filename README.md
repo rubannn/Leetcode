@@ -39,6 +39,7 @@ Leetcode solutions
 - [0518] Coin Change II (https://leetcode.com/problems/coin-change-ii/)
 
 - [0645] Set Mismatch (https://leetcode.com/problems/set-mismatch/)
+- [0646] Maximum Length of Pair Chain (https://leetcode.com/problems/maximum-length-of-pair-chain/)
 
 - [0767] Reorganize String (https://leetcode.com/problems/reorganize-string/)
 - [0836] Rectangle Overlap (https://leetcode.com/problems/rectangle-overlap/)
