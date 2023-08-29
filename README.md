@@ -8,7 +8,13 @@
 - [0013] [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)
 
 - [0033] [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
+
+- [0046] [Permutations](https://leetcode.com/problems/permutations/)
+- [0047] [Permutations II](https://leetcode.com/problems/permutations-ii/)
 - [0048] [Rotate Image](https://leetcode.com/problems/rotate-image/)
+- [0049] [Group Anagrams](https://leetcode.com/problems/group-anagrams/)
+- [0050] [Pow(x, n)](https://leetcode.com/problems/powx-n/)
+
 - [0068] [Text Justification](https://leetcode.com/problems/text-justification/)
 - [0063] [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)
 - [0067] [Add Binary](https://leetcode.com/problems/add-binary/)
