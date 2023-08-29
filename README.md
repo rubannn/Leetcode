@@ -6,7 +6,8 @@
 
 - [0012] [Integer to Roman](https://leetcode.com/problems/integer-to-roman/)
 - [0013] [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)
-
+- [0026] [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
+- [0027] [Remove Element](https://leetcode.com/problems/remove-element/)
 - [0033] [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
 
 - [0046] [Permutations](https://leetcode.com/problems/permutations/)
