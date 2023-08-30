@@ -29,6 +29,7 @@
 - [0139] [Word Break](https://leetcode.com/problems/word-break/)
 - [0141] [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
 
+- [0160] [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)
 - [0168] [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)
 - [0190] [Reverse Bits](https://leetcode.com/problems/reverse-bits/)
 - [0191] [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)
