@@ -24,6 +24,7 @@
 - [0074] [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)
 
 - [0081] [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)
+- [0125] [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
 
 - [0139] [Word Break](https://leetcode.com/problems/word-break/)
 - [0168] [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)
