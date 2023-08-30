@@ -53,6 +53,6 @@
 - [0767] [Reorganize String](https://leetcode.com/problems/reorganize-string/)
 - [0836] [Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap/)
 
-> ### 1000 - 1xxx
+> ### 1001 - 2xxx
 - [1275] [Find Winner on a Tic Tac Toe Game](https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game/)
 - [1662] [Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)
