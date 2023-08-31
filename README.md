@@ -70,3 +70,4 @@
 - [1290] [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/)
 - [1662] [Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)
 - [2326] [Spiral Matrix IV](https://leetcode.com/problems/spiral-matrix-iv/)
+- [2679] [Sum in a Matrix](https://leetcode.com/problems/sum-in-a-matrix/)
