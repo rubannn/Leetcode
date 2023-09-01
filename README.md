@@ -77,4 +77,5 @@
 - [1773] [Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/)
 - [2319] [Check if Matrix Is X-Matrix](https://leetcode.com/problems/check-if-matrix-is-x-matrix/)
 - [2326] [Spiral Matrix IV](https://leetcode.com/problems/spiral-matrix-iv/)
+- [2373] [Largest Local Values in a Matrix](https://leetcode.com/problems/largest-local-values-in-a-matrix/)
 - [2679] [Sum in a Matrix](https://leetcode.com/problems/sum-in-a-matrix/)
