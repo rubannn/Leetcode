@@ -52,7 +52,7 @@
 - [0264] [Ugly Number II](https://leetcode.com/problems/ugly-number-ii/)
 - [0459] [Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/)
 - [0338] [Counting Bits](https://leetcode.com/problems/counting-bits/)
-
+- [0378] [Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)
 
 > ### 0501 - 0750
 - [0518] [Coin Change II](https://leetcode.com/problems/coin-change-ii/)
