@@ -56,7 +56,6 @@
 
 > ### 0501 - 0750
 - [0518] [Coin Change II](https://leetcode.com/problems/coin-change-ii/)
-
 - [0645] [Set Mismatch](https://leetcode.com/problems/set-mismatch/)
 - [0646] [Maximum Length of Pair Chain](https://leetcode.com/problems/maximum-length-of-pair-chain/)
 
@@ -72,6 +71,7 @@
 - [1275] [Find Winner on a Tic Tac Toe Game](https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game/)
 - [1290] [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/)
 - [1314] [Matrix Block Sum](https://leetcode.com/problems/matrix-block-sum/)
+- [1337] [The K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/)
 - [1351] [Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/)
 - [1662] [Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)
 - [2319] [Check if Matrix Is X-Matrix](https://leetcode.com/problems/check-if-matrix-is-x-matrix/)
