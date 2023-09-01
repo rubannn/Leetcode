@@ -74,6 +74,7 @@
 - [1337] [The K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/)
 - [1351] [Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/)
 - [1662] [Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)
+- [1773] [Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/)
 - [2319] [Check if Matrix Is X-Matrix](https://leetcode.com/problems/check-if-matrix-is-x-matrix/)
 - [2326] [Spiral Matrix IV](https://leetcode.com/problems/spiral-matrix-iv/)
 - [2679] [Sum in a Matrix](https://leetcode.com/problems/sum-in-a-matrix/)
