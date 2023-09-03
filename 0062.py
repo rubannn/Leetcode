@@ -10,4 +10,4 @@ def uniquePaths(m: int, n: int) -> int:
     return board[m-1][n-1]
 
 
-print(uniquePaths(3, 3))
+print(uniquePaths(13, 13))
