@@ -3,10 +3,10 @@
 > ### 0001 - 0250
  Num | Link and name | Difficulty | Code link
  --- | --- | :---: | :---:
-`0001` | [Two Sum](https://leetcode.com/problems/two-sum/) |
-`0002` | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) |
-`0012` | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) |
-`0013` | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) |
+`0001` | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy |
+`0002` | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | Medium | [code](https://github.com/Gh0stikLab/Leetcode/blob/main/0001%20-%200250/0002.py)
+`0012` | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | Medium | [code](https://github.com/Gh0stikLab/Leetcode/blob/main/0001%20-%200250/0012.py)
+`0013` | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | Easy | [code](https://github.com/Gh0stikLab/Leetcode/blob/main/0001%20-%200250/0013.py)
 `0023` | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) |
 `0026` | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
 `0027` | [Remove Element](https://leetcode.com/problems/remove-element/) |
@@ -16,8 +16,8 @@
 `0048` | [Rotate Image](https://leetcode.com/problems/rotate-image/) |
 `0049` | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) |
 `0050` | [Pow(x, n)](https://leetcode.com/problems/powx-n/)
-`0054` | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | [code](https://github.com/Gh0stikLab/Leetcode/blob/main/0001%20-%200250/0054.py)
-`0059` | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)
+`0054` | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | Medium | [code](https://github.com/Gh0stikLab/Leetcode/blob/main/0001%20-%200250/0054.py)
+`0059` | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) | Medium | [code](https://github.com/Gh0stikLab/Leetcode/blob/main/0001%20-%200250/0059.py)
 `0062` | [Unique Paths](https://leetcode.com/problems/unique-paths/)
 `0063` | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)
 `0068` | [Text Justification](https://leetcode.com/problems/text-justification/)
