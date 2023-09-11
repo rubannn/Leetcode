@@ -52,6 +52,7 @@
 | `0264` | [Ugly Number II](https://leetcode.com/problems/ugly-number-ii/)                                                   |   Medium   | [code](/0251%20-%200500/0264.py) |
 | `0338` | [Counting Bits](https://leetcode.com/problems/counting-bits/)                                                     |    Easy    | [code](/0251%20-%200500/0338.py) |
 | `0378` | [Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/) |   Medium   | [code](/0251%20-%200500/0378.py) |
+| `0412` | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)                                                             |    Easy    | [code](/0251%20-%200500/0412.py) |
 | `0459` | [Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/)                           |    Easy    | [code](/0251%20-%200500/0459.py) |
 
 > ### 0501 - 0750
