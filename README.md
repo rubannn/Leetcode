@@ -24,12 +24,12 @@
 | `0068` | [Text Justification](https://leetcode.com/problems/text-justification/)                                   |
 | `0067` | [Add Binary](https://leetcode.com/problems/add-binary/)                                                   |
 | `0070` | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)                                         |
-| `0074` | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)                                   |
-| `0081` | [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)     |
-| `0083` | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)   |
-| `0125` | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)                                       |
-| `0139` | [Word Break](https://leetcode.com/problems/word-break/)                                                   |
-| `0141` | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)                                     |
+| `0074` | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)                                   |   Medium   | [code](/0001%20-%200250/0074.py) |
+| `0081` | [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)     |   Medium   | [code](/0001%20-%200250/0081.py) |
+| `0083` | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)   |    Easy    | [code](/0001%20-%200250/0083.py) |
+| `0125` | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)                                       |    Easy    | [code](/0001%20-%200250/0125.py) |
+| `0139` | [Word Break](https://leetcode.com/problems/word-break/)                                                   |   Medium   | [code](/0001%20-%200250/0139.py) |
+| `0141` | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)                                     |    Easy    | [code](/0001%20-%200250/0141.py) |
 | `0160` | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)       |
 | `0168` | [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)                       |
 | `0190` | [Reverse Bits](https://leetcode.com/problems/reverse-bits/)                                               |
