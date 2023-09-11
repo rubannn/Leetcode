@@ -14,7 +14,7 @@
 - [0048] [Rotate Image](https://leetcode.com/problems/rotate-image/)
 - [0049] [Group Anagrams](https://leetcode.com/problems/group-anagrams/)
 - [0050] [Pow(x, n)](https://leetcode.com/problems/powx-n/)
-- [0054] [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)(https://github.com/Gh0stikLab/Leetcode/blob/main/0001%20-%200250/0054.py)
+- [0054] [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) [code](https://github.com/Gh0stikLab/Leetcode/blob/main/0001%20-%200250/0054.py)
 - [0059] [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)
 - [0062] [Unique Paths](https://leetcode.com/problems/unique-paths/)
 - [0063] [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)
