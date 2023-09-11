@@ -47,12 +47,12 @@
 >
 > | Num    | Link and name                                                                                                     | Difficulty | Code link |
 > | ------ | ----------------------------------------------------------------------------------------------------------------- | :--------: | :-------: |
-> | `0258` | [Add Digits](https://leetcode.com/problems/add-digits/)                                                           |
-> | `0263` | [Ugly Number](https://leetcode.com/problems/ugly-number/)                                                         |
-> | `0264` | [Ugly Number II](https://leetcode.com/problems/ugly-number-ii/)                                                   |
-> | `0459` | [Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/)                           |
-> | `0338` | [Counting Bits](https://leetcode.com/problems/counting-bits/)                                                     |
-> | `0378` | [Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/) |
+> | `0258` | [Add Digits](https://leetcode.com/problems/add-digits/)                                                           | Easy | [code](/0251%20-%200500/0258.py) |
+> | `0263` | [Ugly Number](https://leetcode.com/problems/ugly-number/)                                                         |Easy | [code](/0251%20-%200500/0263.py) |
+> | `0264` | [Ugly Number II](https://leetcode.com/problems/ugly-number-ii/)                                                   |Medium| [code](/0251%20-%200500/0264.py) |
+> | `0338` | [Counting Bits](https://leetcode.com/problems/counting-bits/)                                                     |Easy| [code](/0251%20-%200500/0338.py) |
+> | `0378` | [Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/) |Medium| [code](/0251%20-%200500/0378.py) |
+> | `0459` | [Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/)                           |Easy| [code](/0251%20-%200500/0459.py) |
 
 > ### 0501 - 0750
 >
@@ -63,12 +63,13 @@
 > | `0646` | [Maximum Length of Pair Chain](https://leetcode.com/problems/maximum-length-of-pair-chain/) |   Medium   | [code](/0501%20-%200750/0646.py) |
 
 > ### 0751 - 1000
- Num | Link and name | Difficulty | Code link
- --- | --- | :---: | :---:
-`0767` | [Reorganize String](https://leetcode.com/problems/reorganize-string/)| <span style="color: orange">Medium</span> | [code](/0751%20-%201000/0767.py)
-`0836` | [Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap/)| <span style="color: green">Easy</span> | [code](/0751%20-%201000/0836.py)
-`0876` | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)| <span style="color: green">Easy</span> | [code](/0751%20-%201000/0876.py)
-`0885` | [Spiral Matrix III](https://leetcode.com/problems/spiral-matrix-iii/)| <span style="color: orange">Medium</span> | [code](/0751%20-%201000/0885.py)
+>
+ | Num    | Link and name                                                                         | Difficulty |            Code link             |
+ | ------ | ------------------------------------------------------------------------------------- | :--------: | :------------------------------: |
+ | `0767` | [Reorganize String](https://leetcode.com/problems/reorganize-string/)                 |   Medium   | [code](/0751%20-%201000/0767.py) |
+ | `0836` | [Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap/)                 |    Easy    | [code](/0751%20-%201000/0836.py) |
+ | `0876` | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) |    Easy    | [code](/0751%20-%201000/0876.py) |
+ | `0885` | [Spiral Matrix III](https://leetcode.com/problems/spiral-matrix-iii/)                 |   Medium   | [code](/0751%20-%201000/0885.py) |
 
 
 > ### 1001 - 2xxx
