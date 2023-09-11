@@ -19,24 +19,24 @@
 | `0050` | [Pow(x, n)](https://leetcode.com/problems/powx-n/)                                                        |   Medium   | [code](/0001%20-%200250/0050.py) |
 | `0054` | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)                                             |   Medium   | [code](/0001%20-%200250/0054.py) |
 | `0059` | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)                                       |   Medium   | [code](/0001%20-%200250/0059.py) |
-| `0062` | [Unique Paths](https://leetcode.com/problems/unique-paths/)                                               |
-| `0063` | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)                                         |
-| `0068` | [Text Justification](https://leetcode.com/problems/text-justification/)                                   |
-| `0067` | [Add Binary](https://leetcode.com/problems/add-binary/)                                                   |
-| `0070` | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)                                         |
+| `0062` | [Unique Paths](https://leetcode.com/problems/unique-paths/)                                               |   Medium   | [code](/0001%20-%200250/0062.py) |
+| `0063` | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)                                         |   Medium   | [code](/0001%20-%200250/0063.py) |
+| `0067` | [Add Binary](https://leetcode.com/problems/add-binary/)                                                   |    Easy    | [code](/0001%20-%200250/0067.py) |
+| `0068` | [Text Justification](https://leetcode.com/problems/text-justification/)                                   |    Hard    | [code](/0001%20-%200250/0068.py) |
+| `0070` | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)                                         |    Easy    | [code](/0001%20-%200250/0070.py) |
 | `0074` | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)                                   |   Medium   | [code](/0001%20-%200250/0074.py) |
 | `0081` | [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)     |   Medium   | [code](/0001%20-%200250/0081.py) |
 | `0083` | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)   |    Easy    | [code](/0001%20-%200250/0083.py) |
 | `0125` | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)                                       |    Easy    | [code](/0001%20-%200250/0125.py) |
 | `0139` | [Word Break](https://leetcode.com/problems/word-break/)                                                   |   Medium   | [code](/0001%20-%200250/0139.py) |
 | `0141` | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)                                     |    Easy    | [code](/0001%20-%200250/0141.py) |
-| `0160` | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)       |
-| `0168` | [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)                       |
-| `0190` | [Reverse Bits](https://leetcode.com/problems/reverse-bits/)                                               |
-| `0191` | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)                                       |
-| `0202` | [Happy Number](https://leetcode.com/problems/happy-number/)                                               |
-| `0203` | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)                 |
-| `0205` | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)                                   |
+| `0160` | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)       |    Easy    | [code](/0001%20-%200250/0160.py) |
+| `0168` | [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)                       |    Easy    | [code](/0001%20-%200250/0168.py) |
+| `0190` | [Reverse Bits](https://leetcode.com/problems/reverse-bits/)                                               |    Easy    | [code](/0001%20-%200250/0190.py) |
+| `0191` | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)                                       |    Easy    | [code](/0001%20-%200250/0191.py) |
+| `0202` | [Happy Number](https://leetcode.com/problems/happy-number/)                                               |    Easy    | [code](/0001%20-%200250/0202.py) |
+| `0203` | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)                 |    Easy    | [code](/0001%20-%200250/0203.py) |
+| `0205` | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)                                   |    Easy    | [code](/0001%20-%200250/0205.py) |
 | `0215` | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)         |   Medium   | [code](/0001%20-%200250/0215.py) |
 | `0223` | [Rectangle Area](https://leetcode.com/problems/rectangle-area/)                                           |   Medium   | [code](/0001%20-%200250/0223.py) |
 | `0225` | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)               |    Easy    | [code](/0001%20-%200250/0225.py) |
