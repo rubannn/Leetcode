@@ -3,7 +3,7 @@
 > ### 0001 - 0250
  Num | Link and name | Difficulty | Code link
  --- | --- | :---: | :---:
-`0001` | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy |
+`0001` | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | [code](https://github.com/Gh0stikLab/Leetcode/blob/main/0001%20-%200250/0001.py)
 `0002` | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | Medium | [code](https://github.com/Gh0stikLab/Leetcode/blob/main/0001%20-%200250/0002.py)
 `0012` | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | Medium | [code](https://github.com/Gh0stikLab/Leetcode/blob/main/0001%20-%200250/0012.py)
 `0013` | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | Easy | [code](https://github.com/Gh0stikLab/Leetcode/blob/main/0001%20-%200250/0013.py)
@@ -55,9 +55,9 @@
 > ### 0501 - 0750
  Num | Link and name | Difficulty | Code link
  --- | --- | :---: | :---:
-`0518` | [Coin Change II](https://leetcode.com/problems/coin-change-ii/)
-`0645` | [Set Mismatch](https://leetcode.com/problems/set-mismatch/)
-`0646` | [Maximum Length of Pair Chain](https://leetcode.com/problems/maximum-length-of-pair-chain/)
+`0518` | [Coin Change II](https://leetcode.com/problems/coin-change-ii/)| Medium | [code](https://github.com/Gh0stikLab/Leetcode/blob/main/0501%20-%200750/0518.py)
+`0645` | [Set Mismatch](https://leetcode.com/problems/set-mismatch/)| Easy | [code](https://github.com/Gh0stikLab/Leetcode/blob/main/0501%20-%200750/0645.py)
+`0646` | [Maximum Length of Pair Chain](https://leetcode.com/problems/maximum-length-of-pair-chain/)| Medium | [code](https://github.com/Gh0stikLab/Leetcode/blob/main/0501%20-%200750/0646.py)
 
 > ### 0751 - 1000
  Num | Link and name | Difficulty | Code link
