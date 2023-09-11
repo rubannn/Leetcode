@@ -14,7 +14,7 @@
 - [0048] [Rotate Image](https://leetcode.com/problems/rotate-image/)
 - [0049] [Group Anagrams](https://leetcode.com/problems/group-anagrams/)
 - [0050] [Pow(x, n)](https://leetcode.com/problems/powx-n/)
-- [0054] [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
+- [0054] [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)(https://github.com/Gh0stikLab/Leetcode/blob/main/0001%20-%200250/0054.py)
 - [0059] [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)
 - [0062] [Unique Paths](https://leetcode.com/problems/unique-paths/)
 - [0063] [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)
@@ -61,8 +61,6 @@
 
 
 > ### 1001 - 2xxx
-
-
 - [1252] [Cells with Odd Values in a Matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/)
 - [1275] [Find Winner on a Tic Tac Toe Game](https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game/)
 - [1282] [Group the People Given the Group Size They Belong To](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/)
