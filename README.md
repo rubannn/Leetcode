@@ -4,10 +4,10 @@
 >
 > | Num    | Link and name                                                                                             | Difficulty |                                    Code link                                     |
 > | ------ | --------------------------------------------------------------------------------------------------------- | :--------: | :------------------------------------------------------------------------------: |
-> | `0001` | [Two Sum](https://leetcode.com/problems/two-sum/)                                                         |    Easy    | [code](https://github.com/Gh0stikLab/Leetcode/blob/main/0001%20-%200250/0001.py) |
-> | `0002` | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)                                         |   Medium   | [code](https://github.com/Gh0stikLab/Leetcode/blob/main/0001%20-%200250/0002.py) |
-> | `0012` | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/)                                       |   Medium   | [code](https://github.com/Gh0stikLab/Leetcode/blob/main/0001%20-%200250/0012.py) |
-> | `0013` | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)                                       |    Easy    | [code](https://github.com/Gh0stikLab/Leetcode/blob/main/0001%20-%200250/0013.py) |
+> | `0001` | [Two Sum](https://leetcode.com/problems/two-sum/)                                                         |    Easy    | [code](/0001%20-%200250/0001.py) |
+> | `0002` | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)                                         |   Medium   | [code](/0001%20-%200250/0002.py) |
+> | `0012` | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/)                                       |   Medium   | [code](/0001%20-%200250/0012.py) |
+> | `0013` | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)                                       |    Easy    | [code](/0001%20-%200250/0013.py) |
 > | `0023` | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)                               |
 > | `0026` | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) |
 > | `0027` | [Remove Element](https://leetcode.com/problems/remove-element/)                                           |
@@ -17,8 +17,8 @@
 > | `0048` | [Rotate Image](https://leetcode.com/problems/rotate-image/)                                               |
 > | `0049` | [Group Anagrams](https://leetcode.com/problems/group-anagrams/)                                           |
 > | `0050` | [Pow(x, n)](https://leetcode.com/problems/powx-n/)                                                        |
-> | `0054` | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)                                             |   Medium   | [code](https://github.com/Gh0stikLab/Leetcode/blob/main/0001%20-%200250/0054.py) |
-> | `0059` | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)                                       |   Medium   | [code](https://github.com/Gh0stikLab/Leetcode/blob/main/0001%20-%200250/0059.py) |
+> | `0054` | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)                                             |   Medium   | [code](/0001%20-%200250/0054.py) |
+> | `0059` | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)                                       |   Medium   | [code](/0001%20-%200250/0059.py) |
 > | `0062` | [Unique Paths](https://leetcode.com/problems/unique-paths/)                                               |
 > | `0063` | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)                                         |
 > | `0068` | [Text Justification](https://leetcode.com/problems/text-justification/)                                   |
@@ -58,17 +58,17 @@
 >
 > | Num    | Link and name                                                                               | Difficulty |                                    Code link                                     |
 > | ------ | ------------------------------------------------------------------------------------------- | :--------: | :------------------------------------------------------------------------------: |
-> | `0518` | [Coin Change II](https://leetcode.com/problems/coin-change-ii/)                             |   Medium   | [code](https://github.com/Gh0stikLab/Leetcode/blob/main/0501%20-%200750/0518.py) |
-> | `0645` | [Set Mismatch](https://leetcode.com/problems/set-mismatch/)                                 |    Easy    | [code](https://github.com/Gh0stikLab/Leetcode/blob/main/0501%20-%200750/0645.py) |
-> | `0646` | [Maximum Length of Pair Chain](https://leetcode.com/problems/maximum-length-of-pair-chain/) |   Medium   | [code](https://github.com/Gh0stikLab/Leetcode/blob/main/0501%20-%200750/0646.py) |
+> | `0518` | [Coin Change II](https://leetcode.com/problems/coin-change-ii/)                             |   Medium   | [code](/0501%20-%200750/0518.py) |
+> | `0645` | [Set Mismatch](https://leetcode.com/problems/set-mismatch/)                                 |    Easy    | [code](/0501%20-%200750/0645.py) |
+> | `0646` | [Maximum Length of Pair Chain](https://leetcode.com/problems/maximum-length-of-pair-chain/) |   Medium   | [code](/0501%20-%200750/0646.py) |
 
 > ### 0751 - 1000
  Num | Link and name | Difficulty | Code link
  --- | --- | :---: | :---:
 `0767` | [Reorganize String](https://leetcode.com/problems/reorganize-string/)| <span style="color: orange">Medium</span> | [code](/0751%20-%201000/0767.py)
-`0836` | [Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap/)| <span style="color: green">Easy</span> | [code](https://github.com/Gh0stikLab/Leetcode/blob/main/0751%20-%201000/0836.py)
-`0876` | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)| <span style="color: green">Easy</span> | [code](https://github.com/Gh0stikLab/Leetcode/blob/main/0751%20-%201000/0876.py)
-`0885` | [Spiral Matrix III](https://leetcode.com/problems/spiral-matrix-iii/)| <span style="color: orange">Medium</span> | [code](https://github.com/Gh0stikLab/Leetcode/blob/main/0751%20-%201000/0885.py)
+`0836` | [Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap/)| <span style="color: green">Easy</span> | [code](/0751%20-%201000/0836.py)
+`0876` | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)| <span style="color: green">Easy</span> | [code](/0751%20-%201000/0876.py)
+`0885` | [Spiral Matrix III](https://leetcode.com/problems/spiral-matrix-iii/)| <span style="color: orange">Medium</span> | [code](/0751%20-%201000/0885.py)
 
 
 > ### 1001 - 2xxx
