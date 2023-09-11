@@ -62,10 +62,10 @@
 > ### 0751 - 1000
  Num | Link and name | Difficulty | Code link
  --- | --- | :---: | :---:
-`0767` | [Reorganize String](https://leetcode.com/problems/reorganize-string/)
-`0836` | [Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap/)
-`0876` | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
-`0885` | [Spiral Matrix III](https://leetcode.com/problems/spiral-matrix-iii/)
+`0767` | [Reorganize String](https://leetcode.com/problems/reorganize-string/)| Medium | [code](https://github.com/Gh0stikLab/Leetcode/blob/main/0751%20-%201000/0767.py)
+`0836` | [Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap/)| Easy | [code](https://github.com/Gh0stikLab/Leetcode/blob/main/0751%20-%201000/0836.py)
+`0876` | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)| Easy | [code](https://github.com/Gh0stikLab/Leetcode/blob/main/0751%20-%201000/0876.py)
+`0885` | [Spiral Matrix III](https://leetcode.com/problems/spiral-matrix-iii/)| Medium | [code](https://github.com/Gh0stikLab/Leetcode/blob/main/0751%20-%201000/0885.py)
 
 
 > ### 1001 - 2xxx
