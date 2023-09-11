@@ -1,9 +1,8 @@
 # Leetcode solutions
 
 > ### 0001 - 0250
-
- Num | Link and name | Code link
- --- | --- | ---
+ Num | Link and name | Difficulty | Code link
+ --- | --- | :---: | :---:
 `0001` | [Two Sum](https://leetcode.com/problems/two-sum/) |
 `0002` | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) |
 `0012` | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) |
@@ -44,6 +43,8 @@
 `0242` | [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
 
 > ### 0251 - 0500
+ Num | Link and name | Difficulty | Code link
+ --- | --- | :---: | :---:
 `0258` | [Add Digits](https://leetcode.com/problems/add-digits/)
 `0263` | [Ugly Number](https://leetcode.com/problems/ugly-number/)
 `0264` | [Ugly Number II](https://leetcode.com/problems/ugly-number-ii/)
@@ -52,11 +53,15 @@
 `0378` | [Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)
 
 > ### 0501 - 0750
+ Num | Link and name | Difficulty | Code link
+ --- | --- | :---: | :---:
 `0518` | [Coin Change II](https://leetcode.com/problems/coin-change-ii/)
 `0645` | [Set Mismatch](https://leetcode.com/problems/set-mismatch/)
 `0646` | [Maximum Length of Pair Chain](https://leetcode.com/problems/maximum-length-of-pair-chain/)
 
 > ### 0751 - 1000
+ Num | Link and name | Difficulty | Code link
+ --- | --- | :---: | :---:
 `0767` | [Reorganize String](https://leetcode.com/problems/reorganize-string/)
 `0836` | [Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap/)
 `0876` | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
@@ -64,6 +69,8 @@
 
 
 > ### 1001 - 2xxx
+ Num | Link and name | Difficulty | Code link
+ --- | --- | :---: | :---:
 `1252` | [Cells with Odd Values in a Matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/)
 `1275` | [Find Winner on a Tic Tac Toe Game](https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game/)
 `1282` | [Group the People Given the Group Size They Belong To](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/)
