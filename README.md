@@ -74,15 +74,16 @@
 
 > ### 1001 - 2xxx
 >
-| Num    | Link and name                                                                                                                               | Difficulty |            Code link             |
-| ------ | ------------------------------------------------------------------------------------------------------------------------------------------- | :--------: | :------------------------------: |
-| `1252` | [Cells with Odd Values in a Matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/)                                       |    Easy    | [code](/1001%20-%202xxx/1252.py) |
-| `1275` | [Find Winner on a Tic Tac Toe Game](https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game/)                                       |    Easy    | [code](/1001%20-%202xxx/1275.py) |
-| `1282` | [Group the People Given the Group Size They Belong To](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/) |   Medium   | [code](/1001%20-%202xxx/1282.py) |
-| `1290` | [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/)       |    Easy    | [code](/1001%20-%202xxx/1290.py) |
-| `1314` | [Matrix Block Sum](https://leetcode.com/problems/matrix-block-sum/)                                                                         |   Medium   | [code](/1001%20-%202xxx/1314.py) |
-| `1337` | [The K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/)                                             |    Easy    | [code](/1001%20-%202xxx/1337.py) |
-| `1351` | [Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/)                       |    Easy    | [code](/1001%20-%202xxx/1351.py) |
+| Num    | Link and name                                                                                                                                   | Difficulty |            Code link             |
+| ------ | ----------------------------------------------------------------------------------------------------------------------------------------------- | :--------: | :------------------------------: |
+| `1252` | [Cells with Odd Values in a Matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/)                                           |    Easy    | [code](/1001%20-%202xxx/1252.py) |
+| `1275` | [Find Winner on a Tic Tac Toe Game](https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game/)                                           |    Easy    | [code](/1001%20-%202xxx/1275.py) |
+| `1282` | [Group the People Given the Group Size They Belong To](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/)     |   Medium   | [code](/1001%20-%202xxx/1282.py) |
+| `1290` | [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/)           |    Easy    | [code](/1001%20-%202xxx/1290.py) |
+| `1314` | [Matrix Block Sum](https://leetcode.com/problems/matrix-block-sum/)                                                                             |   Medium   | [code](/1001%20-%202xxx/1314.py) |
+| `1337` | [The K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/)                                                 |    Easy    | [code](/1001%20-%202xxx/1337.py) |
+| `1351` | [Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/)                           |    Easy    | [code](/1001%20-%202xxx/1351.py) |
+| `1647` | [Minimum Deletions to Make Character Frequencies Unique](https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/) |   Medium   | [code](/1001%20-%202xxx/1647.py) |
 | `1662` | [Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)                       |    Easy    | [code](/1001%20-%202xxx/1662.py) |
 | `1773` | [Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/)                                                   |    Easy    | [code](/1001%20-%202xxx/1773.py) |
 | `2319` | [Check if Matrix Is X-Matrix](https://leetcode.com/problems/check-if-matrix-is-x-matrix/)                                                   |    Easy    | [code](/1001%20-%202xxx/2319.py) |
