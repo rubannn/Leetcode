@@ -1,11 +1,10 @@
 # Leetcode solutions
 
-{\color{blue}Blue}
 > ### 0001 - 0250
 >
 | Num    | Link and name                                                                                             | Difficulty |            Code link             |
 | ------ | --------------------------------------------------------------------------------------------------------- | :--------: | :------------------------------: |
-| `0001` | [Two Sum](https://leetcode.com/problems/two-sum/)                                                         |    Easy    | [code](/0001%20-%200250/0001.py) |
+| `0001` | [Two Sum](https://leetcode.com/problems/two-sum/)                                                         |    ${\color{green}Easy}$    | [code](/0001%20-%200250/0001.py) |
 | `0002` | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)                                         |   Medium   | [code](/0001%20-%200250/0002.py) |
 | `0012` | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/)                                       |   Medium   | [code](/0001%20-%200250/0012.py) |
 | `0013` | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)                                       |    Easy    | [code](/0001%20-%200250/0013.py) |
