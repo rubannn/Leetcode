@@ -1,5 +1,5 @@
 # Leetcode solutions
-rubannn/Leetcode/tree/main
+
 > ### 0001 - 0250
 >
 | Num    | Link and name                                                                                             |        Difficulty        |            Code link             |
