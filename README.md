@@ -2,8 +2,8 @@
 
 > ### 0001 - 0250
 >
-| Num    | Link and name                                                                                             |        Difficulty        |            Code link             |
-| ------ | --------------------------------------------------------------------------------------------------------- | :----------------------: | :------------------------------: |
+| Num    | Link and name                                                                                             |        Difficulty        |                          Code link                          |
+| ------ | --------------------------------------------------------------------------------------------------------- | :----------------------: | :---------------------------------------------------------: |
 | `0001` | [Two Sum](https://leetcode.com/problems/two-sum/)                                                         |  ${\color{green}Easy}$   | [code](/rubannn/Leetcode/tree/main/0001%20-%200250/0001.py) |
 | `0002` | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)                                         | ${\color{orange}Medium}$ | [code](/rubannn/Leetcode/tree/main/0001%20-%200250/0002.py) |
 | `0012` | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/)                                       | ${\color{orange}Medium}$ | [code](/rubannn/Leetcode/tree/main/0001%20-%200250/0012.py) |
@@ -32,6 +32,7 @@
 | `0141` | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)                                     |  ${\color{green}Easy}$   | [code](/rubannn/Leetcode/tree/main/0001%20-%200250/0141.py) |
 | `0160` | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)       |  ${\color{green}Easy}$   | [code](/rubannn/Leetcode/tree/main/0001%20-%200250/0160.py) |
 | `0168` | [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)                       |  ${\color{green}Easy}$   | [code](/rubannn/Leetcode/tree/main/0001%20-%200250/0168.py) |
+| `0172` | [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/)                     | ${\color{orange}Medium}$ | [code](/rubannn/Leetcode/tree/main/0001%20-%200250/0172.py) |
 | `0190` | [Reverse Bits](https://leetcode.com/problems/reverse-bits/)                                               |  ${\color{green}Easy}$   | [code](/rubannn/Leetcode/tree/main/0001%20-%200250/0190.py) |
 | `0191` | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)                                       |  ${\color{green}Easy}$   | [code](/rubannn/Leetcode/tree/main/0001%20-%200250/0191.py) |
 | `0202` | [Happy Number](https://leetcode.com/problems/happy-number/)                                               |  ${\color{green}Easy}$   | [code](/rubannn/Leetcode/tree/main/0001%20-%200250/0202.py) |
@@ -45,8 +46,8 @@
 
 > ### 0251 - 0500
 >
-| Num    | Link and name                                                                                                     |        Difficulty        |            Code link             |
-| ------ | ----------------------------------------------------------------------------------------------------------------- | :----------------------: | :------------------------------: |
+| Num    | Link and name                                                                                                     |        Difficulty        |                          Code link                          |
+| ------ | ----------------------------------------------------------------------------------------------------------------- | :----------------------: | :---------------------------------------------------------: |
 | `0258` | [Add Digits](https://leetcode.com/problems/add-digits/)                                                           |  ${\color{green}Easy}$   | [code](/rubannn/Leetcode/tree/main/0251%20-%200500/0258.py) |
 | `0263` | [Ugly Number](https://leetcode.com/problems/ugly-number/)                                                         |  ${\color{green}Easy}$   | [code](/rubannn/Leetcode/tree/main/0251%20-%200500/0263.py) |
 | `0264` | [Ugly Number II](https://leetcode.com/problems/ugly-number-ii/)                                                   | ${\color{orange}Medium}$ | [code](/rubannn/Leetcode/tree/main/0251%20-%200500/0264.py) |
@@ -57,16 +58,16 @@
 
 > ### 0501 - 0750
 >
-| Num    | Link and name                                                                               |        Difficulty        |            Code link             |
-| ------ | ------------------------------------------------------------------------------------------- | :----------------------: | :------------------------------: |
+| Num    | Link and name                                                                               |        Difficulty        |                          Code link                          |
+| ------ | ------------------------------------------------------------------------------------------- | :----------------------: | :---------------------------------------------------------: |
 | `0518` | [Coin Change II](https://leetcode.com/problems/coin-change-ii/)                             | ${\color{orange}Medium}$ | [code](/rubannn/Leetcode/tree/main/0501%20-%200750/0518.py) |
 | `0645` | [Set Mismatch](https://leetcode.com/problems/set-mismatch/)                                 |  ${\color{green}Easy}$   | [code](/rubannn/Leetcode/tree/main/0501%20-%200750/0645.py) |
 | `0646` | [Maximum Length of Pair Chain](https://leetcode.com/problems/maximum-length-of-pair-chain/) | ${\color{orange}Medium}$ | [code](/rubannn/Leetcode/tree/main/0501%20-%200750/0646.py) |
 
 > ### 0751 - 1000
 >
-| Num    | Link and name                                                                         |        Difficulty        |            Code link             |
-| ------ | ------------------------------------------------------------------------------------- | :----------------------: | :------------------------------: |
+| Num    | Link and name                                                                         |        Difficulty        |                          Code link                          |
+| ------ | ------------------------------------------------------------------------------------- | :----------------------: | :---------------------------------------------------------: |
 | `0767` | [Reorganize String](https://leetcode.com/problems/reorganize-string/)                 | ${\color{orange}Medium}$ | [code](/rubannn/Leetcode/tree/main/0751%20-%201000/0767.py) |
 | `0836` | [Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap/)                 |  ${\color{green}Easy}$   | [code](/rubannn/Leetcode/tree/main/0751%20-%201000/0836.py) |
 | `0876` | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) |  ${\color{green}Easy}$   | [code](/rubannn/Leetcode/tree/main/0751%20-%201000/0876.py) |
@@ -74,8 +75,8 @@
 
 > ### 1001 - 2xxx
 >
-| Num    | Link and name                                                                                                                                   |        Difficulty        |            Code link             |
-| ------ | ----------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------: | :------------------------------: |
+| Num    | Link and name                                                                                                                                   |        Difficulty        |                          Code link                          |
+| ------ | ----------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------: | :---------------------------------------------------------: |
 | `1252` | [Cells with Odd Values in a Matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/)                                           |  ${\color{green}Easy}$   | [code](/rubannn/Leetcode/tree/main/1001%20-%202xxx/1252.py) |
 | `1275` | [Find Winner on a Tic Tac Toe Game](https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game/)                                           |  ${\color{green}Easy}$   | [code](/rubannn/Leetcode/tree/main/1001%20-%202xxx/1275.py) |
 | `1282` | [Group the People Given the Group Size They Belong To](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/)     | ${\color{orange}Medium}$ | [code](/rubannn/Leetcode/tree/main/1001%20-%202xxx/1282.py) |
