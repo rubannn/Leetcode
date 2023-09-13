@@ -55,6 +55,7 @@
 | `0326` | [Power of Three](https://leetcode.com/problems/power-of-three/)                                                   |  ${\color{green}Easy}$   | [code](/rubannn/Leetcode/tree/main/0251%20-%200500/0326.py) |
 | `0338` | [Counting Bits](https://leetcode.com/problems/counting-bits/)                                                     |  ${\color{green}Easy}$   | [code](/rubannn/Leetcode/tree/main/0251%20-%200500/0338.py) |
 | `0342` | [Power of Four](https://leetcode.com/problems/power-of-four/)                                                     |  ${\color{green}Easy}$   | [code](/rubannn/Leetcode/tree/main/0251%20-%200500/0342.py) |
+| `0357` | [Count Numbers with Unique Digits](https://leetcode.com/problems/count-numbers-with-unique-digits/) | ${\color{orange}Medium}$ | [code](/rubannn/Leetcode/tree/main/0251%20-%200500/0357.py) |
 | `0371` | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)                                         | ${\color{orange}Medium}$ | [code](/rubannn/Leetcode/tree/main/0251%20-%200500/0371.py) |
 | `0378` | [Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/) | ${\color{orange}Medium}$ | [code](/rubannn/Leetcode/tree/main/0251%20-%200500/0378.py) |
 | `0412` | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)                                                             |  ${\color{green}Easy}$   | [code](/rubannn/Leetcode/tree/main/0251%20-%200500/0412.py) |
