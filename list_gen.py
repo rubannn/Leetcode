@@ -1,7 +1,7 @@
 import requests
 from pathlib import Path
 
-lnk = 'https://leetcode.com/problems/count-numbers-with-unique-digits/'
+lnk = 'https://leetcode.com/problems/calculate-money-in-leetcode-bank/'
 
 
 def get_task_data(url):

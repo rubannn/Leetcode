@@ -95,6 +95,7 @@
 | `1512` | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)                                                                     |  ${\color{green}Easy}$   | [code](/rubannn/Leetcode/tree/main/1001%20-%202000/1512.py) |
 | `1647` | [Minimum Deletions to Make Character Frequencies Unique](https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/) | ${\color{orange}Medium}$ | [code](/rubannn/Leetcode/tree/main/1001%20-%202000/1647.py) |
 | `1662` | [Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)                           |  ${\color{green}Easy}$   | [code](/rubannn/Leetcode/tree/main/1001%20-%202000/1662.py) |
+| `1716` | [Calculate Money in Leetcode Bank](https://leetcode.com/problems/calculate-money-in-leetcode-bank/) | ${\color{green}Easy}$ | [code](/rubannn/Leetcode/tree/main/1001%20-%202000/1716.py) |
 | `1773` | [Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/)                                                       |  ${\color{green}Easy}$   | [code](/rubannn/Leetcode/tree/main/1001%20-%202000/1773.py) |
 
 > ### 2001 - 2xxx
