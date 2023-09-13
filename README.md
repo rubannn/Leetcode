@@ -68,6 +68,7 @@
 | `0518` | [Coin Change II](https://leetcode.com/problems/coin-change-ii/)                             | ${\color{orange}Medium}$ | [code](/rubannn/Leetcode/tree/main/0501%20-%200750/0518.py) |
 | `0645` | [Set Mismatch](https://leetcode.com/problems/set-mismatch/)                                 |  ${\color{green}Easy}$   | [code](/rubannn/Leetcode/tree/main/0501%20-%200750/0645.py) |
 | `0646` | [Maximum Length of Pair Chain](https://leetcode.com/problems/maximum-length-of-pair-chain/) | ${\color{orange}Medium}$ | [code](/rubannn/Leetcode/tree/main/0501%20-%200750/0646.py) |
+| `0728` | [Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/)               |  ${\color{green}Easy}$   | [code](/rubannn/Leetcode/tree/main/0501%20-%200750/0728.py) |
 
 > ### 0751 - 1000
 >
