@@ -55,7 +55,7 @@
 | `0326` | [Power of Three](https://leetcode.com/problems/power-of-three/)                                                   |  ${\color{green}Easy}$   | [code](/rubannn/Leetcode/tree/main/0251%20-%200500/0326.py) |
 | `0338` | [Counting Bits](https://leetcode.com/problems/counting-bits/)                                                     |  ${\color{green}Easy}$   | [code](/rubannn/Leetcode/tree/main/0251%20-%200500/0338.py) |
 | `0342` | [Power of Four](https://leetcode.com/problems/power-of-four/)                                                     |  ${\color{green}Easy}$   | [code](/rubannn/Leetcode/tree/main/0251%20-%200500/0342.py) |
-| `0357` | [Count Numbers with Unique Digits](https://leetcode.com/problems/count-numbers-with-unique-digits/) | ${\color{orange}Medium}$ | [code](/rubannn/Leetcode/tree/main/0251%20-%200500/0357.py) |
+| `0357` | [Count Numbers with Unique Digits](https://leetcode.com/problems/count-numbers-with-unique-digits/)               | ${\color{orange}Medium}$ | [code](/rubannn/Leetcode/tree/main/0251%20-%200500/0357.py) |
 | `0371` | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)                                         | ${\color{orange}Medium}$ | [code](/rubannn/Leetcode/tree/main/0251%20-%200500/0371.py) |
 | `0378` | [Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/) | ${\color{orange}Medium}$ | [code](/rubannn/Leetcode/tree/main/0251%20-%200500/0378.py) |
 | `0412` | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)                                                             |  ${\color{green}Easy}$   | [code](/rubannn/Leetcode/tree/main/0251%20-%200500/0412.py) |
@@ -84,7 +84,7 @@
 >
 | Num    | Link and name                                                                                                                                   |        Difficulty        |                          Code link                          |
 | ------ | ----------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------: | :---------------------------------------------------------: |
-| `1185` | [Day of the Week](https://leetcode.com/problems/day-of-the-week/) | ${\color{green}Easy}$ | [code](/rubannn/Leetcode/tree/main/1001%20-%202000/1185.py) |
+| `1185` | [Day of the Week](https://leetcode.com/problems/day-of-the-week/)                                                                               |  ${\color{green}Easy}$   | [code](/rubannn/Leetcode/tree/main/1001%20-%202000/1185.py) |
 | `1252` | [Cells with Odd Values in a Matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/)                                           |  ${\color{green}Easy}$   | [code](/rubannn/Leetcode/tree/main/1001%20-%202000/1252.py) |
 | `1275` | [Find Winner on a Tic Tac Toe Game](https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game/)                                           |  ${\color{green}Easy}$   | [code](/rubannn/Leetcode/tree/main/1001%20-%202000/1275.py) |
 | `1282` | [Group the People Given the Group Size They Belong To](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/)     | ${\color{orange}Medium}$ | [code](/rubannn/Leetcode/tree/main/1001%20-%202000/1282.py) |
@@ -99,15 +99,15 @@
 
 > ### 2001 - 2xxx
 >
-| Num    | Link and name                                                                                           |      Difficulty       |                          Code link                          |
-| ------ | ------------------------------------------------------------------------------------------------------- | :-------------------: | :---------------------------------------------------------: |
-| `2119` | [A Number After a Double Reversal](https://leetcode.com/problems/a-number-after-a-double-reversal/)     | ${\color{green}Easy}$ | [code](/rubannn/Leetcode/tree/main/2001%20-%202xxx/2119.py) |
-| `2235` | [Add Two Integers](https://leetcode.com/problems/add-two-integers/)                                     | ${\color{green}Easy}$ | [code](/rubannn/Leetcode/tree/main/2001%20-%202xxx/2235.py) |
-| `2319` | [Check if Matrix Is X-Matrix](https://leetcode.com/problems/check-if-matrix-is-x-matrix/)               | ${\color{green}Easy}$ | [code](/rubannn/Leetcode/tree/main/2001%20-%202xxx/2319.py) |
-| `2326` | [Spiral Matrix IV](https://leetcode.com/problems/spiral-matrix-iv/)                                     | ${\color{green}Easy}$ | [code](/rubannn/Leetcode/tree/main/2001%20-%202xxx/2326.py) |
-| `2373` | [Largest Local Values in a Matrix](https://leetcode.com/problems/largest-local-values-in-a-matrix/)     | ${\color{green}Easy}$ | [code](/rubannn/Leetcode/tree/main/2001%20-%202xxx/2373.py) |
-| `2413` | [Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple/)                         | ${\color{green}Easy}$ | [code](/rubannn/Leetcode/tree/main/2001%20-%202xxx/2413.py) |
-| `2469` | [Convert the Temperature](https://leetcode.com/problems/convert-the-temperature/)                       | ${\color{green}Easy}$ | [code](/rubannn/Leetcode/tree/main/2001%20-%202xxx/2469.py) |
-| `2679` | [Sum in a Matrix](https://leetcode.com/problems/sum-in-a-matrix/)                                       | ${\color{green}Easy}$ | [code](/rubannn/Leetcode/tree/main/2001%20-%202xxx/2679.py) |
-| `2769` | [Find the Maximum Achievable Number](https://leetcode.com/problems/find-the-maximum-achievable-number/) | ${\color{green}Easy}$ | [code](/rubannn/Leetcode/tree/main/2001%20-%202xxx/2769.py) |
+| Num    | Link and name                                                                                            |      Difficulty       |                          Code link                          |
+| ------ | -------------------------------------------------------------------------------------------------------- | :-------------------: | :---------------------------------------------------------: |
+| `2119` | [A Number After a Double Reversal](https://leetcode.com/problems/a-number-after-a-double-reversal/)      | ${\color{green}Easy}$ | [code](/rubannn/Leetcode/tree/main/2001%20-%202xxx/2119.py) |
+| `2235` | [Add Two Integers](https://leetcode.com/problems/add-two-integers/)                                      | ${\color{green}Easy}$ | [code](/rubannn/Leetcode/tree/main/2001%20-%202xxx/2235.py) |
+| `2319` | [Check if Matrix Is X-Matrix](https://leetcode.com/problems/check-if-matrix-is-x-matrix/)                | ${\color{green}Easy}$ | [code](/rubannn/Leetcode/tree/main/2001%20-%202xxx/2319.py) |
+| `2326` | [Spiral Matrix IV](https://leetcode.com/problems/spiral-matrix-iv/)                                      | ${\color{green}Easy}$ | [code](/rubannn/Leetcode/tree/main/2001%20-%202xxx/2326.py) |
+| `2373` | [Largest Local Values in a Matrix](https://leetcode.com/problems/largest-local-values-in-a-matrix/)      | ${\color{green}Easy}$ | [code](/rubannn/Leetcode/tree/main/2001%20-%202xxx/2373.py) |
+| `2413` | [Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple/)                          | ${\color{green}Easy}$ | [code](/rubannn/Leetcode/tree/main/2001%20-%202xxx/2413.py) |
+| `2469` | [Convert the Temperature](https://leetcode.com/problems/convert-the-temperature/)                        | ${\color{green}Easy}$ | [code](/rubannn/Leetcode/tree/main/2001%20-%202xxx/2469.py) |
+| `2679` | [Sum in a Matrix](https://leetcode.com/problems/sum-in-a-matrix/)                                        | ${\color{green}Easy}$ | [code](/rubannn/Leetcode/tree/main/2001%20-%202xxx/2679.py) |
+| `2769` | [Find the Maximum Achievable Number](https://leetcode.com/problems/find-the-maximum-achievable-number/)  | ${\color{green}Easy}$ | [code](/rubannn/Leetcode/tree/main/2001%20-%202xxx/2769.py) |
 | `2778` | [Sum of Squares of Special Elements ](https://leetcode.com/problems/sum-of-squares-of-special-elements/) | ${\color{green}Easy}$ | [code](/rubannn/Leetcode/tree/main/2001%20-%202xxx/2778.py) |
