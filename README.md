@@ -83,6 +83,7 @@
 >
 | Num    | Link and name                                                                                                                                   |        Difficulty        |                          Code link                          |
 | ------ | ----------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------: | :---------------------------------------------------------: |
+| `1185` | [Day of the Week](https://leetcode.com/problems/day-of-the-week/) | ${\color{green}Easy}$ | [code](/rubannn/Leetcode/tree/main/1001%20-%202000/1185.py) |
 | `1252` | [Cells with Odd Values in a Matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/)                                           |  ${\color{green}Easy}$   | [code](/rubannn/Leetcode/tree/main/1001%20-%202000/1252.py) |
 | `1275` | [Find Winner on a Tic Tac Toe Game](https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game/)                                           |  ${\color{green}Easy}$   | [code](/rubannn/Leetcode/tree/main/1001%20-%202000/1275.py) |
 | `1282` | [Group the People Given the Group Size They Belong To](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/)     | ${\color{orange}Medium}$ | [code](/rubannn/Leetcode/tree/main/1001%20-%202000/1282.py) |
