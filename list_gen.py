@@ -30,7 +30,7 @@ color = {'Easy': 'green', 'Medium': 'orange', 'Hard': 'red'}
 folder = ['0001 - 0250', '0251 - 0500', '0751 - 1000', '1001 - 2000', '2001 - 2xxx']
 task = get_task_data(lnk)
 tid = int(task['id'])
-hard = f"${{\color{{{color[task['difficulty']]}}}{task['difficulty']}}}$"
+hard = f"${{\\color{{{color[task['difficulty']]}}}{task['difficulty']}}}$"
 
 for fld in folder:
     left, right = [tryint(x.strip()) for x in fld.split('-')]
