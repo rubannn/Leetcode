@@ -99,6 +99,7 @@
 >
 | Num    | Link and name                                                                                           |      Difficulty       |                          Code link                          |
 | ------ | ------------------------------------------------------------------------------------------------------- | :-------------------: | :---------------------------------------------------------: |
+| `2119` | [A Number After a Double Reversal](https://leetcode.com/problems/a-number-after-a-double-reversal/)     | ${\color{green}Easy}$ | [code](/rubannn/Leetcode/tree/main/2001%20-%202xxx/2119.py) |
 | `2235` | [Add Two Integers](https://leetcode.com/problems/add-two-integers/)                                     | ${\color{green}Easy}$ | [code](/rubannn/Leetcode/tree/main/2001%20-%202xxx/2235.py) |
 | `2319` | [Check if Matrix Is X-Matrix](https://leetcode.com/problems/check-if-matrix-is-x-matrix/)               | ${\color{green}Easy}$ | [code](/rubannn/Leetcode/tree/main/2001%20-%202xxx/2319.py) |
 | `2326` | [Spiral Matrix IV](https://leetcode.com/problems/spiral-matrix-iv/)                                     | ${\color{green}Easy}$ | [code](/rubannn/Leetcode/tree/main/2001%20-%202xxx/2326.py) |
