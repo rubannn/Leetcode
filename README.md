@@ -55,7 +55,7 @@
 | `0326` | [Power of Three](https://leetcode.com/problems/power-of-three/)                                                   |  ${\color{green}Easy}$   | [code](/rubannn/Leetcode/tree/main/0251%20-%200500/0326.py) |
 | `0338` | [Counting Bits](https://leetcode.com/problems/counting-bits/)                                                     |  ${\color{green}Easy}$   | [code](/rubannn/Leetcode/tree/main/0251%20-%200500/0338.py) |
 | `0342` | [Power of Four](https://leetcode.com/problems/power-of-four/)                                                     |  ${\color{green}Easy}$   | [code](/rubannn/Leetcode/tree/main/0251%20-%200500/0342.py) |
-| `0371` | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) | ${\color{orange}Medium}$ | [code](/rubannn/Leetcode/tree/main/0251%20-%200500/0371.py) |
+| `0371` | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)                                         | ${\color{orange}Medium}$ | [code](/rubannn/Leetcode/tree/main/0251%20-%200500/0371.py) |
 | `0378` | [Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/) | ${\color{orange}Medium}$ | [code](/rubannn/Leetcode/tree/main/0251%20-%200500/0378.py) |
 | `0412` | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)                                                             |  ${\color{green}Easy}$   | [code](/rubannn/Leetcode/tree/main/0251%20-%200500/0412.py) |
 | `0459` | [Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/)                           |  ${\color{green}Easy}$   | [code](/rubannn/Leetcode/tree/main/0251%20-%200500/0459.py) |
@@ -64,7 +64,7 @@
 >
 | Num    | Link and name                                                                               |        Difficulty        |                          Code link                          |
 | ------ | ------------------------------------------------------------------------------------------- | :----------------------: | :---------------------------------------------------------: |
-| `0504` | [Base 7](https://leetcode.com/problems/base-7/)                             | ${\color{green}Easy}$ | [code](/rubannn/Leetcode/tree/main/0501%20-%200750/0504.py) |
+| `0504` | [Base 7](https://leetcode.com/problems/base-7/)                                             |  ${\color{green}Easy}$   | [code](/rubannn/Leetcode/tree/main/0501%20-%200750/0504.py) |
 | `0518` | [Coin Change II](https://leetcode.com/problems/coin-change-ii/)                             | ${\color{orange}Medium}$ | [code](/rubannn/Leetcode/tree/main/0501%20-%200750/0518.py) |
 | `0645` | [Set Mismatch](https://leetcode.com/problems/set-mismatch/)                                 |  ${\color{green}Easy}$   | [code](/rubannn/Leetcode/tree/main/0501%20-%200750/0645.py) |
 | `0646` | [Maximum Length of Pair Chain](https://leetcode.com/problems/maximum-length-of-pair-chain/) | ${\color{orange}Medium}$ | [code](/rubannn/Leetcode/tree/main/0501%20-%200750/0646.py) |
@@ -95,5 +95,5 @@
 | `2319` | [Check if Matrix Is X-Matrix](https://leetcode.com/problems/check-if-matrix-is-x-matrix/)                                                       |  ${\color{green}Easy}$   | [code](/rubannn/Leetcode/tree/main/1001%20-%202xxx/2319.py) |
 | `2326` | [Spiral Matrix IV](https://leetcode.com/problems/spiral-matrix-iv/)                                                                             |  ${\color{green}Easy}$   | [code](/rubannn/Leetcode/tree/main/1001%20-%202xxx/2326.py) |
 | `2373` | [Largest Local Values in a Matrix](https://leetcode.com/problems/largest-local-values-in-a-matrix/)                                             |  ${\color{green}Easy}$   | [code](/rubannn/Leetcode/tree/main/1001%20-%202xxx/2373.py) |
-| `2469` | [Convert the Temperature](https://leetcode.com/problems/convert-the-temperature/)                                                                               |  ${\color{green}Easy}$   | [code](/rubannn/Leetcode/tree/main/1001%20-%202xxx/2469.py) |
+| `2469` | [Convert the Temperature](https://leetcode.com/problems/convert-the-temperature/)                                                               |  ${\color{green}Easy}$   | [code](/rubannn/Leetcode/tree/main/1001%20-%202xxx/2469.py) |
 | `2679` | [Sum in a Matrix](https://leetcode.com/problems/sum-in-a-matrix/)                                                                               |  ${\color{green}Easy}$   | [code](/rubannn/Leetcode/tree/main/1001%20-%202xxx/2679.py) |
