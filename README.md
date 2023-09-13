@@ -41,7 +41,7 @@
 | `0215` | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)         | ${\color{orange}Medium}$ | [code](/rubannn/Leetcode/tree/main/0001%20-%200250/0215.py) |
 | `0223` | [Rectangle Area](https://leetcode.com/problems/rectangle-area/)                                           | ${\color{orange}Medium}$ | [code](/rubannn/Leetcode/tree/main/0001%20-%200250/0223.py) |
 | `0225` | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)               |  ${\color{green}Easy}$   | [code](/rubannn/Leetcode/tree/main/0001%20-%200250/0225.py) |
-| `0231` | [Power of Two](https://leetcode.com/problems/power-of-two/)                           |  ${\color{green}Easy}$   | [code](/rubannn/Leetcode/tree/main/0001%20-%200250/0231.py) |
+| `0231` | [Power of Two](https://leetcode.com/problems/power-of-two/)                                               |  ${\color{green}Easy}$   | [code](/rubannn/Leetcode/tree/main/0001%20-%200250/0231.py) |
 | `0234` | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)                           |  ${\color{green}Easy}$   | [code](/rubannn/Leetcode/tree/main/0001%20-%200250/0234.py) |
 | `0242` | [Valid Anagram](https://leetcode.com/problems/valid-anagram/)                                             |  ${\color{green}Easy}$   | [code](/rubannn/Leetcode/tree/main/0001%20-%200250/0242.py) |
 
@@ -52,9 +52,9 @@
 | `0258` | [Add Digits](https://leetcode.com/problems/add-digits/)                                                           |  ${\color{green}Easy}$   | [code](/rubannn/Leetcode/tree/main/0251%20-%200500/0258.py) |
 | `0263` | [Ugly Number](https://leetcode.com/problems/ugly-number/)                                                         |  ${\color{green}Easy}$   | [code](/rubannn/Leetcode/tree/main/0251%20-%200500/0263.py) |
 | `0264` | [Ugly Number II](https://leetcode.com/problems/ugly-number-ii/)                                                   | ${\color{orange}Medium}$ | [code](/rubannn/Leetcode/tree/main/0251%20-%200500/0264.py) |
-| `0326` | [Power of Three](https://leetcode.com/problems/power-of-three/)                                                   | ${\color{orange}Easy}$ | [code](/rubannn/Leetcode/tree/main/0251%20-%200500/0326.py) |
+| `0326` | [Power of Three](https://leetcode.com/problems/power-of-three/)                                                   |  ${\color{green}Easy}$   | [code](/rubannn/Leetcode/tree/main/0251%20-%200500/0326.py) |
 | `0338` | [Counting Bits](https://leetcode.com/problems/counting-bits/)                                                     |  ${\color{green}Easy}$   | [code](/rubannn/Leetcode/tree/main/0251%20-%200500/0338.py) |
-| `0342` | [Power of Four](https://leetcode.com/problems/power-of-four/)                                                   | ${\color{orange}Easy}$ | [code](/rubannn/Leetcode/tree/main/0251%20-%200500/0342.py) |
+| `0342` | [Power of Four](https://leetcode.com/problems/power-of-four/)                                                     |  ${\color{green}Easy}$   | [code](/rubannn/Leetcode/tree/main/0251%20-%200500/0342.py) |
 | `0378` | [Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/) | ${\color{orange}Medium}$ | [code](/rubannn/Leetcode/tree/main/0251%20-%200500/0378.py) |
 | `0412` | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)                                                             |  ${\color{green}Easy}$   | [code](/rubannn/Leetcode/tree/main/0251%20-%200500/0412.py) |
 | `0459` | [Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/)                           |  ${\color{green}Easy}$   | [code](/rubannn/Leetcode/tree/main/0251%20-%200500/0459.py) |
