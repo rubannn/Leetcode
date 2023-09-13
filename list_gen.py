@@ -1,7 +1,7 @@
 import requests
 from pathlib import Path
 
-lnk = 'https://leetcode.com/problems/a-number-after-a-double-reversal/'
+lnk = 'https://leetcode.com/problems/sum-of-squares-of-special-elements/'
 
 
 def get_task_data(url):
