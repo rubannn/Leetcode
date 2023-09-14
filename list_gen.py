@@ -45,13 +45,6 @@ mask = f"| `{tid:04d}` | [{task['title']}]({lnk}) | {hard} | [code]({codelink}) 
 with open(Path("README.md"), "r") as f:
     content = f.readlines()
 
-solved = {'Easy': 0, 'Medium': 0, 'Hard': 0, 'Total': 0}
-for c in content:
-    for kind in solved.keys():
-        if f"{kind}}}$" in c:
-            solved[kind] += 1
-            solved['Total'] += 1
-
 newcontent = []
 can_write = True
 for c in content:
@@ -70,5 +63,19 @@ if can_write:
 
 print(task)
 Path("README.md").write_text(''.join(newcontent))
+
+with open(Path("README.md"), "r") as f:
+    content = f.readlines()
+
+solved = {'Easy': -1, 'Medium': -1, 'Hard': -1}
+for c in content:
+    for kind in solved.keys():
+        if f"{kind}}}$" in c:
+            solved[kind] += 1
+
+solved['Total'] = sum(solved.values())
+content[4] = f"| {solved['Easy']} | {solved['Medium']} | {solved['Hard']} |"
+
+Path("README.md").write_text(''.join(content))
 
 print(solved)

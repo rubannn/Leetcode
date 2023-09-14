@@ -2,8 +2,7 @@
 
 | ${\color{green}Easy}$ | ${\color{orange}Medium}$ | ${\color{red}Hard}$ |
 | :-------------------: | :----------------------: | :-----------------: |
-|           0           |            0             |          0          |
-
+|          52           |            29            |          4          |
 > ### 0001 - 0250
 >
 | Num    | Link and name                                                                                             |        Difficulty        |                          Code link                          |
