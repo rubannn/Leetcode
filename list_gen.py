@@ -74,7 +74,7 @@ for c in content:
             solved[kind] += 1
 
 solved['Total'] = sum(solved.values())
-content[4] = f"| {solved['Easy']} | {solved['Medium']} | {solved['Hard']} |"
+content[4] = f"| **{solved['Easy']}** | **{solved['Medium']}** | **{solved['Hard']}** |\n"
 
 Path("README.md").write_text(''.join(content))
 
