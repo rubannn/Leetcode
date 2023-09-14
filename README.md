@@ -1,5 +1,9 @@
 # Leetcode solutions
 
+| ${\color{green}Easy}$ | ${\color{orange}Medium}$ | ${\color{red}Hard}$ |
+| :-------------------: | :----------------------: | :-----------------: |
+|           0           |            0             |          0          |
+
 > ### 0001 - 0250
 >
 | Num    | Link and name                                                                                             |        Difficulty        |                          Code link                          |
@@ -21,6 +25,7 @@
 | `0059` | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)                                       | ${\color{orange}Medium}$ | [code](/rubannn/Leetcode/tree/main/0001%20-%200250/0059.py) |
 | `0062` | [Unique Paths](https://leetcode.com/problems/unique-paths/)                                               | ${\color{orange}Medium}$ | [code](/rubannn/Leetcode/tree/main/0001%20-%200250/0062.py) |
 | `0063` | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)                                         | ${\color{orange}Medium}$ | [code](/rubannn/Leetcode/tree/main/0001%20-%200250/0063.py) |
+| `0065` | [Valid Number](https://leetcode.com/problems/valid-number/)                                               |   ${\color{red}Hard}$    | [code](/rubannn/Leetcode/tree/main/0001%20-%200250/0065.py) |
 | `0067` | [Add Binary](https://leetcode.com/problems/add-binary/)                                                   |  ${\color{green}Easy}$   | [code](/rubannn/Leetcode/tree/main/0001%20-%200250/0067.py) |
 | `0068` | [Text Justification](https://leetcode.com/problems/text-justification/)                                   |   ${\color{red}Hard}$    | [code](/rubannn/Leetcode/tree/main/0001%20-%200250/0068.py) |
 | `0070` | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)                                         |  ${\color{green}Easy}$   | [code](/rubannn/Leetcode/tree/main/0001%20-%200250/0070.py) |
@@ -52,6 +57,7 @@
 | `0258` | [Add Digits](https://leetcode.com/problems/add-digits/)                                                           |  ${\color{green}Easy}$   | [code](/rubannn/Leetcode/tree/main/0251%20-%200500/0258.py) |
 | `0263` | [Ugly Number](https://leetcode.com/problems/ugly-number/)                                                         |  ${\color{green}Easy}$   | [code](/rubannn/Leetcode/tree/main/0251%20-%200500/0263.py) |
 | `0264` | [Ugly Number II](https://leetcode.com/problems/ugly-number-ii/)                                                   | ${\color{orange}Medium}$ | [code](/rubannn/Leetcode/tree/main/0251%20-%200500/0264.py) |
+| `0273` | [Integer to English Words](https://leetcode.com/problems/integer-to-english-words/)                               |   ${\color{red}Hard}$    | [code](/rubannn/Leetcode/tree/main/0251%20-%200500/0273.py) |
 | `0326` | [Power of Three](https://leetcode.com/problems/power-of-three/)                                                   |  ${\color{green}Easy}$   | [code](/rubannn/Leetcode/tree/main/0251%20-%200500/0326.py) |
 | `0338` | [Counting Bits](https://leetcode.com/problems/counting-bits/)                                                     |  ${\color{green}Easy}$   | [code](/rubannn/Leetcode/tree/main/0251%20-%200500/0338.py) |
 | `0342` | [Power of Four](https://leetcode.com/problems/power-of-four/)                                                     |  ${\color{green}Easy}$   | [code](/rubannn/Leetcode/tree/main/0251%20-%200500/0342.py) |
@@ -95,7 +101,7 @@
 | `1512` | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)                                                                     |  ${\color{green}Easy}$   | [code](/rubannn/Leetcode/tree/main/1001%20-%202000/1512.py) |
 | `1647` | [Minimum Deletions to Make Character Frequencies Unique](https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/) | ${\color{orange}Medium}$ | [code](/rubannn/Leetcode/tree/main/1001%20-%202000/1647.py) |
 | `1662` | [Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)                           |  ${\color{green}Easy}$   | [code](/rubannn/Leetcode/tree/main/1001%20-%202000/1662.py) |
-| `1716` | [Calculate Money in Leetcode Bank](https://leetcode.com/problems/calculate-money-in-leetcode-bank/) | ${\color{green}Easy}$ | [code](/rubannn/Leetcode/tree/main/1001%20-%202000/1716.py) |
+| `1716` | [Calculate Money in Leetcode Bank](https://leetcode.com/problems/calculate-money-in-leetcode-bank/)                                             |  ${\color{green}Easy}$   | [code](/rubannn/Leetcode/tree/main/1001%20-%202000/1716.py) |
 | `1773` | [Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/)                                                       |  ${\color{green}Easy}$   | [code](/rubannn/Leetcode/tree/main/1001%20-%202000/1773.py) |
 
 > ### 2001 - 2xxx

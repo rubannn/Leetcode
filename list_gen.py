@@ -1,7 +1,7 @@
 import requests
 from pathlib import Path
 
-lnk = 'https://leetcode.com/problems/calculate-money-in-leetcode-bank/'
+lnk = 'https://leetcode.com/problems/integer-to-english-words/'
 
 
 def get_task_data(url):
@@ -29,6 +29,7 @@ def tryint(t):
 color = {'Easy': 'green', 'Medium': 'orange', 'Hard': 'red'}
 folder = ['0001 - 0250', '0251 - 0500', '0751 - 1000',
           '1001 - 2000', '2001 - 2xxx']
+
 task = get_task_data(lnk)
 tid = int(task['id'])
 hard = f"${{\\color{{{color[task['difficulty']]}}}{task['difficulty']}}}$"
@@ -44,6 +45,12 @@ mask = f"| `{tid:04d}` | [{task['title']}]({lnk}) | {hard} | [code]({codelink}) 
 with open(Path("README.md"), "r") as f:
     content = f.readlines()
 
+solved = {'Easy': 0, 'Medium': 0, 'Hard': 0, 'Total': 0}
+for c in content:
+    for kind in solved.keys():
+        if f"{kind}}}$" in c:
+            solved[kind] += 1
+            solved['Total'] += 1
 
 newcontent = []
 can_write = True
@@ -63,3 +70,5 @@ if can_write:
 
 print(task)
 Path("README.md").write_text(''.join(newcontent))
+
+print(solved)
