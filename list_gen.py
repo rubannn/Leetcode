@@ -1,7 +1,7 @@
 import requests
 from pathlib import Path
 
-lnk = 'https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/'
+lnk = 'https://leetcode.com/problems/combinations/'
 
 
 def get_task_data(url):

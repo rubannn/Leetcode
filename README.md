@@ -2,7 +2,7 @@
 
 | ${\color{green}Easy}$ | ${\color{orange}Medium}$ | ${\color{red}Hard}$ |
 | :-------------------: | :----------------------: | :-----------------: |
-|        **52**         |          **36**          |        **4**        |
+|        **52**         |          **42**          |        **4**        |
 
 > ### 0001 - 0250   |
 >
@@ -31,15 +31,18 @@
 | `0068` | [Text Justification](https://leetcode.com/problems/text-justification/)                                   |   ${\color{red}Hard}$    | [code](/rubannn/Leetcode/tree/main/0001%20-%200250/0068.py)  |
 | `0070` | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)                                         |  ${\color{green}Easy}$   | [code](/rubannn/Leetcode/tree/main/0001%20-%200250/0070.py)  |
 | `0074` | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)                                   | ${\color{orange}Medium}$ | [code](/rubannn/Leetcode/tree/main/0001%20-%200250/0074.py)  |
+| `0077` | [Combinations](https://leetcode.com/problems/combinations/)                                               | ${\color{orange}Medium}$ | [code](/rubannn/Leetcode/tree/main/0001%20-%200250/0077.py)  |
 | `0081` | [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)     | ${\color{orange}Medium}$ | [code](/rubannn/Leetcode/tree/main/0001%20-%200250/0081.py)  |
 | `0083` | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)   |  ${\color{green}Easy}$   | [code](/rubannn/Leetcode/tree/main/0001%20-%200250/0083.py)  |
 | `0125` | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)                                       |  ${\color{green}Easy}$   | [code](/rubannn/Leetcode/tree/main/0001%20-%200250/0125.py)  |
+| `0137` | [Single Number II](https://leetcode.com/problems/single-number-ii/)                                       | ${\color{orange}Medium}$ | [code](/rubannn/Leetcode/tree/main/0001%20-%200250/0137.py)  |
 | `0139` | [Word Break](https://leetcode.com/problems/word-break/)                                                   | ${\color{orange}Medium}$ | [code](/rubannn/Leetcode/tree/main/0001%20-%200250/0139.py)  |
 | `0141` | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)                                     |  ${\color{green}Easy}$   | [code](/rubannn/Leetcode/tree/main/0001%20-%200250/0141.py)  |
 | `0160` | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)       |  ${\color{green}Easy}$   | [code](/rubannn/Leetcode/tree/main/0001%20-%200250/0160.py)  |
 | `0168` | [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)                       |  ${\color{green}Easy}$   | [code](/rubannn/Leetcode/tree/main/0001%20-%200250/0168.py)  |
 | `0172` | [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/)                     | ${\color{orange}Medium}$ | [code](/rubannn/Leetcode/tree/main/0001%20-%200250/0172.py)  |
 | `0176` | [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/)                             | ${\color{orange}Medium}$ | [code](/rubannn/Leetcode/tree/main/0001%20-%200250/0176.sql) |
+| `0179` | [Largest Number](https://leetcode.com/problems/largest-number/)                                           | ${\color{orange}Medium}$ | [code](/rubannn/Leetcode/tree/main/0001%20-%200250/0179.py)  |
 | `0190` | [Reverse Bits](https://leetcode.com/problems/reverse-bits/)                                               |  ${\color{green}Easy}$   | [code](/rubannn/Leetcode/tree/main/0001%20-%200250/0190.py)  |
 | `0191` | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)                                       |  ${\color{green}Easy}$   | [code](/rubannn/Leetcode/tree/main/0001%20-%200250/0191.py)  |
 | `0202` | [Happy Number](https://leetcode.com/problems/happy-number/)                                               |  ${\color{green}Easy}$   | [code](/rubannn/Leetcode/tree/main/0001%20-%200250/0202.py)  |
@@ -57,6 +60,7 @@
 | Num    | Link and name                                                                                                     |        Difficulty        |                          Code link                          |
 | ------ | ----------------------------------------------------------------------------------------------------------------- | :----------------------: | :---------------------------------------------------------: |
 | `0258` | [Add Digits](https://leetcode.com/problems/add-digits/)                                                           |  ${\color{green}Easy}$   | [code](/rubannn/Leetcode/tree/main/0251%20-%200500/0258.py) |
+| `0260` | [Single Number III](https://leetcode.com/problems/single-number-iii/)                                             | ${\color{orange}Medium}$ | [code](/rubannn/Leetcode/tree/main/0251%20-%200500/0260.py) |
 | `0263` | [Ugly Number](https://leetcode.com/problems/ugly-number/)                                                         |  ${\color{green}Easy}$   | [code](/rubannn/Leetcode/tree/main/0251%20-%200500/0263.py) |
 | `0264` | [Ugly Number II](https://leetcode.com/problems/ugly-number-ii/)                                                   | ${\color{orange}Medium}$ | [code](/rubannn/Leetcode/tree/main/0251%20-%200500/0264.py) |
 | `0273` | [Integer to English Words](https://leetcode.com/problems/integer-to-english-words/)                               |   ${\color{red}Hard}$    | [code](/rubannn/Leetcode/tree/main/0251%20-%200500/0273.py) |
@@ -67,6 +71,7 @@
 | `0371` | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)                                         | ${\color{orange}Medium}$ | [code](/rubannn/Leetcode/tree/main/0251%20-%200500/0371.py) |
 | `0378` | [Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/) | ${\color{orange}Medium}$ | [code](/rubannn/Leetcode/tree/main/0251%20-%200500/0378.py) |
 | `0412` | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)                                                             |  ${\color{green}Easy}$   | [code](/rubannn/Leetcode/tree/main/0251%20-%200500/0412.py) |
+| `0445` | [Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/)                                           | ${\color{orange}Medium}$ | [code](/rubannn/Leetcode/tree/main/0251%20-%200500/0445.py) |
 | `0459` | [Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/)                           |  ${\color{green}Easy}$   | [code](/rubannn/Leetcode/tree/main/0251%20-%200500/0459.py) |
 
 > ### 0501 - 0750
@@ -82,12 +87,13 @@
 
 > ### 0751 - 1000
 >
-| Num    | Link and name                                                                         |        Difficulty        |                          Code link                          |
-| ------ | ------------------------------------------------------------------------------------- | :----------------------: | :---------------------------------------------------------: |
-| `0767` | [Reorganize String](https://leetcode.com/problems/reorganize-string/)                 | ${\color{orange}Medium}$ | [code](/rubannn/Leetcode/tree/main/0751%20-%201000/0767.py) |
-| `0836` | [Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap/)                 |  ${\color{green}Easy}$   | [code](/rubannn/Leetcode/tree/main/0751%20-%201000/0836.py) |
-| `0876` | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) |  ${\color{green}Easy}$   | [code](/rubannn/Leetcode/tree/main/0751%20-%201000/0876.py) |
-| `0885` | [Spiral Matrix III](https://leetcode.com/problems/spiral-matrix-iii/)                 | ${\color{orange}Medium}$ | [code](/rubannn/Leetcode/tree/main/0751%20-%201000/0885.py) |
+| Num    | Link and name                                                                                   |        Difficulty        |                          Code link                          |
+| ------ | ----------------------------------------------------------------------------------------------- | :----------------------: | :---------------------------------------------------------: |
+| `0767` | [Reorganize String](https://leetcode.com/problems/reorganize-string/)                           | ${\color{orange}Medium}$ | [code](/rubannn/Leetcode/tree/main/0751%20-%201000/0767.py) |
+| `0836` | [Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap/)                           |  ${\color{green}Easy}$   | [code](/rubannn/Leetcode/tree/main/0751%20-%201000/0836.py) |
+| `0852` | [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/) | ${\color{orange}Medium}$ | [code](/rubannn/Leetcode/tree/main/0751%20-%201000/0852.py) |
+| `0876` | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)           |  ${\color{green}Easy}$   | [code](/rubannn/Leetcode/tree/main/0751%20-%201000/0876.py) |
+| `0885` | [Spiral Matrix III](https://leetcode.com/problems/spiral-matrix-iii/)                           | ${\color{orange}Medium}$ | [code](/rubannn/Leetcode/tree/main/0751%20-%201000/0885.py) |
 
 > ### 1001 - 2000
 >
