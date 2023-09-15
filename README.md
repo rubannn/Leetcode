@@ -2,7 +2,7 @@
 
 | ${\color{green}Easy}$ | ${\color{orange}Medium}$ | ${\color{red}Hard}$ |
 | :-------------------: | :----------------------: | :-----------------: |
-|        **52**         |          **34**          |        **4**        |
+| **52** | **35** | **4** |
 
 > ### 0001 - 0250   |
 >
@@ -94,6 +94,7 @@
 | Num    | Link and name                                                                                                                                   |        Difficulty        |                          Code link                           |
 | ------ | ----------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------: | :----------------------------------------------------------: |
 | `0985` | [Sum of Even Numbers After Queries](https://leetcode.com/problems/sum-of-even-numbers-after-queries/)                                           | ${\color{orange}Medium}$ | [code](/rubannn/Leetcode/tree/main/0751%20-%201000/0985.py)  |
+| `1158` | [Market Analysis I](https://leetcode.com/problems/market-analysis-i/) | ${\color{orange}Medium}$ | [code](/rubannn/Leetcode/tree/main/1001%20-%202000/1158.sql) |
 | `1185` | [Day of the Week](https://leetcode.com/problems/day-of-the-week/)                                                                               |  ${\color{green}Easy}$   | [code](/rubannn/Leetcode/tree/main/1001%20-%202000/1185.py)  |
 | `1252` | [Cells with Odd Values in a Matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/)                                           |  ${\color{green}Easy}$   | [code](/rubannn/Leetcode/tree/main/1001%20-%202000/1252.py)  |
 | `1275` | [Find Winner on a Tic Tac Toe Game](https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game/)                                           |  ${\color{green}Easy}$   | [code](/rubannn/Leetcode/tree/main/1001%20-%202000/1275.py)  |
