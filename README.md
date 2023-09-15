@@ -2,7 +2,7 @@
 
 | ${\color{green}Easy}$ | ${\color{orange}Medium}$ | ${\color{red}Hard}$ |
 | :-------------------: | :----------------------: | :-----------------: |
-|        **52**         |          **33**          |        **4**        |
+| **52** | **34** | **4** |
 
 > ### 0001 - 0250   |
 >
@@ -102,6 +102,7 @@
 | `1314` | [Matrix Block Sum](https://leetcode.com/problems/matrix-block-sum/)                                                                             | ${\color{orange}Medium}$ | [code](/rubannn/Leetcode/tree/main/1001%20-%202000/1314.py) |
 | `1337` | [The K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/)                                                 |  ${\color{green}Easy}$   | [code](/rubannn/Leetcode/tree/main/1001%20-%202000/1337.py) |
 | `1351` | [Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/)                           |  ${\color{green}Easy}$   | [code](/rubannn/Leetcode/tree/main/1001%20-%202000/1351.py) |
+| `1393` | [Capital Gain/Loss](https://leetcode.com/problems/capital-gainloss/) | ${\color{orange}Medium}$ | [code](/rubannn/Leetcode/tree/main/1001%20-%202000/1393.sql) |
 | `1512` | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)                                                                     |  ${\color{green}Easy}$   | [code](/rubannn/Leetcode/tree/main/1001%20-%202000/1512.py) |
 | `1647` | [Minimum Deletions to Make Character Frequencies Unique](https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/) | ${\color{orange}Medium}$ | [code](/rubannn/Leetcode/tree/main/1001%20-%202000/1647.py) |
 | `1662` | [Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)                           |  ${\color{green}Easy}$   | [code](/rubannn/Leetcode/tree/main/1001%20-%202000/1662.py) |

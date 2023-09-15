@@ -1,7 +1,7 @@
 import requests
 from pathlib import Path
 
-lnk = 'https://leetcode.com/problems/sum-of-even-numbers-after-queries/'
+lnk = 'https://leetcode.com/problems/capital-gainloss/'
 
 
 def get_task_data(url):
@@ -9,7 +9,7 @@ def get_task_data(url):
     posturl = 'https://leetcode.com/graphql'
     data = {"operationName": "questionData",
             "variables": {"titleSlug": titleSlug},
-            "query": "query questionData($titleSlug: String!) {\n question(titleSlug: $titleSlug) {\n questionFrontendId\n title\n difficulty\n}\n}\n"}
+            "query": "query questionData($titleSlug: String!) {\n question(titleSlug: $titleSlug) {\n questionFrontendId\n title\n difficulty\n codeSnippets {\n      lang\n      langSlug\n      code\n      __typename\n    } \n}\n}\n"}
 
     # data = {"operationName":"questionData","variables":{"titleSlug":titleSlug},"query":"query questionData($titleSlug: String!){\n  question(titleSlug: $titleSlug) {\n    questionId\n    questionFrontendId\n    boundTopicId\n    title\n    titleSlug\n   translatedTitle\n    translatedContent\n    isPaidOnly\n    difficulty\n                        likes\n    dislikes\n    isLiked\n    contributors {\n      username\n      profileUrl\n      avatarUrl\n      __typename\n    }\n  langToValidPlayground\n  topicTags {\n      name\n      slug\n      translatedName\n      __typename\n    }\n companyTagStats\n  codeSnippets {\n      lang\n      langSlug\n      code\n      __typename\n    }\n  stats\n    hints\n                            judgerAvailable\n    judgeType\n  mysqlSchemas\n    enableRunCode\n    enableTestMode\n    libraryUrl\n    __typename\n  }\n}\n"}
 
@@ -17,7 +17,12 @@ def get_task_data(url):
     id = r['questionFrontendId']
     title = r['title']
     difficulty = r['difficulty']
-    return {'id': id, 'title': title, 'difficulty': difficulty}
+    codelangs = [langinfo['lang'] for langinfo in r['codeSnippets']]
+    extention = '.sql' if any(['SQL' in c for c in codelangs]) else '.py'
+    return {'id': id,
+            'title': title,
+            'difficulty': difficulty,
+            'file_ext': extention}
 
 
 def tryint(t):
@@ -34,6 +39,8 @@ folder = ['0001 - 0250', '0251 - 0500', '0501 - 0750',
 
 task = get_task_data(lnk)
 tid = int(task['id'])
+title = task['title']
+ext = task['file_ext']
 hard = f"${{\\color{{{color[task['difficulty']]}}}{task['difficulty']}}}$"
 
 for fld in folder:
@@ -42,8 +49,8 @@ for fld in folder:
         foldername = fld
         code = fld.replace(' ', '%20')
 
-codelink = f"/rubannn/Leetcode/tree/main/{code}/{tid:04d}.py"
-mask = f"| `{tid:04d}` | [{task['title']}]({lnk}) | {hard} | [code]({codelink}) |\n"
+codelink = f"/rubannn/Leetcode/tree/main/{code}/{tid:04d}{ext}"
+mask = f"| `{tid:04d}` | [{title}]({lnk}) | {hard} | [code]({codelink}) |\n"
 
 with open(Path("README.md"), "r") as f:
     content = f.readlines()
@@ -58,14 +65,13 @@ for c in content:
             can_write = False
         elif tid < cid and can_write:
             newcontent.append(mask)
-            Path(f"{foldername}/{tid:04d}.py").write_text('')
+            Path(f"{foldername}/{tid:04d}{ext}").write_text('')
             can_write = False
     newcontent.append(c)
 
 if can_write:
     newcontent.append(mask)
 
-print(task)
 Path("README.md").write_text(''.join(newcontent))
 
 with open(Path("README.md"), "r") as f:
@@ -82,4 +88,4 @@ content[4] = f"| **{solved['Easy']}** | **{solved['Medium']}** | **{solved['Hard
 
 Path("README.md").write_text(''.join(content))
 
-print(solved)
+print(task, solved, sep='\n')
