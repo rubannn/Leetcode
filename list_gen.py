@@ -1,7 +1,7 @@
 import requests
 from pathlib import Path
 
-lnk = 'https://leetcode.com/problems/second-highest-salary/'
+lnk = 'https://leetcode.com/problems/tree-node/'
 
 
 def get_task_data(url):
@@ -11,7 +11,11 @@ def get_task_data(url):
             "variables": {"titleSlug": titleSlug},
             "query": "query questionData($titleSlug: String!) {\n question(titleSlug: $titleSlug) {\n questionFrontendId\n title\n difficulty\n}\n}\n"}
 
+    # data = {"operationName":"questionData","variables":{"titleSlug":titleSlug},"query":"query questionData($titleSlug: String!){\n  question(titleSlug: $titleSlug) {\n    questionId\n    questionFrontendId\n    boundTopicId\n    title\n    titleSlug\n   translatedTitle\n    translatedContent\n    isPaidOnly\n    difficulty\n                        likes\n    dislikes\n    isLiked\n    contributors {\n      username\n      profileUrl\n      avatarUrl\n      __typename\n    }\n  langToValidPlayground\n  topicTags {\n      name\n      slug\n      translatedName\n      __typename\n    }\n companyTagStats\n  codeSnippets {\n      lang\n      langSlug\n      code\n      __typename\n    }\n  stats\n    hints\n                            judgerAvailable\n    judgeType\n  mysqlSchemas\n    enableRunCode\n    enableTestMode\n    libraryUrl\n    __typename\n  }\n}\n"}
+
+
     r = requests.post(posturl, json=data).json()['data']['question']
+    print(r)
     id = r['questionFrontendId']
     title = r['title']
     difficulty = r['difficulty']
@@ -27,8 +31,8 @@ def tryint(t):
 
 
 color = {'Easy': 'green', 'Medium': 'orange', 'Hard': 'red'}
-folder = ['0001 - 0250', '0251 - 0500', '0751 - 1000',
-          '1001 - 2000', '2001 - 2xxx']
+folder = ['0001 - 0250', '0251 - 0500', '0501 - 0750',
+          '0751 - 1000', '1001 - 2000', '2001 - 2xxx']
 
 task = get_task_data(lnk)
 tid = int(task['id'])
