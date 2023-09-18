@@ -64,7 +64,7 @@ for fld in folder:
         code = fld.replace(' ', '%20')
 
 codelink = f"/rubannn/Leetcode/tree/main/{code}/{tid:04d}{ext}"
-mask = f"| `{tid:04d}` | [{title}]({lnk}) | {hard} | [code]({codelink}) |\n"
+mask = f"| `{tid:04d}` | [{title}]({lnk}) | {hard} | [</code>]({codelink}) |\n"
 
 with open(Path("README.md"), "r") as f:
     content = f.readlines()
