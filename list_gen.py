@@ -1,7 +1,7 @@
 import requests
 from pathlib import Path
 
-lnk = 'https://leetcode.com/problems/find-the-duplicate-number/'
+lnk = 'https://leetcode.com/problems/add-strings/'
 
 
 def get_task_data(url):
@@ -98,7 +98,7 @@ for c in content:
             solved[kind] += 1
 
 solved['Total'] = sum(solved.values())
-content[4] = f"| **{solved['Easy']}** | **{solved['Medium']}** | **{solved['Hard']}** |\n"
+content[4] = f"|{' | '.join(f'**{v}**' for k, v in solved.items())}|\n"
 
 Path("README.md").write_text(''.join(content))
 
