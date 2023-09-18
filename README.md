@@ -2,7 +2,7 @@
 
 | ${\color{green}Easy}$ | ${\color{orange}Medium}$ | ${\color{red}Hard}$ | ${\color{black}Total}$ |
 | :-------------------: | :----------------------: | :-----------------: | :--------------------: |
-|        **55**         |          **44**          |        **4**        |        **103**         |
+|        **56**         |          **44**          |        **4**        |        **104**         |
 
 > ### 0001 - 0250   |
 >
@@ -65,6 +65,7 @@
 | `0263` | [Ugly Number](https://leetcode.com/problems/ugly-number/)                                                         |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0251%20-%200500/0263.py) |
 | `0264` | [Ugly Number II](https://leetcode.com/problems/ugly-number-ii/)                                                   | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0251%20-%200500/0264.py) |
 | `0273` | [Integer to English Words](https://leetcode.com/problems/integer-to-english-words/)                               |   ${\color{red}Hard}$    | [\</code\>](/rubannn/Leetcode/tree/main/0251%20-%200500/0273.py) |
+| `0283` | [Move Zeroes](https://leetcode.com/problems/move-zeroes/)                                                         |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0251%20-%200500/0283.py) |
 | `0287` | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)                             | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0251%20-%200500/0287.py) |
 | `0326` | [Power of Three](https://leetcode.com/problems/power-of-three/)                                                   |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0251%20-%200500/0326.py) |
 | `0338` | [Counting Bits](https://leetcode.com/problems/counting-bits/)                                                     |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0251%20-%200500/0338.py) |

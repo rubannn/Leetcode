@@ -1,7 +1,7 @@
 import requests
 from pathlib import Path
 
-lnk = 'https://leetcode.com/problems/maximum-product-of-three-numbers/'
+lnk = 'https://leetcode.com/problems/move-zeroes/'
 
 
 def get_task_data(url):
@@ -63,8 +63,8 @@ for fld in folder:
         foldername = fld
         code = fld.replace(' ', '%20')
 
-codelink = f"/rubannn/Leetcode/tree/main/{code}/{tid:04d}{ext}"
-mask = f"| `{tid:04d}` | [{title}]({lnk}) | {hard} | [</code>]({codelink}) |\n"
+codelink = f"(/rubannn/Leetcode/tree/main/{code}/{tid:04d}{ext})"
+mask = f"| `{tid:04d}` | [{title}]({lnk}) |{hard}|[\\</code\\>]{codelink} |\n"
 
 with open(Path("README.md"), "r") as f:
     content = f.readlines()
