@@ -2,7 +2,7 @@
 
 | ${\color{green}Easy}$ | ${\color{orange}Medium}$ | ${\color{red}Hard}$ | ${\color{black}Total}$ |
 | :-------------------: | :----------------------: | :-----------------: | :--------------------: |
-|        **56**         |          **44**          |        **4**        |        **104**         |
+|**56** | **45** | **4** | **105**|
 
 > ### 0001 - 0250   |
 >
@@ -67,6 +67,7 @@
 | `0273` | [Integer to English Words](https://leetcode.com/problems/integer-to-english-words/)                               |   ${\color{red}Hard}$    | [\</code\>](/rubannn/Leetcode/tree/main/0251%20-%200500/0273.py) |
 | `0283` | [Move Zeroes](https://leetcode.com/problems/move-zeroes/)                                                         |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0251%20-%200500/0283.py) |
 | `0287` | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)                             | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0251%20-%200500/0287.py) |
+| `0299` | [Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/) |${\color{orange}Medium}$|[\</code\>](/rubannn/Leetcode/tree/main/0251%20-%200500/0299.py) |
 | `0326` | [Power of Three](https://leetcode.com/problems/power-of-three/)                                                   |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0251%20-%200500/0326.py) |
 | `0338` | [Counting Bits](https://leetcode.com/problems/counting-bits/)                                                     |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0251%20-%200500/0338.py) |
 | `0342` | [Power of Four](https://leetcode.com/problems/power-of-four/)                                                     |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0251%20-%200500/0342.py) |
