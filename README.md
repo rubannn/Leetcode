@@ -2,7 +2,7 @@
 
 | ${\color{green}Easy}$ | ${\color{orange}Medium}$ | ${\color{red}Hard}$ | ${\color{black}Total}$ |
 | :-------------------: | :----------------------: | :-----------------: | :--------------------: |
-|        **54**         |          **44**          |        **4**        |        **102**         |
+|        **55**         |          **44**          |        **4**        |        **103**         |
 
 > ### 0001 - 0250   |
 >
@@ -79,15 +79,16 @@
 
 > ### 0501 - 0750
 >
-| Num    | Link and name                                                                               |        Difficulty        |                          Code link                           |
-| ------ | ------------------------------------------------------------------------------------------- | :----------------------: | :----------------------------------------------------------: |
-| `0492` | [Construct the Rectangle](https://leetcode.com/problems/construct-the-rectangle/)           |  ${\color{green}Easy}$   | [code](/rubannn/Leetcode/tree/main/0251%20-%200500/0492.py)  |
-| `0504` | [Base 7](https://leetcode.com/problems/base-7/)                                             |  ${\color{green}Easy}$   | [code](/rubannn/Leetcode/tree/main/0501%20-%200750/0504.py)  |
-| `0518` | [Coin Change II](https://leetcode.com/problems/coin-change-ii/)                             | ${\color{orange}Medium}$ | [code](/rubannn/Leetcode/tree/main/0501%20-%200750/0518.py)  |
-| `0608` | [Tree Node](https://leetcode.com/problems/tree-node/)                                       | ${\color{orange}Medium}$ | [code](/rubannn/Leetcode/tree/main/0501%20-%200750/0608.sql) |
-| `0645` | [Set Mismatch](https://leetcode.com/problems/set-mismatch/)                                 |  ${\color{green}Easy}$   | [code](/rubannn/Leetcode/tree/main/0501%20-%200750/0645.py)  |
-| `0646` | [Maximum Length of Pair Chain](https://leetcode.com/problems/maximum-length-of-pair-chain/) | ${\color{orange}Medium}$ | [code](/rubannn/Leetcode/tree/main/0501%20-%200750/0646.py)  |
-| `0728` | [Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/)               |  ${\color{green}Easy}$   | [code](/rubannn/Leetcode/tree/main/0501%20-%200750/0728.py)  |
+| Num    | Link and name                                                                                       |        Difficulty        |                          Code link                           |
+| ------ | --------------------------------------------------------------------------------------------------- | :----------------------: | :----------------------------------------------------------: |
+| `0492` | [Construct the Rectangle](https://leetcode.com/problems/construct-the-rectangle/)                   |  ${\color{green}Easy}$   | [code](/rubannn/Leetcode/tree/main/0251%20-%200500/0492.py)  |
+| `0504` | [Base 7](https://leetcode.com/problems/base-7/)                                                     |  ${\color{green}Easy}$   | [code](/rubannn/Leetcode/tree/main/0501%20-%200750/0504.py)  |
+| `0518` | [Coin Change II](https://leetcode.com/problems/coin-change-ii/)                                     | ${\color{orange}Medium}$ | [code](/rubannn/Leetcode/tree/main/0501%20-%200750/0518.py)  |
+| `0608` | [Tree Node](https://leetcode.com/problems/tree-node/)                                               | ${\color{orange}Medium}$ | [code](/rubannn/Leetcode/tree/main/0501%20-%200750/0608.sql) |
+| `0628` | [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/) |  ${\color{green}Easy}$   | [code](/rubannn/Leetcode/tree/main/0501%20-%200750/0628.py)  |
+| `0645` | [Set Mismatch](https://leetcode.com/problems/set-mismatch/)                                         |  ${\color{green}Easy}$   | [code](/rubannn/Leetcode/tree/main/0501%20-%200750/0645.py)  |
+| `0646` | [Maximum Length of Pair Chain](https://leetcode.com/problems/maximum-length-of-pair-chain/)         | ${\color{orange}Medium}$ | [code](/rubannn/Leetcode/tree/main/0501%20-%200750/0646.py)  |
+| `0728` | [Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/)                       |  ${\color{green}Easy}$   | [code](/rubannn/Leetcode/tree/main/0501%20-%200750/0728.py)  |
 
 > ### 0751 - 1000
 >
