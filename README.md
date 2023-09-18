@@ -1,4 +1,4 @@
-# Leet\</code\> solutions
+# Leetcode solutions
 
 | ${\color{green}Easy}$ | ${\color{orange}Medium}$ | ${\color{red}Hard}$ | ${\color{black}Total}$ |
 | :-------------------: | :----------------------: | :-----------------: | :--------------------: |
