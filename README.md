@@ -2,7 +2,7 @@
 
 | ${\color{green}Easy}$ | ${\color{orange}Medium}$ | ${\color{red}Hard}$ |
 | :-------------------: | :----------------------: | :-----------------: |
-|        **52**         |          **42**          |        **4**        |
+| **52** | **43** | **4** |
 
 > ### 0001 - 0250   |
 >
@@ -13,6 +13,7 @@
 | `0007` | [Reverse Integer](https://leetcode.com/problems/reverse-integer/)                                         | ${\color{orange}Medium}$ | [code](/rubannn/Leetcode/tree/main/0001%20-%200250/0007.py)  |
 | `0012` | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/)                                       | ${\color{orange}Medium}$ | [code](/rubannn/Leetcode/tree/main/0001%20-%200250/0012.py)  |
 | `0013` | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)                                       |  ${\color{green}Easy}$   | [code](/rubannn/Leetcode/tree/main/0001%20-%200250/0013.py)  |
+| `0017` | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | ${\color{orange}Medium}$ | [code](/rubannn/Leetcode/tree/main/0001%20-%200250/0017.py) |
 | `0023` | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)                               |   ${\color{red}Hard}$    | [code](/rubannn/Leetcode/tree/main/0001%20-%200250/0023.py)  |
 | `0026` | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) |  ${\color{green}Easy}$   | [code](/rubannn/Leetcode/tree/main/0001%20-%200250/0026.py)  |
 | `0027` | [Remove Element](https://leetcode.com/problems/remove-element/)                                           |  ${\color{green}Easy}$   | [code](/rubannn/Leetcode/tree/main/0001%20-%200250/0027.py)  |
