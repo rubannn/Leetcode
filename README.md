@@ -2,7 +2,7 @@
 
 | ${\color{green}Easy}$ | ${\color{orange}Medium}$ | ${\color{red}Hard}$ | ${\color{black}Total}$ |
 | :-------------------: | :----------------------: | :-----------------: | :--------------------: |
-|        **61**         |          **45**          |        **4**        |        **110**         |
+|        **62**         |          **45**          |        **4**        |        **111**         |
 
 > ### 0001 - 0250   |
 >
@@ -111,6 +111,7 @@
 >
 | Num    | Task name                                                                                                                                       |        Difficulty        |                               Code                                |
 | ------ | ----------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------: | :---------------------------------------------------------------: |
+| `0896` | [Monotonic Array](https://leetcode.com/problems/monotonic-array/)                                                                               |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0751%20-%201000/0896.py)  |
 | `0985` | [Sum of Even Numbers After Queries](https://leetcode.com/problems/sum-of-even-numbers-after-queries/)                                           | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0751%20-%201000/0985.py)  |
 | `1158` | [Market Analysis I](https://leetcode.com/problems/market-analysis-i/)                                                                           | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/1001%20-%202000/1158.sql) |
 | `1185` | [Day of the Week](https://leetcode.com/problems/day-of-the-week/)                                                                               |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/1001%20-%202000/1185.py)  |
