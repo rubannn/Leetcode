@@ -2,7 +2,7 @@
 
 | ${\color{green}Easy}$ | ${\color{orange}Medium}$ | ${\color{red}Hard}$ | ${\color{black}Total}$ |
 | :-------------------: | :----------------------: | :-----------------: | :--------------------: |
-|        **62**         |          **45**          |        **4**        |        **111**         |
+|        **62**         |          **46**          |        **4**        |        **112**         |
 
 > ### 0001 - 0250   |
 >
@@ -25,6 +25,7 @@
 | `0050` | [Pow(x, n)](https://leetcode.com/problems/powx-n/)                                                            | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0050.py)  |
 | `0054` | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)                                                 | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0054.py)  |
 | `0059` | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)                                           | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0059.py)  |
+| `0061` | [Rotate List](https://leetcode.com/problems/rotate-list/)                                                     | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0061.py)  |
 | `0062` | [Unique Paths](https://leetcode.com/problems/unique-paths/)                                                   | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0062.py)  |
 | `0063` | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)                                             | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0063.py)  |
 | `0065` | [Valid Number](https://leetcode.com/problems/valid-number/)                                                   |   ${\color{red}Hard}$    | [\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0065.py)  |
