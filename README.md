@@ -2,7 +2,7 @@
 
 | ${\color{green}Easy}$ | ${\color{orange}Medium}$ | ${\color{red}Hard}$ | ${\color{black}Total}$ |
 | :-------------------: | :----------------------: | :-----------------: | :--------------------: |
-|**56** | **45** | **4** | **105**|
+|        **57**         |          **45**          |        **4**        |        **106**         |
 
 > ### 0001 - 0250   |
 >
@@ -67,7 +67,7 @@
 | `0273` | [Integer to English Words](https://leetcode.com/problems/integer-to-english-words/)                               |   ${\color{red}Hard}$    | [\</code\>](/rubannn/Leetcode/tree/main/0251%20-%200500/0273.py) |
 | `0283` | [Move Zeroes](https://leetcode.com/problems/move-zeroes/)                                                         |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0251%20-%200500/0283.py) |
 | `0287` | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)                             | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0251%20-%200500/0287.py) |
-| `0299` | [Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/) |${\color{orange}Medium}$|[\</code\>](/rubannn/Leetcode/tree/main/0251%20-%200500/0299.py) |
+| `0299` | [Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/)                                                   | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0251%20-%200500/0299.py) |
 | `0326` | [Power of Three](https://leetcode.com/problems/power-of-three/)                                                   |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0251%20-%200500/0326.py) |
 | `0338` | [Counting Bits](https://leetcode.com/problems/counting-bits/)                                                     |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0251%20-%200500/0338.py) |
 | `0342` | [Power of Four](https://leetcode.com/problems/power-of-four/)                                                     |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0251%20-%200500/0342.py) |
@@ -86,6 +86,7 @@
 | `0492` | [Construct the Rectangle](https://leetcode.com/problems/construct-the-rectangle/)                   |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0251%20-%200500/0492.py)  |
 | `0504` | [Base 7](https://leetcode.com/problems/base-7/)                                                     |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0501%20-%200750/0504.py)  |
 | `0518` | [Coin Change II](https://leetcode.com/problems/coin-change-ii/)                                     | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0501%20-%200750/0518.py)  |
+| `0599` | [Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists/)     |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0501%20-%200750/0599.py)  |
 | `0608` | [Tree Node](https://leetcode.com/problems/tree-node/)                                               | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0501%20-%200750/0608.sql) |
 | `0628` | [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/) |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0501%20-%200750/0628.py)  |
 | `0645` | [Set Mismatch](https://leetcode.com/problems/set-mismatch/)                                         |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0501%20-%200750/0645.py)  |
