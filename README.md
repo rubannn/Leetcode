@@ -2,7 +2,7 @@
 
 | ${\color{green}Easy}$ | ${\color{orange}Medium}$ | ${\color{red}Hard}$ | ${\color{black}Total}$ |
 | :-------------------: | :----------------------: | :-----------------: | :--------------------: |
-|        **62**         |          **46**          |        **4**        |        **112**         |
+|        **62**         |          **47**          |        **4**        |        **113**         |
 
 > ### 0001 - 0250   |
 >
@@ -45,6 +45,7 @@
 | `0172` | [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/)                         | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0172.py)  |
 | `0176` | [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/)                                 | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0176.sql) |
 | `0179` | [Largest Number](https://leetcode.com/problems/largest-number/)                                               | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0179.py)  |
+| `0189` | [Rotate Array](https://leetcode.com/problems/rotate-array/)                                                   | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0189.py)  |
 | `0190` | [Reverse Bits](https://leetcode.com/problems/reverse-bits/)                                                   |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0190.py)  |
 | `0191` | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)                                           |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0191.py)  |
 | `0202` | [Happy Number](https://leetcode.com/problems/happy-number/)                                                   |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0202.py)  |
