@@ -2,7 +2,7 @@
 
 | ${\color{green}Easy}$ | ${\color{orange}Medium}$ | ${\color{red}Hard}$ | ${\color{black}Total}$ |
 | :-------------------: | :----------------------: | :-----------------: | :--------------------: |
-|        **57**         |          **45**          |        **4**        |        **106**         |
+|**58** | **45** | **4** | **107**|
 
 > ### 0001 - 0250   |
 >
@@ -88,6 +88,7 @@
 | `0518` | [Coin Change II](https://leetcode.com/problems/coin-change-ii/)                                     | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0501%20-%200750/0518.py)  |
 | `0599` | [Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists/)     |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0501%20-%200750/0599.py)  |
 | `0608` | [Tree Node](https://leetcode.com/problems/tree-node/)                                               | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0501%20-%200750/0608.sql) |
+| `0610` | [Triangle Judgement](https://leetcode.com/problems/triangle-judgement/) |${\color{green}Easy}$|[\</code\>](/rubannn/Leetcode/tree/main/0501%20-%200750/0610.sql) |
 | `0628` | [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/) |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0501%20-%200750/0628.py)  |
 | `0645` | [Set Mismatch](https://leetcode.com/problems/set-mismatch/)                                         |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0501%20-%200750/0645.py)  |
 | `0646` | [Maximum Length of Pair Chain](https://leetcode.com/problems/maximum-length-of-pair-chain/)         | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0501%20-%200750/0646.py)  |
