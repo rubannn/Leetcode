@@ -2,7 +2,7 @@
 
 | ${\color{green}Easy}$ | ${\color{orange}Medium}$ | ${\color{red}Hard}$ | ${\color{black}Total}$ |
 | :-------------------: | :----------------------: | :-----------------: | :--------------------: |
-|        **59**         |          **45**          |        **4**        |        **108**         |
+|        **60**         |          **45**          |        **4**        |        **109**         |
 
 > ### 0001 - 0250   |
 >
@@ -97,13 +97,14 @@
 
 > ### 0751 - 1000
 >
-| Num    | Task name                                                                                       |        Difficulty        |                               Code                               |
-| ------ | ----------------------------------------------------------------------------------------------- | :----------------------: | :--------------------------------------------------------------: |
-| `0767` | [Reorganize String](https://leetcode.com/problems/reorganize-string/)                           | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0751%20-%201000/0767.py) |
-| `0836` | [Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap/)                           |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0751%20-%201000/0836.py) |
-| `0852` | [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/) | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0751%20-%201000/0852.py) |
-| `0876` | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)           |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0751%20-%201000/0876.py) |
-| `0885` | [Spiral Matrix III](https://leetcode.com/problems/spiral-matrix-iii/)                           | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0751%20-%201000/0885.py) |
+| Num    | Task name                                                                                         |        Difficulty        |                               Code                               |
+| ------ | ------------------------------------------------------------------------------------------------- | :----------------------: | :--------------------------------------------------------------: |
+| `0767` | [Reorganize String](https://leetcode.com/problems/reorganize-string/)                             | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0751%20-%201000/0767.py) |
+| `0806` | [Number of Lines To Write String](https://leetcode.com/problems/number-of-lines-to-write-string/) |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0751%20-%201000/0806.py) |
+| `0836` | [Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap/)                             |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0751%20-%201000/0836.py) |
+| `0852` | [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)   | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0751%20-%201000/0852.py) |
+| `0876` | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)             |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0751%20-%201000/0876.py) |
+| `0885` | [Spiral Matrix III](https://leetcode.com/problems/spiral-matrix-iii/)                             | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0751%20-%201000/0885.py) |
 
 > ### 1001 - 2000
 >
