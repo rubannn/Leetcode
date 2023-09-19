@@ -1,7 +1,7 @@
 import requests
 from pathlib import Path
 
-lnk = 'https://leetcode.com/problems/number-of-lines-to-write-string/'
+lnk = 'https://leetcode.com/problems/flipping-an-image/'
 
 
 def get_task_data(url):
