@@ -2,7 +2,7 @@
 
 | ${\color{green}Easy}$ | ${\color{orange}Medium}$ | ${\color{red}Hard}$ | ${\color{black}Total}$ |
 | :-------------------: | :----------------------: | :-----------------: | :--------------------: |
-|**63** | **48** | **4** | **115**|
+|        **63**         |          **49**          |        **4**        |        **116**         |
 
 > ### 0001 - 0250   |
 >
@@ -56,6 +56,7 @@
 | `0225` | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)                   |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0225.py)  |
 | `0231` | [Power of Two](https://leetcode.com/problems/power-of-two/)                                                   |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0231.py)  |
 | `0234` | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)                               |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0234.py)  |
+| `0240` | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)                                 | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0240.py)  |
 | `0242` | [Valid Anagram](https://leetcode.com/problems/valid-anagram/)                                                 |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0242.py)  |
 
 > ### 0251 - 0500
@@ -103,7 +104,7 @@
 | ------ | ------------------------------------------------------------------------------------------------- | :----------------------: | :--------------------------------------------------------------: |
 | `0767` | [Reorganize String](https://leetcode.com/problems/reorganize-string/)                             | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0751%20-%201000/0767.py) |
 | `0788` | [Rotated Digits](https://leetcode.com/problems/rotated-digits/)                                   | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0751%20-%201000/0788.py) |
-| `0796` | [Rotate String](https://leetcode.com/problems/rotate-string/) |${\color{green}Easy}$|[\</code\>](/rubannn/Leetcode/tree/main/0751%20-%201000/0796.py) |
+| `0796` | [Rotate String](https://leetcode.com/problems/rotate-string/)                                     |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0751%20-%201000/0796.py) |
 | `0806` | [Number of Lines To Write String](https://leetcode.com/problems/number-of-lines-to-write-string/) |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0751%20-%201000/0806.py) |
 | `0832` | [Flipping an Image](https://leetcode.com/problems/flipping-an-image/)                             |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0751%20-%201000/0832.py) |
 | `0836` | [Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap/)                             |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0751%20-%201000/0836.py) |
