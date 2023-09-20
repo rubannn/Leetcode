@@ -2,7 +2,7 @@
 
 | ${\color{green}Easy}$ | ${\color{orange}Medium}$ | ${\color{red}Hard}$ | ${\color{black}Total}$ |
 | :-------------------: | :----------------------: | :-----------------: | :--------------------: |
-|        **68**         |          **50**          |        **4**        |        **122**         |
+|**69** | **50** | **4** | **123**|
 
 > ### 0001 - 0250   |
 >
@@ -78,6 +78,7 @@
 | `0371` | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)                                         | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0251%20-%200500/0371.py) |
 | `0378` | [Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/) | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0251%20-%200500/0378.py) |
 | `0383` | [Ransom Note](https://leetcode.com/problems/ransom-note/)                                                         |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0251%20-%200500/0383.py) |
+| `0389` | [Find the Difference](https://leetcode.com/problems/find-the-difference/) |${\color{green}Easy}$|[\</code\>](/rubannn/Leetcode/tree/main/0251%20-%200500/0389.py) |
 | `0412` | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)                                                             |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0251%20-%200500/0412.py) |
 | `0415` | [Add Strings](https://leetcode.com/problems/add-strings/)                                                         |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0251%20-%200500/0415.py) |
 | `0445` | [Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/)                                           | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0251%20-%200500/0445.py) |
