@@ -2,7 +2,7 @@
 
 | ${\color{green}Easy}$ | ${\color{orange}Medium}$ | ${\color{red}Hard}$ | ${\color{black}Total}$ |
 | :-------------------: | :----------------------: | :-----------------: | :--------------------: |
-|        **65**         |          **50**          |        **4**        |        **119**         |
+|**66** | **50** | **4** | **120**|
 
 > ### 0001 - 0250   |
 >
@@ -89,6 +89,7 @@
 | `0492` | [Construct the Rectangle](https://leetcode.com/problems/construct-the-rectangle/)                   |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0251%20-%200500/0492.py)  |
 | `0504` | [Base 7](https://leetcode.com/problems/base-7/)                                                     |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0501%20-%200750/0504.py)  |
 | `0518` | [Coin Change II](https://leetcode.com/problems/coin-change-ii/)                                     | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0501%20-%200750/0518.py)  |
+| `0598` | [Range Addition II](https://leetcode.com/problems/range-addition-ii/) |${\color{green}Easy}$|[\</code\>](/rubannn/Leetcode/tree/main/0501%20-%200750/0598.py) |
 | `0599` | [Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists/)     |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0501%20-%200750/0599.py)  |
 | `0608` | [Tree Node](https://leetcode.com/problems/tree-node/)                                               | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0501%20-%200750/0608.sql) |
 | `0610` | [Triangle Judgement](https://leetcode.com/problems/triangle-judgement/)                             |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0501%20-%200750/0610.sql) |
