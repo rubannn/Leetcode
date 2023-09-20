@@ -2,7 +2,7 @@
 
 | ${\color{green}Easy}$ | ${\color{orange}Medium}$ | ${\color{red}Hard}$ | ${\color{black}Total}$ |
 | :-------------------: | :----------------------: | :-----------------: | :--------------------: |
-|**66** | **50** | **4** | **120**|
+|        **67**         |          **50**          |        **4**        |        **121**         |
 
 > ### 0001 - 0250   |
 >
@@ -89,7 +89,7 @@
 | `0492` | [Construct the Rectangle](https://leetcode.com/problems/construct-the-rectangle/)                   |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0251%20-%200500/0492.py)  |
 | `0504` | [Base 7](https://leetcode.com/problems/base-7/)                                                     |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0501%20-%200750/0504.py)  |
 | `0518` | [Coin Change II](https://leetcode.com/problems/coin-change-ii/)                                     | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0501%20-%200750/0518.py)  |
-| `0598` | [Range Addition II](https://leetcode.com/problems/range-addition-ii/) |${\color{green}Easy}$|[\</code\>](/rubannn/Leetcode/tree/main/0501%20-%200750/0598.py) |
+| `0598` | [Range Addition II](https://leetcode.com/problems/range-addition-ii/)                               |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0501%20-%200750/0598.py)  |
 | `0599` | [Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists/)     |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0501%20-%200750/0599.py)  |
 | `0608` | [Tree Node](https://leetcode.com/problems/tree-node/)                                               | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0501%20-%200750/0608.sql) |
 | `0610` | [Triangle Judgement](https://leetcode.com/problems/triangle-judgement/)                             |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0501%20-%200750/0610.sql) |
@@ -119,6 +119,7 @@
 | ------ | ----------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------: | :---------------------------------------------------------------: |
 | `0896` | [Monotonic Array](https://leetcode.com/problems/monotonic-array/)                                                                               |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0751%20-%201000/0896.py)  |
 | `0985` | [Sum of Even Numbers After Queries](https://leetcode.com/problems/sum-of-even-numbers-after-queries/)                                           | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0751%20-%201000/0985.py)  |
+| `1030` | [Matrix Cells in Distance Order](https://leetcode.com/problems/matrix-cells-in-distance-order/)                                                 |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/1001%20-%202000/1030.py)  |
 | `1158` | [Market Analysis I](https://leetcode.com/problems/market-analysis-i/)                                                                           | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/1001%20-%202000/1158.sql) |
 | `1185` | [Day of the Week](https://leetcode.com/problems/day-of-the-week/)                                                                               |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/1001%20-%202000/1185.py)  |
 | `1252` | [Cells with Odd Values in a Matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/)                                           |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/1001%20-%202000/1252.py)  |
