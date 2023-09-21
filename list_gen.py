@@ -1,7 +1,7 @@
 import requests
 from pathlib import Path
 
-lnk = 'https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/'
+lnk = 'https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/'
 
 
 def get_task_data(url):

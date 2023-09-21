@@ -2,7 +2,7 @@
 
 | ${\color{green}Easy}$ | ${\color{orange}Medium}$ | ${\color{red}Hard}$ | ${\color{black}Total}$ |
 | :-------------------: | :----------------------: | :-----------------: | :--------------------: |
-|        **81**         |          **53**          |        **5**        |        **139**         |
+|        **81**         |          **54**          |        **5**        |        **140**         |
 
 > ### 0001 - 0250   |
 >
@@ -133,6 +133,7 @@
 | `1047` | [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)                             |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/1001%20-%202000/1047.py)  |
 | `1158` | [Market Analysis I](https://leetcode.com/problems/market-analysis-i/)                                                                           | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/1001%20-%202000/1158.sql) |
 | `1185` | [Day of the Week](https://leetcode.com/problems/day-of-the-week/)                                                                               |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/1001%20-%202000/1185.py)  |
+| `1209` | [Remove All Adjacent Duplicates in String II](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/)                       | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/1001%20-%202000/1209.py)  |
 | `1252` | [Cells with Odd Values in a Matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/)                                           |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/1001%20-%202000/1252.py)  |
 | `1275` | [Find Winner on a Tic Tac Toe Game](https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game/)                                           |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/1001%20-%202000/1275.py)  |
 | `1282` | [Group the People Given the Group Size They Belong To](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/)     | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/1001%20-%202000/1282.py)  |
