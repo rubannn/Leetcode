@@ -1,7 +1,7 @@
 import requests
 from pathlib import Path
 
-lnk = 'https://leetcode.com/problems/find-the-difference/'
+lnk = 'https://leetcode.com/problems/median-of-two-sorted-arrays/'
 
 
 def get_task_data(url):
