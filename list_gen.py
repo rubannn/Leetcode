@@ -1,7 +1,7 @@
 import requests
 from pathlib import Path
 
-lnk = 'https://leetcode.com/problems/check-if-every-row-and-column-contains-all-numbers/'
+lnk = 'https://leetcode.com/problems/number-complement/'
 
 
 def get_task_data(url):

@@ -2,7 +2,7 @@
 
 | ${\color{green}Easy}$ | ${\color{orange}Medium}$ | ${\color{red}Hard}$ | ${\color{black}Total}$ |
 | :-------------------: | :----------------------: | :-----------------: | :--------------------: |
-|        **71**         |          **52**          |        **5**        |        **128**         |
+|        **72**         |          **52**          |        **5**        |        **129**         |
 
 > ### 0001 - 0250   |
 >
@@ -92,6 +92,7 @@
 >
 | Num    | Task name                                                                                           |        Difficulty        |                               Code                                |
 | ------ | --------------------------------------------------------------------------------------------------- | :----------------------: | :---------------------------------------------------------------: |
+| `0476` | [Number Complement](https://leetcode.com/problems/number-complement/)                               |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0251%20-%200500/0476.py)  |
 | `0492` | [Construct the Rectangle](https://leetcode.com/problems/construct-the-rectangle/)                   |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0251%20-%200500/0492.py)  |
 | `0504` | [Base 7](https://leetcode.com/problems/base-7/)                                                     |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0501%20-%200750/0504.py)  |
 | `0518` | [Coin Change II](https://leetcode.com/problems/coin-change-ii/)                                     | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0501%20-%200750/0518.py)  |
