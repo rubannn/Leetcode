@@ -2,7 +2,7 @@
 
 | ${\color{green}Easy}$ | ${\color{orange}Medium}$ | ${\color{red}Hard}$ | ${\color{black}Total}$ |
 | :-------------------: | :----------------------: | :-----------------: | :--------------------: |
-|        **80**         |          **52**          |        **5**        |        **137**         |
+|        **80**         |          **53**          |        **5**        |        **138**         |
 
 > ### 0001 - 0250   |
 >
@@ -162,6 +162,7 @@
 | `2326` | [Spiral Matrix IV](https://leetcode.com/problems/spiral-matrix-iv/)                                                                     |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/2001%20-%202xxx/2326.py) |
 | `2347` | [Best Poker Hand](https://leetcode.com/problems/best-poker-hand/)                                                                       |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/2001%20-%202xxx/2347.py) |
 | `2373` | [Largest Local Values in a Matrix](https://leetcode.com/problems/largest-local-values-in-a-matrix/)                                     |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/2001%20-%202xxx/2373.py) |
+| `2390` | [Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/)                                             | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/2001%20-%202xxx/2390.py) |
 | `2413` | [Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple/)                                                         |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/2001%20-%202xxx/2413.py) |
 | `2469` | [Convert the Temperature](https://leetcode.com/problems/convert-the-temperature/)                                                       |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/2001%20-%202xxx/2469.py) |
 | `2525` | [Categorize Box According to Criteria](https://leetcode.com/problems/categorize-box-according-to-criteria/)                             |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/2001%20-%202xxx/2525.py) |
