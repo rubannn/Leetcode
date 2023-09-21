@@ -2,7 +2,7 @@
 
 | ${\color{green}Easy}$ | ${\color{orange}Medium}$ | ${\color{red}Hard}$ | ${\color{black}Total}$ |
 | :-------------------: | :----------------------: | :-----------------: | :--------------------: |
-|        **75**         |          **52**          |        **5**        |        **132**         |
+|        **76**         |          **52**          |        **5**        |        **133**         |
 
 > ### 0001 - 0250   |
 >
@@ -154,6 +154,7 @@
 | `2119` | [A Number After a Double Reversal](https://leetcode.com/problems/a-number-after-a-double-reversal/)                                     |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/2001%20-%202xxx/2119.py) |
 | `2133` | [Check if Every Row and Column Contains All Numbers](https://leetcode.com/problems/check-if-every-row-and-column-contains-all-numbers/) |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/2001%20-%202xxx/2133.py) |
 | `2235` | [Add Two Integers](https://leetcode.com/problems/add-two-integers/)                                                                     |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/2001%20-%202xxx/2235.py) |
+| `2293` | [Min Max Game](https://leetcode.com/problems/min-max-game/)                                                                             |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/2001%20-%202xxx/2293.py) |
 | `2319` | [Check if Matrix Is X-Matrix](https://leetcode.com/problems/check-if-matrix-is-x-matrix/)                                               |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/2001%20-%202xxx/2319.py) |
 | `2326` | [Spiral Matrix IV](https://leetcode.com/problems/spiral-matrix-iv/)                                                                     |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/2001%20-%202xxx/2326.py) |
 | `2347` | [Best Poker Hand](https://leetcode.com/problems/best-poker-hand/)                                                                       |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/2001%20-%202xxx/2347.py) |
