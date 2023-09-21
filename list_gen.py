@@ -1,7 +1,7 @@
 import requests
 from pathlib import Path
 
-lnk = 'https://leetcode.com/problems/crawler-log-folder/'
+lnk = 'https://leetcode.com/problems/backspace-string-compare/'
 
 
 def get_task_data(url):

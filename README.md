@@ -2,7 +2,7 @@
 
 | ${\color{green}Easy}$ | ${\color{orange}Medium}$ | ${\color{red}Hard}$ | ${\color{black}Total}$ |
 | :-------------------: | :----------------------: | :-----------------: | :--------------------: |
-|        **79**         |          **52**          |        **5**        |        **136**         |
+|        **80**         |          **52**          |        **5**        |        **137**         |
 
 > ### 0001 - 0250   |
 >
@@ -118,6 +118,7 @@
 | `0806` | [Number of Lines To Write String](https://leetcode.com/problems/number-of-lines-to-write-string/) |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0751%20-%201000/0806.py) |
 | `0832` | [Flipping an Image](https://leetcode.com/problems/flipping-an-image/)                             |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0751%20-%201000/0832.py) |
 | `0836` | [Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap/)                             |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0751%20-%201000/0836.py) |
+| `0844` | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)               |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0751%20-%201000/0844.py) |
 | `0852` | [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)   | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0751%20-%201000/0852.py) |
 | `0876` | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)             |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0751%20-%201000/0876.py) |
 | `0885` | [Spiral Matrix III](https://leetcode.com/problems/spiral-matrix-iii/)                             | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0751%20-%201000/0885.py) |
