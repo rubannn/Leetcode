@@ -2,7 +2,7 @@
 
 | ${\color{green}Easy}$ | ${\color{orange}Medium}$ | ${\color{red}Hard}$ | ${\color{black}Total}$ |
 | :-------------------: | :----------------------: | :-----------------: | :--------------------: |
-|        **78**         |          **52**          |        **5**        |        **135**         |
+|        **79**         |          **52**          |        **5**        |        **136**         |
 
 > ### 0001 - 0250   |
 >
@@ -141,6 +141,7 @@
 | `1393` | [Capital Gain/Loss](https://leetcode.com/problems/capital-gainloss/)                                                                            | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/1001%20-%202000/1393.sql) |
 | `1408` | [String Matching in an Array](https://leetcode.com/problems/string-matching-in-an-array/)                                                       |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/1001%20-%202000/1408.py)  |
 | `1512` | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)                                                                     |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/1001%20-%202000/1512.py)  |
+| `1598` | [Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder/)                                                                         |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/1001%20-%202000/1598.py)  |
 | `1647` | [Minimum Deletions to Make Character Frequencies Unique](https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/) | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/1001%20-%202000/1647.py)  |
 | `1662` | [Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)                           |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/1001%20-%202000/1662.py)  |
 | `1680` | [Concatenation of Consecutive Binary Numbers](https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/)                       | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/1001%20-%202000/1680.py)  |
