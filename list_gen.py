@@ -4,7 +4,7 @@ import os
 import re
 
 
-lnk = 'https://leetcode.com/problems/pascals-triangle-ii/'
+lnk = 'https://leetcode.com/problems/find-triangular-sum-of-an-array/'
 
 
 def get_task_data(url):
