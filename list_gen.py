@@ -4,7 +4,7 @@ import os
 import re
 
 
-lnk = 'https://leetcode.com/problems/calculate-digit-sum-of-a-string/'
+lnk = 'https://leetcode.com/problems/find-all-duplicates-in-an-array/'
 
 
 def get_task_data(url):
