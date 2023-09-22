@@ -2,7 +2,7 @@
 
 | ${\color{green}Easy}$ | ${\color{orange}Medium}$ | ${\color{red}Hard}$ | ${\color{black}Total}$ |
 | :-------------------: | :----------------------: | :-----------------: | :--------------------: |
-|**86** | **56** | **5** | **147**|
+|        **84**         |          **58**          |        **5**        |        **147**         |
 
 > ### 0001 - 0250   |
 >
@@ -88,7 +88,7 @@
 | `0401` | [Binary Watch](https://leetcode.com/problems/binary-watch/)                                                       |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0251%20-%200500/0401.py) |
 | `0412` | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)                                                             |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0251%20-%200500/0412.py) |
 | `0415` | [Add Strings](https://leetcode.com/problems/add-strings/)                                                         |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0251%20-%200500/0415.py) |
-| `0442` | [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/) |${\color{orange}Medium}$|[\</code\>](/rubannn/Leetcode/tree/main/0251%20-%200500/0442.py) |
+| `0442` | [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)                 | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0251%20-%200500/0442.py) |
 | `0445` | [Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/)                                           | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0251%20-%200500/0445.py) |
 | `0459` | [Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/)                           |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0251%20-%200500/0459.py) |
 
@@ -167,7 +167,7 @@
 | `2243` | [Calculate Digit Sum of a String](https://leetcode.com/problems/calculate-digit-sum-of-a-string/)                                       |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/2001%20-%202xxx/2243.py) |
 | `2293` | [Min Max Game](https://leetcode.com/problems/min-max-game/)                                                                             |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/2001%20-%202xxx/2293.py) |
 | `2319` | [Check if Matrix Is X-Matrix](https://leetcode.com/problems/check-if-matrix-is-x-matrix/)                                               |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/2001%20-%202xxx/2319.py) |
-| `2326` | [Spiral Matrix IV](https://leetcode.com/problems/spiral-matrix-iv/)                                                                     |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/2001%20-%202xxx/2326.py) |
+| `2326` | [Spiral Matrix IV](https://leetcode.com/problems/spiral-matrix-iv/)                                                                     | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/2001%20-%202xxx/2326.py) |
 | `2347` | [Best Poker Hand](https://leetcode.com/problems/best-poker-hand/)                                                                       |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/2001%20-%202xxx/2347.py) |
 | `2373` | [Largest Local Values in a Matrix](https://leetcode.com/problems/largest-local-values-in-a-matrix/)                                     |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/2001%20-%202xxx/2373.py) |
 | `2390` | [Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/)                                             | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/2001%20-%202xxx/2390.py) |
@@ -175,7 +175,7 @@
 | `2469` | [Convert the Temperature](https://leetcode.com/problems/convert-the-temperature/)                                                       |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/2001%20-%202xxx/2469.py) |
 | `2525` | [Categorize Box According to Criteria](https://leetcode.com/problems/categorize-box-according-to-criteria/)                             |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/2001%20-%202xxx/2525.py) |
 | `2660` | [Determine the Winner of a Bowling Game](https://leetcode.com/problems/determine-the-winner-of-a-bowling-game/)                         |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/2001%20-%202xxx/2660.py) |
-| `2679` | [Sum in a Matrix](https://leetcode.com/problems/sum-in-a-matrix/)                                                                       |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/2001%20-%202xxx/2679.py) |
+| `2679` | [Sum in a Matrix](https://leetcode.com/problems/sum-in-a-matrix/)                                                                       | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/2001%20-%202xxx/2679.py) |
 | `2716` | [Minimize String Length](https://leetcode.com/problems/minimize-string-length/)                                                         |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/2001%20-%202xxx/2716.py) |
 | `2718` | [Sum of Matrix After Queries](https://leetcode.com/problems/sum-of-matrix-after-queries/)                                               | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/2001%20-%202xxx/2718.py) |
 | `2769` | [Find the Maximum Achievable Number](https://leetcode.com/problems/find-the-maximum-achievable-number/)                                 |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/2001%20-%202xxx/2769.py) |

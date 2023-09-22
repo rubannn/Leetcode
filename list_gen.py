@@ -4,7 +4,7 @@ import os
 import re
 
 
-lnk = 'https://leetcode.com/problems/find-all-duplicates-in-an-array/'
+lnk = 'https://leetcode.com/problems/spiral-matrix-iv/'
 
 
 def get_task_data(url):
@@ -99,6 +99,7 @@ solved = {'Easy': -1, 'Medium': -1, 'Hard': -1}
 pattern = r"\d{4}\.(py|sql)"
 regex = re.compile(pattern)
 names_in_md = []
+
 for cont in content:
     match = regex.search(cont)
     if match:
@@ -106,6 +107,7 @@ for cont in content:
     for kind in solved.keys():
         if f"{kind}}}$" in cont:
             solved[kind] += 1
+
 
 solved['Total'] = sum(solved.values())
 content[4] = f"|{' | '.join(f'**{v}**' for k, v in solved.items())}|\n"
