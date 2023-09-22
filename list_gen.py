@@ -4,7 +4,7 @@ import os
 import re
 
 
-lnk = 'https://leetcode.com/problems/minimize-string-length/'
+lnk = 'https://leetcode.com/problems/is-subsequence/'
 
 
 def get_task_data(url):
