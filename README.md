@@ -2,7 +2,7 @@
 
 | ${\color{green}Easy}$ | ${\color{orange}Medium}$ | ${\color{red}Hard}$ | ${\color{black}Total}$ |
 | :-------------------: | :----------------------: | :-----------------: | :--------------------: |
-|        **83**         |          **54**          |        **5**        |        **142**         |
+|        **85**         |          **54**          |        **5**        |        **144**         |
 
 > ### 0001 - 0250   |
 >
@@ -39,6 +39,8 @@
 | `0077` | [Combinations](https://leetcode.com/problems/combinations/)                                                   | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0077.py)  |
 | `0081` | [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)         | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0081.py)  |
 | `0083` | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)       |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0083.py)  |
+| `0118` | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)                                          |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0118.py)  |
+| `0119` | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)                                    |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0119.py)  |
 | `0125` | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)                                           |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0125.py)  |
 | `0137` | [Single Number II](https://leetcode.com/problems/single-number-ii/)                                           | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0137.py)  |
 | `0139` | [Word Break](https://leetcode.com/problems/word-break/)                                                       | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0139.py)  |

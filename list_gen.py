@@ -4,7 +4,7 @@ import os
 import re
 
 
-lnk = 'https://leetcode.com/problems/is-subsequence/'
+lnk = 'https://leetcode.com/problems/pascals-triangle-ii/'
 
 
 def get_task_data(url):
