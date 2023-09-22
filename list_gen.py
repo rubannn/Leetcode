@@ -1,7 +1,10 @@
 import requests
 from pathlib import Path
+import os
+import re
 
-lnk = 'https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/'
+
+lnk = 'https://leetcode.com/problems/add-binary/'
 
 
 def get_task_data(url):
@@ -92,14 +95,34 @@ with open(Path("README.md"), "r") as f:
     content = f.readlines()
 
 solved = {'Easy': -1, 'Medium': -1, 'Hard': -1}
-for c in content:
+
+pattern = r"\d{4}\.(py|sql)"
+regex = re.compile(pattern)
+names_in_md = []
+for cont in content:
+    match = regex.search(cont)
+    if match:
+        names_in_md.append(match.group(0))
     for kind in solved.keys():
-        if f"{kind}}}$" in c:
+        if f"{kind}}}$" in cont:
             solved[kind] += 1
 
 solved['Total'] = sum(solved.values())
 content[4] = f"|{' | '.join(f'**{v}**' for k, v in solved.items())}|\n"
 
-Path("README.md").write_text(''.join(content))
 
+folder = os.getcwd()
+total_files = 0
+names_real = []
+for root, dirs, files in os.walk(folder):
+    if ' - ' in root:
+        total_files += len(files)
+        names_real += files
+
+if solved['Total'] != total_files:
+    print(f"\tWarning not all files sync with Git! \
+          \n\t\t[Lost {solved['Total'] - total_files} files...]\
+          \n\t\t{list(set(names_in_md) - set(names_real))}")
+
+Path("README.md").write_text(''.join(content))
 print(task, solved, sep='\n')
