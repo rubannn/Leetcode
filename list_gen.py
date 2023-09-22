@@ -4,7 +4,7 @@ import os
 import re
 
 
-lnk = 'https://leetcode.com/problems/add-binary/'
+lnk = 'https://leetcode.com/problems/minimize-string-length/'
 
 
 def get_task_data(url):
