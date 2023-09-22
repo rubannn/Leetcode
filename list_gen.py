@@ -4,7 +4,7 @@ import os
 import re
 
 
-lnk = 'https://leetcode.com/problems/find-triangular-sum-of-an-array/'
+lnk = 'https://leetcode.com/problems/calculate-digit-sum-of-a-string/'
 
 
 def get_task_data(url):
