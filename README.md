@@ -2,7 +2,7 @@
 
 | ${\color{green}Easy}$ | ${\color{orange}Medium}$ | ${\color{red}Hard}$ | ${\color{black}Total}$ |
 | :-------------------: | :----------------------: | :-----------------: | :--------------------: |
-|        **101**        |          **58**          |        **5**        |        **164**         |
+|        **108**        |          **58**          |        **5**        |        **171**         |
 
 > ### 0001 - 0250   |
 >
@@ -111,23 +111,30 @@
 
 > ### 0501 - 0750
 >
-| Num    | Task name                                                                                           |        Difficulty        |                               Code                                |
-| ------ | --------------------------------------------------------------------------------------------------- | :----------------------: | :---------------------------------------------------------------: |
-| `0476` | [Number Complement](https://leetcode.com/problems/number-complement/)                               |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0251%20-%200500/0476.py)  |
-| `0482` | [License Key Formatting](https://leetcode.com/problems/license-key-formatting/)                     |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0251%20-%200500/0482.py)  |
-| `0492` | [Construct the Rectangle](https://leetcode.com/problems/construct-the-rectangle/)                   |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0251%20-%200500/0492.py)  |
-| `0504` | [Base 7](https://leetcode.com/problems/base-7/)                                                     |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0501%20-%200750/0504.py)  |
-| `0518` | [Coin Change II](https://leetcode.com/problems/coin-change-ii/)                                     | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0501%20-%200750/0518.py)  |
-| `0598` | [Range Addition II](https://leetcode.com/problems/range-addition-ii/)                               |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0501%20-%200750/0598.py)  |
-| `0599` | [Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists/)     |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0501%20-%200750/0599.py)  |
-| `0608` | [Tree Node](https://leetcode.com/problems/tree-node/)                                               | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0501%20-%200750/0608.sql) |
-| `0610` | [Triangle Judgement](https://leetcode.com/problems/triangle-judgement/)                             |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0501%20-%200750/0610.sql) |
-| `0620` | [Not Boring Movies](https://leetcode.com/problems/not-boring-movies/)                               |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0501%20-%200750/0620.sql) |
-| `0628` | [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/) |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0501%20-%200750/0628.py)  |
-| `0645` | [Set Mismatch](https://leetcode.com/problems/set-mismatch/)                                         |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0501%20-%200750/0645.py)  |
-| `0646` | [Maximum Length of Pair Chain](https://leetcode.com/problems/maximum-length-of-pair-chain/)         | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0501%20-%200750/0646.py)  |
-| `0682` | [Baseball Game](https://leetcode.com/problems/baseball-game/)                                       |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0501%20-%200750/0682.py)  |
-| `0728` | [Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/)                       |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0501%20-%200750/0728.py)  |
+| Num    | Task name                                                                                                                     |        Difficulty        |                               Code                                |
+| ------ | ----------------------------------------------------------------------------------------------------------------------------- | :----------------------: | :---------------------------------------------------------------: |
+| `0476` | [Number Complement](https://leetcode.com/problems/number-complement/)                                                         |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0251%20-%200500/0476.py)  |
+| `0482` | [License Key Formatting](https://leetcode.com/problems/license-key-formatting/)                                               |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0251%20-%200500/0482.py)  |
+| `0492` | [Construct the Rectangle](https://leetcode.com/problems/construct-the-rectangle/)                                             |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0251%20-%200500/0492.py)  |
+| `0504` | [Base 7](https://leetcode.com/problems/base-7/)                                                                               |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0501%20-%200750/0504.py)  |
+| `0509` | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)                                                           |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0501%20-%200750/0509.py)  |
+| `0511` | [Game Play Analysis I](https://leetcode.com/problems/game-play-analysis-i/)                                                   |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0501%20-%200750/0511.sql) |
+| `0518` | [Coin Change II](https://leetcode.com/problems/coin-change-ii/)                                                               | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0501%20-%200750/0518.py)  |
+| `0557` | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/)                                 |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0501%20-%200750/0557.py)  |
+| `0566` | [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/)                                                       |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0501%20-%200750/0566.py)  |
+| `0584` | [Find Customer Referee](https://leetcode.com/problems/find-customer-referee/)                                                 |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0501%20-%200750/0584.sql) |
+| `0586` | [Customer Placing the Largest Number of Orders](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/) |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0501%20-%200750/0586.sql) |
+| `0595` | [Big Countries](https://leetcode.com/problems/big-countries/)                                                                 |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0501%20-%200750/0595.sql) |
+| `0598` | [Range Addition II](https://leetcode.com/problems/range-addition-ii/)                                                         |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0501%20-%200750/0598.py)  |
+| `0599` | [Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists/)                               |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0501%20-%200750/0599.py)  |
+| `0608` | [Tree Node](https://leetcode.com/problems/tree-node/)                                                                         | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0501%20-%200750/0608.sql) |
+| `0610` | [Triangle Judgement](https://leetcode.com/problems/triangle-judgement/)                                                       |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0501%20-%200750/0610.sql) |
+| `0620` | [Not Boring Movies](https://leetcode.com/problems/not-boring-movies/)                                                         |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0501%20-%200750/0620.sql) |
+| `0628` | [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/)                           |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0501%20-%200750/0628.py)  |
+| `0645` | [Set Mismatch](https://leetcode.com/problems/set-mismatch/)                                                                   |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0501%20-%200750/0645.py)  |
+| `0646` | [Maximum Length of Pair Chain](https://leetcode.com/problems/maximum-length-of-pair-chain/)                                   | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0501%20-%200750/0646.py)  |
+| `0682` | [Baseball Game](https://leetcode.com/problems/baseball-game/)                                                                 |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0501%20-%200750/0682.py)  |
+| `0728` | [Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/)                                                 |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0501%20-%200750/0728.py)  |
 
 > ### 0751 - 1000
 >
