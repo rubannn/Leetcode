@@ -2,7 +2,7 @@
 
 | ${\color{green}Easy}$ | ${\color{orange}Medium}$ | ${\color{red}Hard}$ | ${\color{black}Total}$ |
 | :-------------------: | :----------------------: | :-----------------: | :--------------------: |
-|        **135**        |          **58**          |        **5**        |        **198**         |
+|        **139**        |          **58**          |        **5**        |        **202**         |
 
 > ### 0001 - 0250   |
 >
@@ -213,6 +213,7 @@
 | ------ | --------------------------------------------------------------------------------------------------------------------------------------- | :----------------------: | :--------------------------------------------------------------: |
 | `2119` | [A Number After a Double Reversal](https://leetcode.com/problems/a-number-after-a-double-reversal/)                                     |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/2001%20-%202xxx/2119.py) |
 | `2133` | [Check if Every Row and Column Contains All Numbers](https://leetcode.com/problems/check-if-every-row-and-column-contains-all-numbers/) |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/2001%20-%202xxx/2133.py) |
+| `2194` | [Cells in a Range on an Excel Sheet](https://leetcode.com/problems/cells-in-a-range-on-an-excel-sheet/)                                 |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/2001%20-%202xxx/2194.py) |
 | `2221` | [Find Triangular Sum of an Array](https://leetcode.com/problems/find-triangular-sum-of-an-array/)                                       | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/2001%20-%202xxx/2221.py) |
 | `2235` | [Add Two Integers](https://leetcode.com/problems/add-two-integers/)                                                                     |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/2001%20-%202xxx/2235.py) |
 | `2243` | [Calculate Digit Sum of a String](https://leetcode.com/problems/calculate-digit-sum-of-a-string/)                                       |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/2001%20-%202xxx/2243.py) |
@@ -225,6 +226,9 @@
 | `2413` | [Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple/)                                                         |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/2001%20-%202xxx/2413.py) |
 | `2469` | [Convert the Temperature](https://leetcode.com/problems/convert-the-temperature/)                                                       |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/2001%20-%202xxx/2469.py) |
 | `2525` | [Categorize Box According to Criteria](https://leetcode.com/problems/categorize-box-according-to-criteria/)                             |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/2001%20-%202xxx/2525.py) |
+| `2614` | [Prime In Diagonal](https://leetcode.com/problems/prime-in-diagonal/)                                                                   |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/2001%20-%202xxx/2614.py) |
+| `2639` | [Find the Width of Columns of a Grid](https://leetcode.com/problems/find-the-width-of-columns-of-a-grid/)                               |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/2001%20-%202xxx/2639.py) |
+| `2643` | [Row With Maximum Ones](https://leetcode.com/problems/row-with-maximum-ones/)                                                           |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/2001%20-%202xxx/2643.py) |
 | `2660` | [Determine the Winner of a Bowling Game](https://leetcode.com/problems/determine-the-winner-of-a-bowling-game/)                         |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/2001%20-%202xxx/2660.py) |
 | `2679` | [Sum in a Matrix](https://leetcode.com/problems/sum-in-a-matrix/)                                                                       | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/2001%20-%202xxx/2679.py) |
 | `2716` | [Minimize String Length](https://leetcode.com/problems/minimize-string-length/)                                                         |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/2001%20-%202xxx/2716.py) |
