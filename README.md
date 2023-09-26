@@ -2,7 +2,7 @@
 
 | ${\color{green}Easy}$ | ${\color{orange}Medium}$ | ${\color{red}Hard}$ | ${\color{black}Total}$ |
 | :-------------------: | :----------------------: | :-----------------: | :--------------------: |
-|        **145**        |          **58**          |        **5**        |        **208**         |
+|        **145**        |          **59**          |        **5**        |        **209**         |
 
 > ### 0001 - 0250   |
 >
@@ -35,6 +35,7 @@
 | `0061` | [Rotate List](https://leetcode.com/problems/rotate-list/)                                                               | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0061.py)  |
 | `0062` | [Unique Paths](https://leetcode.com/problems/unique-paths/)                                                             | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0062.py)  |
 | `0063` | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)                                                       | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0063.py)  |
+| `0064` | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)                                                     | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0064.py)  |
 | `0065` | [Valid Number](https://leetcode.com/problems/valid-number/)                                                             |   ${\color{red}Hard}$    | [\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0065.py)  |
 | `0066` | [Plus One](https://leetcode.com/problems/plus-one/)                                                                     |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0066.py)  |
 | `0067` | [Add Binary](https://leetcode.com/problems/add-binary/)                                                                 |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0067.py)  |
