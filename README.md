@@ -2,7 +2,7 @@
 
 | ${\color{green}Easy}$ | ${\color{orange}Medium}$ | ${\color{red}Hard}$ | ${\color{black}Total}$ |
 | :-------------------: | :----------------------: | :-----------------: | :--------------------: |
-|        **149**        |          **60**          |        **5**        |        **214**         |
+|        **150**        |          **60**          |        **5**        |        **215**         |
 
 > ### 0001 - 0250   |
 >
@@ -236,6 +236,7 @@
 | `2373` | [Largest Local Values in a Matrix](https://leetcode.com/problems/largest-local-values-in-a-matrix/)                                     |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/2001%20-%202xxx/2373.py)  |
 | `2390` | [Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/)                                             | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/2001%20-%202xxx/2390.py)  |
 | `2413` | [Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple/)                                                         |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/2001%20-%202xxx/2413.py)  |
+| `2427` | [Number of Common Factors](https://leetcode.com/problems/number-of-common-factors/)                                                     |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/2001%20-%202xxx/2427.py)  |
 | `2469` | [Convert the Temperature](https://leetcode.com/problems/convert-the-temperature/)                                                       |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/2001%20-%202xxx/2469.py)  |
 | `2525` | [Categorize Box According to Criteria](https://leetcode.com/problems/categorize-box-according-to-criteria/)                             |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/2001%20-%202xxx/2525.py)  |
 | `2614` | [Prime In Diagonal](https://leetcode.com/problems/prime-in-diagonal/)                                                                   |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/2001%20-%202xxx/2614.py)  |
