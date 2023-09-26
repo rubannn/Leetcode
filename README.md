@@ -2,7 +2,7 @@
 
 | ${\color{green}Easy}$ | ${\color{orange}Medium}$ | ${\color{red}Hard}$ | ${\color{black}Total}$ |
 | :-------------------: | :----------------------: | :-----------------: | :--------------------: |
-|**89** | **58** | **5** | **152**|
+|**98** | **58** | **5** | **161**|
 
 > ### 0001 - 0250   |
 >
@@ -47,17 +47,26 @@
 | `0118` | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)                                          |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0118.py)  |
 | `0119` | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)                                    |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0119.py)  |
 | `0125` | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)                                           |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0125.py)  |
+| `0136` | [Single Number](https://leetcode.com/problems/single-number/) |${\color{green}Easy}$|[\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0136.py) |
 | `0137` | [Single Number II](https://leetcode.com/problems/single-number-ii/)                                           | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0137.py)  |
 | `0139` | [Word Break](https://leetcode.com/problems/word-break/)                                                       | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0139.py)  |
 | `0141` | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)                                         |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0141.py)  |
 | `0160` | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)           |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0160.py)  |
 | `0168` | [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)                           |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0168.py)  |
+| `0169` | [Majority Element](https://leetcode.com/problems/majority-element/) |${\color{green}Easy}$|[\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0169.py) |
+| `0171` | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) |${\color{green}Easy}$|[\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0171.py) |
 | `0172` | [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/)                         | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0172.py)  |
+| `0175` | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) |${\color{green}Easy}$|[\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0175.sql) |
 | `0176` | [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/)                                 | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0176.sql) |
 | `0179` | [Largest Number](https://leetcode.com/problems/largest-number/)                                               | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0179.py)  |
+| `0181` | [Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/) |${\color{green}Easy}$|[\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0181.sql) |
+| `0182` | [Duplicate Emails](https://leetcode.com/problems/duplicate-emails/) |${\color{green}Easy}$|[\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0182.sql) |
+| `0183` | [Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/) |${\color{green}Easy}$|[\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0183.sql) |
 | `0189` | [Rotate Array](https://leetcode.com/problems/rotate-array/)                                                   | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0189.py)  |
 | `0190` | [Reverse Bits](https://leetcode.com/problems/reverse-bits/)                                                   |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0190.py)  |
 | `0191` | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)                                           |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0191.py)  |
+| `0196` | [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/) |${\color{green}Easy}$|[\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0196.sql) |
+| `0197` | [Rising Temperature](https://leetcode.com/problems/rising-temperature/) |${\color{green}Easy}$|[\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0197.sql) |
 | `0202` | [Happy Number](https://leetcode.com/problems/happy-number/)                                                   |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0202.py)  |
 | `0203` | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)                     |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0203.py)  |
 | `0205` | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)                                       |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0205.py)  |
