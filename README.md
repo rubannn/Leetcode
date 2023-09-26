@@ -2,7 +2,7 @@
 
 | ${\color{green}Easy}$ | ${\color{orange}Medium}$ | ${\color{red}Hard}$ | ${\color{black}Total}$ |
 | :-------------------: | :----------------------: | :-----------------: | :--------------------: |
-|**121** | **58** | **5** | **184**|
+|        **126**        |          **58**          |        **5**        |        **189**         |
 
 > ### 0001 - 0250   |
 >
@@ -173,17 +173,22 @@
 | `1185` | [Day of the Week](https://leetcode.com/problems/day-of-the-week/)                                                                                   |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/1001%20-%202000/1185.py)  |
 | `1209` | [Remove All Adjacent Duplicates in String II](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/)                           | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/1001%20-%202000/1209.py)  |
 | `1252` | [Cells with Odd Values in a Matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/)                                               |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/1001%20-%202000/1252.py)  |
-| `1260` | [Shift 2D Grid](https://leetcode.com/problems/shift-2d-grid/) |${\color{green}Easy}$|[\</code\>](/rubannn/Leetcode/tree/main/1001%20-%202000/1260.py) |
+| `1260` | [Shift 2D Grid](https://leetcode.com/problems/shift-2d-grid/)                                                                                       |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/1001%20-%202000/1260.py)  |
 | `1275` | [Find Winner on a Tic Tac Toe Game](https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game/)                                               |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/1001%20-%202000/1275.py)  |
-| `1281` | [Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/) |${\color{green}Easy}$|[\</code\>](/rubannn/Leetcode/tree/main/1001%20-%202000/1281.py) |
+| `1281` | [Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)         |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/1001%20-%202000/1281.py)  |
 | `1282` | [Group the People Given the Group Size They Belong To](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/)         | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/1001%20-%202000/1282.py)  |
 | `1290` | [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/)               |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/1001%20-%202000/1290.py)  |
 | `1314` | [Matrix Block Sum](https://leetcode.com/problems/matrix-block-sum/)                                                                                 | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/1001%20-%202000/1314.py)  |
-| `1323` | [Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/) |${\color{green}Easy}$|[\</code\>](/rubannn/Leetcode/tree/main/1001%20-%202000/1323.py) |
+| `1323` | [Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/)                                                                               |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/1001%20-%202000/1323.py)  |
 | `1337` | [The K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/)                                                     |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/1001%20-%202000/1337.py)  |
 | `1351` | [Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/)                               |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/1001%20-%202000/1351.py)  |
+| `1365` | [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)         |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/1001%20-%202000/1365.py)  |
+| `1380` | [Lucky Numbers in a Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix/)                                                               |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/1001%20-%202000/1380.py)  |
 | `1393` | [Capital Gain/Loss](https://leetcode.com/problems/capital-gainloss/)                                                                                | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/1001%20-%202000/1393.sql) |
+| `1407` | [Top Travellers](https://leetcode.com/problems/top-travellers/)                                                                                     |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/1001%20-%202000/1407.sql) |
 | `1408` | [String Matching in an Array](https://leetcode.com/problems/string-matching-in-an-array/)                                                           |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/1001%20-%202000/1408.py)  |
+| `1480` | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)                                                                   |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/1001%20-%202000/1480.py)  |
+| `1484` | [Group Sold Products By The Date](https://leetcode.com/problems/group-sold-products-by-the-date/)                                                   |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/1001%20-%202000/1484.sql) |
 | `1512` | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)                                                                         |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/1001%20-%202000/1512.py)  |
 | `1598` | [Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder/)                                                                             |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/1001%20-%202000/1598.py)  |
 | `1647` | [Minimum Deletions to Make Character Frequencies Unique](https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/)     | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/1001%20-%202000/1647.py)  |
