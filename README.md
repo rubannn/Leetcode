@@ -2,7 +2,7 @@
 
 | ${\color{green}Easy}$ | ${\color{orange}Medium}$ | ${\color{red}Hard}$ | ${\color{black}Total}$ |
 | :-------------------: | :----------------------: | :-----------------: | :--------------------: |
-|        **146**        |          **59**          |        **5**        |        **210**         |
+|        **146**        |          **60**          |        **5**        |        **211**         |
 
 > ### 0001 - 0250   |
 >
@@ -115,6 +115,7 @@
 >
 | Num    | Task name                                                                                                                     |        Difficulty        |                               Code                                |
 | ------ | ----------------------------------------------------------------------------------------------------------------------------- | :----------------------: | :---------------------------------------------------------------: |
+| `0468` | [Validate IP Address](https://leetcode.com/problems/validate-ip-address/)                                                     | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0251%20-%200500/0468.py)  |
 | `0476` | [Number Complement](https://leetcode.com/problems/number-complement/)                                                         |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0251%20-%200500/0476.py)  |
 | `0482` | [License Key Formatting](https://leetcode.com/problems/license-key-formatting/)                                               |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0251%20-%200500/0482.py)  |
 | `0492` | [Construct the Rectangle](https://leetcode.com/problems/construct-the-rectangle/)                                             |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0251%20-%200500/0492.py)  |

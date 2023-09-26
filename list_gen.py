@@ -4,7 +4,7 @@ import os
 import re
 
 
-lnk = 'https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/'
+lnk = "https://leetcode.com/problems/validate-ip-address/"
 
 
 def get_task_data(url):
