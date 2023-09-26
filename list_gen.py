@@ -4,7 +4,7 @@ import os
 import re
 
 
-lnk = "https://leetcode.com/problems/validate-ip-address/"
+lnk = "https://leetcode.com/problems/find-greatest-common-divisor-of-array/"
 
 
 def get_task_data(url):
