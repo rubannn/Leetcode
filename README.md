@@ -2,7 +2,7 @@
 
 | ${\color{green}Easy}$ | ${\color{orange}Medium}$ | ${\color{red}Hard}$ | ${\color{black}Total}$ |
 | :-------------------: | :----------------------: | :-----------------: | :--------------------: |
-|        **139**        |          **58**          |        **5**        |        **202**         |
+|        **140**        |          **58**          |        **5**        |        **203**         |
 
 > ### 0001 - 0250   |
 >
@@ -211,6 +211,7 @@
 >
 | Num    | Task name                                                                                                                               |        Difficulty        |                               Code                               |
 | ------ | --------------------------------------------------------------------------------------------------------------------------------------- | :----------------------: | :--------------------------------------------------------------: |
+| `2022` | [Convert 1D Array Into 2D Array](https://leetcode.com/problems/convert-1d-array-into-2d-array/)                                         |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/2001%20-%202xxx/2022.py) |
 | `2119` | [A Number After a Double Reversal](https://leetcode.com/problems/a-number-after-a-double-reversal/)                                     |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/2001%20-%202xxx/2119.py) |
 | `2133` | [Check if Every Row and Column Contains All Numbers](https://leetcode.com/problems/check-if-every-row-and-column-contains-all-numbers/) |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/2001%20-%202xxx/2133.py) |
 | `2194` | [Cells in a Range on an Excel Sheet](https://leetcode.com/problems/cells-in-a-range-on-an-excel-sheet/)                                 |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/2001%20-%202xxx/2194.py) |
