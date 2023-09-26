@@ -2,7 +2,7 @@
 
 | ${\color{green}Easy}$ | ${\color{orange}Medium}$ | ${\color{red}Hard}$ | ${\color{black}Total}$ |
 | :-------------------: | :----------------------: | :-----------------: | :--------------------: |
-|        **108**        |          **58**          |        **5**        |        **171**         |
+|        **113**        |          **58**          |        **5**        |        **176**         |
 
 > ### 0001 - 0250   |
 >
@@ -127,9 +127,11 @@
 | `0595` | [Big Countries](https://leetcode.com/problems/big-countries/)                                                                 |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0501%20-%200750/0595.sql) |
 | `0598` | [Range Addition II](https://leetcode.com/problems/range-addition-ii/)                                                         |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0501%20-%200750/0598.py)  |
 | `0599` | [Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists/)                               |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0501%20-%200750/0599.py)  |
+| `0607` | [Sales Person](https://leetcode.com/problems/sales-person/)                                                                   |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0501%20-%200750/0607.sql) |
 | `0608` | [Tree Node](https://leetcode.com/problems/tree-node/)                                                                         | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0501%20-%200750/0608.sql) |
 | `0610` | [Triangle Judgement](https://leetcode.com/problems/triangle-judgement/)                                                       |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0501%20-%200750/0610.sql) |
 | `0620` | [Not Boring Movies](https://leetcode.com/problems/not-boring-movies/)                                                         |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0501%20-%200750/0620.sql) |
+| `0627` | [Swap Salary](https://leetcode.com/problems/swap-salary/)                                                                     |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0501%20-%200750/0627.sql) |
 | `0628` | [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/)                           |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0501%20-%200750/0628.py)  |
 | `0645` | [Set Mismatch](https://leetcode.com/problems/set-mismatch/)                                                                   |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0501%20-%200750/0645.py)  |
 | `0646` | [Maximum Length of Pair Chain](https://leetcode.com/problems/maximum-length-of-pair-chain/)                                   | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0501%20-%200750/0646.py)  |
@@ -140,6 +142,7 @@
 >
 | Num    | Task name                                                                                         |        Difficulty        |                               Code                               |
 | ------ | ------------------------------------------------------------------------------------------------- | :----------------------: | :--------------------------------------------------------------: |
+| `0766` | [Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/)                                 |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0751%20-%201000/0766.py) |
 | `0767` | [Reorganize String](https://leetcode.com/problems/reorganize-string/)                             | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0751%20-%201000/0767.py) |
 | `0788` | [Rotated Digits](https://leetcode.com/problems/rotated-digits/)                                   | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0751%20-%201000/0788.py) |
 | `0796` | [Rotate String](https://leetcode.com/problems/rotate-string/)                                     |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0751%20-%201000/0796.py) |
@@ -148,6 +151,7 @@
 | `0836` | [Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap/)                             |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0751%20-%201000/0836.py) |
 | `0844` | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)               |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0751%20-%201000/0844.py) |
 | `0852` | [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)   | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0751%20-%201000/0852.py) |
+| `0867` | [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)                               |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0751%20-%201000/0867.py) |
 | `0876` | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)             |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0751%20-%201000/0876.py) |
 | `0885` | [Spiral Matrix III](https://leetcode.com/problems/spiral-matrix-iii/)                             | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0751%20-%201000/0885.py) |
 
@@ -156,6 +160,7 @@
 | Num    | Task name                                                                                                                                       |        Difficulty        |                               Code                                |
 | ------ | ----------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------: | :---------------------------------------------------------------: |
 | `0896` | [Monotonic Array](https://leetcode.com/problems/monotonic-array/)                                                                               |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0751%20-%201000/0896.py)  |
+| `0914` | [X of a Kind in a Deck of Cards](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/)                                                 |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0751%20-%201000/0914.py)  |
 | `0985` | [Sum of Even Numbers After Queries](https://leetcode.com/problems/sum-of-even-numbers-after-queries/)                                           | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0751%20-%201000/0985.py)  |
 | `1030` | [Matrix Cells in Distance Order](https://leetcode.com/problems/matrix-cells-in-distance-order/)                                                 |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/1001%20-%202000/1030.py)  |
 | `1047` | [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)                             |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/1001%20-%202000/1047.py)  |
