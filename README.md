@@ -2,7 +2,7 @@
 
 | ${\color{green}Easy}$ | ${\color{orange}Medium}$ | ${\color{red}Hard}$ | ${\color{black}Total}$ |
 | :-------------------: | :----------------------: | :-----------------: | :--------------------: |
-|        **84**         |          **58**          |        **5**        |        **147**         |
+|**89** | **58** | **5** | **152**|
 
 > ### 0001 - 0250   |
 >
@@ -13,9 +13,12 @@
 | `0004` | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)                     |   ${\color{red}Hard}$    | [\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0004.py)  |
 | `0006` | [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/)                                         | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0006.py)  |
 | `0007` | [Reverse Integer](https://leetcode.com/problems/reverse-integer/)                                             | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0007.py)  |
+| `0009` | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) |${\color{green}Easy}$|[\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0009.py) |
 | `0012` | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/)                                           | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0012.py)  |
 | `0013` | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)                                           |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0013.py)  |
 | `0017` | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0017.py)  |
+| `0020` | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) |${\color{green}Easy}$|[\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0020.py) |
+| `0021` | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) |${\color{green}Easy}$|[\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0021.py) |
 | `0023` | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)                                   |   ${\color{red}Hard}$    | [\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0023.py)  |
 | `0026` | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)     |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0026.py)  |
 | `0027` | [Remove Element](https://leetcode.com/problems/remove-element/)                                               |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0027.py)  |
@@ -27,11 +30,13 @@
 | `0049` | [Group Anagrams](https://leetcode.com/problems/group-anagrams/)                                               | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0049.py)  |
 | `0050` | [Pow(x, n)](https://leetcode.com/problems/powx-n/)                                                            | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0050.py)  |
 | `0054` | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)                                                 | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0054.py)  |
+| `0058` | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) |${\color{green}Easy}$|[\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0058.py) |
 | `0059` | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)                                           | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0059.py)  |
 | `0061` | [Rotate List](https://leetcode.com/problems/rotate-list/)                                                     | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0061.py)  |
 | `0062` | [Unique Paths](https://leetcode.com/problems/unique-paths/)                                                   | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0062.py)  |
 | `0063` | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)                                             | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0063.py)  |
 | `0065` | [Valid Number](https://leetcode.com/problems/valid-number/)                                                   |   ${\color{red}Hard}$    | [\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0065.py)  |
+| `0066` | [Plus One](https://leetcode.com/problems/plus-one/) |${\color{green}Easy}$|[\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0066.py) |
 | `0067` | [Add Binary](https://leetcode.com/problems/add-binary/)                                                       |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0067.py)  |
 | `0068` | [Text Justification](https://leetcode.com/problems/text-justification/)                                       |   ${\color{red}Hard}$    | [\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0068.py)  |
 | `0070` | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)                                             |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0070.py)  |
