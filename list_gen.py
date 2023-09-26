@@ -4,7 +4,7 @@ import os
 import re
 
 
-lnk = "https://leetcode.com/problems/find-greatest-common-divisor-of-array/"
+lnk = "https://leetcode.com/problems/greatest-common-divisor-of-strings/"
 
 
 def get_task_data(url):

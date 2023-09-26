@@ -2,7 +2,7 @@
 
 | ${\color{green}Easy}$ | ${\color{orange}Medium}$ | ${\color{red}Hard}$ | ${\color{black}Total}$ |
 | :-------------------: | :----------------------: | :-----------------: | :--------------------: |
-|        **147**        |          **60**          |        **5**        |        **212**         |
+|        **148**        |          **60**          |        **5**        |        **213**         |
 
 > ### 0001 - 0250   |
 >
@@ -168,6 +168,7 @@
 | `1030` | [Matrix Cells in Distance Order](https://leetcode.com/problems/matrix-cells-in-distance-order/)                                                     |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/1001%20-%202000/1030.py)  |
 | `1047` | [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)                                 |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/1001%20-%202000/1047.py)  |
 | `1050` | [Actors and Directors Who Cooperated At Least Three Times](https://leetcode.com/problems/actors-and-directors-who-cooperated-at-least-three-times/) |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/1001%20-%202000/1050.sql) |
+| `1071` | [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/)                                             |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/1001%20-%202000/1071.py)  |
 | `1084` | [Sales Analysis III](https://leetcode.com/problems/sales-analysis-iii/)                                                                             |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/1001%20-%202000/1084.sql) |
 | `1137` | [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)                                                                     |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/1001%20-%202000/1137.py)  |
 | `1141` | [User Activity for the Past 30 Days I](https://leetcode.com/problems/user-activity-for-the-past-30-days-i/)                                         |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/1001%20-%202000/1141.sql) |
