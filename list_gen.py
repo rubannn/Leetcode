@@ -4,7 +4,7 @@ import os
 import re
 
 
-lnk = 'https://leetcode.com/problems/minimum-path-sum/'
+lnk = 'https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/'
 
 
 def get_task_data(url):

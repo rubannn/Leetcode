@@ -2,7 +2,7 @@
 
 | ${\color{green}Easy}$ | ${\color{orange}Medium}$ | ${\color{red}Hard}$ | ${\color{black}Total}$ |
 | :-------------------: | :----------------------: | :-----------------: | :--------------------: |
-|        **145**        |          **59**          |        **5**        |        **209**         |
+|        **146**        |          **59**          |        **5**        |        **210**         |
 
 > ### 0001 - 0250   |
 >
@@ -83,32 +83,33 @@
 
 > ### 0251 - 0500
 >
-| Num    | Task name                                                                                                         |        Difficulty        |                               Code                               |
-| ------ | ----------------------------------------------------------------------------------------------------------------- | :----------------------: | :--------------------------------------------------------------: |
-| `0258` | [Add Digits](https://leetcode.com/problems/add-digits/)                                                           |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0251%20-%200500/0258.py) |
-| `0260` | [Single Number III](https://leetcode.com/problems/single-number-iii/)                                             | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0251%20-%200500/0260.py) |
-| `0263` | [Ugly Number](https://leetcode.com/problems/ugly-number/)                                                         |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0251%20-%200500/0263.py) |
-| `0264` | [Ugly Number II](https://leetcode.com/problems/ugly-number-ii/)                                                   | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0251%20-%200500/0264.py) |
-| `0268` | [Missing Number](https://leetcode.com/problems/missing-number/)                                                   |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0251%20-%200500/0268.py) |
-| `0273` | [Integer to English Words](https://leetcode.com/problems/integer-to-english-words/)                               |   ${\color{red}Hard}$    | [\</code\>](/rubannn/Leetcode/tree/main/0251%20-%200500/0273.py) |
-| `0283` | [Move Zeroes](https://leetcode.com/problems/move-zeroes/)                                                         |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0251%20-%200500/0283.py) |
-| `0287` | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)                             | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0251%20-%200500/0287.py) |
-| `0299` | [Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/)                                                   | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0251%20-%200500/0299.py) |
-| `0326` | [Power of Three](https://leetcode.com/problems/power-of-three/)                                                   |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0251%20-%200500/0326.py) |
-| `0338` | [Counting Bits](https://leetcode.com/problems/counting-bits/)                                                     |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0251%20-%200500/0338.py) |
-| `0342` | [Power of Four](https://leetcode.com/problems/power-of-four/)                                                     |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0251%20-%200500/0342.py) |
-| `0357` | [Count Numbers with Unique Digits](https://leetcode.com/problems/count-numbers-with-unique-digits/)               | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0251%20-%200500/0357.py) |
-| `0371` | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)                                         | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0251%20-%200500/0371.py) |
-| `0378` | [Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/) | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0251%20-%200500/0378.py) |
-| `0383` | [Ransom Note](https://leetcode.com/problems/ransom-note/)                                                         |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0251%20-%200500/0383.py) |
-| `0389` | [Find the Difference](https://leetcode.com/problems/find-the-difference/)                                         |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0251%20-%200500/0389.py) |
-| `0392` | [Is Subsequence](https://leetcode.com/problems/is-subsequence/)                                                   |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0251%20-%200500/0392.py) |
-| `0401` | [Binary Watch](https://leetcode.com/problems/binary-watch/)                                                       |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0251%20-%200500/0401.py) |
-| `0412` | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)                                                             |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0251%20-%200500/0412.py) |
-| `0415` | [Add Strings](https://leetcode.com/problems/add-strings/)                                                         |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0251%20-%200500/0415.py) |
-| `0442` | [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)                 | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0251%20-%200500/0442.py) |
-| `0445` | [Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/)                                           | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0251%20-%200500/0445.py) |
-| `0459` | [Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/)                           |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0251%20-%200500/0459.py) |
+| Num    | Task name                                                                                                           |        Difficulty        |                               Code                               |
+| ------ | ------------------------------------------------------------------------------------------------------------------- | :----------------------: | :--------------------------------------------------------------: |
+| `0258` | [Add Digits](https://leetcode.com/problems/add-digits/)                                                             |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0251%20-%200500/0258.py) |
+| `0260` | [Single Number III](https://leetcode.com/problems/single-number-iii/)                                               | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0251%20-%200500/0260.py) |
+| `0263` | [Ugly Number](https://leetcode.com/problems/ugly-number/)                                                           |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0251%20-%200500/0263.py) |
+| `0264` | [Ugly Number II](https://leetcode.com/problems/ugly-number-ii/)                                                     | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0251%20-%200500/0264.py) |
+| `0268` | [Missing Number](https://leetcode.com/problems/missing-number/)                                                     |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0251%20-%200500/0268.py) |
+| `0273` | [Integer to English Words](https://leetcode.com/problems/integer-to-english-words/)                                 |   ${\color{red}Hard}$    | [\</code\>](/rubannn/Leetcode/tree/main/0251%20-%200500/0273.py) |
+| `0283` | [Move Zeroes](https://leetcode.com/problems/move-zeroes/)                                                           |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0251%20-%200500/0283.py) |
+| `0287` | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)                               | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0251%20-%200500/0287.py) |
+| `0299` | [Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/)                                                     | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0251%20-%200500/0299.py) |
+| `0326` | [Power of Three](https://leetcode.com/problems/power-of-three/)                                                     |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0251%20-%200500/0326.py) |
+| `0338` | [Counting Bits](https://leetcode.com/problems/counting-bits/)                                                       |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0251%20-%200500/0338.py) |
+| `0342` | [Power of Four](https://leetcode.com/problems/power-of-four/)                                                       |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0251%20-%200500/0342.py) |
+| `0357` | [Count Numbers with Unique Digits](https://leetcode.com/problems/count-numbers-with-unique-digits/)                 | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0251%20-%200500/0357.py) |
+| `0371` | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)                                           | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0251%20-%200500/0371.py) |
+| `0378` | [Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)   | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0251%20-%200500/0378.py) |
+| `0383` | [Ransom Note](https://leetcode.com/problems/ransom-note/)                                                           |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0251%20-%200500/0383.py) |
+| `0389` | [Find the Difference](https://leetcode.com/problems/find-the-difference/)                                           |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0251%20-%200500/0389.py) |
+| `0392` | [Is Subsequence](https://leetcode.com/problems/is-subsequence/)                                                     |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0251%20-%200500/0392.py) |
+| `0401` | [Binary Watch](https://leetcode.com/problems/binary-watch/)                                                         |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0251%20-%200500/0401.py) |
+| `0412` | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)                                                               |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0251%20-%200500/0412.py) |
+| `0415` | [Add Strings](https://leetcode.com/problems/add-strings/)                                                           |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0251%20-%200500/0415.py) |
+| `0442` | [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)                   | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0251%20-%200500/0442.py) |
+| `0445` | [Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/)                                             | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0251%20-%200500/0445.py) |
+| `0448` | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0251%20-%200500/0448.py) |
+| `0459` | [Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/)                             |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0251%20-%200500/0459.py) |
 
 > ### 0501 - 0750
 >
