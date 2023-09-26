@@ -4,7 +4,7 @@ import os
 import re
 
 
-lnk = "https://leetcode.com/problems/greatest-common-divisor-of-strings/"
+lnk = "https://leetcode.com/problems/three-divisors/"
 
 
 def get_task_data(url):

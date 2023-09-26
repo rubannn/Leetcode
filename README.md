@@ -2,7 +2,7 @@
 
 | ${\color{green}Easy}$ | ${\color{orange}Medium}$ | ${\color{red}Hard}$ | ${\color{black}Total}$ |
 | :-------------------: | :----------------------: | :-----------------: | :--------------------: |
-|        **148**        |          **60**          |        **5**        |        **213**         |
+|        **149**        |          **60**          |        **5**        |        **214**         |
 
 > ### 0001 - 0250   |
 >
@@ -219,6 +219,7 @@
 | `1873` | [Calculate Special Bonus](https://leetcode.com/problems/calculate-special-bonus/)                                                       |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/1001%20-%202000/1873.sql) |
 | `1890` | [The Latest Login in 2020](https://leetcode.com/problems/the-latest-login-in-2020/)                                                     |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/1001%20-%202000/1890.sql) |
 | `1929` | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/)                                                         |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/1001%20-%202000/1929.py)  |
+| `1952` | [Three Divisors](https://leetcode.com/problems/three-divisors/)                                                                         |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/1001%20-%202000/1952.py)  |
 | `1965` | [Employees With Missing Information](https://leetcode.com/problems/employees-with-missing-information/)                                 |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/1001%20-%202000/1965.sql) |
 | `1979` | [Find Greatest Common Divisor of Array](https://leetcode.com/problems/find-greatest-common-divisor-of-array/)                           |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/1001%20-%202000/1979.py)  |
 | `2022` | [Convert 1D Array Into 2D Array](https://leetcode.com/problems/convert-1d-array-into-2d-array/)                                         |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/2001%20-%202xxx/2022.py)  |
