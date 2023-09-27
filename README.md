@@ -2,7 +2,7 @@
 
 | ${\color{green}Easy}$ | ${\color{orange}Medium}$ | ${\color{red}Hard}$ | ${\color{black}Total}$ |
 | :-------------------: | :----------------------: | :-----------------: | :--------------------: |
-|        **150**        |          **62**          |        **6**        |        **218**         |
+|        **150**        |          **63**          |        **6**        |        **219**         |
 
 > ### 0001 - 0250   |
 >
@@ -52,6 +52,7 @@
 | `0137` | [Single Number II](https://leetcode.com/problems/single-number-ii/)                                                     | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0137.py)  |
 | `0139` | [Word Break](https://leetcode.com/problems/word-break/)                                                                 | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0139.py)  |
 | `0141` | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)                                                   |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0141.py)  |
+| `0155` | [Min Stack](https://leetcode.com/problems/min-stack/)                                                                   | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0155.py)  |
 | `0160` | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)                     |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0160.py)  |
 | `0168` | [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)                                     |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0168.py)  |
 | `0169` | [Majority Element](https://leetcode.com/problems/majority-element/)                                                     |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0169.py)  |
