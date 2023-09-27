@@ -2,7 +2,7 @@
 
 | ${\color{green}Easy}$ | ${\color{orange}Medium}$ | ${\color{red}Hard}$ | ${\color{black}Total}$ |
 | :-------------------: | :----------------------: | :-----------------: | :--------------------: |
-|        **150**        |          **60**          |        **6**        |        **216**         |
+|        **150**        |          **61**          |        **6**        |        **217**         |
 
 > ### 0001 - 0250   |
 >
@@ -68,6 +68,7 @@
 | `0191` | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)                                                     |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0191.py)  |
 | `0196` | [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/)                                       |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0196.sql) |
 | `0197` | [Rising Temperature](https://leetcode.com/problems/rising-temperature/)                                                 |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0197.sql) |
+| `0200` | [Number of Islands](https://leetcode.com/problems/number-of-islands/)                                                   | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0200.py)  |
 | `0202` | [Happy Number](https://leetcode.com/problems/happy-number/)                                                             |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0202.py)  |
 | `0203` | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)                               |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0203.py)  |
 | `0205` | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)                                                 |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0205.py)  |
