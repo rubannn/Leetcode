@@ -2,7 +2,7 @@
 
 | ${\color{green}Easy}$ | ${\color{orange}Medium}$ | ${\color{red}Hard}$ | ${\color{black}Total}$ |
 | :-------------------: | :----------------------: | :-----------------: | :--------------------: |
-|        **150**        |          **64**          |        **6**        |        **220**         |
+|        **151**        |          **64**          |        **6**        |        **221**         |
 
 > ### 0001 - 0250   |
 >
@@ -167,6 +167,7 @@
 | Num    | Task name                                                                                                                                           |        Difficulty        |                               Code                                |
 | ------ | --------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------: | :---------------------------------------------------------------: |
 | `0896` | [Monotonic Array](https://leetcode.com/problems/monotonic-array/)                                                                                   |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0751%20-%201000/0896.py)  |
+| `0905` | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)                                                                         |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0751%20-%201000/0905.py)  |
 | `0914` | [X of a Kind in a Deck of Cards](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/)                                                     |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0751%20-%201000/0914.py)  |
 | `0985` | [Sum of Even Numbers After Queries](https://leetcode.com/problems/sum-of-even-numbers-after-queries/)                                               | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0751%20-%201000/0985.py)  |
 | `1030` | [Matrix Cells in Distance Order](https://leetcode.com/problems/matrix-cells-in-distance-order/)                                                     |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/1001%20-%202000/1030.py)  |

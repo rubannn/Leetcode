@@ -4,7 +4,7 @@ import os
 import re
 
 
-lnk = "https://leetcode.com/problems/evaluate-reverse-polish-notation/"
+lnk = "https://leetcode.com/problems/sort-array-by-parity/"
 
 
 def get_task_data(url):
