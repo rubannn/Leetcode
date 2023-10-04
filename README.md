@@ -2,7 +2,8 @@
 Python solution of problems from [LeetCode](https://leetcode.com/).
 
 | ${\color{green}Easy}$ | ${\color{orange}Medium}$ | ${\color{red}Hard}$ | ${\color{black}Total}$ |
-|**152** | **65** | **6** | **223**|
+| :-------------------: | :----------------------: | :-----------------: | :--------------------: |
+|        **152**        |          **65**          |        **6**        |        **223**         |
 
 > ### 0001 - 0250   |
 >

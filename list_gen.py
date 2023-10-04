@@ -108,7 +108,7 @@ for cont in content:
             solved[kind] += 1
 
 solved['Total'] = sum(solved.values())
-content[4] = f"|{' | '.join(f'**{v}**' for k, v in solved.items())}|\n"
+content[5] = f"|{' | '.join(f'**{v}**' for k, v in solved.items())}|\n"
 
 folder = os.getcwd()
 total_files = 0
