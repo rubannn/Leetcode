@@ -1,4 +1,5 @@
-# Leetcode solutions
+# Python solution for Leetcode
+Python solution of problems from [LeetCode](https://leetcode.com/).
 
 | ${\color{green}Easy}$ | ${\color{orange}Medium}$ | ${\color{red}Hard}$ | ${\color{black}Total}$ |
 | :-------------------: | :----------------------: | :-----------------: | :--------------------: |
