@@ -4,7 +4,7 @@ import os
 import re
 
 
-lnk = "https://leetcode.com/problems/sort-array-by-parity/"
+lnk = "https://leetcode.com/problems/design-hashmap/"
 
 
 def get_task_data(url):

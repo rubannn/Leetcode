@@ -2,7 +2,7 @@
 
 | ${\color{green}Easy}$ | ${\color{orange}Medium}$ | ${\color{red}Hard}$ | ${\color{black}Total}$ |
 | :-------------------: | :----------------------: | :-----------------: | :--------------------: |
-|        **151**        |          **64**          |        **6**        |        **221**         |
+|        **152**        |          **64**          |        **6**        |        **222**         |
 
 > ### 0001 - 0250   |
 >
@@ -143,6 +143,7 @@
 | `0645` | [Set Mismatch](https://leetcode.com/problems/set-mismatch/)                                                                   |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0501%20-%200750/0645.py)  |
 | `0646` | [Maximum Length of Pair Chain](https://leetcode.com/problems/maximum-length-of-pair-chain/)                                   | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0501%20-%200750/0646.py)  |
 | `0682` | [Baseball Game](https://leetcode.com/problems/baseball-game/)                                                                 |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0501%20-%200750/0682.py)  |
+| `0706` | [Design HashMap](https://leetcode.com/problems/design-hashmap/)                                                               |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0501%20-%200750/0706.py)  |
 | `0728` | [Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/)                                                 |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0501%20-%200750/0728.py)  |
 
 > ### 0751 - 1000
