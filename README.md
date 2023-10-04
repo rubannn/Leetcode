@@ -9,7 +9,7 @@ Python solution of problems from [LeetCode](https://leetcode.com/).
 >
 | Num    | Task name                                                                                                               |        Difficulty        |                               Code                                |
 | ------ | ----------------------------------------------------------------------------------------------------------------------- | :----------------------: | :---------------------------------------------------------------: |
-| `0001` | [Two Sum](https://leetcode.com/problems/two-sum/)                                                                       |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0001.py)  |
+| `0001` | [Two Sum](https://leetcode.com/problems/two-sum/)                                                                       |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0001.py) ![image]({https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue}) |
 | `0002` | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)                                                       | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0002.py)  |
 | `0004` | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)                               |   ${\color{red}Hard}$    | [\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0004.py)  |
 | `0006` | [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/)                                                   | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0006.py)  |
