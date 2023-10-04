@@ -4,7 +4,7 @@ import os
 import re
 
 
-lnk = "https://leetcode.com/problems/design-hashmap/"
+lnk = "https://leetcode.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color/"
 
 
 def get_task_data(url):
