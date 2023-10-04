@@ -4,7 +4,7 @@ import os
 import re
 
 
-lnk = "https://leetcode.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color/"
+lnk = "https://leetcode.com/problems/longest-common-prefix/"
 
 
 def get_task_data(url):
