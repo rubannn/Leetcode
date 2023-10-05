@@ -3,7 +3,7 @@ Python solution of problems from [LeetCode](https://leetcode.com/).
 
 | ${\color{green}Easy}$ | ${\color{orange}Medium}$ | ${\color{red}Hard}$ | ${\color{black}Total}$ |
 | :-------------------: | :----------------------: | :-----------------: | :--------------------: |
-|        **153**        |          **66**          |        **6**        |        **225**         |
+|        **154**        |          **66**          |        **6**        |        **226**         |
 
 > ### 0001 - 0250
 >
@@ -246,6 +246,7 @@ Python solution of problems from [LeetCode](https://leetcode.com/).
 | `2347` | [Best Poker Hand](https://leetcode.com/problems/best-poker-hand/)                                                                                       |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/2001%20-%202xxx/2347.py)  |
 | `2373` | [Largest Local Values in a Matrix](https://leetcode.com/problems/largest-local-values-in-a-matrix/)                                                     |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/2001%20-%202xxx/2373.py)  |
 | `2390` | [Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/)                                                             | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/2001%20-%202xxx/2390.py)  |
+| `2404` | [Most Frequent Even Element](https://leetcode.com/problems/most-frequent-even-element/)                                                                 |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/2001%20-%202xxx/2404.py)  |
 | `2413` | [Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple/)                                                                         |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/2001%20-%202xxx/2413.py)  |
 | `2427` | [Number of Common Factors](https://leetcode.com/problems/number-of-common-factors/)                                                                     |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/2001%20-%202xxx/2427.py)  |
 | `2469` | [Convert the Temperature](https://leetcode.com/problems/convert-the-temperature/)                                                                       |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/2001%20-%202xxx/2469.py)  |
