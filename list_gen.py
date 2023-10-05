@@ -4,7 +4,7 @@ import os
 import re
 
 
-lnk = "https://leetcode.com/problems/majority-element-ii/"
+lnk = "https://leetcode.com/problems/longest-common-prefix/"
 
 
 def get_task_data(url):
@@ -121,7 +121,8 @@ for root, dirs, files in os.walk(folder):
 if solved['Total'] != total_files:
     print(f"\tWarning not all files sync with Git! \
           \n\t\t[Lost {solved['Total'] - total_files} files...]\
-          \n\t\t{list(set(names_in_md) - set(names_real))}")
+          \n\t\tReadme names: {list(set(names_in_md) - set(names_real))}\
+          \n\t\tFiles: {list(set(names_real) - set(names_in_md))}")
 
 Path("README.md").write_text(''.join(content))
 print(task, solved, sep='\n')

@@ -3,7 +3,7 @@ Python solution of problems from [LeetCode](https://leetcode.com/).
 
 | ${\color{green}Easy}$ | ${\color{orange}Medium}$ | ${\color{red}Hard}$ | ${\color{black}Total}$ |
 | :-------------------: | :----------------------: | :-----------------: | :--------------------: |
-|**152** | **66** | **6** | **224**|
+|        **153**        |          **66**          |        **6**        |        **225**         |
 
 > ### 0001 - 0250
 >
@@ -17,6 +17,7 @@ Python solution of problems from [LeetCode](https://leetcode.com/).
 | `0009` | [Palindrome Number](https://leetcode.com/problems/palindrome-number/)                                                   |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0009.py)  |
 | `0012` | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/)                                                     | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0012.py)  |
 | `0013` | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)                                                     |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0013.py)  |
+| `0014` | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)                                           |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0014.py)  |
 | `0017` | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)           | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0017.py)  |
 | `0020` | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)                                                   |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0020.py)  |
 | `0021` | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)                                         |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0021.py)  |
@@ -80,7 +81,7 @@ Python solution of problems from [LeetCode](https://leetcode.com/).
 | `0217` | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)                                                 |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0217.py)  |
 | `0223` | [Rectangle Area](https://leetcode.com/problems/rectangle-area/)                                                         | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0223.py)  |
 | `0225` | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)                             |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0225.py)  |
-| `0229` | [Majority Element II](https://leetcode.com/problems/majority-element-ii/) |${\color{orange}Medium}$|[\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0229.py) |
+| `0229` | [Majority Element II](https://leetcode.com/problems/majority-element-ii/)                                               | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0229.py)  |
 | `0231` | [Power of Two](https://leetcode.com/problems/power-of-two/)                                                             |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0231.py)  |
 | `0234` | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)                                         |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0234.py)  |
 | `0240` | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)                                           | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0240.py)  |
