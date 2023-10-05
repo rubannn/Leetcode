@@ -3,7 +3,7 @@ Python solution of problems from [LeetCode](https://leetcode.com/).
 
 | ${\color{green}Easy}$ | ${\color{orange}Medium}$ | ${\color{red}Hard}$ | ${\color{black}Total}$ |
 | :-------------------: | :----------------------: | :-----------------: | :--------------------: |
-|        **153**        |          **65**          |        **6**        |        **224**         |
+|**152** | **66** | **6** | **224**|
 
 > ### 0001 - 0250
 >
@@ -80,6 +80,7 @@ Python solution of problems from [LeetCode](https://leetcode.com/).
 | `0217` | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)                                                 |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0217.py)  |
 | `0223` | [Rectangle Area](https://leetcode.com/problems/rectangle-area/)                                                         | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0223.py)  |
 | `0225` | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)                             |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0225.py)  |
+| `0229` | [Majority Element II](https://leetcode.com/problems/majority-element-ii/) |${\color{orange}Medium}$|[\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0229.py) |
 | `0231` | [Power of Two](https://leetcode.com/problems/power-of-two/)                                                             |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0231.py)  |
 | `0234` | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)                                         |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0234.py)  |
 | `0240` | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)                                           | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0240.py)  |
