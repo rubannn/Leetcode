@@ -3,7 +3,7 @@ Python solution of problems from [LeetCode](https://leetcode.com/).
 
 | ${\color{green}Easy}$ | ${\color{orange}Medium}$ | ${\color{red}Hard}$ | ${\color{black}Total}$ |
 | :-------------------: | :----------------------: | :-----------------: | :--------------------: |
-|        **154**        |          **66**          |        **6**        |        **226**         |
+|        **154**        |          **67**          |        **6**        |        **227**         |
 
 > ### 0001 - 0250
 >
@@ -116,6 +116,7 @@ Python solution of problems from [LeetCode](https://leetcode.com/).
 | `0442` | [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)                   | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0251%20-%200500/0442.py) |
 | `0445` | [Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/)                                             | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0251%20-%200500/0445.py) |
 | `0448` | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0251%20-%200500/0448.py) |
+| `0451` | [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)                         | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0251%20-%200500/0451.py) |
 | `0459` | [Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/)                             |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0251%20-%200500/0459.py) |
 
 > ### 0501 - 0750
