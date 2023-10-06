@@ -1,6 +1,8 @@
 # https://leetcode.com/problems/n-queens/
 # https://leetcode.com/problems/n-queens-ii/
 
+# https://oeis.org/A000170
+
 def queen_coords(n, x = 1, coords = [], combs = 0):
     for y in range(1, n + 1):
         check = True
