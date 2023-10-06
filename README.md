@@ -3,7 +3,7 @@ Python solution of problems from [LeetCode](https://leetcode.com/).
 
 | ${\color{green}Easy}$ | ${\color{orange}Medium}$ | ${\color{red}Hard}$ | ${\color{black}Total}$ |
 | :-------------------: | :----------------------: | :-----------------: | :--------------------: |
-|        **156**        |          **69**          |        **8**        |        **233**         |
+|        **156**        |          **69**          |        **9**        |        **234**         |
 
 > ### 0001 - 0250
 >
@@ -33,6 +33,7 @@ Python solution of problems from [LeetCode](https://leetcode.com/).
 | `0048` | [Rotate Image](https://leetcode.com/problems/rotate-image/)                                                             | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0048.py)  |
 | `0049` | [Group Anagrams](https://leetcode.com/problems/group-anagrams/)                                                         | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0049.py)  |
 | `0050` | [Pow(x, n)](https://leetcode.com/problems/powx-n/)                                                                      | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0050.py)  |
+| `0051` | [N-Queens](https://leetcode.com/problems/n-queens/)                                                                     |   ${\color{red}Hard}$    | [\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0051.py)  |
 | `0052` | [N-Queens II](https://leetcode.com/problems/n-queens-ii/)                                                               |   ${\color{red}Hard}$    | [\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0052.py)  |
 | `0054` | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)                                                           | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0054.py)  |
 | `0058` | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/)                                               |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0058.py)  |
