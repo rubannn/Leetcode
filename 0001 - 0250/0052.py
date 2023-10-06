@@ -1,3 +1,5 @@
+# https://oeis.org/A000170
+
 class Solution:
     def totalNQueens(self, n: int) -> int:
         def queens(n, x = 1, coords = [], combs = 0):
