@@ -4,7 +4,7 @@ import os
 import re
 
 
-lnk = "https://leetcode.com/problems/n-queens/"
+lnk = "https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/"
 
 
 def get_task_data(url):
