@@ -3,7 +3,7 @@ Python solution of problems from [LeetCode](https://leetcode.com/).
 
 | ${\color{green}Easy}$ | ${\color{orange}Medium}$ | ${\color{red}Hard}$ | ${\color{black}Total}$ |
 | :-------------------: | :----------------------: | :-----------------: | :--------------------: |
-|        **156**        |          **70**          |        **9**        |        **235**         |
+|        **157**        |          **70**          |        **9**        |        **236**         |
 
 > ### 0001 - 0250
 >
@@ -162,6 +162,7 @@ Python solution of problems from [LeetCode](https://leetcode.com/).
 >
 | Num    | Task name                                                                                         |        Difficulty        |                               Code                               |
 | ------ | ------------------------------------------------------------------------------------------------- | :----------------------: | :--------------------------------------------------------------: |
+| `0746` | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)               |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0501%20-%200750/0746.py) |
 | `0766` | [Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/)                                 |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0751%20-%201000/0766.py) |
 | `0767` | [Reorganize String](https://leetcode.com/problems/reorganize-string/)                             | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0751%20-%201000/0767.py) |
 | `0788` | [Rotated Digits](https://leetcode.com/problems/rotated-digits/)                                   | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0751%20-%201000/0788.py) |
