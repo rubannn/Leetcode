@@ -3,7 +3,7 @@ Python solution of problems from [LeetCode](https://leetcode.com/).
 
 | ${\color{green}Easy}$ | ${\color{orange}Medium}$ | ${\color{red}Hard}$ | ${\color{black}Total}$ |
 | :-------------------: | :----------------------: | :-----------------: | :--------------------: |
-|        **157**        |          **70**          |        **9**        |        **236**         |
+|        **157**        |          **71**          |        **9**        |        **237**         |
 
 > ### 0001 - 0250
 >
@@ -29,6 +29,7 @@ Python solution of problems from [LeetCode](https://leetcode.com/).
 | `0035` | [Search Insert Position](https://leetcode.com/problems/search-insert-position/)                                                                   |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0035.py)  |
 | `0036` | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)                                                                                       | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0036.py)  |
 | `0041` | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/)                                                                   |   ${\color{red}Hard}$    | [\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0041.py)  |
+| `0043` | [Multiply Strings](https://leetcode.com/problems/multiply-strings/)                                                                               | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0043.py)  |
 | `0046` | [Permutations](https://leetcode.com/problems/permutations/)                                                                                       | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0046.py)  |
 | `0047` | [Permutations II](https://leetcode.com/problems/permutations-ii/)                                                                                 | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0047.py)  |
 | `0048` | [Rotate Image](https://leetcode.com/problems/rotate-image/)                                                                                       | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0048.py)  |
