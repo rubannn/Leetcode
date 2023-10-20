@@ -4,7 +4,7 @@ import os
 import re
 
 
-lnk = "https://leetcode.com/problems/validate-binary-tree-nodes/"
+lnk = "https://leetcode.com/problems/flatten-nested-list-iterator/"
 
 
 def get_task_data(url):
