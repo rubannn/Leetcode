@@ -3,7 +3,7 @@ Python solution of problems from [LeetCode](https://leetcode.com/).
 
 | ${\color{green}Easy}$ | ${\color{orange}Medium}$ | ${\color{red}Hard}$ | ${\color{black}Total}$ |
 | :-------------------: | :----------------------: | :-----------------: | :--------------------: |
-|        **157**        |          **73**          |        **9**        |        **239**         |
+|        **157**        |          **74**          |        **9**        |        **240**         |
 
 > ### 0001 - 0250
 >
@@ -140,6 +140,7 @@ Python solution of problems from [LeetCode](https://leetcode.com/).
 | `0504` | [Base 7](https://leetcode.com/problems/base-7/)                                                                               |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0501%20-%200750/0504.py)  |
 | `0509` | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)                                                           |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0501%20-%200750/0509.py)  |
 | `0511` | [Game Play Analysis I](https://leetcode.com/problems/game-play-analysis-i/)                                                   |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0501%20-%200750/0511.sql) |
+| `0515` | [Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/)                     | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0501%20-%200750/0515.py)  |
 | `0518` | [Coin Change II](https://leetcode.com/problems/coin-change-ii/)                                                               | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0501%20-%200750/0518.py)  |
 | `0557` | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/)                                 |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0501%20-%200750/0557.py)  |
 | `0566` | [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/)                                                       |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0501%20-%200750/0566.py)  |
