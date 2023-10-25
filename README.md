@@ -3,7 +3,7 @@ Python solution of problems from [LeetCode](https://leetcode.com/).
 
 | ${\color{green}Easy}$ | ${\color{orange}Medium}$ | ${\color{red}Hard}$ | ${\color{black}Total}$ |
 | :-------------------: | :----------------------: | :-----------------: | :--------------------: |
-|        **157**        |          **74**          |        **9**        |        **240**         |
+|        **157**        |          **75**          |        **9**        |        **241**         |
 
 > ### 0001 - 0250
 >
@@ -168,6 +168,7 @@ Python solution of problems from [LeetCode](https://leetcode.com/).
 | `0746` | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)               |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0501%20-%200750/0746.py) |
 | `0766` | [Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/)                                 |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0751%20-%201000/0766.py) |
 | `0767` | [Reorganize String](https://leetcode.com/problems/reorganize-string/)                             | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0751%20-%201000/0767.py) |
+| `0779` | [K-th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar/)                   | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0751%20-%201000/0779.py) |
 | `0788` | [Rotated Digits](https://leetcode.com/problems/rotated-digits/)                                   | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0751%20-%201000/0788.py) |
 | `0796` | [Rotate String](https://leetcode.com/problems/rotate-string/)                                     |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0751%20-%201000/0796.py) |
 | `0806` | [Number of Lines To Write String](https://leetcode.com/problems/number-of-lines-to-write-string/) |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0751%20-%201000/0806.py) |
