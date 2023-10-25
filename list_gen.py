@@ -52,7 +52,8 @@ def tryint(t):
 
 color = {'Easy': 'green', 'Medium': 'orange', 'Hard': 'red'}
 folder = ['0001 - 0250', '0251 - 0500', '0501 - 0750',
-          '0751 - 1000', '1001 - 2000', '2001 - 2xxx']
+          '0751 - 1000', '1001 - 1250', '1251 - 1500',
+          '1501 - 1750', '1751 - 2000', '2001 - 2xxx']
 
 task = get_task_data(lnk)
 tid = int(task['id'])
