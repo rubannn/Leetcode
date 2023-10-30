@@ -4,7 +4,7 @@ import os
 import re
 
 
-lnk = "https://leetcode.com/problems/k-th-symbol-in-grammar/"
+lnk = "https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/"
 
 
 def get_task_data(url):
