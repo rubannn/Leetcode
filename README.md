@@ -5,11 +5,6 @@ Python solution of problems from [LeetCode](https://leetcode.com/).
 | :-------------------: | :----------------------: | :-----------------: | :--------------------: |
 |        **159**        |          **76**          |        **9**        |        **244**         |
 
-
-<style>
-    table {width: 100%; }
-</style>
-
 <table>
   <tr>
     <td><a href="#0001---0250">0001 - 0250</a></td>
