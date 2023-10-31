@@ -1,9 +1,9 @@
 # Python solution for Leetcode
 Python solution of problems from [LeetCode](https://leetcode.com/).
 
-| &nbsp;&nbsp;&nbsp;&nbsp;${\color{green}Easy}$&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;${\color{orange}Medium}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;${\color{red}Hard}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{black}Total}$ &nbsp;&nbsp;&nbsp;&nbsp; |
-| :-------------------------------------------------------------------: | :-----------------------------------------------------------------------: | :------------------------------------------------------------------: | :----------------------------------------------------------------------: |
-|                                **159**                                |                                  **76**                                   |                                **9**                                 |                                 **244**                                  |
+| &nbsp;&nbsp;&nbsp;&nbsp; ${\color{green}Easy}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{orange}Medium}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{red}Hard}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{black}Total}$ &nbsp;&nbsp;&nbsp;&nbsp; |
+| :---------------------------------------------------------------------: | :------------------------------------------------------------------------: | :-------------------------------------------------------------------: | :----------------------------------------------------------------------: |
+|                                 **159**                                 |                                   **76**                                   |                                 **9**                                 |                                 **244**                                  |
 
 <table>
   <tr>
