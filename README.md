@@ -5,6 +5,19 @@ Python solution of problems from [LeetCode](https://leetcode.com/).
 | :-------------------: | :----------------------: | :-----------------: | :--------------------: |
 |        **159**        |          **76**          |        **9**        |        **244**         |
 
+
+|  |
+| :-------------------: |
+| [0001 - 0250](/rubannn/Leetcode#0001---0250) |
+| [0251 - 0500](/rubannn/Leetcode#0251---0500) |
+| [0501 - 0750](/rubannn/Leetcode#0501---0750) |
+| [0751 - 1000](/rubannn/Leetcode#0751---1000) |
+| [1251 - 1500](/rubannn/Leetcode#1251---1500) |
+| [1501 - 1750](/rubannn/Leetcode#1501---1750) |
+| [1751 - 2000](/rubannn/Leetcode#1751---2000) |
+| [2001 - 2xxx](/rubannn/Leetcode#2001---2xxx) |
+
+
 > ### 0001 - 0250
 >
 | Num    | Task name                                                                                                                                         |        Difficulty        |                               Code                                |
