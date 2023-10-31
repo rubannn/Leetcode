@@ -8,7 +8,7 @@ Python solution of problems from [LeetCode](https://leetcode.com/).
 
 <table>
   <tr>
-    <td>[0001 - 0250](#0001---0250)</td>
+    <td><a href="#0001---0250">0001 - 0250</a></td>
     <td>[0251 - 0500](#0251---0500)</td>
     <td>[0501 - 0750](#0501---0750)</td>
     <td>[0751 - 1000](#0751---1000)</td>
