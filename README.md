@@ -3,7 +3,7 @@ Python solution of problems from [LeetCode](https://leetcode.com/).
 
 | ${\color{green}Easy}$ | ${\color{orange}Medium}$ | ${\color{red}Hard}$ | ${\color{black}Total}$ |
 | :-------------------: | :----------------------: | :-----------------: | :--------------------: |
-|        **158**        |          **76**          |        **9**        |        **243**         |
+|        **159**        |          **76**          |        **9**        |        **244**         |
 
 > ### 0001 - 0250
 >
@@ -242,6 +242,7 @@ Python solution of problems from [LeetCode](https://leetcode.com/).
 | `1688` | [Count of Matches in Tournament](https://leetcode.com/problems/count-of-matches-in-tournament/)                                                 |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/1501%20-%201750/1688.py)  |
 | `1693` | [Daily Leads and Partners](https://leetcode.com/problems/daily-leads-and-partners/)                                                             |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/1501%20-%201750/1693.sql) |
 | `1716` | [Calculate Money in Leetcode Bank](https://leetcode.com/problems/calculate-money-in-leetcode-bank/)                                             |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/1501%20-%201750/1716.py)  |
+| `1720` | [Decode XORed Array](https://leetcode.com/problems/decode-xored-array/)                                                                         |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/1501%20-%201750/1720.py)  |
 | `1729` | [Find Followers Count](https://leetcode.com/problems/find-followers-count/)                                                                     |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/1501%20-%201750/1729.sql) |
 | `1741` | [Find Total Time Spent by Each Employee](https://leetcode.com/problems/find-total-time-spent-by-each-employee/)                                 |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/1501%20-%201750/1741.sql) |
 

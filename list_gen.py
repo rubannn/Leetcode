@@ -4,7 +4,7 @@ import os
 import re
 
 
-lnk = "https://leetcode.com/problems/find-the-original-array-of-prefix-xor/"
+lnk = "https://leetcode.com/problems/decode-xored-array/"
 
 
 def get_task_data(url):
