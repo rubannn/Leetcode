@@ -8,8 +8,8 @@ Python solution of problems from [LeetCode](https://leetcode.com/).
 
 |  |
 | :-------------------: |
-| [0001 - 0250](/rubannn/Leetcode#0001---0250) |
-| [0251 - 0500](/rubannn/Leetcode#0251---0500) |
+| [0001 - 0250](/Leetcode#0001---0250) |
+| [0251 - 0500](/Leetcode#0251---0500) |
 | [0501 - 0750](/rubannn/Leetcode#0501---0750) |
 | [0751 - 1000](/rubannn/Leetcode#0751---1000) |
 | [1251 - 1500](/rubannn/Leetcode#1251---1500) |
