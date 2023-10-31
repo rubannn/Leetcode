@@ -4,7 +4,7 @@ import os
 import re
 
 
-lnk = "https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/"
+lnk = "https://leetcode.com/problems/find-the-original-array-of-prefix-xor/"
 
 
 def get_task_data(url):

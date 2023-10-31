@@ -3,7 +3,7 @@ Python solution of problems from [LeetCode](https://leetcode.com/).
 
 | ${\color{green}Easy}$ | ${\color{orange}Medium}$ | ${\color{red}Hard}$ | ${\color{black}Total}$ |
 | :-------------------: | :----------------------: | :-----------------: | :--------------------: |
-|        **158**        |          **75**          |        **9**        |        **242**         |
+|        **158**        |          **76**          |        **9**        |        **243**         |
 
 > ### 0001 - 0250
 >
@@ -280,6 +280,7 @@ Python solution of problems from [LeetCode](https://leetcode.com/).
 | `2404` | [Most Frequent Even Element](https://leetcode.com/problems/most-frequent-even-element/)                                                                 |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/2001%20-%202xxx/2404.py) |
 | `2413` | [Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple/)                                                                         |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/2001%20-%202xxx/2413.py) |
 | `2427` | [Number of Common Factors](https://leetcode.com/problems/number-of-common-factors/)                                                                     |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/2001%20-%202xxx/2427.py) |
+| `2433` | [Find The Original Array of Prefix Xor](https://leetcode.com/problems/find-the-original-array-of-prefix-xor/)                                           | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/2001%20-%202xxx/2433.py) |
 | `2469` | [Convert the Temperature](https://leetcode.com/problems/convert-the-temperature/)                                                                       |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/2001%20-%202xxx/2469.py) |
 | `2525` | [Categorize Box According to Criteria](https://leetcode.com/problems/categorize-box-according-to-criteria/)                                             |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/2001%20-%202xxx/2525.py) |
 | `2614` | [Prime In Diagonal](https://leetcode.com/problems/prime-in-diagonal/)                                                                                   |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/2001%20-%202xxx/2614.py) |
