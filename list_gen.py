@@ -4,7 +4,7 @@ import os
 import re
 
 
-lnk = "https://leetcode.com/problems/decode-xored-array/"
+lnk = "https://leetcode.com/problems/build-an-array-with-stack-operations/"
 
 
 def get_task_data(url):
