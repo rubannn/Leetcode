@@ -4,7 +4,7 @@ import os
 import re
 
 
-lnk = "https://leetcode.com/problems/build-an-array-with-stack-operations/"
+lnk = "https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/"
 
 
 def get_task_data(url):
