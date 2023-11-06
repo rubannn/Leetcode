@@ -3,7 +3,7 @@ Python solution of problems from [LeetCode](https://leetcode.com/).
 
 | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{green}Easy}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{orange}Medium}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{red}Hard}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{black}Total}$ &nbsp;&nbsp;&nbsp;&nbsp; |
 | :---------------------------------------------------------------------: | :------------------------------------------------------------------------: | :-------------------------------------------------------------------: | :----------------------------------------------------------------------: |
-|                                 **159**                                 |                                   **78**                                   |                                 **9**                                 |                                 **246**                                  |
+|                                 **159**                                 |                                   **79**                                   |                                 **9**                                 |                                 **247**                                  |
 
 <table>
   <tr>
@@ -271,17 +271,18 @@ Python solution of problems from [LeetCode](https://leetcode.com/).
 
 > ### 1751 - 2000
 >
-| Num    | Task name                                                                                                     |      Difficulty       |                               Code                                |
-| ------ | ------------------------------------------------------------------------------------------------------------- | :-------------------: | :---------------------------------------------------------------: |
-| `1757` | [Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/)             | ${\color{green}Easy}$ | [\</code\>](/rubannn/Leetcode/tree/main/1751%20-%202000/1757.sql) |
-| `1773` | [Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/)                     | ${\color{green}Easy}$ | [\</code\>](/rubannn/Leetcode/tree/main/1751%20-%202000/1773.py)  |
-| `1795` | [Rearrange Products Table](https://leetcode.com/problems/rearrange-products-table/)                           | ${\color{green}Easy}$ | [\</code\>](/rubannn/Leetcode/tree/main/1751%20-%202000/1795.sql) |
-| `1873` | [Calculate Special Bonus](https://leetcode.com/problems/calculate-special-bonus/)                             | ${\color{green}Easy}$ | [\</code\>](/rubannn/Leetcode/tree/main/1751%20-%202000/1873.sql) |
-| `1890` | [The Latest Login in 2020](https://leetcode.com/problems/the-latest-login-in-2020/)                           | ${\color{green}Easy}$ | [\</code\>](/rubannn/Leetcode/tree/main/1751%20-%202000/1890.sql) |
-| `1929` | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/)                               | ${\color{green}Easy}$ | [\</code\>](/rubannn/Leetcode/tree/main/1751%20-%202000/1929.py)  |
-| `1952` | [Three Divisors](https://leetcode.com/problems/three-divisors/)                                               | ${\color{green}Easy}$ | [\</code\>](/rubannn/Leetcode/tree/main/1751%20-%202000/1952.py)  |
-| `1965` | [Employees With Missing Information](https://leetcode.com/problems/employees-with-missing-information/)       | ${\color{green}Easy}$ | [\</code\>](/rubannn/Leetcode/tree/main/1751%20-%202000/1965.sql) |
-| `1979` | [Find Greatest Common Divisor of Array](https://leetcode.com/problems/find-greatest-common-divisor-of-array/) | ${\color{green}Easy}$ | [\</code\>](/rubannn/Leetcode/tree/main/1751%20-%202000/1979.py)  |
+| Num    | Task name                                                                                                     |        Difficulty        |                               Code                                |
+| ------ | ------------------------------------------------------------------------------------------------------------- | :----------------------: | :---------------------------------------------------------------: |
+| `1757` | [Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/)             |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/1751%20-%202000/1757.sql) |
+| `1773` | [Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/)                     |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/1751%20-%202000/1773.py)  |
+| `1795` | [Rearrange Products Table](https://leetcode.com/problems/rearrange-products-table/)                           |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/1751%20-%202000/1795.sql) |
+| `1845` | [Seat Reservation Manager](https://leetcode.com/problems/seat-reservation-manager/)                           | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/1751%20-%202000/1845.py)  |
+| `1873` | [Calculate Special Bonus](https://leetcode.com/problems/calculate-special-bonus/)                             |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/1751%20-%202000/1873.sql) |
+| `1890` | [The Latest Login in 2020](https://leetcode.com/problems/the-latest-login-in-2020/)                           |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/1751%20-%202000/1890.sql) |
+| `1929` | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/)                               |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/1751%20-%202000/1929.py)  |
+| `1952` | [Three Divisors](https://leetcode.com/problems/three-divisors/)                                               |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/1751%20-%202000/1952.py)  |
+| `1965` | [Employees With Missing Information](https://leetcode.com/problems/employees-with-missing-information/)       |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/1751%20-%202000/1965.sql) |
+| `1979` | [Find Greatest Common Divisor of Array](https://leetcode.com/problems/find-greatest-common-divisor-of-array/) |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/1751%20-%202000/1979.py)  |
 
 > ### 2001 - 2xxx
 >

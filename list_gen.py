@@ -4,7 +4,7 @@ import os
 import re
 
 
-lnk = "https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/"
+lnk = "https://leetcode.com/problems/seat-reservation-manager/"
 
 
 def get_task_data(url):
