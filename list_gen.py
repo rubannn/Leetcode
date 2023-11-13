@@ -4,7 +4,7 @@ import os
 import re
 
 
-lnk = "https://leetcode.com/problems/seat-reservation-manager/"
+lnk = "https://leetcode.com/problems/sort-vowels-in-a-string/"
 
 
 def get_task_data(url):

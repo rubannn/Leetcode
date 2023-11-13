@@ -3,7 +3,7 @@ Python solution of problems from [LeetCode](https://leetcode.com/).
 
 | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{green}Easy}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{orange}Medium}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{red}Hard}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{black}Total}$ &nbsp;&nbsp;&nbsp;&nbsp; |
 | :---------------------------------------------------------------------: | :------------------------------------------------------------------------: | :-------------------------------------------------------------------: | :----------------------------------------------------------------------: |
-|                                 **159**                                 |                                   **79**                                   |                                 **9**                                 |                                 **247**                                  |
+|                                 **159**                                 |                                   **80**                                   |                                 **9**                                 |                                 **248**                                  |
 
 <table>
   <tr>
@@ -318,3 +318,4 @@ Python solution of problems from [LeetCode](https://leetcode.com/).
 | `2718` | [Sum of Matrix After Queries](https://leetcode.com/problems/sum-of-matrix-after-queries/)                                                               | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/2001%20-%202xxx/2718.py) |
 | `2769` | [Find the Maximum Achievable Number](https://leetcode.com/problems/find-the-maximum-achievable-number/)                                                 |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/2001%20-%202xxx/2769.py) |
 | `2778` | [Sum of Squares of Special Elements ](https://leetcode.com/problems/sum-of-squares-of-special-elements/)                                                |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/2001%20-%202xxx/2778.py) |
+| `2785` | [Sort Vowels in a String](https://leetcode.com/problems/sort-vowels-in-a-string/)                                                                       | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/2001%20-%202xxx/2785.py) |
