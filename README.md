@@ -27,6 +27,29 @@ Python solutions of problems from [LeetCode](https://leetcode.com/).
 </table>
 
 
+<table>
+  <tr>
+    <td><a href="#0001---0250">0001 - 0250</a></td>
+    <td><a href="#1001---1250">1001 - 1250</a></td>
+    <td><a href="#2001---2250">2001 - 2250</a></td>
+  </tr>
+  <tr>
+    <td><a href="#0251---0500">0251 - 0500</a></td>
+    <td><a href="#1251---1500">1251 - 1500</a></td>
+    <td><a href="#2251---2500">2251 - 2500</a></td>
+  </tr>
+  <tr>
+    <td><a href="#0501---0750">0501 - 0750</a></td>
+    <td><a href="#1501---1750">1501 - 1750</a></td>
+    <td><a href="#2501---2750">2501 - 2750</a></td>
+  </tr>
+  <tr>
+    <td><a href="#0751---1000">0751 - 1000</a></td>
+    <td><a href="#1751---2000">1751 - 2000</a></td>
+    <td><a href="#2751---3000">2751 - 3000</a></td>
+  </tr>
+</table>
+
 > ### 0001 - 0250
 >
 | Num    | Task name                                                                                                                                         |        Difficulty        |                               Code                                |
