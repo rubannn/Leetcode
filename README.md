@@ -3,7 +3,7 @@ Python solution of problems from [LeetCode](https://leetcode.com/).
 
 | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{green}Easy}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{orange}Medium}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{red}Hard}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{black}Total}$ &nbsp;&nbsp;&nbsp;&nbsp; |
 | :---------------------------------------------------------------------: | :------------------------------------------------------------------------: | :-------------------------------------------------------------------: | :----------------------------------------------------------------------: |
-|                                 **159**                                 |                                   **80**                                   |                                 **9**                                 |                                 **248**                                  |
+|                                 **160**                                 |                                   **80**                                   |                                 **9**                                 |                                 **249**                                  |
 
 <table>
   <tr>
@@ -70,6 +70,7 @@ Python solution of problems from [LeetCode](https://leetcode.com/).
 | `0066` | [Plus One](https://leetcode.com/problems/plus-one/)                                                                                               |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0066.py)  |
 | `0067` | [Add Binary](https://leetcode.com/problems/add-binary/)                                                                                           |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0067.py)  |
 | `0068` | [Text Justification](https://leetcode.com/problems/text-justification/)                                                                           |   ${\color{red}Hard}$    | [\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0068.py)  |
+| `0069` | [Sqrt(x)](https://leetcode.com/problems/sqrtx/)                                                                                                   |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0069.py)  |
 | `0070` | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)                                                                                 |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0070.py)  |
 | `0074` | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)                                                                           | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0074.py)  |
 | `0077` | [Combinations](https://leetcode.com/problems/combinations/)                                                                                       | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0077.py)  |
