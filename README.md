@@ -3,7 +3,7 @@ Python solution of problems from [LeetCode](https://leetcode.com/).
 
 | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{green}Easy}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{orange}Medium}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{red}Hard}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{black}Total}$ &nbsp;&nbsp;&nbsp;&nbsp; |
 | :---------------------------------------------------------------------: | :------------------------------------------------------------------------: | :-------------------------------------------------------------------: | :----------------------------------------------------------------------: |
-|                                 **160**                                 |                                   **80**                                   |                                 **9**                                 |                                 **249**                                  |
+|                                 **161**                                 |                                   **80**                                   |                                 **9**                                 |                                 **250**                                  |
 
 <table>
   <tr>
@@ -135,6 +135,7 @@ Python solution of problems from [LeetCode](https://leetcode.com/).
 | `0341` | [Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/)                         | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0251%20-%200500/0341.py) |
 | `0342` | [Power of Four](https://leetcode.com/problems/power-of-four/)                                                       |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0251%20-%200500/0342.py) |
 | `0343` | [Integer Break](https://leetcode.com/problems/integer-break/)                                                       | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0251%20-%200500/0343.py) |
+| `0344` | [Reverse String](https://leetcode.com/problems/reverse-string/)                                                     |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0251%20-%200500/0344.py) |
 | `0347` | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)                                   | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0251%20-%200500/0347.py) |
 | `0357` | [Count Numbers with Unique Digits](https://leetcode.com/problems/count-numbers-with-unique-digits/)                 | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0251%20-%200500/0357.py) |
 | `0371` | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)                                           | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0251%20-%200500/0371.py) |
