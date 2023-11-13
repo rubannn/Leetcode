@@ -4,7 +4,7 @@ import os
 import re
 
 
-lnk = "https://leetcode.com/problems/reverse-string-ii/"
+lnk = "https://leetcode.com/problems/reverse-vowels-of-a-string/"
 
 
 def get_task_data(url):
