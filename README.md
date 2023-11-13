@@ -19,10 +19,10 @@ Python solution of problems from [LeetCode](https://leetcode.com/).
     <td><a href="#1751---2000">1751 - 2000</a></td>
   </tr>
   <tr>
-    <td><a href="#1001---1250">2001 - 2250</a></td>
-    <td><a href="#1251---1500">2251 - 2500</a></td>
-    <td><a href="#1501---1750">2501 - 2750</a></td>
-    <td><a href="#2001---2xxx">2751 - 3000</td>
+    <td><a href="#2001---2250">2001 - 2250</a></td>
+    <td><a href="#2251---2500">2251 - 2500</a></td>
+    <td><a href="#2501---2750">2501 - 2750</a></td>
+    <td><a href="#2751---3000">2751 - 3000</td>
   </tr>
 </table>
 
