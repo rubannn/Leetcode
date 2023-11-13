@@ -19,10 +19,10 @@ Python solution of problems from [LeetCode](https://leetcode.com/).
     <td><a href="#1751---2000">1751 - 2000</a></td>
   </tr>
   <tr>
-    <td><a href="#2001---2xxx">2001 - 2xxx</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td><a href="#1001---1250">2001 - 2250</a></td>
+    <td><a href="#1251---1500">2251 - 2500</a></td>
+    <td><a href="#1501---1750">2501 - 2750</a></td>
+    <td><a href="#2001---2xxx">2751 - 3000</td>
   </tr>
 </table>
 
@@ -288,38 +288,53 @@ Python solution of problems from [LeetCode](https://leetcode.com/).
 | `1965` | [Employees With Missing Information](https://leetcode.com/problems/employees-with-missing-information/)       |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/1751%20-%202000/1965.sql) |
 | `1979` | [Find Greatest Common Divisor of Array](https://leetcode.com/problems/find-greatest-common-divisor-of-array/) |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/1751%20-%202000/1979.py)  |
 
-> ### 2001 - 2xxx
+> ### 2001 - 2250
 >
 | Num    | Task name                                                                                                                                               |        Difficulty        |                               Code                               |
 | ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------: | :--------------------------------------------------------------: |
-| `2022` | [Convert 1D Array Into 2D Array](https://leetcode.com/problems/convert-1d-array-into-2d-array/)                                                         |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/2001%20-%202xxx/2022.py) |
-| `2038` | [Remove Colored Pieces if Both Neighbors are the Same Color](https://leetcode.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color/) | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/2001%20-%202xxx/2038.py) |
-| `2119` | [A Number After a Double Reversal](https://leetcode.com/problems/a-number-after-a-double-reversal/)                                                     |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/2001%20-%202xxx/2119.py) |
-| `2133` | [Check if Every Row and Column Contains All Numbers](https://leetcode.com/problems/check-if-every-row-and-column-contains-all-numbers/)                 |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/2001%20-%202xxx/2133.py) |
-| `2194` | [Cells in a Range on an Excel Sheet](https://leetcode.com/problems/cells-in-a-range-on-an-excel-sheet/)                                                 |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/2001%20-%202xxx/2194.py) |
-| `2221` | [Find Triangular Sum of an Array](https://leetcode.com/problems/find-triangular-sum-of-an-array/)                                                       | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/2001%20-%202xxx/2221.py) |
-| `2235` | [Add Two Integers](https://leetcode.com/problems/add-two-integers/)                                                                                     |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/2001%20-%202xxx/2235.py) |
-| `2243` | [Calculate Digit Sum of a String](https://leetcode.com/problems/calculate-digit-sum-of-a-string/)                                                       |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/2001%20-%202xxx/2243.py) |
-| `2265` | [Count Nodes Equal to Average of Subtree](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/)                                       | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/2001%20-%202xxx/2265.py) |
-| `2293` | [Min Max Game](https://leetcode.com/problems/min-max-game/)                                                                                             |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/2001%20-%202xxx/2293.py) |
-| `2319` | [Check if Matrix Is X-Matrix](https://leetcode.com/problems/check-if-matrix-is-x-matrix/)                                                               |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/2001%20-%202xxx/2319.py) |
-| `2326` | [Spiral Matrix IV](https://leetcode.com/problems/spiral-matrix-iv/)                                                                                     | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/2001%20-%202xxx/2326.py) |
-| `2347` | [Best Poker Hand](https://leetcode.com/problems/best-poker-hand/)                                                                                       |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/2001%20-%202xxx/2347.py) |
-| `2373` | [Largest Local Values in a Matrix](https://leetcode.com/problems/largest-local-values-in-a-matrix/)                                                     |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/2001%20-%202xxx/2373.py) |
-| `2390` | [Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/)                                                             | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/2001%20-%202xxx/2390.py) |
-| `2404` | [Most Frequent Even Element](https://leetcode.com/problems/most-frequent-even-element/)                                                                 |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/2001%20-%202xxx/2404.py) |
-| `2413` | [Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple/)                                                                         |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/2001%20-%202xxx/2413.py) |
-| `2427` | [Number of Common Factors](https://leetcode.com/problems/number-of-common-factors/)                                                                     |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/2001%20-%202xxx/2427.py) |
-| `2433` | [Find The Original Array of Prefix Xor](https://leetcode.com/problems/find-the-original-array-of-prefix-xor/)                                           | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/2001%20-%202xxx/2433.py) |
-| `2469` | [Convert the Temperature](https://leetcode.com/problems/convert-the-temperature/)                                                                       |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/2001%20-%202xxx/2469.py) |
-| `2525` | [Categorize Box According to Criteria](https://leetcode.com/problems/categorize-box-according-to-criteria/)                                             |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/2001%20-%202xxx/2525.py) |
-| `2614` | [Prime In Diagonal](https://leetcode.com/problems/prime-in-diagonal/)                                                                                   |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/2001%20-%202xxx/2614.py) |
-| `2639` | [Find the Width of Columns of a Grid](https://leetcode.com/problems/find-the-width-of-columns-of-a-grid/)                                               |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/2001%20-%202xxx/2639.py) |
-| `2643` | [Row With Maximum Ones](https://leetcode.com/problems/row-with-maximum-ones/)                                                                           |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/2001%20-%202xxx/2643.py) |
-| `2660` | [Determine the Winner of a Bowling Game](https://leetcode.com/problems/determine-the-winner-of-a-bowling-game/)                                         |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/2001%20-%202xxx/2660.py) |
-| `2679` | [Sum in a Matrix](https://leetcode.com/problems/sum-in-a-matrix/)                                                                                       | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/2001%20-%202xxx/2679.py) |
-| `2716` | [Minimize String Length](https://leetcode.com/problems/minimize-string-length/)                                                                         |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/2001%20-%202xxx/2716.py) |
-| `2718` | [Sum of Matrix After Queries](https://leetcode.com/problems/sum-of-matrix-after-queries/)                                                               | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/2001%20-%202xxx/2718.py) |
-| `2769` | [Find the Maximum Achievable Number](https://leetcode.com/problems/find-the-maximum-achievable-number/)                                                 |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/2001%20-%202xxx/2769.py) |
-| `2778` | [Sum of Squares of Special Elements ](https://leetcode.com/problems/sum-of-squares-of-special-elements/)                                                |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/2001%20-%202xxx/2778.py) |
-| `2785` | [Sort Vowels in a String](https://leetcode.com/problems/sort-vowels-in-a-string/)                                                                       | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/2001%20-%202xxx/2785.py) |
+| `2022` | [Convert 1D Array Into 2D Array](https://leetcode.com/problems/convert-1d-array-into-2d-array/)                                                         |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/2001%20-%202250/2022.py) |
+| `2038` | [Remove Colored Pieces if Both Neighbors are the Same Color](https://leetcode.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color/) | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/2001%20-%202250/2038.py) |
+| `2119` | [A Number After a Double Reversal](https://leetcode.com/problems/a-number-after-a-double-reversal/)                                                     |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/2001%20-%202250/2119.py) |
+| `2133` | [Check if Every Row and Column Contains All Numbers](https://leetcode.com/problems/check-if-every-row-and-column-contains-all-numbers/)                 |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/2001%20-%202250/2133.py) |
+| `2194` | [Cells in a Range on an Excel Sheet](https://leetcode.com/problems/cells-in-a-range-on-an-excel-sheet/)                                                 |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/2001%20-%202250/2194.py) |
+| `2221` | [Find Triangular Sum of an Array](https://leetcode.com/problems/find-triangular-sum-of-an-array/)                                                       | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/2001%20-%202250/2221.py) |
+| `2235` | [Add Two Integers](https://leetcode.com/problems/add-two-integers/)                                                                                     |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/2001%20-%202250/2235.py) |
+| `2243` | [Calculate Digit Sum of a String](https://leetcode.com/problems/calculate-digit-sum-of-a-string/)                                                       |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/2001%20-%202250/2243.py) |
+
+> ### 2251 - 2500
+>
+| Num    | Task name                                                                                                         |        Difficulty        |                               Code                               |
+| ------ | ----------------------------------------------------------------------------------------------------------------- | :----------------------: | :--------------------------------------------------------------: |
+| `2265` | [Count Nodes Equal to Average of Subtree](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/) | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/2251%20-%202500/2265.py) |
+| `2293` | [Min Max Game](https://leetcode.com/problems/min-max-game/)                                                       |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/2251%20-%202500/2293.py) |
+| `2319` | [Check if Matrix Is X-Matrix](https://leetcode.com/problems/check-if-matrix-is-x-matrix/)                         |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/2251%20-%202500/2319.py) |
+| `2326` | [Spiral Matrix IV](https://leetcode.com/problems/spiral-matrix-iv/)                                               | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/2251%20-%202500/2326.py) |
+| `2347` | [Best Poker Hand](https://leetcode.com/problems/best-poker-hand/)                                                 |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/2251%20-%202500/2347.py) |
+| `2373` | [Largest Local Values in a Matrix](https://leetcode.com/problems/largest-local-values-in-a-matrix/)               |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/2251%20-%202500/2373.py) |
+| `2390` | [Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/)                       | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/2251%20-%202500/2390.py) |
+| `2404` | [Most Frequent Even Element](https://leetcode.com/problems/most-frequent-even-element/)                           |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/2251%20-%202500/2404.py) |
+| `2413` | [Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple/)                                   |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/2251%20-%202500/2413.py) |
+| `2427` | [Number of Common Factors](https://leetcode.com/problems/number-of-common-factors/)                               |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/2251%20-%202500/2427.py) |
+| `2433` | [Find The Original Array of Prefix Xor](https://leetcode.com/problems/find-the-original-array-of-prefix-xor/)     | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/2251%20-%202500/2433.py) |
+| `2469` | [Convert the Temperature](https://leetcode.com/problems/convert-the-temperature/)                                 |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/2251%20-%202500/2469.py) |
+
+> ### 2501 - 2750
+>
+| Num    | Task name                                                                                                       |        Difficulty        |                               Code                               |
+| ------ | --------------------------------------------------------------------------------------------------------------- | :----------------------: | :--------------------------------------------------------------: |
+| `2525` | [Categorize Box According to Criteria](https://leetcode.com/problems/categorize-box-according-to-criteria/)     |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/2501%20-%202750/2525.py) |
+| `2614` | [Prime In Diagonal](https://leetcode.com/problems/prime-in-diagonal/)                                           |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/2501%20-%202750/2614.py) |
+| `2639` | [Find the Width of Columns of a Grid](https://leetcode.com/problems/find-the-width-of-columns-of-a-grid/)       |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/2501%20-%202750/2639.py) |
+| `2643` | [Row With Maximum Ones](https://leetcode.com/problems/row-with-maximum-ones/)                                   |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/2501%20-%202750/2643.py) |
+| `2660` | [Determine the Winner of a Bowling Game](https://leetcode.com/problems/determine-the-winner-of-a-bowling-game/) |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/2501%20-%202750/2660.py) |
+| `2679` | [Sum in a Matrix](https://leetcode.com/problems/sum-in-a-matrix/)                                               | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/2501%20-%202750/2679.py) |
+| `2716` | [Minimize String Length](https://leetcode.com/problems/minimize-string-length/)                                 |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/2501%20-%202750/2716.py) |
+| `2718` | [Sum of Matrix After Queries](https://leetcode.com/problems/sum-of-matrix-after-queries/)                       | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/2501%20-%202750/2718.py) |
+
+> ### 2751 - 3000
+>
+| Num    | Task name                                                                                                |        Difficulty        |                               Code                               |
+| ------ | -------------------------------------------------------------------------------------------------------- | :----------------------: | :--------------------------------------------------------------: |
+| `2769` | [Find the Maximum Achievable Number](https://leetcode.com/problems/find-the-maximum-achievable-number/)  |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/2751%20-%203000/2769.py) |
+| `2778` | [Sum of Squares of Special Elements ](https://leetcode.com/problems/sum-of-squares-of-special-elements/) |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/2751%20-%203000/2778.py) |
+| `2785` | [Sort Vowels in a String](https://leetcode.com/problems/sort-vowels-in-a-string/)                        | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/2751%20-%203000/2785.py) |
