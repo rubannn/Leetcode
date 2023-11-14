@@ -6,13 +6,13 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 |                                 **163**                                 |                                   **80**                                   |                                 **9**                                 |                                 **252**                                  |
 
 
-<table style = "border: 0;">
+<table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td><a href="#0001---0250">0001 - 0250</a></td>
     <td><a href="#1001---1250">1001 - 1250</a></td>
     <td><a href="#2001---2250">2001 - 2250</a></td>
   </tr>
-  <tr style = "border: 0;">
+  <tr>
     <td><a href="#0251---0500">0251 - 0500</a></td>
     <td><a href="#1251---1500">1251 - 1500</a></td>
     <td><a href="#2251---2500">2251 - 2500</a></td>
