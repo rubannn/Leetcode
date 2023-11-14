@@ -1,5 +1,5 @@
 # Python solutions for Leetcode
-Python solutions of problems from [LeetCode](https://leetcode.com/).
+Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all/).
 
 | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{green}Easy}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{orange}Medium}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{red}Hard}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{black}Total}$ &nbsp;&nbsp;&nbsp;&nbsp; |
 | :---------------------------------------------------------------------: | :------------------------------------------------------------------------: | :-------------------------------------------------------------------: | :----------------------------------------------------------------------: |
@@ -12,7 +12,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/).
     <td><a href="#1001---1250">1001 - 1250</a></td>
     <td><a href="#2001---2250">2001 - 2250</a></td>
   </tr>
-  <tr>
+  <tr border = 0>
     <td><a href="#0251---0500">0251 - 0500</a></td>
     <td><a href="#1251---1500">1251 - 1500</a></td>
     <td><a href="#2251---2500">2251 - 2500</a></td>
