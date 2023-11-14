@@ -6,7 +6,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 |                                 **163**                                 |                                   **80**                                   |                                 **9**                                 |                                 **252**                                  |
 
 
-<table border="0" cellspacing="0" cellpadding="0">
+<table>
   <tr>
     <td><a href="#0001---0250">0001 - 0250</a></td>
     <td><a href="#1001---1250">1001 - 1250</a></td>
