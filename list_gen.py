@@ -4,7 +4,7 @@ import os
 import re
 
 
-lnk = "https://leetcode.com/problems/reverse-vowels-of-a-string/"
+lnk = "https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/"
 
 
 def get_task_data(url):
@@ -53,7 +53,7 @@ def tryint(t):
 color = {'Easy': 'green', 'Medium': 'orange', 'Hard': 'red'}
 folder = ['0001 - 0250', '0251 - 0500', '0501 - 0750',
           '0751 - 1000', '1001 - 1250', '1251 - 1500',
-          '1501 - 1750', '1751 - 2000', '2001 - 2250'
+          '1501 - 1750', '1751 - 2000', '2001 - 2250',
           '2251 - 2500', '2501 - 2750', '2751 - 3000']
 
 task = get_task_data(lnk)
