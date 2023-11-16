@@ -4,7 +4,7 @@ import os
 import re
 
 
-lnk = "https://leetcode.com/problems/find-unique-binary-string/"
+lnk = "https://leetcode.com/problems/random-pick-with-blacklist/"
 
 
 def get_task_data(url):
