@@ -4,7 +4,7 @@ import os
 import re
 
 
-lnk = "https://leetcode.com/problems/random-pick-with-blacklist/"
+lnk = "https://leetcode.com/problems/longest-valid-parentheses/"
 
 
 def get_task_data(url):
