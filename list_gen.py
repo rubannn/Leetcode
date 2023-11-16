@@ -4,7 +4,7 @@ import os
 import re
 
 
-lnk = "https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/"
+lnk = "https://leetcode.com/problems/find-unique-binary-string/"
 
 
 def get_task_data(url):
