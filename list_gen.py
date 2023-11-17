@@ -4,7 +4,7 @@ import os
 import re
 
 
-lnk = "https://leetcode.com/problems/longest-valid-parentheses/"
+lnk = "https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/"
 
 
 def get_task_data(url):

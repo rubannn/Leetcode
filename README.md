@@ -3,7 +3,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 
 | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{green}Easy}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{orange}Medium}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{red}Hard}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{black}Total}$ &nbsp;&nbsp;&nbsp;&nbsp; |
 | :---------------------------------------------------------------------: | :------------------------------------------------------------------------: | :-------------------------------------------------------------------: | :----------------------------------------------------------------------: |
-|                                 **163**                                 |                                   **82**                                   |                                **11**                                 |                                 **256**                                  |
+|                                 **163**                                 |                                   **83**                                   |                                **11**                                 |                                 **257**                                  |
 
 
 <table>
@@ -287,6 +287,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 | `1845` | [Seat Reservation Manager](https://leetcode.com/problems/seat-reservation-manager/)                                                 | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/1751%20-%202000/1845.py)  |
 | `1846` | [Maximum Element After Decreasing and Rearranging](https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/) | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/1751%20-%202000/1846.py)  |
 | `1873` | [Calculate Special Bonus](https://leetcode.com/problems/calculate-special-bonus/)                                                   |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/1751%20-%202000/1873.sql) |
+| `1877` | [Minimize Maximum Pair Sum in Array](https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/)                             | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/1751%20-%202000/1877.py)  |
 | `1890` | [The Latest Login in 2020](https://leetcode.com/problems/the-latest-login-in-2020/)                                                 |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/1751%20-%202000/1890.sql) |
 | `1929` | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/)                                                     |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/1751%20-%202000/1929.py)  |
 | `1952` | [Three Divisors](https://leetcode.com/problems/three-divisors/)                                                                     |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/1751%20-%202000/1952.py)  |
