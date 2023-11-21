@@ -3,7 +3,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 
 | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{green}Easy}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{orange}Medium}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{red}Hard}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{black}Total}$ &nbsp;&nbsp;&nbsp;&nbsp; |
 | :---------------------------------------------------------------------: | :------------------------------------------------------------------------: | :-------------------------------------------------------------------: | :----------------------------------------------------------------------: |
-|                                 **163**                                 |                                   **85**                                   |                                **11**                                 |                                 **259**                                  |
+|                                 **163**                                 |                                   **86**                                   |                                **11**                                 |                                 **260**                                  |
 
 
 <table>
@@ -319,6 +319,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 | `2319` | [Check if Matrix Is X-Matrix](https://leetcode.com/problems/check-if-matrix-is-x-matrix/)                         |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/2251%20-%202500/2319.py) |
 | `2326` | [Spiral Matrix IV](https://leetcode.com/problems/spiral-matrix-iv/)                                               | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/2251%20-%202500/2326.py) |
 | `2347` | [Best Poker Hand](https://leetcode.com/problems/best-poker-hand/)                                                 |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/2251%20-%202500/2347.py) |
+| `2364` | [Count Number of Bad Pairs](https://leetcode.com/problems/count-number-of-bad-pairs/)                             | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/2251%20-%202500/2364.py) |
 | `2373` | [Largest Local Values in a Matrix](https://leetcode.com/problems/largest-local-values-in-a-matrix/)               |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/2251%20-%202500/2373.py) |
 | `2390` | [Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/)                       | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/2251%20-%202500/2390.py) |
 | `2404` | [Most Frequent Even Element](https://leetcode.com/problems/most-frequent-even-element/)                           |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/2251%20-%202500/2404.py) |
