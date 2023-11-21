@@ -4,7 +4,7 @@ import os
 import re
 
 
-lnk = "https://leetcode.com/problems/find-pivot-index/"
+lnk = "https://leetcode.com/problems/find-the-highest-altitude/"
 
 
 def get_task_data(url):

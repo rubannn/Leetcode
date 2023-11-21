@@ -3,7 +3,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 
 | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{green}Easy}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{orange}Medium}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{red}Hard}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{black}Total}$ &nbsp;&nbsp;&nbsp;&nbsp; |
 | :---------------------------------------------------------------------: | :------------------------------------------------------------------------: | :-------------------------------------------------------------------: | :----------------------------------------------------------------------: |
-|                                 **165**                                 |                                   **86**                                   |                                **11**                                 |                                 **262**                                  |
+|                                 **166**                                 |                                   **86**                                   |                                **11**                                 |                                 **263**                                  |
 
 
 <table>
@@ -277,6 +277,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 | `1716` | [Calculate Money in Leetcode Bank](https://leetcode.com/problems/calculate-money-in-leetcode-bank/)                                             |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/1501%20-%201750/1716.py)  |
 | `1720` | [Decode XORed Array](https://leetcode.com/problems/decode-xored-array/)                                                                         |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/1501%20-%201750/1720.py)  |
 | `1729` | [Find Followers Count](https://leetcode.com/problems/find-followers-count/)                                                                     |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/1501%20-%201750/1729.sql) |
+| `1732` | [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/)                                                           |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/1501%20-%201750/1732.py)  |
 | `1741` | [Find Total Time Spent by Each Employee](https://leetcode.com/problems/find-total-time-spent-by-each-employee/)                                 |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/1501%20-%201750/1741.sql) |
 
 > ### 1751 - 2000
