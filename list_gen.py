@@ -4,7 +4,7 @@ import os
 import re
 
 
-lnk = "https://leetcode.com/problems/find-the-highest-altitude/"
+lnk = "https://leetcode.com/problems/merge-strings-alternately/"
 
 
 def get_task_data(url):
