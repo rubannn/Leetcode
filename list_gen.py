@@ -4,7 +4,7 @@ import os
 import re
 
 
-lnk = "https://leetcode.com/problems/count-nice-pairs-in-an-array/"
+lnk = "https://leetcode.com/problems/number-of-pairs-of-interchangeable-rectangles/"
 
 
 def get_task_data(url):
