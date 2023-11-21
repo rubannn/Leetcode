@@ -4,7 +4,7 @@ import os
 import re
 
 
-lnk = "https://leetcode.com/problems/merge-strings-alternately/"
+lnk = "https://leetcode.com/problems/reverse-words-in-a-string/"
 
 
 def get_task_data(url):
