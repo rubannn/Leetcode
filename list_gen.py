@@ -4,7 +4,7 @@ import os
 import re
 
 
-lnk = "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/"
+lnk = "https://leetcode.com/problems/find-pivot-index/"
 
 
 def get_task_data(url):

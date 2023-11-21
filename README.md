@@ -3,7 +3,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 
 | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{green}Easy}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{orange}Medium}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{red}Hard}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{black}Total}$ &nbsp;&nbsp;&nbsp;&nbsp; |
 | :---------------------------------------------------------------------: | :------------------------------------------------------------------------: | :-------------------------------------------------------------------: | :----------------------------------------------------------------------: |
-|                                 **164**                                 |                                   **86**                                   |                                **11**                                 |                                 **261**                                  |
+|                                 **165**                                 |                                   **86**                                   |                                **11**                                 |                                 **262**                                  |
 
 
 <table>
@@ -190,6 +190,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 | `0682` | [Baseball Game](https://leetcode.com/problems/baseball-game/)                                                                 |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0501%20-%200750/0682.py)  |
 | `0706` | [Design HashMap](https://leetcode.com/problems/design-hashmap/)                                                               |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0501%20-%200750/0706.py)  |
 | `0710` | [Random Pick with Blacklist](https://leetcode.com/problems/random-pick-with-blacklist/)                                       |   ${\color{red}Hard}$    | [\</code\>](/rubannn/Leetcode/tree/main/0501%20-%200750/0710.py)  |
+| `0724` | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)                                                           |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0501%20-%200750/0724.py)  |
 | `0728` | [Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/)                                                 |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0501%20-%200750/0728.py)  |
 
 > ### 0751 - 1000
