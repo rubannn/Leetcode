@@ -4,7 +4,7 @@ import os
 import re
 
 
-lnk = "https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/"
+lnk = "https://leetcode.com/problems/count-nice-pairs-in-an-array/"
 
 
 def get_task_data(url):
