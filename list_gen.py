@@ -4,7 +4,7 @@ import os
 import re
 
 
-lnk = "https://leetcode.com/problems/can-place-flowers/"
+lnk = "https://leetcode.com/problems/find-the-difference-of-two-arrays/"
 
 
 def get_task_data(url):
