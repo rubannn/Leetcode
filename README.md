@@ -3,7 +3,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 
 | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{green}Easy}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{orange}Medium}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{red}Hard}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{black}Total}$ &nbsp;&nbsp;&nbsp;&nbsp; |
 | :---------------------------------------------------------------------: | :------------------------------------------------------------------------: | :-------------------------------------------------------------------: | :----------------------------------------------------------------------: |
-|                                 **169**                                 |                                   **87**                                   |                                **11**                                 |                                 **267**                                  |
+|                                 **169**                                 |                                   **91**                                   |                                **11**                                 |                                 **271**                                  |
 
 
 <table>
@@ -118,6 +118,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 | `0229` | [Majority Element II](https://leetcode.com/problems/majority-element-ii/)                                                                         | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0229.py)  |
 | `0231` | [Power of Two](https://leetcode.com/problems/power-of-two/)                                                                                       |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0231.py)  |
 | `0234` | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)                                                                   |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0234.py)  |
+| `0238` | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)                                                       | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0238.py)  |
 | `0240` | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)                                                                     | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0240.py)  |
 | `0242` | [Valid Anagram](https://leetcode.com/problems/valid-anagram/)                                                                                     |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0242.py)  |
 
@@ -136,6 +137,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 | `0287` | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)                               | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0251%20-%200500/0287.py) |
 | `0299` | [Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/)                                                     | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0251%20-%200500/0299.py) |
 | `0326` | [Power of Three](https://leetcode.com/problems/power-of-three/)                                                     |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0251%20-%200500/0326.py) |
+| `0334` | [Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/)                     | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0251%20-%200500/0334.py) |
 | `0338` | [Counting Bits](https://leetcode.com/problems/counting-bits/)                                                       |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0251%20-%200500/0338.py) |
 | `0341` | [Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/)                         | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0251%20-%200500/0341.py) |
 | `0342` | [Power of Four](https://leetcode.com/problems/power-of-four/)                                                       |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0251%20-%200500/0342.py) |
@@ -154,6 +156,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 | `0415` | [Add Strings](https://leetcode.com/problems/add-strings/)                                                           |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0251%20-%200500/0415.py) |
 | `0419` | [Battleships in a Board](https://leetcode.com/problems/battleships-in-a-board/)                                     | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0251%20-%200500/0419.py) |
 | `0442` | [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)                   | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0251%20-%200500/0442.py) |
+| `0443` | [String Compression](https://leetcode.com/problems/string-compression/)                                             | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0251%20-%200500/0443.py) |
 | `0445` | [Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/)                                             | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0251%20-%200500/0445.py) |
 | `0448` | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0251%20-%200500/0448.py) |
 | `0451` | [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)                         | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0251%20-%200500/0451.py) |
@@ -256,6 +259,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 | `1393` | [Capital Gain/Loss](https://leetcode.com/problems/capital-gainloss/)                                                                        | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/1251%20-%201500/1393.sql) |
 | `1407` | [Top Travellers](https://leetcode.com/problems/top-travellers/)                                                                             |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/1251%20-%201500/1407.sql) |
 | `1408` | [String Matching in an Array](https://leetcode.com/problems/string-matching-in-an-array/)                                                   |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/1251%20-%201500/1408.py)  |
+| `1424` | [Diagonal Traverse II](https://leetcode.com/problems/diagonal-traverse-ii/)                                                                 | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/1251%20-%201500/1424.py)  |
 | `1441` | [Build an Array With Stack Operations](https://leetcode.com/problems/build-an-array-with-stack-operations/)                                 | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/1251%20-%201500/1441.py)  |
 | `1480` | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)                                                           |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/1251%20-%201500/1480.py)  |
 | `1484` | [Group Sold Products By The Date](https://leetcode.com/problems/group-sold-products-by-the-date/)                                           |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/1251%20-%201500/1484.sql) |
