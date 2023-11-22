@@ -3,7 +3,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 
 | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{green}Easy}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{orange}Medium}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{red}Hard}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{black}Total}$ &nbsp;&nbsp;&nbsp;&nbsp; |
 | :---------------------------------------------------------------------: | :------------------------------------------------------------------------: | :-------------------------------------------------------------------: | :----------------------------------------------------------------------: |
-|                                 **169**                                 |                                   **91**                                   |                                **11**                                 |                                 **271**                                  |
+|                                 **169**                                 |                                   **92**                                   |                                **11**                                 |                                 **272**                                  |
 
 
 <table>
@@ -170,6 +170,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 | `0476` | [Number Complement](https://leetcode.com/problems/number-complement/)                                                         |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0251%20-%200500/0476.py)  |
 | `0482` | [License Key Formatting](https://leetcode.com/problems/license-key-formatting/)                                               |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0251%20-%200500/0482.py)  |
 | `0492` | [Construct the Rectangle](https://leetcode.com/problems/construct-the-rectangle/)                                             |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0251%20-%200500/0492.py)  |
+| `0498` | [Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/)                                                         | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0251%20-%200500/0498.py)  |
 | `0504` | [Base 7](https://leetcode.com/problems/base-7/)                                                                               |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0501%20-%200750/0504.py)  |
 | `0509` | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)                                                           |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0501%20-%200750/0509.py)  |
 | `0511` | [Game Play Analysis I](https://leetcode.com/problems/game-play-analysis-i/)                                                   |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0501%20-%200750/0511.sql) |
