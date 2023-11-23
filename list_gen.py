@@ -4,7 +4,7 @@ import os
 import re
 
 
-lnk = "https://leetcode.com/problems/search-in-a-binary-search-tree/"
+lnk = "https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/"
 
 
 def get_task_data(url):
