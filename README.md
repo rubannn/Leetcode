@@ -3,7 +3,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 
 | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{green}Easy}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{orange}Medium}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{red}Hard}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{black}Total}$ &nbsp;&nbsp;&nbsp;&nbsp; |
 | :---------------------------------------------------------------------: | :------------------------------------------------------------------------: | :-------------------------------------------------------------------: | :----------------------------------------------------------------------: |
-|**170** | **95** | **11** | **276**|
+|                                 **170**                                 |                                   **96**                                   |                                **11**                                 |                                 **277**                                  |
 
 
 <table>
@@ -39,6 +39,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 | `0006` | [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/)                                                                             | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0006.py)  |
 | `0007` | [Reverse Integer](https://leetcode.com/problems/reverse-integer/)                                                                                 | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0007.py)  |
 | `0009` | [Palindrome Number](https://leetcode.com/problems/palindrome-number/)                                                                             |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0009.py)  |
+| `0011` | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)                                                             | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0011.py)  |
 | `0012` | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/)                                                                               | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0012.py)  |
 | `0013` | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)                                                                               |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0013.py)  |
 | `0014` | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)                                                                     |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0014.py)  |
@@ -252,7 +253,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 | `1282` | [Group the People Given the Group Size They Belong To](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/) | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/1251%20-%201500/1282.py)  |
 | `1290` | [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/)       |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/1251%20-%201500/1290.py)  |
 | `1314` | [Matrix Block Sum](https://leetcode.com/problems/matrix-block-sum/)                                                                         | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/1251%20-%201500/1314.py)  |
-| `1318` | [Minimum Flips to Make a OR b Equal to c](https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/) |${\color{orange}Medium}$|[\</code\>](/rubannn/Leetcode/tree/main/1251%20-%201500/1318.py) |
+| `1318` | [Minimum Flips to Make a OR b Equal to c](https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/)                           | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/1251%20-%201500/1318.py)  |
 | `1323` | [Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/)                                                                       |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/1251%20-%201500/1323.py)  |
 | `1337` | [The K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/)                                             |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/1251%20-%201500/1337.py)  |
 | `1351` | [Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/)                       |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/1251%20-%201500/1351.py)  |
