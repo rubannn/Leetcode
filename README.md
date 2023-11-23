@@ -3,7 +3,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 
 | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{green}Easy}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{orange}Medium}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{red}Hard}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{black}Total}$ &nbsp;&nbsp;&nbsp;&nbsp; |
 | :---------------------------------------------------------------------: | :------------------------------------------------------------------------: | :-------------------------------------------------------------------: | :----------------------------------------------------------------------: |
-|                                 **169**                                 |                                   **93**                                   |                                **11**                                 |                                 **273**                                  |
+|                                 **169**                                 |                                   **94**                                   |                                **11**                                 |                                 **274**                                  |
 
 
 <table>
@@ -276,6 +276,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 | `1581` | [Customer Who Visited but Did Not Make Any Transactions](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/) |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/1501%20-%201750/1581.sql) |
 | `1587` | [Bank Account Summary II](https://leetcode.com/problems/bank-account-summary-ii/)                                                               |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/1501%20-%201750/1587.sql) |
 | `1598` | [Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder/)                                                                         |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/1501%20-%201750/1598.py)  |
+| `1630` | [Arithmetic Subarrays](https://leetcode.com/problems/arithmetic-subarrays/)                                                                     | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/1501%20-%201750/1630.py)  |
 | `1647` | [Minimum Deletions to Make Character Frequencies Unique](https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/) | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/1501%20-%201750/1647.py)  |
 | `1662` | [Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)                           |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/1501%20-%201750/1662.py)  |
 | `1667` | [Fix Names in a Table](https://leetcode.com/problems/fix-names-in-a-table/)                                                                     |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/1501%20-%201750/1667.sql) |
