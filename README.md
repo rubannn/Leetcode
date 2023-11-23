@@ -3,7 +3,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 
 | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{green}Easy}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{orange}Medium}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{red}Hard}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{black}Total}$ &nbsp;&nbsp;&nbsp;&nbsp; |
 | :---------------------------------------------------------------------: | :------------------------------------------------------------------------: | :-------------------------------------------------------------------: | :----------------------------------------------------------------------: |
-|                                 **169**                                 |                                   **94**                                   |                                **11**                                 |                                 **274**                                  |
+|                                 **170**                                 |                                   **94**                                   |                                **11**                                 |                                 **275**                                  |
 
 
 <table>
@@ -194,6 +194,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 | `0645` | [Set Mismatch](https://leetcode.com/problems/set-mismatch/)                                                                   |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0501%20-%200750/0645.py)  |
 | `0646` | [Maximum Length of Pair Chain](https://leetcode.com/problems/maximum-length-of-pair-chain/)                                   | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0501%20-%200750/0646.py)  |
 | `0682` | [Baseball Game](https://leetcode.com/problems/baseball-game/)                                                                 |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0501%20-%200750/0682.py)  |
+| `0700` | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)                               |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0501%20-%200750/0700.py)  |
 | `0706` | [Design HashMap](https://leetcode.com/problems/design-hashmap/)                                                               |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0501%20-%200750/0706.py)  |
 | `0710` | [Random Pick with Blacklist](https://leetcode.com/problems/random-pick-with-blacklist/)                                       |   ${\color{red}Hard}$    | [\</code\>](/rubannn/Leetcode/tree/main/0501%20-%200750/0710.py)  |
 | `0724` | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)                                                           |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0501%20-%200750/0724.py)  |
