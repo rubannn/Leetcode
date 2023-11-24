@@ -3,7 +3,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 
 | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{green}Easy}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{orange}Medium}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{red}Hard}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{black}Total}$ &nbsp;&nbsp;&nbsp;&nbsp; |
 | :---------------------------------------------------------------------: | :------------------------------------------------------------------------: | :-------------------------------------------------------------------: | :----------------------------------------------------------------------: |
-|                                 **172**                                 |                                   **99**                                   |                                **11**                                 |                                 **282**                                  |
+|                                 **173**                                 |                                   **99**                                   |                                **11**                                 |                                 **283**                                  |
 
 
 <table>
@@ -241,6 +241,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 | `1148` | [Article Views I](https://leetcode.com/problems/article-views-i/)                                                                                   |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/1001%20-%201250/1148.sql) |
 | `1158` | [Market Analysis I](https://leetcode.com/problems/market-analysis-i/)                                                                               | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/1001%20-%201250/1158.sql) |
 | `1185` | [Day of the Week](https://leetcode.com/problems/day-of-the-week/)                                                                                   |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/1001%20-%201250/1185.py)  |
+| `1207` | [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/)                                                         |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/1001%20-%201250/1207.py)  |
 | `1209` | [Remove All Adjacent Duplicates in String II](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/)                           | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/1001%20-%201250/1209.py)  |
 | `1250` | [Check If It Is a Good Array](https://leetcode.com/problems/check-if-it-is-a-good-array/)                                                           |   ${\color{red}Hard}$    | [\</code\>](/rubannn/Leetcode/tree/main/1001%20-%201250/1250.py)  |
 

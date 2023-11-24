@@ -4,7 +4,7 @@ import os
 import re
 
 
-lnk = "https://leetcode.com/problems/find-peak-element/"
+lnk = "https://leetcode.com/problems/unique-number-of-occurrences/"
 
 
 def get_task_data(url):
