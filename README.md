@@ -3,7 +3,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 
 | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{green}Easy}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{orange}Medium}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{red}Hard}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{black}Total}$ &nbsp;&nbsp;&nbsp;&nbsp; |
 | :---------------------------------------------------------------------: | :------------------------------------------------------------------------: | :-------------------------------------------------------------------: | :----------------------------------------------------------------------: |
-|                                 **172**                                 |                                   **97**                                   |                                **11**                                 |                                 **280**                                  |
+|                                 **172**                                 |                                   **98**                                   |                                **11**                                 |                                 **281**                                  |
 
 
 <table>
@@ -277,6 +277,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 | ------ | ----------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------: | :---------------------------------------------------------------: |
 | `1512` | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)                                                                     |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/1501%20-%201750/1512.py)  |
 | `1527` | [Patients With a Condition](https://leetcode.com/problems/patients-with-a-condition/)                                                           |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/1501%20-%201750/1527.sql) |
+| `1561` | [Maximum Number of Coins You Can Get](https://leetcode.com/problems/maximum-number-of-coins-you-can-get/)                                       | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/1501%20-%201750/1561.py)  |
 | `1572` | [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/)                                                                       |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/1501%20-%201750/1572.py)  |
 | `1581` | [Customer Who Visited but Did Not Make Any Transactions](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/) |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/1501%20-%201750/1581.sql) |
 | `1587` | [Bank Account Summary II](https://leetcode.com/problems/bank-account-summary-ii/)                                                               |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/1501%20-%201750/1587.sql) |
