@@ -3,7 +3,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 
 | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{green}Easy}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{orange}Medium}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{red}Hard}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{black}Total}$ &nbsp;&nbsp;&nbsp;&nbsp; |
 | :---------------------------------------------------------------------: | :------------------------------------------------------------------------: | :-------------------------------------------------------------------: | :----------------------------------------------------------------------: |
-|                                 **174**                                 |                                  **101**                                   |                                **11**                                 |                                 **286**                                  |
+|                                 **174**                                 |                                  **102**                                   |                                **11**                                 |                                 **287**                                  |
 
 
 <table>
@@ -139,6 +139,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 | `0287` | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)                               | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0251%20-%200500/0287.py) |
 | `0299` | [Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/)                                                     | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0251%20-%200500/0299.py) |
 | `0326` | [Power of Three](https://leetcode.com/problems/power-of-three/)                                                     |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0251%20-%200500/0326.py) |
+| `0328` | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)                                         | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0251%20-%200500/0328.py) |
 | `0334` | [Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/)                     | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0251%20-%200500/0334.py) |
 | `0338` | [Counting Bits](https://leetcode.com/problems/counting-bits/)                                                       |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0251%20-%200500/0338.py) |
 | `0341` | [Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/)                         | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0251%20-%200500/0341.py) |
