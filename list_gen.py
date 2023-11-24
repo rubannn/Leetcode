@@ -4,7 +4,7 @@ import os
 import re
 
 
-lnk = "https://leetcode.com/problems/equal-row-and-column-pairs/"
+lnk = "https://leetcode.com/problems/number-of-recent-calls/"
 
 
 def get_task_data(url):
