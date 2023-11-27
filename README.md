@@ -3,7 +3,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 
 | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{green}Easy}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{orange}Medium}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{red}Hard}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{black}Total}$ &nbsp;&nbsp;&nbsp;&nbsp; |
 | :---------------------------------------------------------------------: | :------------------------------------------------------------------------: | :-------------------------------------------------------------------: | :----------------------------------------------------------------------: |
-|**174** | **110** | **11** | **295**|
+|                                 **174**                                 |                                  **111**                                   |                                **11**                                 |                                 **296**                                  |
 
 
 <table>
@@ -239,7 +239,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 >
 | Num    | Task name                                                                                                                                           |        Difficulty        |                               Code                                |
 | ------ | --------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------: | :---------------------------------------------------------------: |
-| `0994` | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) |${\color{orange}Medium}$|[\</code\>](/rubannn/Leetcode/tree/main/0751%20-%201000/0994.py) |
+| `0994` | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)                                                                                   | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0751%20-%201000/0994.py)  |
 | `1030` | [Matrix Cells in Distance Order](https://leetcode.com/problems/matrix-cells-in-distance-order/)                                                     |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/1001%20-%201250/1030.py)  |
 | `1047` | [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)                                 |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/1001%20-%201250/1047.py)  |
 | `1050` | [Actors and Directors Who Cooperated At Least Three Times](https://leetcode.com/problems/actors-and-directors-who-cooperated-at-least-three-times/) |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/1001%20-%201250/1050.sql) |
@@ -321,6 +321,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 | `1873` | [Calculate Special Bonus](https://leetcode.com/problems/calculate-special-bonus/)                                                   |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/1751%20-%202000/1873.sql) |
 | `1877` | [Minimize Maximum Pair Sum in Array](https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/)                             | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/1751%20-%202000/1877.py)  |
 | `1890` | [The Latest Login in 2020](https://leetcode.com/problems/the-latest-login-in-2020/)                                                 |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/1751%20-%202000/1890.sql) |
+| `1926` | [Nearest Exit from Entrance in Maze](https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/)                             | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/1751%20-%202000/1926.py)  |
 | `1929` | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/)                                                     |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/1751%20-%202000/1929.py)  |
 | `1952` | [Three Divisors](https://leetcode.com/problems/three-divisors/)                                                                     |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/1751%20-%202000/1952.py)  |
 | `1965` | [Employees With Missing Information](https://leetcode.com/problems/employees-with-missing-information/)                             |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/1751%20-%202000/1965.sql) |
