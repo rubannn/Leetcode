@@ -3,7 +3,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 
 | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{green}Easy}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{orange}Medium}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{red}Hard}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{black}Total}$ &nbsp;&nbsp;&nbsp;&nbsp; |
 | :---------------------------------------------------------------------: | :------------------------------------------------------------------------: | :-------------------------------------------------------------------: | :----------------------------------------------------------------------: |
-|                                 **174**                                 |                                  **111**                                   |                                **11**                                 |                                 **296**                                  |
+|**174** | **112** | **11** | **297**|
 
 
 <table>
@@ -229,6 +229,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 | `0876` | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)                 |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0751%20-%201000/0876.py) |
 | `0885` | [Spiral Matrix III](https://leetcode.com/problems/spiral-matrix-iii/)                                 | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0751%20-%201000/0885.py) |
 | `0896` | [Monotonic Array](https://leetcode.com/problems/monotonic-array/)                                     |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0751%20-%201000/0896.py) |
+| `0901` | [Online Stock Span](https://leetcode.com/problems/online-stock-span/) |${\color{orange}Medium}$|[\</code\>](/rubannn/Leetcode/tree/main/0751%20-%201000/0901.py) |
 | `0905` | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)                           |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0751%20-%201000/0905.py) |
 | `0914` | [X of a Kind in a Deck of Cards](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/)       |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0751%20-%201000/0914.py) |
 | `0933` | [Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/)                       |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0751%20-%201000/0933.py) |
