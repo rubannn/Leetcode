@@ -3,7 +3,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 
 | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{green}Easy}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{orange}Medium}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{red}Hard}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{black}Total}$ &nbsp;&nbsp;&nbsp;&nbsp; |
 | :---------------------------------------------------------------------: | :------------------------------------------------------------------------: | :-------------------------------------------------------------------: | :----------------------------------------------------------------------: |
-|                                 **174**                                 |                                  **106**                                   |                                **11**                                 |                                 **291**                                  |
+|                                 **174**                                 |                                  **107**                                   |                                **11**                                 |                                 **292**                                  |
 
 
 <table>
@@ -76,6 +76,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 | `0068` | [Text Justification](https://leetcode.com/problems/text-justification/)                                                                           |   ${\color{red}Hard}$    | [\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0068.py)  |
 | `0069` | [Sqrt(x)](https://leetcode.com/problems/sqrtx/)                                                                                                   |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0069.py)  |
 | `0070` | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)                                                                                 |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0070.py)  |
+| `0072` | [Edit Distance](https://leetcode.com/problems/edit-distance/)                                                                                     | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0072.py)  |
 | `0074` | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)                                                                           | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0074.py)  |
 | `0077` | [Combinations](https://leetcode.com/problems/combinations/)                                                                                       | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0077.py)  |
 | `0081` | [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)                                             | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0081.py)  |
