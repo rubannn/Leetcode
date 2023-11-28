@@ -3,7 +3,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 
 | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{green}Easy}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{orange}Medium}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{red}Hard}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{black}Total}$ &nbsp;&nbsp;&nbsp;&nbsp; |
 | :---------------------------------------------------------------------: | :------------------------------------------------------------------------: | :-------------------------------------------------------------------: | :----------------------------------------------------------------------: |
-|**174** | **112** | **12** | **298**|
+|**174** | **113** | **12** | **299**|
 
 
 <table>
@@ -116,6 +116,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 | `0205` | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)                                                                           |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0205.py)  |
 | `0206` | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)                                                                         |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0206.py)  |
 | `0215` | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)                                                 | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0215.py)  |
+| `0216` | [Combination Sum III](https://leetcode.com/problems/combination-sum-iii/) |${\color{orange}Medium}$|[\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0216.py) |
 | `0217` | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)                                                                           |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0217.py)  |
 | `0223` | [Rectangle Area](https://leetcode.com/problems/rectangle-area/)                                                                                   | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0223.py)  |
 | `0225` | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)                                                       |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0225.py)  |
