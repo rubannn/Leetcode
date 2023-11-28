@@ -4,7 +4,7 @@ import os
 import re
 
 
-lnk = "https://leetcode.com/problems/count-good-nodes-in-binary-tree/"
+lnk = "https://leetcode.com/problems/longest-substring-without-repeating-characters/"
 
 
 def get_task_data(url):
