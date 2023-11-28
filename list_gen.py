@@ -4,7 +4,7 @@ import os
 import re
 
 
-lnk = "https://leetcode.com/problems/leaf-similar-trees/"
+lnk = "https://leetcode.com/problems/count-good-nodes-in-binary-tree/"
 
 
 def get_task_data(url):

@@ -3,7 +3,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 
 | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{green}Easy}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{orange}Medium}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{red}Hard}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{black}Total}$ &nbsp;&nbsp;&nbsp;&nbsp; |
 | :---------------------------------------------------------------------: | :------------------------------------------------------------------------: | :-------------------------------------------------------------------: | :----------------------------------------------------------------------: |
-|**176** | **113** | **12** | **301**|
+|**176** | **114** | **12** | **302**|
 
 
 <table>
@@ -283,6 +283,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 | `1424` | [Diagonal Traverse II](https://leetcode.com/problems/diagonal-traverse-ii/)                                                                 | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/1251%20-%201500/1424.py)  |
 | `1431` | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)                         |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/1251%20-%201500/1431.py)  |
 | `1441` | [Build an Array With Stack Operations](https://leetcode.com/problems/build-an-array-with-stack-operations/)                                 | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/1251%20-%201500/1441.py)  |
+| `1448` | [Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/) |${\color{orange}Medium}$|[\</code\>](/rubannn/Leetcode/tree/main/1251%20-%201500/1448.py) |
 | `1480` | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)                                                           |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/1251%20-%201500/1480.py)  |
 | `1484` | [Group Sold Products By The Date](https://leetcode.com/problems/group-sold-products-by-the-date/)                                           |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/1251%20-%201500/1484.sql) |
 
