@@ -3,7 +3,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 
 | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{green}Easy}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{orange}Medium}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{red}Hard}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{black}Total}$ &nbsp;&nbsp;&nbsp;&nbsp; |
 | :---------------------------------------------------------------------: | :------------------------------------------------------------------------: | :-------------------------------------------------------------------: | :----------------------------------------------------------------------: |
-|**175** | **113** | **12** | **300**|
+|**176** | **113** | **12** | **301**|
 
 
 <table>
@@ -227,6 +227,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 | `0844` | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)                   |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0751%20-%201000/0844.py) |
 | `0852` | [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)       | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0751%20-%201000/0852.py) |
 | `0867` | [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)                                   |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0751%20-%201000/0867.py) |
+| `0872` | [Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/) |${\color{green}Easy}$|[\</code\>](/rubannn/Leetcode/tree/main/0751%20-%201000/0872.py) |
 | `0875` | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)                             | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0751%20-%201000/0875.py) |
 | `0876` | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)                 |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0751%20-%201000/0876.py) |
 | `0885` | [Spiral Matrix III](https://leetcode.com/problems/spiral-matrix-iii/)                                 | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0751%20-%201000/0885.py) |
