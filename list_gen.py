@@ -4,7 +4,7 @@ import os
 import re
 
 
-lnk = "https://leetcode.com/problems/keys-and-rooms/"
+lnk = "https://leetcode.com/problems/largest-3-same-digit-number-in-string/"
 
 
 def get_task_data(url):

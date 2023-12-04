@@ -3,7 +3,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 
 | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{green}Easy}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{orange}Medium}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{red}Hard}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{black}Total}$ &nbsp;&nbsp;&nbsp;&nbsp; |
 | :---------------------------------------------------------------------: | :------------------------------------------------------------------------: | :-------------------------------------------------------------------: | :----------------------------------------------------------------------: |
-|**176** | **116** | **12** | **304**|
+|**177** | **116** | **12** | **305**|
 
 
 <table>
@@ -357,6 +357,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 >
 | Num    | Task name                                                                                                         |        Difficulty        |                               Code                               |
 | ------ | ----------------------------------------------------------------------------------------------------------------- | :----------------------: | :--------------------------------------------------------------: |
+| `2264` | [Largest 3-Same-Digit Number in String](https://leetcode.com/problems/largest-3-same-digit-number-in-string/) |${\color{green}Easy}$|[\</code\>](/rubannn/Leetcode/tree/main/2251%20-%202500/2264.py) |
 | `2265` | [Count Nodes Equal to Average of Subtree](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/) | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/2251%20-%202500/2265.py) |
 | `2293` | [Min Max Game](https://leetcode.com/problems/min-max-game/)                                                       |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/2251%20-%202500/2293.py) |
 | `2319` | [Check if Matrix Is X-Matrix](https://leetcode.com/problems/check-if-matrix-is-x-matrix/)                         |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/2251%20-%202500/2319.py) |
