@@ -4,7 +4,7 @@ import os
 import re
 
 
-lnk = "https://leetcode.com/problems/largest-3-same-digit-number-in-string/"
+lnk = "https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/"
 
 
 def get_task_data(url):
