@@ -4,7 +4,7 @@ import os
 import re
 
 
-lnk = "https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/"
+lnk = "https://leetcode.com/problems/minimum-time-visiting-all-points/"
 
 
 def get_task_data(url):

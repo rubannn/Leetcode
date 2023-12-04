@@ -3,7 +3,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 
 | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{green}Easy}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{orange}Medium}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{red}Hard}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{black}Total}$ &nbsp;&nbsp;&nbsp;&nbsp; |
 | :---------------------------------------------------------------------: | :------------------------------------------------------------------------: | :-------------------------------------------------------------------: | :----------------------------------------------------------------------: |
-|**178** | **116** | **12** | **306**|
+|**179** | **116** | **12** | **307**|
 
 
 <table>
@@ -267,6 +267,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 | ------ | ------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------: | :---------------------------------------------------------------: |
 | `1252` | [Cells with Odd Values in a Matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/)                                       |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/1251%20-%201500/1252.py)  |
 | `1260` | [Shift 2D Grid](https://leetcode.com/problems/shift-2d-grid/)                                                                               |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/1251%20-%201500/1260.py)  |
+| `1266` | [Minimum Time Visiting All Points](https://leetcode.com/problems/minimum-time-visiting-all-points/) |${\color{green}Easy}$|[\</code\>](/rubannn/Leetcode/tree/main/1251%20-%201500/1266.py) |
 | `1275` | [Find Winner on a Tic Tac Toe Game](https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game/)                                       |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/1251%20-%201500/1275.py)  |
 | `1281` | [Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/) |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/1251%20-%201500/1281.py)  |
 | `1282` | [Group the People Given the Group Size They Belong To](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/) | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/1251%20-%201500/1282.py)  |
