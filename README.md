@@ -3,7 +3,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 
 | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{green}Easy}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{orange}Medium}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{red}Hard}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{black}Total}$ &nbsp;&nbsp;&nbsp;&nbsp; |
 | :---------------------------------------------------------------------: | :------------------------------------------------------------------------: | :-------------------------------------------------------------------: | :----------------------------------------------------------------------: |
-|**179** | **116** | **12** | **307**|
+|**179** | **117** | **12** | **308**|
 
 
 <table>
@@ -48,6 +48,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 | `0020` | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)                                                                             |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0020.py)  |
 | `0021` | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)                                                                   |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0021.py)  |
 | `0023` | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)                                                                       |   ${\color{red}Hard}$    | [\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0023.py)  |
+| `0024` | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) |${\color{orange}Medium}$|[\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0024.py) |
 | `0026` | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)                                         |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0026.py)  |
 | `0027` | [Remove Element](https://leetcode.com/problems/remove-element/)                                                                                   |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0027.py)  |
 | `0032` | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)                                                             |   ${\color{red}Hard}$    | [\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0032.py)  |
