@@ -3,7 +3,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 
 | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{green}Easy}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{orange}Medium}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{red}Hard}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{black}Total}$ &nbsp;&nbsp;&nbsp;&nbsp; |
 | :---------------------------------------------------------------------: | :------------------------------------------------------------------------: | :-------------------------------------------------------------------: | :----------------------------------------------------------------------: |
-|**179** | **117** | **12** | **308**|
+|**179** | **118** | **12** | **309**|
 
 
 <table>
@@ -365,6 +365,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 | `2293` | [Min Max Game](https://leetcode.com/problems/min-max-game/)                                                       |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/2251%20-%202500/2293.py) |
 | `2319` | [Check if Matrix Is X-Matrix](https://leetcode.com/problems/check-if-matrix-is-x-matrix/)                         |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/2251%20-%202500/2319.py) |
 | `2326` | [Spiral Matrix IV](https://leetcode.com/problems/spiral-matrix-iv/)                                               | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/2251%20-%202500/2326.py) |
+| `2336` | [Smallest Number in Infinite Set](https://leetcode.com/problems/smallest-number-in-infinite-set/) |${\color{orange}Medium}$|[\</code\>](/rubannn/Leetcode/tree/main/2251%20-%202500/2336.py) |
 | `2347` | [Best Poker Hand](https://leetcode.com/problems/best-poker-hand/)                                                 |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/2251%20-%202500/2347.py) |
 | `2352` | [Equal Row and Column Pairs](https://leetcode.com/problems/equal-row-and-column-pairs/)                           | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/2251%20-%202500/2352.py) |
 | `2364` | [Count Number of Bad Pairs](https://leetcode.com/problems/count-number-of-bad-pairs/)                             | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/2251%20-%202500/2364.py) |
