@@ -4,7 +4,7 @@ import os
 import re
 
 
-lnk = "https://leetcode.com/problems/smallest-number-in-infinite-set/"
+lnk = "https://leetcode.com/problems/largest-odd-number-in-string/"
 
 
 def get_task_data(url):
