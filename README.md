@@ -3,7 +3,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 
 | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{green}Easy}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{orange}Medium}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{red}Hard}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{black}Total}$ &nbsp;&nbsp;&nbsp;&nbsp; |
 | :---------------------------------------------------------------------: | :------------------------------------------------------------------------: | :-------------------------------------------------------------------: | :----------------------------------------------------------------------: |
-|**181** | **118** | **12** | **311**|
+|**181** | **119** | **12** | **312**|
 
 
 <table>
@@ -187,6 +187,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 | `0515` | [Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/)                                   | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0501%20-%200750/0515.py)  |
 | `0518` | [Coin Change II](https://leetcode.com/problems/coin-change-ii/)                                                                             | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0501%20-%200750/0518.py)  |
 | `0541` | [Reverse String II](https://leetcode.com/problems/reverse-string-ii/)                                                                       |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0501%20-%200750/0541.py)  |
+| `0547` | [Number of Provinces](https://leetcode.com/problems/number-of-provinces/) |${\color{orange}Medium}$|[\</code\>](/rubannn/Leetcode/tree/main/0501%20-%200750/0547.py) |
 | `0557` | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/)                                               |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0501%20-%200750/0557.py)  |
 | `0566` | [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/)                                                                     |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0501%20-%200750/0566.py)  |
 | `0584` | [Find Customer Referee](https://leetcode.com/problems/find-customer-referee/)                                                               |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0501%20-%200750/0584.sql) |

@@ -4,7 +4,7 @@ import os
 import re
 
 
-lnk = "https://leetcode.com/problems/construct-string-from-binary-tree/"
+lnk = "https://leetcode.com/problems/number-of-provinces/"
 
 
 def get_task_data(url):
