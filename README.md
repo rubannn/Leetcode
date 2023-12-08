@@ -3,7 +3,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 
 | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{green}Easy}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{orange}Medium}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{red}Hard}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{black}Total}$ &nbsp;&nbsp;&nbsp;&nbsp; |
 | :---------------------------------------------------------------------: | :------------------------------------------------------------------------: | :-------------------------------------------------------------------: | :----------------------------------------------------------------------: |
-|**180** | **118** | **12** | **310**|
+|**181** | **118** | **12** | **311**|
 
 
 <table>
@@ -195,6 +195,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 | `0598` | [Range Addition II](https://leetcode.com/problems/range-addition-ii/)                                                                       |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0501%20-%200750/0598.py)  |
 | `0599` | [Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists/)                                             |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0501%20-%200750/0599.py)  |
 | `0605` | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/)                                                                       |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0501%20-%200750/0605.py)  |
+| `0606` | [Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/) |${\color{green}Easy}$|[\</code\>](/rubannn/Leetcode/tree/main/0501%20-%200750/0606.py) |
 | `0607` | [Sales Person](https://leetcode.com/problems/sales-person/)                                                                                 |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0501%20-%200750/0607.sql) |
 | `0608` | [Tree Node](https://leetcode.com/problems/tree-node/)                                                                                       | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0501%20-%200750/0608.sql) |
 | `0610` | [Triangle Judgement](https://leetcode.com/problems/triangle-judgement/)                                                                     |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0501%20-%200750/0610.sql) |
