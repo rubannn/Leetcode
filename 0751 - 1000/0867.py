@@ -1,4 +1,5 @@
 class Solution:
+    # variant 1
     def transpose(self, matrix: List[List[int]]) -> List[List[int]]:
         r, c = len(matrix), len(matrix[0])
         res = [[0 for _ in range(r)] for _ in range(c)]
@@ -6,3 +7,7 @@ class Solution:
             for j in range(c):
                 res[j][i] = matrix[i][j]
         return res
+
+    # variant 2
+    def transpose(self, matrix):
+        return zip(*matrix)
