@@ -4,7 +4,7 @@ import os
 import re
 
 
-lnk = "https://leetcode.com/problems/number-of-provinces/"
+lnk = "https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/"
 
 
 def get_task_data(url):

@@ -3,7 +3,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 
 | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{green}Easy}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{orange}Medium}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{red}Hard}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{black}Total}$ &nbsp;&nbsp;&nbsp;&nbsp; |
 | :---------------------------------------------------------------------: | :------------------------------------------------------------------------: | :-------------------------------------------------------------------: | :----------------------------------------------------------------------: |
-|**181** | **119** | **12** | **312**|
+|**182** | **119** | **12** | **313**|
 
 
 <table>
@@ -274,6 +274,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 | `1275` | [Find Winner on a Tic Tac Toe Game](https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game/)                                       |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/1251%20-%201500/1275.py)  |
 | `1281` | [Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/) |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/1251%20-%201500/1281.py)  |
 | `1282` | [Group the People Given the Group Size They Belong To](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/) | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/1251%20-%201500/1282.py)  |
+| `1287` | [Element Appearing More Than 25% In Sorted Array](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/) |${\color{green}Easy}$|[\</code\>](/rubannn/Leetcode/tree/main/1251%20-%201500/1287.py) |
 | `1290` | [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/)       |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/1251%20-%201500/1290.py)  |
 | `1314` | [Matrix Block Sum](https://leetcode.com/problems/matrix-block-sum/)                                                                         | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/1251%20-%201500/1314.py)  |
 | `1318` | [Minimum Flips to Make a OR b Equal to c](https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/)                           | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/1251%20-%201500/1318.py)  |
