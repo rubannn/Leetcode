@@ -1,10 +1,10 @@
-import requests
 from pathlib import Path
 import os
 import re
+import requests
 
 
-lnk = "https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/"
+lnk = "https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/"
 
 
 def get_task_data(url):
