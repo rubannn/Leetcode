@@ -4,7 +4,7 @@ import re
 import requests
 
 
-lnk = "https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/"
+lnk = "https://leetcode.com/problems/special-positions-in-a-binary-matrix/"
 
 
 def get_task_data(url):
