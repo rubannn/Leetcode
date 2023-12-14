@@ -3,7 +3,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 
 | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{green}Easy}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{orange}Medium}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{red}Hard}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{black}Total}$ &nbsp;&nbsp;&nbsp;&nbsp; |
 | :---------------------------------------------------------------------: | :------------------------------------------------------------------------: | :-------------------------------------------------------------------: | :----------------------------------------------------------------------: |
-|**185** | **121** | **12** | **318**|
+|**185** | **122** | **12** | **319**|
 
 
 <table>
@@ -257,6 +257,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 | `1084` | [Sales Analysis III](https://leetcode.com/problems/sales-analysis-iii/)                                                                             |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/1001%20-%201250/1084.sql) |
 | `1137` | [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)                                                                     |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/1001%20-%201250/1137.py)  |
 | `1141` | [User Activity for the Past 30 Days I](https://leetcode.com/problems/user-activity-for-the-past-30-days-i/)                                         |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/1001%20-%201250/1141.sql) |
+| `1143` | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) |${\color{orange}Medium}$|[\</code\>](/rubannn/Leetcode/tree/main/1001%20-%201250/1143.py) |
 | `1148` | [Article Views I](https://leetcode.com/problems/article-views-i/)                                                                                   |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/1001%20-%201250/1148.sql) |
 | `1158` | [Market Analysis I](https://leetcode.com/problems/market-analysis-i/)                                                                               | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/1001%20-%201250/1158.sql) |
 | `1160` | [Find Words That Can Be Formed by Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/) |${\color{green}Easy}$|[\</code\>](/rubannn/Leetcode/tree/main/1001%20-%201250/1160.py) |

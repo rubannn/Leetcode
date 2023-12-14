@@ -4,7 +4,7 @@ import re
 import requests
 
 
-lnk = "https://leetcode.com/problems/determine-if-two-strings-are-close/"
+lnk = "https://leetcode.com/problems/longest-common-subsequence/"
 
 
 def get_task_data(url):
