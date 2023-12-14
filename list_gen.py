@@ -4,7 +4,7 @@ import re
 import requests
 
 
-lnk = "https://leetcode.com/problems/binary-tree-inorder-traversal/"
+lnk = "https://leetcode.com/problems/determine-if-two-strings-are-close/"
 
 
 def get_task_data(url):
