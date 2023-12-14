@@ -4,7 +4,7 @@ import re
 import requests
 
 
-lnk = "https://leetcode.com/problems/special-positions-in-a-binary-matrix/"
+lnk = "https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column/"
 
 
 def get_task_data(url):
