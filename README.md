@@ -3,7 +3,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 
 | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{green}Easy}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{orange}Medium}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{red}Hard}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{black}Total}$ &nbsp;&nbsp;&nbsp;&nbsp; |
 | :---------------------------------------------------------------------: | :------------------------------------------------------------------------: | :-------------------------------------------------------------------: | :----------------------------------------------------------------------: |
-|**187** | **122** | **12** | **321**|
+|**187** | **123** | **12** | **322**|
 
 
 <table>
@@ -379,6 +379,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 | `2336` | [Smallest Number in Infinite Set](https://leetcode.com/problems/smallest-number-in-infinite-set/) |${\color{orange}Medium}$|[\</code\>](/rubannn/Leetcode/tree/main/2251%20-%202500/2336.py) |
 | `2347` | [Best Poker Hand](https://leetcode.com/problems/best-poker-hand/)                                                 |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/2251%20-%202500/2347.py) |
 | `2352` | [Equal Row and Column Pairs](https://leetcode.com/problems/equal-row-and-column-pairs/)                           | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/2251%20-%202500/2352.py) |
+| `2353` | [Design a Food Rating System](https://leetcode.com/problems/design-a-food-rating-system/) |${\color{orange}Medium}$|[\</code\>](/rubannn/Leetcode/tree/main/2251%20-%202500/2353.py) |
 | `2364` | [Count Number of Bad Pairs](https://leetcode.com/problems/count-number-of-bad-pairs/)                             | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/2251%20-%202500/2364.py) |
 | `2373` | [Largest Local Values in a Matrix](https://leetcode.com/problems/largest-local-values-in-a-matrix/)               |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/2251%20-%202500/2373.py) |
 | `2390` | [Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/)                       | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/2251%20-%202500/2390.py) |
