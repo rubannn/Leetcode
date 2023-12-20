@@ -3,7 +3,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 
 | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{green}Easy}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{orange}Medium}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{red}Hard}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{black}Total}$ &nbsp;&nbsp;&nbsp;&nbsp; |
 | :---------------------------------------------------------------------: | :------------------------------------------------------------------------: | :-------------------------------------------------------------------: | :----------------------------------------------------------------------: |
-|**188** | **123** | **12** | **323**|
+|**189** | **123** | **12** | **324**|
 
 
 <table>
@@ -401,6 +401,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 | `2643` | [Row With Maximum Ones](https://leetcode.com/problems/row-with-maximum-ones/)                                   |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/2501%20-%202750/2643.py) |
 | `2660` | [Determine the Winner of a Bowling Game](https://leetcode.com/problems/determine-the-winner-of-a-bowling-game/) |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/2501%20-%202750/2660.py) |
 | `2679` | [Sum in a Matrix](https://leetcode.com/problems/sum-in-a-matrix/)                                               | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/2501%20-%202750/2679.py) |
+| `2706` | [Buy Two Chocolates](https://leetcode.com/problems/buy-two-chocolates/) |${\color{green}Easy}$|[\</code\>](/rubannn/Leetcode/tree/main/2501%20-%202750/2706.py) |
 | `2716` | [Minimize String Length](https://leetcode.com/problems/minimize-string-length/)                                 |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/2501%20-%202750/2716.py) |
 | `2718` | [Sum of Matrix After Queries](https://leetcode.com/problems/sum-of-matrix-after-queries/)                       | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/2501%20-%202750/2718.py) |
 
