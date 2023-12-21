@@ -3,7 +3,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 
 | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{green}Easy}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{orange}Medium}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{red}Hard}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{black}Total}$ &nbsp;&nbsp;&nbsp;&nbsp; |
 | :---------------------------------------------------------------------: | :------------------------------------------------------------------------: | :-------------------------------------------------------------------: | :----------------------------------------------------------------------: |
-|**189** | **126** | **12** | **327**|
+|**189** | **127** | **12** | **328**|
 
 
 <table>
@@ -162,6 +162,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 | `0383` | [Ransom Note](https://leetcode.com/problems/ransom-note/)                                                           |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0251%20-%200500/0383.py) |
 | `0389` | [Find the Difference](https://leetcode.com/problems/find-the-difference/)                                           |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0251%20-%200500/0389.py) |
 | `0392` | [Is Subsequence](https://leetcode.com/problems/is-subsequence/)                                                     |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0251%20-%200500/0392.py) |
+| `0394` | [Decode String](https://leetcode.com/problems/decode-string/) |${\color{orange}Medium}$|[\</code\>](/rubannn/Leetcode/tree/main/0251%20-%200500/0394.py) |
 | `0401` | [Binary Watch](https://leetcode.com/problems/binary-watch/)                                                         |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0251%20-%200500/0401.py) |
 | `0412` | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)                                                               |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0251%20-%200500/0412.py) |
 | `0415` | [Add Strings](https://leetcode.com/problems/add-strings/)                                                           |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0251%20-%200500/0415.py) |
