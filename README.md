@@ -3,7 +3,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 
 | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{green}Easy}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{orange}Medium}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{red}Hard}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{black}Total}$ &nbsp;&nbsp;&nbsp;&nbsp; |
 | :---------------------------------------------------------------------: | :------------------------------------------------------------------------: | :-------------------------------------------------------------------: | :----------------------------------------------------------------------: |
-|**189** | **125** | **12** | **326**|
+|**189** | **126** | **12** | **327**|
 
 
 <table>
@@ -206,6 +206,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 | `0628` | [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/)                                         |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0501%20-%200750/0628.py)  |
 | `0645` | [Set Mismatch](https://leetcode.com/problems/set-mismatch/)                                                                                 |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0501%20-%200750/0645.py)  |
 | `0646` | [Maximum Length of Pair Chain](https://leetcode.com/problems/maximum-length-of-pair-chain/)                                                 | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0501%20-%200750/0646.py)  |
+| `0649` | [Dota2 Senate](https://leetcode.com/problems/dota2-senate/) |${\color{orange}Medium}$|[\</code\>](/rubannn/Leetcode/tree/main/0501%20-%200750/0649.py) |
 | `0661` | [Image Smoother](https://leetcode.com/problems/image-smoother/) |${\color{green}Easy}$|[\</code\>](/rubannn/Leetcode/tree/main/0501%20-%200750/0661.py) |
 | `0682` | [Baseball Game](https://leetcode.com/problems/baseball-game/)                                                                               |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0501%20-%200750/0682.py)  |
 | `0700` | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)                                             |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0501%20-%200750/0700.py)  |
