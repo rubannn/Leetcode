@@ -3,7 +3,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 
 | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{green}Easy}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{orange}Medium}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{red}Hard}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{black}Total}$ &nbsp;&nbsp;&nbsp;&nbsp; |
 | :---------------------------------------------------------------------: | :------------------------------------------------------------------------: | :-------------------------------------------------------------------: | :----------------------------------------------------------------------: |
-|**189** | **130** | **12** | **331**|
+|**189** | **131** | **12** | **332**|
 
 
 <table>
@@ -167,6 +167,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 | `0412` | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)                                                               |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0251%20-%200500/0412.py) |
 | `0415` | [Add Strings](https://leetcode.com/problems/add-strings/)                                                           |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0251%20-%200500/0415.py) |
 | `0419` | [Battleships in a Board](https://leetcode.com/problems/battleships-in-a-board/)                                     | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0251%20-%200500/0419.py) |
+| `0435` | [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) |${\color{orange}Medium}$|[\</code\>](/rubannn/Leetcode/tree/main/0251%20-%200500/0435.py) |
 | `0442` | [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)                   | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0251%20-%200500/0442.py) |
 | `0443` | [String Compression](https://leetcode.com/problems/string-compression/)                                             | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0251%20-%200500/0443.py) |
 | `0445` | [Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/)                                             | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0251%20-%200500/0445.py) |
