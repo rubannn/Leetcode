@@ -3,7 +3,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 
 | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{green}Easy}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{orange}Medium}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{red}Hard}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{black}Total}$ &nbsp;&nbsp;&nbsp;&nbsp; |
 | :---------------------------------------------------------------------: | :------------------------------------------------------------------------: | :-------------------------------------------------------------------: | :----------------------------------------------------------------------: |
-|**189** | **131** | **12** | **332**|
+|**190** | **131** | **12** | **333**|
 
 
 <table>
@@ -295,6 +295,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 | `1393` | [Capital Gain/Loss](https://leetcode.com/problems/capital-gainloss/)                                                                        | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/1251%20-%201500/1393.sql) |
 | `1407` | [Top Travellers](https://leetcode.com/problems/top-travellers/)                                                                             |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/1251%20-%201500/1407.sql) |
 | `1408` | [String Matching in an Array](https://leetcode.com/problems/string-matching-in-an-array/)                                                   |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/1251%20-%201500/1408.py)  |
+| `1422` | [Maximum Score After Splitting a String](https://leetcode.com/problems/maximum-score-after-splitting-a-string/) |${\color{green}Easy}$|[\</code\>](/rubannn/Leetcode/tree/main/1251%20-%201500/1422.py) |
 | `1424` | [Diagonal Traverse II](https://leetcode.com/problems/diagonal-traverse-ii/)                                                                 | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/1251%20-%201500/1424.py)  |
 | `1431` | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)                         |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/1251%20-%201500/1431.py)  |
 | `1436` | [Destination City](https://leetcode.com/problems/destination-city/) |${\color{green}Easy}$|[\</code\>](/rubannn/Leetcode/tree/main/1251%20-%201500/1436.py) |

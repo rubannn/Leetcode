@@ -4,7 +4,7 @@ import re
 import requests
 
 
-lnk = "https://leetcode.com/problems/non-overlapping-intervals/"
+lnk = "https://leetcode.com/problems/maximum-score-after-splitting-a-string/"
 
 
 def get_task_data(url):
