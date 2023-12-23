@@ -4,7 +4,7 @@ import re
 import requests
 
 
-lnk = "https://leetcode.com/problems/maximum-score-after-splitting-a-string/"
+lnk = "https://leetcode.com/problems/path-crossing/"
 
 
 def get_task_data(url):
