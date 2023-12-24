@@ -3,7 +3,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 
 | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{green}Easy}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{orange}Medium}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{red}Hard}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{black}Total}$ &nbsp;&nbsp;&nbsp;&nbsp; |
 | :---------------------------------------------------------------------: | :------------------------------------------------------------------------: | :-------------------------------------------------------------------: | :----------------------------------------------------------------------: |
-|**191** | **131** | **12** | **334**|
+|**192** | **131** | **12** | **335**|
 
 
 <table>
@@ -339,6 +339,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 | Num    | Task name                                                                                                                           |        Difficulty        |                               Code                                |
 | ------ | ----------------------------------------------------------------------------------------------------------------------------------- | :----------------------: | :---------------------------------------------------------------: |
 | `1757` | [Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/)                                   |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/1751%20-%202000/1757.sql) |
+| `1758` | [Minimum Changes To Make Alternating Binary String](https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/) |${\color{green}Easy}$|[\</code\>](/rubannn/Leetcode/tree/main/1751%20-%202000/1758.py) |
 | `1768` | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/)                                               |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/1751%20-%202000/1768.py)  |
 | `1773` | [Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/)                                           |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/1751%20-%202000/1773.py)  |
 | `1795` | [Rearrange Products Table](https://leetcode.com/problems/rearrange-products-table/)                                                 |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/1751%20-%202000/1795.sql) |
