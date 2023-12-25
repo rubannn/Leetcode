@@ -4,7 +4,7 @@ import re
 import requests
 
 
-lnk = "https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/"
+lnk = "https://leetcode.com/problems/decode-ways/"
 
 
 def get_task_data(url):
