@@ -3,7 +3,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 
 | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{green}Easy}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{orange}Medium}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{red}Hard}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{black}Total}$ &nbsp;&nbsp;&nbsp;&nbsp; |
 | :---------------------------------------------------------------------: | :------------------------------------------------------------------------: | :-------------------------------------------------------------------: | :----------------------------------------------------------------------: |
-|**192** | **132** | **12** | **336**|
+|**192** | **133** | **12** | **337**|
 
 
 <table>
@@ -265,6 +265,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 | `1141` | [User Activity for the Past 30 Days I](https://leetcode.com/problems/user-activity-for-the-past-30-days-i/)                                         |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/1001%20-%201250/1141.sql) |
 | `1143` | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) |${\color{orange}Medium}$|[\</code\>](/rubannn/Leetcode/tree/main/1001%20-%201250/1143.py) |
 | `1148` | [Article Views I](https://leetcode.com/problems/article-views-i/)                                                                                   |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/1001%20-%201250/1148.sql) |
+| `1155` | [Number of Dice Rolls With Target Sum](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/) |${\color{orange}Medium}$|[\</code\>](/rubannn/Leetcode/tree/main/1001%20-%201250/1155.py) |
 | `1158` | [Market Analysis I](https://leetcode.com/problems/market-analysis-i/)                                                                               | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/1001%20-%201250/1158.sql) |
 | `1160` | [Find Words That Can Be Formed by Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/) |${\color{green}Easy}$|[\</code\>](/rubannn/Leetcode/tree/main/1001%20-%201250/1160.py) |
 | `1185` | [Day of the Week](https://leetcode.com/problems/day-of-the-week/)                                                                                   |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/1001%20-%201250/1185.py)  |
