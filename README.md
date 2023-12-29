@@ -3,7 +3,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 
 | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{green}Easy}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{orange}Medium}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{red}Hard}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{black}Total}$ &nbsp;&nbsp;&nbsp;&nbsp; |
 | :---------------------------------------------------------------------: | :------------------------------------------------------------------------: | :-------------------------------------------------------------------: | :----------------------------------------------------------------------: |
-|**192** | **134** | **14** | **340**|
+|**193** | **134** | **14** | **341**|
 
 
 <table>
@@ -428,3 +428,4 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 | `2769` | [Find the Maximum Achievable Number](https://leetcode.com/problems/find-the-maximum-achievable-number/)  |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/2751%20-%203000/2769.py) |
 | `2778` | [Sum of Squares of Special Elements ](https://leetcode.com/problems/sum-of-squares-of-special-elements/) |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/2751%20-%203000/2778.py) |
 | `2785` | [Sort Vowels in a String](https://leetcode.com/problems/sort-vowels-in-a-string/)                        | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/2751%20-%203000/2785.py) |
+| `2960` | [Count Tested Devices After Test Operations](https://leetcode.com/problems/count-tested-devices-after-test-operations/) |${\color{green}Easy}$|[\</code\>](/rubannn/Leetcode/tree/main/2751%20-%203000/2960.py) |
