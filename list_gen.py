@@ -4,7 +4,7 @@ import re
 import requests
 
 
-lnk = "https://leetcode.com/problems/list-the-products-ordered-in-a-period/"
+lnk = "https://leetcode.com/problems/form-smallest-number-from-two-digit-arrays/"
 
 
 def get_task_data(url):
