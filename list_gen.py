@@ -4,7 +4,7 @@ import re
 import requests
 
 
-lnk = "https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal/"
+lnk = "https://leetcode.com/problems/largest-substring-between-two-equal-characters/"
 
 
 def get_task_data(url):
