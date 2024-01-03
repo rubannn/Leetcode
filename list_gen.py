@@ -4,7 +4,7 @@ import re
 import requests
 
 
-lnk = "https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions/"
+lnk = "https://leetcode.com/problems/number-of-laser-beams-in-a-bank/"
 
 
 def get_task_data(url):
