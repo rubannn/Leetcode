@@ -3,7 +3,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 
 | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{green}Easy}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{orange}Medium}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{red}Hard}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{black}Total}$ &nbsp;&nbsp;&nbsp;&nbsp; |
 | :---------------------------------------------------------------------: | :------------------------------------------------------------------------: | :-------------------------------------------------------------------: | :----------------------------------------------------------------------: |
-|**197** | **134** | **14** | **345**|
+|**197** | **135** | **14** | **346**|
 
 
 <table>
@@ -416,6 +416,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 | `2525` | [Categorize Box According to Criteria](https://leetcode.com/problems/categorize-box-according-to-criteria/)     |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/2501%20-%202750/2525.py) |
 | `2542` | [Maximum Subsequence Score](https://leetcode.com/problems/maximum-subsequence-score/) |${\color{orange}Medium}$|[\</code\>](/rubannn/Leetcode/tree/main/2501%20-%202750/2542.py) |
 | `2605` | [Form Smallest Number From Two Digit Arrays](https://leetcode.com/problems/form-smallest-number-from-two-digit-arrays/) |${\color{green}Easy}$|[\</code\>](/rubannn/Leetcode/tree/main/2501%20-%202750/2605.py) |
+| `2610` | [Convert an Array Into a 2D Array With Conditions](https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions/) |${\color{orange}Medium}$|[\</code\>](/rubannn/Leetcode/tree/main/2501%20-%202750/2610.py) |
 | `2614` | [Prime In Diagonal](https://leetcode.com/problems/prime-in-diagonal/)                                           |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/2501%20-%202750/2614.py) |
 | `2639` | [Find the Width of Columns of a Grid](https://leetcode.com/problems/find-the-width-of-columns-of-a-grid/)       |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/2501%20-%202750/2639.py) |
 | `2643` | [Row With Maximum Ones](https://leetcode.com/problems/row-with-maximum-ones/)                                   |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/2501%20-%202750/2643.py) |
