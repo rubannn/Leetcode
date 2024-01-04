@@ -4,7 +4,7 @@ import re
 import requests
 
 
-lnk = "https://leetcode.com/problems/number-of-laser-beams-in-a-bank/"
+lnk = "https://leetcode.com/problems/minimum-number-of-operations-to-make-array-empty/"
 
 
 def get_task_data(url):
