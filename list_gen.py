@@ -4,7 +4,7 @@ import re
 import requests
 
 
-lnk = "https://leetcode.com/problems/minimum-number-of-operations-to-make-array-empty/"
+lnk = "https://leetcode.com/problems/longest-increasing-subsequence/"
 
 
 def get_task_data(url):
