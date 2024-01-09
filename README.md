@@ -3,7 +3,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 
 | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{green}Easy}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{orange}Medium}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{red}Hard}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{black}Total}$ &nbsp;&nbsp;&nbsp;&nbsp; |
 | :---------------------------------------------------------------------: | :------------------------------------------------------------------------: | :-------------------------------------------------------------------: | :----------------------------------------------------------------------: |
-|**197** | **138** | **14** | **349**|
+|**198** | **138** | **14** | **350**|
 
 
 <table>
@@ -250,6 +250,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 | `0914` | [X of a Kind in a Deck of Cards](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/)       |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0751%20-%201000/0914.py) |
 | `0933` | [Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/)                       |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0751%20-%201000/0933.py) |
 | `0935` | [Knight Dialer](https://leetcode.com/problems/knight-dialer/)                                         | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0751%20-%201000/0935.py) |
+| `0938` | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) |${\color{green}Easy}$|[\</code\>](/rubannn/Leetcode/tree/main/0751%20-%201000/0938.py) |
 | `0985` | [Sum of Even Numbers After Queries](https://leetcode.com/problems/sum-of-even-numbers-after-queries/) | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0751%20-%201000/0985.py) |
 
 > ### 1001 - 1250
