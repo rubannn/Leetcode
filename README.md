@@ -3,7 +3,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 
 | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{green}Easy}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{orange}Medium}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{red}Hard}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{black}Total}$ &nbsp;&nbsp;&nbsp;&nbsp; |
 | :---------------------------------------------------------------------: | :------------------------------------------------------------------------: | :-------------------------------------------------------------------: | :----------------------------------------------------------------------: |
-|**198** | **140** | **14** | **352**|
+|**199** | **140** | **14** | **353**|
 
 
 <table>
@@ -338,6 +338,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 | `1680` | [Concatenation of Consecutive Binary Numbers](https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/)                       | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/1501%20-%201750/1680.py)  |
 | `1688` | [Count of Matches in Tournament](https://leetcode.com/problems/count-of-matches-in-tournament/)                                                 |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/1501%20-%201750/1688.py)  |
 | `1693` | [Daily Leads and Partners](https://leetcode.com/problems/daily-leads-and-partners/)                                                             |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/1501%20-%201750/1693.sql) |
+| `1704` | [Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike/) |${\color{green}Easy}$|[\</code\>](/rubannn/Leetcode/tree/main/1501%20-%201750/1704.py) |
 | `1716` | [Calculate Money in Leetcode Bank](https://leetcode.com/problems/calculate-money-in-leetcode-bank/)                                             |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/1501%20-%201750/1716.py)  |
 | `1720` | [Decode XORed Array](https://leetcode.com/problems/decode-xored-array/)                                                                         |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/1501%20-%201750/1720.py)  |
 | `1729` | [Find Followers Count](https://leetcode.com/problems/find-followers-count/)                                                                     |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/1501%20-%201750/1729.sql) |

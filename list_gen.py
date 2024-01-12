@@ -4,7 +4,7 @@ import re
 import requests
 
 
-lnk = "https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/"
+lnk = "https://leetcode.com/problems/determine-if-string-halves-are-alike/"
 
 
 def get_task_data(url):
