@@ -4,7 +4,7 @@ import re
 import requests
 
 
-lnk = "https://leetcode.com/problems/determine-if-string-halves-are-alike/"
+lnk = "https://leetcode.com/problems/check-knight-tour-configuration/"
 
 
 def get_task_data(url):
