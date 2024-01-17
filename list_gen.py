@@ -125,7 +125,9 @@ for line in content:
     line = line.split('|')
     if len(line) > 1:
         matches = re.findall(pattern_info, line[2] + line[3])
-        tasks_info.append([{'text': match[0], 'link': match[1], 'difficulty': match[2]} for match in matches])
+        for match in matches:
+            task_dict = {'text': match[0], 'link': match[1], 'difficulty': match[2]}
+            tasks_info.append(task_dict)
 
 solved["Total"] = sum(solved.values())
 content[5] = f"|{' | '.join(f'**{v}**' for k, v in solved.items())}|\n"
@@ -150,9 +152,11 @@ Path("README.md").write_text("".join(content))
 print(task, solved, sep="\n")
 
 # check task type
-# hardtype = 'Medium'
-# for t in tasks_info:
-#     if t and hardtype in t[0]['difficulty']:
-#         task = get_task_data(t[0]['link'])
-#         if task['difficulty'] != hardtype:
-#             print(task)
+hardtype = 'Medium'
+for t in tasks_info:
+    if hardtype in t['difficulty']:
+        task = get_task_data(t['link'])
+        if task['difficulty'] != hardtype:
+            print(task)
+
+# ic(tasks_info)
