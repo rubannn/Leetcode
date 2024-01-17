@@ -2,6 +2,7 @@ from pathlib import Path
 import os
 import re
 import requests
+from icecream import ic
 
 
 lnk = "https://leetcode.com/problems/insert-delete-getrandom-o1/"
@@ -107,16 +108,24 @@ with open(Path("README.md"), "r") as f:
 
 solved = {"Easy": -1, "Medium": -1, "Hard": -1}
 
-pattern = r"\d{4}\.(py|sql)"
+pattern = r"\d{4}\.(py|sql)"  # mask for filename
+pattern_info = r'\[([^\]]+)\]\(([^)]+)\)\s*\${\\color{[^}]+}([^$]+)\$'
+
 regex = re.compile(pattern)
 names_in_md = []
-for cont in content:
-    match = regex.search(cont)
+tasks_info = []
+for line in content:
+    match = regex.search(line)
     if match:
         names_in_md.append(match.group(0))
     for kind in solved.keys():
-        if f"{kind}}}$" in cont:
+        if f"{kind}}}$" in line:
             solved[kind] += 1
+
+    line = line.split('|')
+    if len(line) > 1:
+        matches = re.findall(pattern_info, line[2] + line[3])
+        tasks_info.append([{'text': match[0], 'link': match[1], 'difficulty': match[2]} for match in matches])
 
 solved["Total"] = sum(solved.values())
 content[5] = f"|{' | '.join(f'**{v}**' for k, v in solved.items())}|\n"
@@ -139,3 +148,11 @@ if solved["Total"] != total_files:
 
 Path("README.md").write_text("".join(content))
 print(task, solved, sep="\n")
+
+# check task type
+# hardtype = 'Medium'
+# for t in tasks_info:
+#     if t and hardtype in t[0]['difficulty']:
+#         task = get_task_data(t[0]['link'])
+#         if task['difficulty'] != hardtype:
+#             print(task)

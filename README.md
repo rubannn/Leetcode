@@ -3,7 +3,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 
 | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{green}Easy}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{orange}Medium}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{red}Hard}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{black}Total}$ &nbsp;&nbsp;&nbsp;&nbsp; |
 | :---------------------------------------------------------------------: | :------------------------------------------------------------------------: | :-------------------------------------------------------------------: | :----------------------------------------------------------------------: |
-|**199** | **144** | **14** | **357**|
+|**200** | **143** | **14** | **357**|
 
 
 <table>
@@ -331,7 +331,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 | `1598` | [Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder/)                                                                         |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/1501%20-%201750/1598.py)  |
 | `1624` | [Largest Substring Between Two Equal Characters](https://leetcode.com/problems/largest-substring-between-two-equal-characters/) |${\color{green}Easy}$|[\</code\>](/rubannn/Leetcode/tree/main/1501%20-%201750/1624.py) |
 | `1630` | [Arithmetic Subarrays](https://leetcode.com/problems/arithmetic-subarrays/)                                                                     | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/1501%20-%201750/1630.py)  |
-| `1637` | [Widest Vertical Area Between Two Points Containing No Points](https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points/) |${\color{orange}Medium}$|[\</code\>](/rubannn/Leetcode/tree/main/1501%20-%201750/1637.py) |
+| `1637` | [Widest Vertical Area Between Two Points Containing No Points](https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points/) |${\color{orange}Easy}$|[\</code\>](/rubannn/Leetcode/tree/main/1501%20-%201750/1637.py) |
 | `1647` | [Minimum Deletions to Make Character Frequencies Unique](https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/) | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/1501%20-%201750/1647.py)  |
 | `1657` | [Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close/) |${\color{orange}Medium}$|[\</code\>](/rubannn/Leetcode/tree/main/1501%20-%201750/1657.py) |
 | `1662` | [Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)                           |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/1501%20-%201750/1662.py)  |
