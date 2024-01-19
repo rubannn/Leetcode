@@ -5,7 +5,7 @@ import requests
 from icecream import ic
 
 
-lnk = "https://leetcode.com/problems/insert-delete-getrandom-o1/"
+lnk = "https://leetcode.com/problems/minimum-falling-path-sum/"
 
 
 def get_task_data(url):
@@ -109,7 +109,7 @@ with open(Path("README.md"), "r") as f:
 solved = {"Easy": -1, "Medium": -1, "Hard": -1}
 
 pattern = r"\d{4}\.(py|sql)"  # mask for filename
-pattern_info = r'\[([^\]]+)\]\(([^)]+)\)\s*\${\\color{[^}]+}([^$]+)\$'
+pattern_info = r"\[([^\]]+)\]\(([^)]+)\)\s*\${\\color{[^}]+}([^$]+)\$"
 
 regex = re.compile(pattern)
 names_in_md = []
@@ -122,11 +122,11 @@ for line in content:
         if f"{kind}}}$" in line:
             solved[kind] += 1
 
-    line = line.split('|')
+    line = line.split("|")
     if len(line) > 1:
         matches = re.findall(pattern_info, line[2] + line[3])
         for match in matches:
-            task_dict = {'text': match[0], 'link': match[1], 'difficulty': match[2]}
+            task_dict = {"text": match[0], "link": match[1], "difficulty": match[2]}
             tasks_info.append(task_dict)
 
 solved["Total"] = sum(solved.values())
@@ -152,11 +152,11 @@ Path("README.md").write_text("".join(content))
 print(task, solved, sep="\n")
 
 # check task type
-hardtype = 'Medium'
-for t in tasks_info:
-    if hardtype in t['difficulty']:
-        task = get_task_data(t['link'])
-        if task['difficulty'] != hardtype:
-            print(task)
+# hardtype = 'Medium'
+# for t in tasks_info:
+#     if hardtype in t['difficulty']:
+#         task = get_task_data(t['link'])
+#         if task['difficulty'] != hardtype:
+#             print(task)
 
 # ic(tasks_info)
