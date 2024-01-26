@@ -152,11 +152,11 @@ Path("README.md").write_text("".join(content))
 print(task, solved, sep="\n")
 
 # check task type
-# hardtype = 'Medium'
+# hardtype = "Easy"
 # for t in tasks_info:
-#     if hardtype in t['difficulty']:
-#         task = get_task_data(t['link'])
-#         if task['difficulty'] != hardtype:
+#     if hardtype in t["difficulty"]:
+#         task = get_task_data(t["link"])
+#         if task["difficulty"] != hardtype:
 #             print(task)
 
 # ic(tasks_info)
