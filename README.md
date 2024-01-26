@@ -3,7 +3,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 
 | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{green}Easy}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{orange}Medium}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{red}Hard}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{black}Total}$ &nbsp;&nbsp;&nbsp;&nbsp; |
 | :---------------------------------------------------------------------: | :------------------------------------------------------------------------: | :-------------------------------------------------------------------: | :----------------------------------------------------------------------: |
-|**200** | **144** | **15** | **359**|
+|**200** | **145** | **15** | **360**|
 
 
 <table>
@@ -197,6 +197,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 | `0547` | [Number of Provinces](https://leetcode.com/problems/number-of-provinces/) |${\color{orange}Medium}$|[\</code\>](/rubannn/Leetcode/tree/main/0501%20-%200750/0547.py) |
 | `0557` | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/)                                               |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0501%20-%200750/0557.py)  |
 | `0566` | [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/)                                                                     |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0501%20-%200750/0566.py)  |
+| `0576` | [Out of Boundary Paths](https://leetcode.com/problems/out-of-boundary-paths/) |${\color{orange}Medium}$|[\</code\>](/rubannn/Leetcode/tree/main/0501%20-%200750/0576.py) |
 | `0584` | [Find Customer Referee](https://leetcode.com/problems/find-customer-referee/)                                                               |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0501%20-%200750/0584.sql) |
 | `0586` | [Customer Placing the Largest Number of Orders](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/)               |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0501%20-%200750/0586.sql) |
 | `0595` | [Big Countries](https://leetcode.com/problems/big-countries/)                                                                               |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0501%20-%200750/0595.sql) |
