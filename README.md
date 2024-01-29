@@ -3,7 +3,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 
 | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{green}Easy}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{orange}Medium}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{red}Hard}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{black}Total}$ &nbsp;&nbsp;&nbsp;&nbsp; |
 | :---------------------------------------------------------------------: | :------------------------------------------------------------------------: | :-------------------------------------------------------------------: | :----------------------------------------------------------------------: |
-|                                 **199**                                 |                                  **146**                                   |                                **15**                                 |                                 **360**                                  |
+|**200** | **146** | **15** | **361**|
 
 
 <table>
@@ -127,6 +127,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 | `0225` | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)                                                       |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0225.py)  |
 | `0229` | [Majority Element II](https://leetcode.com/problems/majority-element-ii/)                                                                         | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0229.py)  |
 | `0231` | [Power of Two](https://leetcode.com/problems/power-of-two/)                                                                                       |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0231.py)  |
+| `0232` | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) |${\color{green}Easy}$|[\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0232.py) |
 | `0234` | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)                                                                   |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0234.py)  |
 | `0238` | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)                                                       | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0238.py)  |
 | `0240` | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)                                                                     | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0240.py)  |
