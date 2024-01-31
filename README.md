@@ -3,7 +3,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 
 | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{green}Easy}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{orange}Medium}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{red}Hard}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{black}Total}$ &nbsp;&nbsp;&nbsp;&nbsp; |
 | :---------------------------------------------------------------------: | :------------------------------------------------------------------------: | :-------------------------------------------------------------------: | :----------------------------------------------------------------------: |
-|**200** | **146** | **15** | **361**|
+|**200** | **147** | **15** | **362**|
 
 
 <table>
@@ -229,6 +229,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 | Num    | Task name                                                                                             |        Difficulty        |                               Code                               |
 | ------ | ----------------------------------------------------------------------------------------------------- | :----------------------: | :--------------------------------------------------------------: |
 | `0735` | [Asteroid Collision](https://leetcode.com/problems/asteroid-collision/)                               | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0501%20-%200750/0735.py) |
+| `0739` | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) |${\color{orange}Medium}$|[\</code\>](/rubannn/Leetcode/tree/main/0501%20-%200750/0739.py) |
 | `0746` | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)                   |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0501%20-%200750/0746.py) |
 | `0766` | [Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/)                                     |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0751%20-%201000/0766.py) |
 | `0767` | [Reorganize String](https://leetcode.com/problems/reorganize-string/)                                 | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0751%20-%201000/0767.py) |
