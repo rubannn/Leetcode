@@ -100,6 +100,7 @@ for c in content:
 
 if can_write:
     newcontent.append(mask)
+    Path(f"{foldername}/{tid:04d}{ext}").write_text("")
 
 Path("README.md").write_text("".join(newcontent))
 
