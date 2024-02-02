@@ -5,7 +5,7 @@ import requests
 from icecream import ic
 
 
-lnk = "https://leetcode.com/problems/divide-array-into-arrays-with-max-difference/"
+lnk = "https://leetcode.com/problems/sequential-digits/"
 
 
 def get_task_data(url):
