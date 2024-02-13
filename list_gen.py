@@ -5,7 +5,7 @@ import requests
 from icecream import ic
 
 
-lnk = "https://leetcode.com/problems/first-unique-character-in-a-string/"
+lnk = "https://leetcode.com/problems/find-first-palindromic-string-in-the-array/"
 
 
 def get_task_data(url):
