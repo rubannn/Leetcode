@@ -3,7 +3,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 
 | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{green}Easy}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{orange}Medium}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{red}Hard}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{black}Total}$ &nbsp;&nbsp;&nbsp;&nbsp; |
 | :---------------------------------------------------------------------: | :------------------------------------------------------------------------: | :-------------------------------------------------------------------: | :----------------------------------------------------------------------: |
-|**202** | **150** | **15** | **367**|
+|**202** | **151** | **15** | **368**|
 
 
 <table>
@@ -455,3 +455,4 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 | `2870` | [Minimum Number of Operations to Make Array Empty](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-empty/) | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/2751%20-%203000/2870.py) |
 | `2960` | [Count Tested Devices After Test Operations](https://leetcode.com/problems/count-tested-devices-after-test-operations/)             |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/2751%20-%203000/2960.py) |
 | `2966` | [Divide Array Into Arrays With Max Difference](https://leetcode.com/problems/divide-array-into-arrays-with-max-difference/) |${\color{orange}Medium}$|[\</code\>](/rubannn/Leetcode/tree/main/2751%20-%203000/2966.py) |
+| `2971` | [Find Polygon With the Largest Perimeter](https://leetcode.com/problems/find-polygon-with-the-largest-perimeter/) |${\color{orange}Medium}$|[\</code\>](/rubannn/Leetcode/tree/main/2751%20-%203000/2971.py) |
