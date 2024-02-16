@@ -3,7 +3,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 
 | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{green}Easy}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{orange}Medium}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{red}Hard}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{black}Total}$ &nbsp;&nbsp;&nbsp;&nbsp; |
 | :---------------------------------------------------------------------: | :------------------------------------------------------------------------: | :-------------------------------------------------------------------: | :----------------------------------------------------------------------: |
-|**202** | **151** | **15** | **368**|
+|**202** | **152** | **15** | **369**|
 
 
 <table>
@@ -319,6 +319,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 | `1448` | [Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/)                                           | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/1251%20-%201500/1448.py)  |
 | `1464` | [Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/)                   |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/1251%20-%201500/1464.py)  |
 | `1480` | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)                                                           |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/1251%20-%201500/1480.py)  |
+| `1481` | [Least Number of Unique Integers after K Removals](https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals/) |${\color{orange}Medium}$|[\</code\>](/rubannn/Leetcode/tree/main/1251%20-%201500/1481.py) |
 | `1484` | [Group Sold Products By The Date](https://leetcode.com/problems/group-sold-products-by-the-date/)                                           |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/1251%20-%201500/1484.sql) |
 
 > ### 1501 - 1750
