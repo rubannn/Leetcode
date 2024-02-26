@@ -3,7 +3,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 
 | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{green}Easy}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{orange}Medium}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{red}Hard}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{black}Total}$ &nbsp;&nbsp;&nbsp;&nbsp; |
 | :---------------------------------------------------------------------: | :------------------------------------------------------------------------: | :-------------------------------------------------------------------: | :----------------------------------------------------------------------: |
-|**202** | **152** | **15** | **369**|
+|**203** | **152** | **15** | **370**|
 
 
 <table>
@@ -85,6 +85,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 | `0083` | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)                                           |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0083.py)  |
 | `0091` | [Decode Ways](https://leetcode.com/problems/decode-ways/)                                                                                         | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0091.py)  |
 | `0094` | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)                                                     |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0094.py)  |
+| `0100` | [Same Tree](https://leetcode.com/problems/same-tree/) |${\color{green}Easy}$|[\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0100.py) |
 | `0104` | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)                                                       |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0104.py)  |
 | `0118` | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)                                                                              |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0118.py)  |
 | `0119` | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)                                                                        |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0119.py)  |
