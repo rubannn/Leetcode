@@ -3,7 +3,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 
 | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{green}Easy}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{orange}Medium}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{red}Hard}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{black}Total}$ &nbsp;&nbsp;&nbsp;&nbsp; |
 | :---------------------------------------------------------------------: | :------------------------------------------------------------------------: | :-------------------------------------------------------------------: | :----------------------------------------------------------------------: |
-|**204** | **153** | **15** | **372**|
+|**207** | **154** | **15** | **376**|
 
 
 <table>
@@ -159,6 +159,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 | `0344` | [Reverse String](https://leetcode.com/problems/reverse-string/)                                                         |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0251%20-%200500/0344.py) |
 | `0345` | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)                                 |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0251%20-%200500/0345.py) |
 | `0347` | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)                                       | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0251%20-%200500/0347.py) |
+| `0349` | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) |${\color{green}Easy}$|[\</code\>](/rubannn/Leetcode/tree/main/0251%20-%200500/0349.py) |
 | `0357` | [Count Numbers with Unique Digits](https://leetcode.com/problems/count-numbers-with-unique-digits/)                     | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0251%20-%200500/0357.py) |
 | `0371` | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)                                               | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0251%20-%200500/0371.py) |
 | `0374` | [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)                             |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0251%20-%200500/0374.py) |
@@ -238,6 +239,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 | `0779` | [K-th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar/)                       | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0751%20-%201000/0779.py) |
 | `0788` | [Rotated Digits](https://leetcode.com/problems/rotated-digits/)                                       | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0751%20-%201000/0788.py) |
 | `0790` | [Domino and Tromino Tiling](https://leetcode.com/problems/domino-and-tromino-tiling/)                 | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0751%20-%201000/0790.py) |
+| `0791` | [Custom Sort String](https://leetcode.com/problems/custom-sort-string/) |${\color{orange}Medium}$|[\</code\>](/rubannn/Leetcode/tree/main/0751%20-%201000/0791.py) |
 | `0796` | [Rotate String](https://leetcode.com/problems/rotate-string/)                                         |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0751%20-%201000/0796.py) |
 | `0806` | [Number of Lines To Write String](https://leetcode.com/problems/number-of-lines-to-write-string/)     |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0751%20-%201000/0806.py) |
 | `0832` | [Flipping an Image](https://leetcode.com/problems/flipping-an-image/)                                 |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0751%20-%201000/0832.py) |
@@ -435,6 +437,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 | ------ | ----------------------------------------------------------------------------------------------------------------------------------------- | :----------------------: | :--------------------------------------------------------------: |
 | `2482` | [Difference Between Ones and Zeros in Row and Column](https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column/) | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/2251%20-%202500/2482.py) |
 | `2525` | [Categorize Box According to Criteria](https://leetcode.com/problems/categorize-box-according-to-criteria/)                               |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/2501%20-%202750/2525.py) |
+| `2540` | [Minimum Common Value](https://leetcode.com/problems/minimum-common-value/) |${\color{green}Easy}$|[\</code\>](/rubannn/Leetcode/tree/main/2501%20-%202750/2540.py) |
 | `2542` | [Maximum Subsequence Score](https://leetcode.com/problems/maximum-subsequence-score/)                                                     | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/2501%20-%202750/2542.py) |
 | `2596` | [Check Knight Tour Configuration](https://leetcode.com/problems/check-knight-tour-configuration/)                                         | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/2501%20-%202750/2596.py) |
 | `2605` | [Form Smallest Number From Two Digit Arrays](https://leetcode.com/problems/form-smallest-number-from-two-digit-arrays/)                   |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/2501%20-%202750/2605.py) |
@@ -460,3 +463,4 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 | `2960` | [Count Tested Devices After Test Operations](https://leetcode.com/problems/count-tested-devices-after-test-operations/)             |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/2751%20-%203000/2960.py) |
 | `2966` | [Divide Array Into Arrays With Max Difference](https://leetcode.com/problems/divide-array-into-arrays-with-max-difference/) |${\color{orange}Medium}$|[\</code\>](/rubannn/Leetcode/tree/main/2751%20-%203000/2966.py) |
 | `2971` | [Find Polygon With the Largest Perimeter](https://leetcode.com/problems/find-polygon-with-the-largest-perimeter/) |${\color{orange}Medium}$|[\</code\>](/rubannn/Leetcode/tree/main/2751%20-%203000/2971.py) |
+| `3005` | [Count Elements With Maximum Frequency](https://leetcode.com/problems/count-elements-with-maximum-frequency/) |${\color{green}Easy}$|[\</code\>](/rubannn/Leetcode/tree/main/3001%20-%203250/3005.py) |
