@@ -5,7 +5,8 @@ import requests
 from icecream import ic
 
 
-lnk = "https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends/"
+# lnk = "https://leetcode.com/problems/count-elements-with-maximum-frequency/"
+lnk = "https://leetcode.com/problems/linked-list-cycle/"
 
 
 def get_task_data(url):
@@ -33,13 +34,23 @@ def get_task_data(url):
     # judgerAvailable\n    judgeType\n  mysqlSchemas\n    enableRunCode\n
     # enableTestMode\n    libraryUrl\n    __typename\n  }\n}\n"}
 
-    r = requests.post(posturl, json=data).json()["data"]["question"]
-    id = r["questionFrontendId"]
-    title = r["title"]
-    difficulty = r["difficulty"]
-    codelangs = [langinfo["lang"] for langinfo in r["codeSnippets"]]
-    extention = ".sql" if any(["SQL" in c for c in codelangs]) else ".py"
-    return {"id": id, "title": title, "difficulty": difficulty, "file_ext": extention}
+    response = requests.post(posturl, json=data)
+    if response.status_code != 200:
+        print(f"<Response[{response.status_code}]>")
+        return {}
+    else:
+        data = response.json()["data"]["question"]
+        id = data["questionFrontendId"]
+        title = data["title"]
+        difficulty = data["difficulty"]
+        codelangs = [langinfo["lang"] for langinfo in data["codeSnippets"]]
+        extention = ".sql" if any(["SQL" in c for c in codelangs]) else ".py"
+        return {
+            "id": id,
+            "title": title,
+            "difficulty": difficulty,
+            "file_ext": extention,
+        }
 
 
 def tryint(t):
@@ -64,9 +75,14 @@ folder = [
     "2251 - 2500",
     "2501 - 2750",
     "2751 - 3000",
+    "3001 - 3250",
 ]
 
 task = get_task_data(lnk)
+if not task:
+    ic("No data for load")
+    exit()
+
 tid = int(task["id"])
 title = task["title"]
 ext = task["file_ext"]
