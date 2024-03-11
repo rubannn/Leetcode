@@ -463,4 +463,9 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 | `2960` | [Count Tested Devices After Test Operations](https://leetcode.com/problems/count-tested-devices-after-test-operations/)             |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/2751%20-%203000/2960.py) |
 | `2966` | [Divide Array Into Arrays With Max Difference](https://leetcode.com/problems/divide-array-into-arrays-with-max-difference/) |${\color{orange}Medium}$|[\</code\>](/rubannn/Leetcode/tree/main/2751%20-%203000/2966.py) |
 | `2971` | [Find Polygon With the Largest Perimeter](https://leetcode.com/problems/find-polygon-with-the-largest-perimeter/) |${\color{orange}Medium}$|[\</code\>](/rubannn/Leetcode/tree/main/2751%20-%203000/2971.py) |
+
+> ### 3001 - 3250
+>
+| Num | Task name | Difficulty | Code  |
+| --- | --------- | :--------: | :---: |
 | `3005` | [Count Elements With Maximum Frequency](https://leetcode.com/problems/count-elements-with-maximum-frequency/) |${\color{green}Easy}$|[\</code\>](/rubannn/Leetcode/tree/main/3001%20-%203250/3005.py) |
