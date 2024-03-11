@@ -11,7 +11,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
     <td><a href="#0001---0250">0001 - 0250</a></td>
     <td><a href="#1001---1250">1001 - 1250</a></td>
     <td><a href="#2001---2250">2001 - 2250</a></td>
-    <td><a href="#3001---3250">2001 - 2250</a></td>
+    <td><a href="#3001---3250">3001 - 3250</a></td>
   </tr>
   <tr>
     <td><a href="#0251---0500">0251 - 0500</a></td>
