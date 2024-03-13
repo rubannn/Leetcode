@@ -5,7 +5,7 @@ import requests
 from icecream import ic
 
 
-lnk = "https://leetcode.com/problems/minimum-common-value/"
+lnk = "https://leetcode.com/problems/find-the-pivot-integer/"
 
 
 def get_task_data(url):
