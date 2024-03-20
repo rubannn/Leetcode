@@ -3,7 +3,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 
 | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{green}Easy}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{orange}Medium}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{red}Hard}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{black}Total}$ &nbsp;&nbsp;&nbsp;&nbsp; |
 | :---------------------------------------------------------------------: | :------------------------------------------------------------------------: | :-------------------------------------------------------------------: | :----------------------------------------------------------------------: |
-|**208** | **154** | **15** | **377**|
+|**208** | **155** | **15** | **378**|
 
 
 <table>
@@ -348,6 +348,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 | `1657` | [Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close/)                                                     | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/1501%20-%201750/1657.py)  |
 | `1662` | [Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)                                       |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/1501%20-%201750/1662.py)  |
 | `1667` | [Fix Names in a Table](https://leetcode.com/problems/fix-names-in-a-table/)                                                                                 |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/1501%20-%201750/1667.sql) |
+| `1669` | [Merge In Between Linked Lists](https://leetcode.com/problems/merge-in-between-linked-lists/) |${\color{orange}Medium}$|[\</code\>](/rubannn/Leetcode/tree/main/1501%20-%201750/1669.py) |
 | `1679` | [Max Number of K-Sum Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs/)                                                                       | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/1501%20-%201750/1679.py)  |
 | `1680` | [Concatenation of Consecutive Binary Numbers](https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/)                                   | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/1501%20-%201750/1680.py)  |
 | `1688` | [Count of Matches in Tournament](https://leetcode.com/problems/count-of-matches-in-tournament/)                                                             |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/1501%20-%201750/1688.py)  |
