@@ -3,7 +3,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 
 | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{green}Easy}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{orange}Medium}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{red}Hard}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{black}Total}$ &nbsp;&nbsp;&nbsp;&nbsp; |
 | :---------------------------------------------------------------------: | :------------------------------------------------------------------------: | :-------------------------------------------------------------------: | :----------------------------------------------------------------------: |
-|**214** | **155** | **15** | **384**|
+|**215** | **155** | **15** | **385**|
 
 
 <table>
@@ -394,6 +394,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 | Num    | Task name                                                                                                                                               |        Difficulty        |                               Code                               |
 | ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------: | :--------------------------------------------------------------: |
 | `1980` | [Find Unique Binary String](https://leetcode.com/problems/find-unique-binary-string/)                                                                   | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/1751%20-%202000/1980.py) |
+| `2000` | [Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word/) |${\color{green}Easy}$|[\</code\>](/rubannn/Leetcode/tree/main/1751%20-%202000/2000.py) |
 | `2001` | [Number of Pairs of Interchangeable Rectangles](https://leetcode.com/problems/number-of-pairs-of-interchangeable-rectangles/)                           | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/2001%20-%202250/2001.py) |
 | `2022` | [Convert 1D Array Into 2D Array](https://leetcode.com/problems/convert-1d-array-into-2d-array/)                                                         |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/2001%20-%202250/2022.py) |
 | `2038` | [Remove Colored Pieces if Both Neighbors are the Same Color](https://leetcode.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color/) | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/2001%20-%202250/2038.py) |
