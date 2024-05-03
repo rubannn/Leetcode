@@ -5,7 +5,7 @@ import requests
 from icecream import ic
 
 
-lnk = "https://leetcode.com/problems/reverse-prefix-of-word/"
+lnk = "https://leetcode.com/problems/compare-version-numbers/"
 
 
 def get_task_data(url):
