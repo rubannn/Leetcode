@@ -3,7 +3,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 
 | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{green}Easy}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{orange}Medium}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{red}Hard}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{black}Total}$ &nbsp;&nbsp;&nbsp;&nbsp; |
 | :---------------------------------------------------------------------: | :------------------------------------------------------------------------: | :-------------------------------------------------------------------: | :----------------------------------------------------------------------: |
-|**216** | **157** | **15** | **388**|
+|**216** | **158** | **15** | **389**|
 
 
 <table>
@@ -482,3 +482,4 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 | Num | Task name | Difficulty | Code  |
 | --- | --------- | :--------: | :---: |
 | `3005` | [Count Elements With Maximum Frequency](https://leetcode.com/problems/count-elements-with-maximum-frequency/) |${\color{green}Easy}$|[\</code\>](/rubannn/Leetcode/tree/main/3001%20-%203250/3005.py) |
+| `3075` | [Maximize Happiness of Selected Children](https://leetcode.com/problems/maximize-happiness-of-selected-children/) |${\color{orange}Medium}$|[\</code\>](/rubannn/Leetcode/tree/main/3001%20-%203250/3075.py) |
