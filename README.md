@@ -3,7 +3,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 
 | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{green}Easy}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{orange}Medium}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{red}Hard}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{black}Total}$ &nbsp;&nbsp;&nbsp;&nbsp; |
 | :---------------------------------------------------------------------: | :------------------------------------------------------------------------: | :-------------------------------------------------------------------: | :----------------------------------------------------------------------: |
-|**215** | **157** | **15** | **387**|
+|**216** | **157** | **15** | **388**|
 
 
 <table>
@@ -196,6 +196,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 | `0492` | [Construct the Rectangle](https://leetcode.com/problems/construct-the-rectangle/)                                                           |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0251%20-%200500/0492.py)  |
 | `0498` | [Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/)                                                                       | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0251%20-%200500/0498.py)  |
 | `0504` | [Base 7](https://leetcode.com/problems/base-7/)                                                                                             |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0501%20-%200750/0504.py)  |
+| `0506` | [Relative Ranks](https://leetcode.com/problems/relative-ranks/) |${\color{green}Easy}$|[\</code\>](/rubannn/Leetcode/tree/main/0501%20-%200750/0506.py) |
 | `0509` | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)                                                                         |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0501%20-%200750/0509.py)  |
 | `0511` | [Game Play Analysis I](https://leetcode.com/problems/game-play-analysis-i/)                                                                 |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0501%20-%200750/0511.sql) |
 | `0515` | [Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/)                                   | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0501%20-%200750/0515.py)  |
