@@ -3,7 +3,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 
 | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{green}Easy}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{orange}Medium}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{red}Hard}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{black}Total}$ &nbsp;&nbsp;&nbsp;&nbsp; |
 | :---------------------------------------------------------------------: | :------------------------------------------------------------------------: | :-------------------------------------------------------------------: | :----------------------------------------------------------------------: |
-|**216** | **158** | **15** | **389**|
+|**217** | **158** | **15** | **390**|
 
 
 <table>
@@ -345,6 +345,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 | `1582` | [Special Positions in a Binary Matrix](https://leetcode.com/problems/special-positions-in-a-binary-matrix/)                                                 |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/1501%20-%201750/1582.py)  |
 | `1587` | [Bank Account Summary II](https://leetcode.com/problems/bank-account-summary-ii/)                                                                           |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/1501%20-%201750/1587.sql) |
 | `1598` | [Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder/)                                                                                     |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/1501%20-%201750/1598.py)  |
+| `1608` | [Special Array With X Elements Greater Than or Equal X](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/) |${\color{green}Easy}$|[\</code\>](/rubannn/Leetcode/tree/main/1501%20-%201750/1608.py) |
 | `1614` | [Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/) |${\color{green}Easy}$|[\</code\>](/rubannn/Leetcode/tree/main/1501%20-%201750/1614.py) |
 | `1624` | [Largest Substring Between Two Equal Characters](https://leetcode.com/problems/largest-substring-between-two-equal-characters/)                             |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/1501%20-%201750/1624.py)  |
 | `1630` | [Arithmetic Subarrays](https://leetcode.com/problems/arithmetic-subarrays/)                                                                                 | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/1501%20-%201750/1630.py)  |
