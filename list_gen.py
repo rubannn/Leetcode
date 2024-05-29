@@ -5,7 +5,7 @@ import requests
 from icecream import ic
 
 
-lnk = "https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/"
+lnk = "https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/"
 
 
 def get_task_data(url):

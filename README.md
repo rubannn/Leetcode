@@ -3,7 +3,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 
 | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{green}Easy}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{orange}Medium}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{red}Hard}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{black}Total}$ &nbsp;&nbsp;&nbsp;&nbsp; |
 | :---------------------------------------------------------------------: | :------------------------------------------------------------------------: | :-------------------------------------------------------------------: | :----------------------------------------------------------------------: |
-|**217** | **158** | **15** | **390**|
+|**217** | **159** | **15** | **391**|
 
 
 <table>
@@ -316,6 +316,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 | `1365` | [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/1251%20-%201500/1365.py)  |
 | `1380` | [Lucky Numbers in a Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix/)                                                       |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/1251%20-%201500/1380.py)  |
 | `1393` | [Capital Gain/Loss](https://leetcode.com/problems/capital-gainloss/)                                                                        | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/1251%20-%201500/1393.sql) |
+| `1404` | [Number of Steps to Reduce a Number in Binary Representation to One](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/) |${\color{orange}Medium}$|[\</code\>](/rubannn/Leetcode/tree/main/1251%20-%201500/1404.py) |
 | `1407` | [Top Travellers](https://leetcode.com/problems/top-travellers/)                                                                             |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/1251%20-%201500/1407.sql) |
 | `1408` | [String Matching in an Array](https://leetcode.com/problems/string-matching-in-an-array/)                                                   |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/1251%20-%201500/1408.py)  |
 | `1422` | [Maximum Score After Splitting a String](https://leetcode.com/problems/maximum-score-after-splitting-a-string/)                             |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/1251%20-%201500/1422.py)  |
