@@ -3,7 +3,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 
 | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{green}Easy}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{orange}Medium}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{red}Hard}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{black}Total}$ &nbsp;&nbsp;&nbsp;&nbsp; |
 | :---------------------------------------------------------------------: | :------------------------------------------------------------------------: | :-------------------------------------------------------------------: | :----------------------------------------------------------------------: |
-|**220** | **159** | **15** | **394**|
+|**221** | **159** | **15** | **395**|
 
 
 <table>
@@ -277,6 +277,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 | `1030` | [Matrix Cells in Distance Order](https://leetcode.com/problems/matrix-cells-in-distance-order/)                                                     |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/1001%20-%201250/1030.py)  |
 | `1047` | [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)                                 |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/1001%20-%201250/1047.py)  |
 | `1050` | [Actors and Directors Who Cooperated At Least Three Times](https://leetcode.com/problems/actors-and-directors-who-cooperated-at-least-three-times/) |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/1001%20-%201250/1050.sql) |
+| `1051` | [Height Checker](https://leetcode.com/problems/height-checker/) |${\color{green}Easy}$|[\</code\>](/rubannn/Leetcode/tree/main/1001%20-%201250/1051.py) |
 | `1071` | [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/)                                             |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/1001%20-%201250/1071.py)  |
 | `1084` | [Sales Analysis III](https://leetcode.com/problems/sales-analysis-iii/)                                                                             |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/1001%20-%201250/1084.sql) |
 | `1137` | [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)                                                                     |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/1001%20-%201250/1137.py)  |
