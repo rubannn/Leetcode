@@ -3,7 +3,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 
 | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{green}Easy}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{orange}Medium}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{red}Hard}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{black}Total}$ &nbsp;&nbsp;&nbsp;&nbsp; |
 | :---------------------------------------------------------------------: | :------------------------------------------------------------------------: | :-------------------------------------------------------------------: | :----------------------------------------------------------------------: |
-|**222** | **159** | **15** | **396**|
+|**222** | **160** | **15** | **397**|
 
 
 <table>
@@ -81,6 +81,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 | `0070` | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)                                                                                 |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0070.py)  |
 | `0072` | [Edit Distance](https://leetcode.com/problems/edit-distance/)                                                                                     | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0072.py)  |
 | `0074` | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)                                                                           | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0074.py)  |
+| `0075` | [Sort Colors](https://leetcode.com/problems/sort-colors/) |${\color{orange}Medium}$|[\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0075.py) |
 | `0077` | [Combinations](https://leetcode.com/problems/combinations/)                                                                                       | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0077.py)  |
 | `0081` | [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)                                             | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0081.py)  |
 | `0083` | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)                                           |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0001%20-%200250/0083.py)  |
