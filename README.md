@@ -3,7 +3,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 
 | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{green}Easy}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{orange}Medium}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{red}Hard}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{black}Total}$ &nbsp;&nbsp;&nbsp;&nbsp; |
 | :---------------------------------------------------------------------: | :------------------------------------------------------------------------: | :-------------------------------------------------------------------: | :----------------------------------------------------------------------: |
-|**224** | **163** | **15** | **402**|
+|**225** | **163** | **15** | **403**|
 
 
 <table>
@@ -347,6 +347,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 | `1527` | [Patients With a Condition](https://leetcode.com/problems/patients-with-a-condition/)                                                                       |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/1501%20-%201750/1527.sql) |
 | `1531` | [String Compression II](https://leetcode.com/problems/string-compression-ii/)                                                                               |   ${\color{red}Hard}$    | [\</code\>](/rubannn/Leetcode/tree/main/1501%20-%201750/1531.py)  |
 | `1544` | [Make The String Great](https://leetcode.com/problems/make-the-string-great/) |${\color{green}Easy}$|[\</code\>](/rubannn/Leetcode/tree/main/1501%20-%201750/1544.py) |
+| `1550` | [Three Consecutive Odds](https://leetcode.com/problems/three-consecutive-odds/) |${\color{green}Easy}$|[\</code\>](/rubannn/Leetcode/tree/main/1501%20-%201750/1550.py) |
 | `1561` | [Maximum Number of Coins You Can Get](https://leetcode.com/problems/maximum-number-of-coins-you-can-get/)                                                   | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/1501%20-%201750/1561.py)  |
 | `1572` | [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/)                                                                                   |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/1501%20-%201750/1572.py)  |
 | `1578` | [Minimum Time to Make Rope Colorful](https://leetcode.com/problems/minimum-time-to-make-rope-colorful/)                                                     | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/1501%20-%201750/1578.py)  |
