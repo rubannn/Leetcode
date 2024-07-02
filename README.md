@@ -3,7 +3,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 
 | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{green}Easy}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{orange}Medium}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{red}Hard}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{black}Total}$ &nbsp;&nbsp;&nbsp;&nbsp; |
 | :---------------------------------------------------------------------: | :------------------------------------------------------------------------: | :-------------------------------------------------------------------: | :----------------------------------------------------------------------: |
-|**225** | **163** | **15** | **403**|
+|**226** | **163** | **15** | **404**|
 
 
 <table>
@@ -163,6 +163,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 | `0345` | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)                                 |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0251%20-%200500/0345.py) |
 | `0347` | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)                                       | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0251%20-%200500/0347.py) |
 | `0349` | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) |${\color{green}Easy}$|[\</code\>](/rubannn/Leetcode/tree/main/0251%20-%200500/0349.py) |
+| `0350` | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) |${\color{green}Easy}$|[\</code\>](/rubannn/Leetcode/tree/main/0251%20-%200500/0350.py) |
 | `0357` | [Count Numbers with Unique Digits](https://leetcode.com/problems/count-numbers-with-unique-digits/)                     | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0251%20-%200500/0357.py) |
 | `0371` | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)                                               | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/0251%20-%200500/0371.py) |
 | `0374` | [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)                             |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/0251%20-%200500/0374.py) |
