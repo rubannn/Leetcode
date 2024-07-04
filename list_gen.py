@@ -5,7 +5,7 @@ import requests
 from icecream import ic
 
 
-lnk = "https://leetcode.com/problems/intersection-of-two-arrays-ii/"
+lnk = "https://leetcode.com/problems/merge-nodes-in-between-zeros/"
 
 
 def get_task_data(url):
