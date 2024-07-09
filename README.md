@@ -3,7 +3,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 
 | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{green}Easy}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{orange}Medium}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{red}Hard}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{black}Total}$ &nbsp;&nbsp;&nbsp;&nbsp; |
 | :---------------------------------------------------------------------: | :------------------------------------------------------------------------: | :-------------------------------------------------------------------: | :----------------------------------------------------------------------: |
-|**226** | **164** | **15** | **405**|
+|**226** | **165** | **15** | **406**|
 
 
 <table>
@@ -390,6 +390,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 | `1791` | [Find Center of Star Graph](https://leetcode.com/problems/find-center-of-star-graph/) |${\color{green}Easy}$|[\</code\>](/rubannn/Leetcode/tree/main/1751%20-%202000/1791.py) |
 | `1795` | [Rearrange Products Table](https://leetcode.com/problems/rearrange-products-table/)                                                   |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/1751%20-%202000/1795.sql) |
 | `1814` | [Count Nice Pairs in an Array](https://leetcode.com/problems/count-nice-pairs-in-an-array/)                                           | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/1751%20-%202000/1814.py)  |
+| `1823` | [Find the Winner of the Circular Game](https://leetcode.com/problems/find-the-winner-of-the-circular-game/) |${\color{orange}Medium}$|[\</code\>](/rubannn/Leetcode/tree/main/1751%20-%202000/1823.py) |
 | `1845` | [Seat Reservation Manager](https://leetcode.com/problems/seat-reservation-manager/)                                                   | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/1751%20-%202000/1845.py)  |
 | `1846` | [Maximum Element After Decreasing and Rearranging](https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/)   | ${\color{orange}Medium}$ | [\</code\>](/rubannn/Leetcode/tree/main/1751%20-%202000/1846.py)  |
 | `1873` | [Calculate Special Bonus](https://leetcode.com/problems/calculate-special-bonus/)                                                     |  ${\color{green}Easy}$   | [\</code\>](/rubannn/Leetcode/tree/main/1751%20-%202000/1873.sql) |
