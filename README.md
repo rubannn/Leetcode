@@ -3,7 +3,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 
 | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{green}Easy}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{orange}Medium}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{red}Hard}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{black}Total}$ &nbsp;&nbsp;&nbsp;&nbsp; |
 | :---------------------------------------------------------------------: | :------------------------------------------------------------------------: | :-------------------------------------------------------------------: | :----------------------------------------------------------------------: |
-|                                 **226**                                 |                                  **165**                                   |                                **15**                                 |                                 **406**                                  |
+|**227** | **165** | **15** | **407**|
 
 
 <table>
@@ -345,6 +345,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 | ------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------: | :------------------------------------: |
 | `1496` | [Path Crossing](https://leetcode.com/problems/path-crossing/)                                                                                               |  ${\color{green}Easy}$   | [\</code\>](/1251%20-%201500/1496.py)  |
 | `1512` | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)                                                                                 |  ${\color{green}Easy}$   | [\</code\>](/1501%20-%201750/1512.py)  |
+| `1518` | [Water Bottles](https://leetcode.com/problems/water-bottles/) |${\color{green}Easy}$|[\</code\>](/1501%20-%201750/1518.py) |
 | `1527` | [Patients With a Condition](https://leetcode.com/problems/patients-with-a-condition/)                                                                       |  ${\color{green}Easy}$   | [\</code\>](/1501%20-%201750/1527.sql) |
 | `1531` | [String Compression II](https://leetcode.com/problems/string-compression-ii/)                                                                               |   ${\color{red}Hard}$    | [\</code\>](/1501%20-%201750/1531.py)  |
 | `1544` | [Make The String Great](https://leetcode.com/problems/make-the-string-great/)                                                                               |  ${\color{green}Easy}$   | [\</code\>](/1501%20-%201750/1544.py)  |
