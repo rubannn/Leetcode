@@ -3,7 +3,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 
 | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{green}Easy}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{orange}Medium}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{red}Hard}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{black}Total}$ &nbsp;&nbsp;&nbsp;&nbsp; |
 | :---------------------------------------------------------------------: | :------------------------------------------------------------------------: | :-------------------------------------------------------------------: | :----------------------------------------------------------------------: |
-|**227** | **165** | **15** | **407**|
+|**228** | **165** | **15** | **408**|
 
 
 <table>
@@ -454,6 +454,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 | `2390` | [Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/)                                                     | ${\color{orange}Medium}$ | [\</code\>](/2251%20-%202500/2390.py) |
 | `2404` | [Most Frequent Even Element](https://leetcode.com/problems/most-frequent-even-element/)                                                         |  ${\color{green}Easy}$   | [\</code\>](/2251%20-%202500/2404.py) |
 | `2413` | [Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple/)                                                                 |  ${\color{green}Easy}$   | [\</code\>](/2251%20-%202500/2413.py) |
+| `2418` | [Sort the People](https://leetcode.com/problems/sort-the-people/) |${\color{green}Easy}$|[\</code\>](/2251%20-%202500/2418.py) |
 | `2427` | [Number of Common Factors](https://leetcode.com/problems/number-of-common-factors/)                                                             |  ${\color{green}Easy}$   | [\</code\>](/2251%20-%202500/2427.py) |
 | `2433` | [Find The Original Array of Prefix Xor](https://leetcode.com/problems/find-the-original-array-of-prefix-xor/)                                   | ${\color{orange}Medium}$ | [\</code\>](/2251%20-%202500/2433.py) |
 | `2441` | [Largest Positive Integer That Exists With Its Negative](https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative/) |  ${\color{green}Easy}$   | [\</code\>](/2251%20-%202500/2441.py) |
