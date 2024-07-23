@@ -3,7 +3,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 
 | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{green}Easy}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{orange}Medium}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{red}Hard}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{black}Total}$ &nbsp;&nbsp;&nbsp;&nbsp; |
 | :---------------------------------------------------------------------: | :------------------------------------------------------------------------: | :-------------------------------------------------------------------: | :----------------------------------------------------------------------: |
-|**228** | **165** | **15** | **408**|
+|**229** | **165** | **15** | **409**|
 
 
 <table>
@@ -361,6 +361,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 | `1614` | [Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/)                                         |  ${\color{green}Easy}$   | [\</code\>](/1501%20-%201750/1614.py)  |
 | `1624` | [Largest Substring Between Two Equal Characters](https://leetcode.com/problems/largest-substring-between-two-equal-characters/)                             |  ${\color{green}Easy}$   | [\</code\>](/1501%20-%201750/1624.py)  |
 | `1630` | [Arithmetic Subarrays](https://leetcode.com/problems/arithmetic-subarrays/)                                                                                 | ${\color{orange}Medium}$ | [\</code\>](/1501%20-%201750/1630.py)  |
+| `1636` | [Sort Array by Increasing Frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency/) |${\color{green}Easy}$|[\</code\>](/1501%20-%201750/1636.py) |
 | `1637` | [Widest Vertical Area Between Two Points Containing No Points](https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points/) |  ${\color{green}Easy}$   | [\</code\>](/1501%20-%201750/1637.py)  |
 | `1647` | [Minimum Deletions to Make Character Frequencies Unique](https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/)             | ${\color{orange}Medium}$ | [\</code\>](/1501%20-%201750/1647.py)  |
 | `1657` | [Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close/)                                                     | ${\color{orange}Medium}$ | [\</code\>](/1501%20-%201750/1657.py)  |
