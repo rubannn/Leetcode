@@ -5,7 +5,7 @@ import requests
 from icecream import ic
 
 
-lnk = "https://leetcode.com/problems/number-of-senior-citizens/"
+lnk = "https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/"
 
 
 def get_task_data(url):
