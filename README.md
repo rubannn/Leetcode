@@ -3,7 +3,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 
 | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{green}Easy}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{orange}Medium}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{red}Hard}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{black}Total}$ &nbsp;&nbsp;&nbsp;&nbsp; |
 | :---------------------------------------------------------------------: | :------------------------------------------------------------------------: | :-------------------------------------------------------------------: | :----------------------------------------------------------------------: |
-|**230** | **167** | **15** | **412**|
+|**231** | **167** | **15** | **413**|
 
 
 <table>
@@ -417,6 +417,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 | `2022` | [Convert 1D Array Into 2D Array](https://leetcode.com/problems/convert-1d-array-into-2d-array/)                                                         |  ${\color{green}Easy}$   | [\</code\>](/2001%20-%202250/2022.py) |
 | `2037` | [Minimum Number of Moves to Seat Everyone](https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/)                                     |  ${\color{green}Easy}$   | [\</code\>](/2001%20-%202250/2037.py) |
 | `2038` | [Remove Colored Pieces if Both Neighbors are the Same Color](https://leetcode.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color/) | ${\color{orange}Medium}$ | [\</code\>](/2001%20-%202250/2038.py) |
+| `2053` | [Kth Distinct String in an Array](https://leetcode.com/problems/kth-distinct-string-in-an-array/) |${\color{green}Easy}$|[\</code\>](/2001%20-%202250/2053.py) |
 | `2073` | [Time Needed to Buy Tickets](https://leetcode.com/problems/time-needed-to-buy-tickets/)                                                                 |  ${\color{green}Easy}$   | [\</code\>](/2001%20-%202250/2073.py) |
 | `2095` | [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/)                                       | ${\color{orange}Medium}$ | [\</code\>](/2001%20-%202250/2095.py) |
 | `2108` | [Find First Palindromic String in the Array](https://leetcode.com/problems/find-first-palindromic-string-in-the-array/)                                 |  ${\color{green}Easy}$   | [\</code\>](/2001%20-%202250/2108.py) |
