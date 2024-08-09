@@ -3,7 +3,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 
 | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{green}Easy}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{orange}Medium}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{red}Hard}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{black}Total}$ &nbsp;&nbsp;&nbsp;&nbsp; |
 | :---------------------------------------------------------------------: | :------------------------------------------------------------------------: | :-------------------------------------------------------------------: | :----------------------------------------------------------------------: |
-|**231** | **167** | **15** | **413**|
+|**231** | **168** | **15** | **414**|
 
 
 <table>
@@ -253,6 +253,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 | `0826` | [Most Profit Assigning Work](https://leetcode.com/problems/most-profit-assigning-work/)                         | ${\color{orange}Medium}$ | [\</code\>](/0751%20-%201000/0826.py) |
 | `0832` | [Flipping an Image](https://leetcode.com/problems/flipping-an-image/)                                           |  ${\color{green}Easy}$   | [\</code\>](/0751%20-%201000/0832.py) |
 | `0836` | [Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap/)                                           |  ${\color{green}Easy}$   | [\</code\>](/0751%20-%201000/0836.py) |
+| `0840` | [Magic Squares In Grid](https://leetcode.com/problems/magic-squares-in-grid/) |${\color{orange}Medium}$|[\</code\>](/0751%20-%201000/0840.py) |
 | `0841` | [Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/)                                                 | ${\color{orange}Medium}$ | [\</code\>](/0751%20-%201000/0841.py) |
 | `0844` | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)                             |  ${\color{green}Easy}$   | [\</code\>](/0751%20-%201000/0844.py) |
 | `0852` | [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)                 | ${\color{orange}Medium}$ | [\</code\>](/0751%20-%201000/0852.py) |
