@@ -3,7 +3,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 
 | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{green}Easy}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{orange}Medium}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{red}Hard}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{black}Total}$ &nbsp;&nbsp;&nbsp;&nbsp; |
 | :---------------------------------------------------------------------: | :------------------------------------------------------------------------: | :-------------------------------------------------------------------: | :----------------------------------------------------------------------: |
-|**232** | **168** | **15** | **415**|
+|**233** | **168** | **15** | **416**|
 
 
 <table>
@@ -258,6 +258,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 | `0841` | [Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/)                                                 | ${\color{orange}Medium}$ | [\</code\>](/0751%20-%201000/0841.py) |
 | `0844` | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)                             |  ${\color{green}Easy}$   | [\</code\>](/0751%20-%201000/0844.py) |
 | `0852` | [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)                 | ${\color{orange}Medium}$ | [\</code\>](/0751%20-%201000/0852.py) |
+| `0860` | [Lemonade Change](https://leetcode.com/problems/lemonade-change/) |${\color{green}Easy}$|[\</code\>](/0751%20-%201000/0860.py) |
 | `0867` | [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)                                             |  ${\color{green}Easy}$   | [\</code\>](/0751%20-%201000/0867.py) |
 | `0872` | [Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/)                                         |  ${\color{green}Easy}$   | [\</code\>](/0751%20-%201000/0872.py) |
 | `0875` | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)                                       | ${\color{orange}Medium}$ | [\</code\>](/0751%20-%201000/0875.py) |
