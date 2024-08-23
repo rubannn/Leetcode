@@ -3,7 +3,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 
 | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{green}Easy}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{orange}Medium}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{red}Hard}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{black}Total}$ &nbsp;&nbsp;&nbsp;&nbsp; |
 | :---------------------------------------------------------------------: | :------------------------------------------------------------------------: | :-------------------------------------------------------------------: | :----------------------------------------------------------------------: |
-|**233** | **168** | **15** | **416**|
+|**233** | **169** | **15** | **417**|
 
 
 <table>
@@ -211,6 +211,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 | `0576` | [Out of Boundary Paths](https://leetcode.com/problems/out-of-boundary-paths/)                                                               | ${\color{orange}Medium}$ | [\</code\>](/0501%20-%200750/0576.py)  |
 | `0584` | [Find Customer Referee](https://leetcode.com/problems/find-customer-referee/)                                                               |  ${\color{green}Easy}$   | [\</code\>](/0501%20-%200750/0584.sql) |
 | `0586` | [Customer Placing the Largest Number of Orders](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/)               |  ${\color{green}Easy}$   | [\</code\>](/0501%20-%200750/0586.sql) |
+| `0592` | [Fraction Addition and Subtraction](https://leetcode.com/problems/fraction-addition-and-subtraction/) |${\color{orange}Medium}$|[\</code\>](/0501%20-%200750/0592.py) |
 | `0595` | [Big Countries](https://leetcode.com/problems/big-countries/)                                                                               |  ${\color{green}Easy}$   | [\</code\>](/0501%20-%200750/0595.sql) |
 | `0598` | [Range Addition II](https://leetcode.com/problems/range-addition-ii/)                                                                       |  ${\color{green}Easy}$   | [\</code\>](/0501%20-%200750/0598.py)  |
 | `0599` | [Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists/)                                             |  ${\color{green}Easy}$   | [\</code\>](/0501%20-%200750/0599.py)  |
