@@ -3,7 +3,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 
 | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{green}Easy}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{orange}Medium}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{red}Hard}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{black}Total}$ &nbsp;&nbsp;&nbsp;&nbsp; |
 | :---------------------------------------------------------------------: | :------------------------------------------------------------------------: | :-------------------------------------------------------------------: | :----------------------------------------------------------------------: |
-|**233** | **169** | **15** | **417**|
+|**234** | **169** | **15** | **418**|
 
 
 <table>
@@ -407,6 +407,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 | `1913` | [Maximum Product Difference Between Two Pairs](https://leetcode.com/problems/maximum-product-difference-between-two-pairs/)                 |  ${\color{green}Easy}$   | [\</code\>](/1751%20-%202000/1913.py)  |
 | `1926` | [Nearest Exit from Entrance in Maze](https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/)                                     | ${\color{orange}Medium}$ | [\</code\>](/1751%20-%202000/1926.py)  |
 | `1929` | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/)                                                             |  ${\color{green}Easy}$   | [\</code\>](/1751%20-%202000/1929.py)  |
+| `1945` | [Sum of Digits of String After Convert](https://leetcode.com/problems/sum-of-digits-of-string-after-convert/) |${\color{green}Easy}$|[\</code\>](/1751%20-%202000/1945.py) |
 | `1952` | [Three Divisors](https://leetcode.com/problems/three-divisors/)                                                                             |  ${\color{green}Easy}$   | [\</code\>](/1751%20-%202000/1952.py)  |
 | `1965` | [Employees With Missing Information](https://leetcode.com/problems/employees-with-missing-information/)                                     |  ${\color{green}Easy}$   | [\</code\>](/1751%20-%202000/1965.sql) |
 | `1979` | [Find Greatest Common Divisor of Array](https://leetcode.com/problems/find-greatest-common-divisor-of-array/)                               |  ${\color{green}Easy}$   | [\</code\>](/1751%20-%202000/1979.py)  |
