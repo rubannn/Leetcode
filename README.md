@@ -3,7 +3,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 
 | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{green}Easy}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{orange}Medium}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{red}Hard}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{black}Total}$ &nbsp;&nbsp;&nbsp;&nbsp; |
 | :---------------------------------------------------------------------: | :------------------------------------------------------------------------: | :-------------------------------------------------------------------: | :----------------------------------------------------------------------: |
-|**234** | **170** | **15** | **419**|
+|**234** | **171** | **15** | **420**|
 
 
 <table>
@@ -328,6 +328,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 | `1361` | [Validate Binary Tree Nodes](https://leetcode.com/problems/validate-binary-tree-nodes/)                                                                                 | ${\color{orange}Medium}$ | [\</code\>](/1251%20-%201500/1361.py)  |
 | `1365` | [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)                             |  ${\color{green}Easy}$   | [\</code\>](/1251%20-%201500/1365.py)  |
 | `1380` | [Lucky Numbers in a Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix/)                                                                                   |  ${\color{green}Easy}$   | [\</code\>](/1251%20-%201500/1380.py)  |
+| `1381` | [Design a Stack With Increment Operation](https://leetcode.com/problems/design-a-stack-with-increment-operation/) |${\color{orange}Medium}$|[\</code\>](/1251%20-%201500/1381.py) |
 | `1393` | [Capital Gain/Loss](https://leetcode.com/problems/capital-gainloss/)                                                                                                    | ${\color{orange}Medium}$ | [\</code\>](/1251%20-%201500/1393.sql) |
 | `1404` | [Number of Steps to Reduce a Number in Binary Representation to One](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/) | ${\color{orange}Medium}$ | [\</code\>](/1251%20-%201500/1404.py)  |
 | `1407` | [Top Travellers](https://leetcode.com/problems/top-travellers/)                                                                                                         |  ${\color{green}Easy}$   | [\</code\>](/1251%20-%201500/1407.sql) |
