@@ -3,7 +3,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 
 | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{green}Easy}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{orange}Medium}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{red}Hard}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{black}Total}$ &nbsp;&nbsp;&nbsp;&nbsp; |
 | :---------------------------------------------------------------------: | :------------------------------------------------------------------------: | :-------------------------------------------------------------------: | :----------------------------------------------------------------------: |
-|**234** | **171** | **15** | **420**|
+|**235** | **171** | **15** | **421**|
 
 
 <table>
@@ -320,6 +320,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 | `1318` | [Minimum Flips to Make a OR b Equal to c](https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/)                                                       | ${\color{orange}Medium}$ | [\</code\>](/1251%20-%201500/1318.py)  |
 | `1323` | [Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/)                                                                                                   |  ${\color{green}Easy}$   | [\</code\>](/1251%20-%201500/1323.py)  |
 | `1327` | [List the Products Ordered in a Period](https://leetcode.com/problems/list-the-products-ordered-in-a-period/)                                                           |  ${\color{green}Easy}$   | [\</code\>](/1251%20-%201500/1327.sql) |
+| `1331` | [Rank Transform of an Array](https://leetcode.com/problems/rank-transform-of-an-array/) |${\color{green}Easy}$|[\</code\>](/1251%20-%201500/1331.py) |
 | `1335` | [Minimum Difficulty of a Job Schedule](https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/)                                                             |   ${\color{red}Hard}$    | [\</code\>](/1251%20-%201500/1335.py)  |
 | `1337` | [The K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/)                                                                         |  ${\color{green}Easy}$   | [\</code\>](/1251%20-%201500/1337.py)  |
 | `1347` | [Minimum Number of Steps to Make Two Strings Anagram](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/)                               | ${\color{orange}Medium}$ | [\</code\>](/1251%20-%201500/1347.py)  |
