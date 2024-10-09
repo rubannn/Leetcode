@@ -5,7 +5,7 @@ import requests
 from icecream import ic
 
 
-lnk = "https://leetcode.com/problems/minimum-string-length-after-removing-substrings/"
+lnk = "https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/"
 
 
 def get_task_data(url):
