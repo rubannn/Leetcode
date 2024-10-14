@@ -5,7 +5,7 @@ import requests
 from icecream import ic
 
 
-lnk = "https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/"
+lnk = "https://leetcode.com/problems/maximal-score-after-applying-k-operations/"
 
 
 def get_task_data(url):
