@@ -11,6 +11,5 @@ class Solution:
         for _ in range(k):
             mx = -nums[0]
             res += mx
-            heapq.heappop(nums)
-            heapq.heappush(nums, -ceil(mx / 3))
+            heapq.heapreplace(nums, -ceil(mx / 3))
         return res
