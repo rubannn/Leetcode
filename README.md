@@ -3,7 +3,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 
 | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{green}Easy}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{orange}Medium}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{red}Hard}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{black}Total}$ &nbsp;&nbsp;&nbsp;&nbsp; |
 | :---------------------------------------------------------------------: | :------------------------------------------------------------------------: | :-------------------------------------------------------------------: | :----------------------------------------------------------------------: |
-|**237** | **177** | **15** | **429**|
+|**237** | **178** | **15** | **430**|
 
 
 <table>
@@ -119,6 +119,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 | `0196` | [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/)                                                                 |  ${\color{green}Easy}$   | [\</code\>](/0001%20-%200250/0196.sql) |
 | `0197` | [Rising Temperature](https://leetcode.com/problems/rising-temperature/)                                                                           |  ${\color{green}Easy}$   | [\</code\>](/0001%20-%200250/0197.sql) |
 | `0198` | [House Robber](https://leetcode.com/problems/house-robber/)                                                                                       | ${\color{orange}Medium}$ | [\</code\>](/0001%20-%200250/0198.py)  |
+| `0199` | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) |${\color{orange}Medium}$|[\</code\>](/0001%20-%200250/0199.py) |
 | `0200` | [Number of Islands](https://leetcode.com/problems/number-of-islands/)                                                                             | ${\color{orange}Medium}$ | [\</code\>](/0001%20-%200250/0200.py)  |
 | `0202` | [Happy Number](https://leetcode.com/problems/happy-number/)                                                                                       |  ${\color{green}Easy}$   | [\</code\>](/0001%20-%200250/0202.py)  |
 | `0203` | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)                                                         |  ${\color{green}Easy}$   | [\</code\>](/0001%20-%200250/0203.py)  |
