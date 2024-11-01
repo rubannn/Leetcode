@@ -3,7 +3,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 
 | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{green}Easy}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{orange}Medium}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{red}Hard}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{black}Total}$ &nbsp;&nbsp;&nbsp;&nbsp; |
 | :---------------------------------------------------------------------: | :------------------------------------------------------------------------: | :-------------------------------------------------------------------: | :----------------------------------------------------------------------: |
-|**237** | **178** | **15** | **430**|
+|**238** | **178** | **15** | **431**|
 
 
 <table>
@@ -415,6 +415,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 | `1929` | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/)                                                             |  ${\color{green}Easy}$   | [\</code\>](/1751%20-%202000/1929.py)  |
 | `1945` | [Sum of Digits of String After Convert](https://leetcode.com/problems/sum-of-digits-of-string-after-convert/) |${\color{green}Easy}$|[\</code\>](/1751%20-%202000/1945.py) |
 | `1952` | [Three Divisors](https://leetcode.com/problems/three-divisors/)                                                                             |  ${\color{green}Easy}$   | [\</code\>](/1751%20-%202000/1952.py)  |
+| `1957` | [Delete Characters to Make Fancy String](https://leetcode.com/problems/delete-characters-to-make-fancy-string/) |${\color{green}Easy}$|[\</code\>](/1751%20-%202000/1957.py) |
 | `1965` | [Employees With Missing Information](https://leetcode.com/problems/employees-with-missing-information/)                                     |  ${\color{green}Easy}$   | [\</code\>](/1751%20-%202000/1965.sql) |
 | `1979` | [Find Greatest Common Divisor of Array](https://leetcode.com/problems/find-greatest-common-divisor-of-array/)                               |  ${\color{green}Easy}$   | [\</code\>](/1751%20-%202000/1979.py)  |
 
