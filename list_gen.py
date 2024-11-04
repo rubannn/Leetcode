@@ -5,7 +5,7 @@ import requests
 from icecream import ic
 
 
-lnk = "https://leetcode.com/problems/delete-characters-to-make-fancy-string/"
+lnk = "https://leetcode.com/problems/circular-sentence/"
 
 
 def get_task_data(url):

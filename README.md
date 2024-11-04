@@ -3,7 +3,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 
 | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{green}Easy}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{orange}Medium}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{red}Hard}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{black}Total}$ &nbsp;&nbsp;&nbsp;&nbsp; |
 | :---------------------------------------------------------------------: | :------------------------------------------------------------------------: | :-------------------------------------------------------------------: | :----------------------------------------------------------------------: |
-|**238** | **178** | **15** | **431**|
+|**239** | **178** | **15** | **432**|
 
 
 <table>
@@ -482,6 +482,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 | ------ | ----------------------------------------------------------------------------------------------------------------------------------------- | :----------------------: | :-----------------------------------: |
 | `2482` | [Difference Between Ones and Zeros in Row and Column](https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column/) | ${\color{orange}Medium}$ | [\</code\>](/2251%20-%202500/2482.py) |
 | `2485` | [Find the Pivot Integer](https://leetcode.com/problems/find-the-pivot-integer/)                                                           |  ${\color{green}Easy}$   | [\</code\>](/2251%20-%202500/2485.py) |
+| `2490` | [Circular Sentence](https://leetcode.com/problems/circular-sentence/) |${\color{green}Easy}$|[\</code\>](/2251%20-%202500/2490.py) |
 | `2491` | [Divide Players Into Teams of Equal Skill](https://leetcode.com/problems/divide-players-into-teams-of-equal-skill/) |${\color{orange}Medium}$|[\</code\>](/2251%20-%202500/2491.py) |
 | `2525` | [Categorize Box According to Criteria](https://leetcode.com/problems/categorize-box-according-to-criteria/)                               |  ${\color{green}Easy}$   | [\</code\>](/2501%20-%202750/2525.py) |
 | `2530` | [Maximal Score After Applying K Operations](https://leetcode.com/problems/maximal-score-after-applying-k-operations/) |${\color{orange}Medium}$|[\</code\>](/2501%20-%202750/2530.py) |
