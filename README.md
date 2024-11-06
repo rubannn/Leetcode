@@ -3,7 +3,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 
 | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{green}Easy}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{orange}Medium}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{red}Hard}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{black}Total}$ &nbsp;&nbsp;&nbsp;&nbsp; |
 | :---------------------------------------------------------------------: | :------------------------------------------------------------------------: | :-------------------------------------------------------------------: | :----------------------------------------------------------------------: |
-|**239** | **180** | **15** | **434**|
+|**239** | **181** | **15** | **435**|
 
 
 <table>
@@ -523,6 +523,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 | Num    | Task name                                                                                                         |        Difficulty        |                 Code                  |
 | ------ | ----------------------------------------------------------------------------------------------------------------- | :----------------------: | :-----------------------------------: |
 | `3005` | [Count Elements With Maximum Frequency](https://leetcode.com/problems/count-elements-with-maximum-frequency/)     |  ${\color{green}Easy}$   | [\</code\>](/3001%20-%203250/3005.py) |
+| `3011` | [Find if Array Can Be Sorted](https://leetcode.com/problems/find-if-array-can-be-sorted/) |${\color{orange}Medium}$|[\</code\>](/3001%20-%203250/3011.py) |
 | `3016` | [Minimum Number of Pushes to Type Word II](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/) |${\color{orange}Medium}$|[\</code\>](/3001%20-%203250/3016.py) |
 | `3075` | [Maximize Happiness of Selected Children](https://leetcode.com/problems/maximize-happiness-of-selected-children/) | ${\color{orange}Medium}$ | [\</code\>](/3001%20-%203250/3075.py) |
 | `3110` | [Score of a String](https://leetcode.com/problems/score-of-a-string/)                                             |  ${\color{green}Easy}$   | [\</code\>](/3001%20-%203250/3110.py) |

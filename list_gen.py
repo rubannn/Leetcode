@@ -5,7 +5,7 @@ import requests
 from icecream import ic
 
 
-lnk = "https://leetcode.com/problems/minimum-number-of-changes-to-make-binary-string-beautiful/"
+lnk = "https://leetcode.com/problems/find-if-array-can-be-sorted/"
 
 
 def get_task_data(url):
