@@ -3,7 +3,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 
 | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{green}Easy}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{orange}Medium}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{red}Hard}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{black}Total}$ &nbsp;&nbsp;&nbsp;&nbsp; |
 | :---------------------------------------------------------------------: | :------------------------------------------------------------------------: | :-------------------------------------------------------------------: | :----------------------------------------------------------------------: |
-|**239** | **181** | **15** | **435**|
+|**240** | **181** | **15** | **436**|
 
 
 <table>
@@ -255,6 +255,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 | `0796` | [Rotate String](https://leetcode.com/problems/rotate-string/)                                                   |  ${\color{green}Easy}$   | [\</code\>](/0751%20-%201000/0796.py) |
 | `0806` | [Number of Lines To Write String](https://leetcode.com/problems/number-of-lines-to-write-string/)               |  ${\color{green}Easy}$   | [\</code\>](/0751%20-%201000/0806.py) |
 | `0826` | [Most Profit Assigning Work](https://leetcode.com/problems/most-profit-assigning-work/)                         | ${\color{orange}Medium}$ | [\</code\>](/0751%20-%201000/0826.py) |
+| `0830` | [Positions of Large Groups](https://leetcode.com/problems/positions-of-large-groups/) |${\color{green}Easy}$|[\</code\>](/0751%20-%201000/0830.py) |
 | `0832` | [Flipping an Image](https://leetcode.com/problems/flipping-an-image/)                                           |  ${\color{green}Easy}$   | [\</code\>](/0751%20-%201000/0832.py) |
 | `0836` | [Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap/)                                           |  ${\color{green}Easy}$   | [\</code\>](/0751%20-%201000/0836.py) |
 | `0840` | [Magic Squares In Grid](https://leetcode.com/problems/magic-squares-in-grid/) |${\color{orange}Medium}$|[\</code\>](/0751%20-%201000/0840.py) |
