@@ -3,7 +3,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 
 | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{green}Easy}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{orange}Medium}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{red}Hard}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{black}Total}$ &nbsp;&nbsp;&nbsp;&nbsp; |
 | :---------------------------------------------------------------------: | :------------------------------------------------------------------------: | :-------------------------------------------------------------------: | :----------------------------------------------------------------------: |
-|**240** | **183** | **15** | **438**|
+|**240** | **184** | **15** | **439**|
 
 
 <table>
@@ -493,6 +493,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 | `2542` | [Maximum Subsequence Score](https://leetcode.com/problems/maximum-subsequence-score/)                                                     | ${\color{orange}Medium}$ | [\</code\>](/2501%20-%202750/2542.py) |
 | `2583` | [Kth Largest Sum in a Binary Tree](https://leetcode.com/problems/kth-largest-sum-in-a-binary-tree/) |${\color{orange}Medium}$|[\</code\>](/2501%20-%202750/2583.py) |
 | `2596` | [Check Knight Tour Configuration](https://leetcode.com/problems/check-knight-tour-configuration/)                                         | ${\color{orange}Medium}$ | [\</code\>](/2501%20-%202750/2596.py) |
+| `2601` | [Prime Subtraction Operation](https://leetcode.com/problems/prime-subtraction-operation/) |${\color{orange}Medium}$|[\</code\>](/2501%20-%202750/2601.py) |
 | `2605` | [Form Smallest Number From Two Digit Arrays](https://leetcode.com/problems/form-smallest-number-from-two-digit-arrays/)                   |  ${\color{green}Easy}$   | [\</code\>](/2501%20-%202750/2605.py) |
 | `2610` | [Convert an Array Into a 2D Array With Conditions](https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions/)       | ${\color{orange}Medium}$ | [\</code\>](/2501%20-%202750/2610.py) |
 | `2614` | [Prime In Diagonal](https://leetcode.com/problems/prime-in-diagonal/)                                                                     |  ${\color{green}Easy}$   | [\</code\>](/2501%20-%202750/2614.py) |
