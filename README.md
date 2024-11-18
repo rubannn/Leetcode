@@ -3,7 +3,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 
 | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{green}Easy}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{orange}Medium}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{red}Hard}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{black}Total}$ &nbsp;&nbsp;&nbsp;&nbsp; |
 | :---------------------------------------------------------------------: | :------------------------------------------------------------------------: | :-------------------------------------------------------------------: | :----------------------------------------------------------------------: |
-|**240** | **184** | **15** | **439**|
+|**241** | **184** | **15** | **440**|
 
 
 <table>
@@ -375,6 +375,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 | `1636` | [Sort Array by Increasing Frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency/) |${\color{green}Easy}$|[\</code\>](/1501%20-%201750/1636.py) |
 | `1637` | [Widest Vertical Area Between Two Points Containing No Points](https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points/) |  ${\color{green}Easy}$   | [\</code\>](/1501%20-%201750/1637.py)  |
 | `1647` | [Minimum Deletions to Make Character Frequencies Unique](https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/)             | ${\color{orange}Medium}$ | [\</code\>](/1501%20-%201750/1647.py)  |
+| `1652` | [Defuse the Bomb](https://leetcode.com/problems/defuse-the-bomb/) |${\color{green}Easy}$|[\</code\>](/1501%20-%201750/1652.py) |
 | `1657` | [Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close/)                                                     | ${\color{orange}Medium}$ | [\</code\>](/1501%20-%201750/1657.py)  |
 | `1662` | [Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)                                       |  ${\color{green}Easy}$   | [\</code\>](/1501%20-%201750/1662.py)  |
 | `1667` | [Fix Names in a Table](https://leetcode.com/problems/fix-names-in-a-table/)                                                                                 |  ${\color{green}Easy}$   | [\</code\>](/1501%20-%201750/1667.sql) |
