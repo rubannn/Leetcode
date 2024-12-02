@@ -3,7 +3,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 
 | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{green}Easy}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{orange}Medium}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{red}Hard}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{black}Total}$ &nbsp;&nbsp;&nbsp;&nbsp; |
 | :---------------------------------------------------------------------: | :------------------------------------------------------------------------: | :-------------------------------------------------------------------: | :----------------------------------------------------------------------: |
-|**241** | **185** | **15** | **441**|
+|**242** | **185** | **15** | **442**|
 
 
 <table>
@@ -328,6 +328,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 | `1331` | [Rank Transform of an Array](https://leetcode.com/problems/rank-transform-of-an-array/) |${\color{green}Easy}$|[\</code\>](/1251%20-%201500/1331.py) |
 | `1335` | [Minimum Difficulty of a Job Schedule](https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/)                                                             |   ${\color{red}Hard}$    | [\</code\>](/1251%20-%201500/1335.py)  |
 | `1337` | [The K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/)                                                                         |  ${\color{green}Easy}$   | [\</code\>](/1251%20-%201500/1337.py)  |
+| `1346` | [Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/) |${\color{green}Easy}$|[\</code\>](/1251%20-%201500/1346.py) |
 | `1347` | [Minimum Number of Steps to Make Two Strings Anagram](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/)                               | ${\color{orange}Medium}$ | [\</code\>](/1251%20-%201500/1347.py)  |
 | `1351` | [Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/)                                                   |  ${\color{green}Easy}$   | [\</code\>](/1251%20-%201500/1351.py)  |
 | `1356` | [Sort Integers by The Number of 1 Bits](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/)                                                           |  ${\color{green}Easy}$   | [\</code\>](/1251%20-%201500/1356.py)  |
