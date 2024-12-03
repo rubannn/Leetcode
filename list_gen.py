@@ -5,7 +5,7 @@ import requests
 from icecream import ic
 
 
-lnk = "https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/"
+lnk = "https://leetcode.com/problems/adding-spaces-to-a-string/"
 
 
 def get_task_data(url):

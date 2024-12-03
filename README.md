@@ -3,7 +3,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 
 | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{green}Easy}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{orange}Medium}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{red}Hard}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{black}Total}$ &nbsp;&nbsp;&nbsp;&nbsp; |
 | :---------------------------------------------------------------------: | :------------------------------------------------------------------------: | :-------------------------------------------------------------------: | :----------------------------------------------------------------------: |
-|**243** | **185** | **15** | **443**|
+|**243** | **186** | **15** | **444**|
 
 
 <table>
@@ -439,6 +439,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 | `2073` | [Time Needed to Buy Tickets](https://leetcode.com/problems/time-needed-to-buy-tickets/)                                                                 |  ${\color{green}Easy}$   | [\</code\>](/2001%20-%202250/2073.py) |
 | `2095` | [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/)                                       | ${\color{orange}Medium}$ | [\</code\>](/2001%20-%202250/2095.py) |
 | `2108` | [Find First Palindromic String in the Array](https://leetcode.com/problems/find-first-palindromic-string-in-the-array/)                                 |  ${\color{green}Easy}$   | [\</code\>](/2001%20-%202250/2108.py) |
+| `2109` | [Adding Spaces to a String](https://leetcode.com/problems/adding-spaces-to-a-string/) |${\color{orange}Medium}$|[\</code\>](/2001%20-%202250/2109.py) |
 | `2119` | [A Number After a Double Reversal](https://leetcode.com/problems/a-number-after-a-double-reversal/)                                                     |  ${\color{green}Easy}$   | [\</code\>](/2001%20-%202250/2119.py) |
 | `2125` | [Number of Laser Beams in a Bank](https://leetcode.com/problems/number-of-laser-beams-in-a-bank/)                                                       | ${\color{orange}Medium}$ | [\</code\>](/2001%20-%202250/2125.py) |
 | `2130` | [Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/)                                                   | ${\color{orange}Medium}$ | [\</code\>](/2001%20-%202250/2130.py) |
