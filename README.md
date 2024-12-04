@@ -3,7 +3,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 
 | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{green}Easy}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{orange}Medium}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{red}Hard}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{black}Total}$ &nbsp;&nbsp;&nbsp;&nbsp; |
 | :---------------------------------------------------------------------: | :------------------------------------------------------------------------: | :-------------------------------------------------------------------: | :----------------------------------------------------------------------: |
-|**243** | **186** | **15** | **444**|
+|**243** | **187** | **15** | **445**|
 
 
 <table>
@@ -520,6 +520,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 | `2778` | [Sum of Squares of Special Elements ](https://leetcode.com/problems/sum-of-squares-of-special-elements/)                            |  ${\color{green}Easy}$   | [\</code\>](/2751%20-%203000/2778.py) |
 | `2785` | [Sort Vowels in a String](https://leetcode.com/problems/sort-vowels-in-a-string/)                                                   | ${\color{orange}Medium}$ | [\</code\>](/2751%20-%203000/2785.py) |
 | `2816` | [Double a Number Represented as a Linked List](https://leetcode.com/problems/double-a-number-represented-as-a-linked-list/)         | ${\color{orange}Medium}$ | [\</code\>](/2751%20-%203000/2816.py) |
+| `2825` | [Make String a Subsequence Using Cyclic Increments](https://leetcode.com/problems/make-string-a-subsequence-using-cyclic-increments/) |${\color{orange}Medium}$|[\</code\>](/2751%20-%203000/2825.py) |
 | `2864` | [Maximum Odd Binary Number](https://leetcode.com/problems/maximum-odd-binary-number/)                                               |  ${\color{green}Easy}$   | [\</code\>](/2751%20-%203000/2864.py) |
 | `2870` | [Minimum Number of Operations to Make Array Empty](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-empty/) | ${\color{orange}Medium}$ | [\</code\>](/2751%20-%203000/2870.py) |
 | `2914` | [Minimum Number of Changes to Make Binary String Beautiful](https://leetcode.com/problems/minimum-number-of-changes-to-make-binary-string-beautiful/) |${\color{orange}Medium}$|[\</code\>](/2751%20-%203000/2914.py) |

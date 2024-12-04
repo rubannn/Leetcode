@@ -5,7 +5,7 @@ import requests
 from icecream import ic
 
 
-lnk = "https://leetcode.com/problems/adding-spaces-to-a-string/"
+lnk = "https://leetcode.com/problems/make-string-a-subsequence-using-cyclic-increments/"
 
 
 def get_task_data(url):
