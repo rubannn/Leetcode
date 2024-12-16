@@ -88,11 +88,16 @@ title = task["title"]
 ext = task["file_ext"]
 hard = f"${{\\color{{{color[task['difficulty']]}}}{task['difficulty']}}}$"
 
+code = None
 for fld in folder:
     left, right = [tryint(x.strip()) for x in fld.split("-")]
     if (left <= tid) and (right is None or tid <= right):
         foldername = fld
         code = fld.replace(" ", "%20")
+
+if not code:
+    print(f"No folder for this task...\n[{folder[-1]}] is max, but taskId is {tid}")
+    exit()
 
 codelink = f"(/{code}/{tid:04d}{ext})"
 mask = f"| `{tid:04d}` | [{title}]({lnk}) |{hard}|[\\</code\\>]{codelink} |\n"
