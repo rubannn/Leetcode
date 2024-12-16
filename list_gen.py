@@ -5,7 +5,7 @@ import requests
 from icecream import ic
 
 
-lnk = "https://leetcode.com/problems/make-string-a-subsequence-using-cyclic-increments/"
+lnk = "https://leetcode.com/problems/final-array-state-after-k-multiplication-operations-i/"
 
 
 def get_task_data(url):
@@ -75,6 +75,7 @@ folder = [
     "2501 - 2750",
     "2751 - 3000",
     "3001 - 3250",
+    "3251 - 3500",
 ]
 
 task = get_task_data(lnk)

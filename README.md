@@ -3,7 +3,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 
 | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{green}Easy}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{orange}Medium}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{red}Hard}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{black}Total}$ &nbsp;&nbsp;&nbsp;&nbsp; |
 | :---------------------------------------------------------------------: | :------------------------------------------------------------------------: | :-------------------------------------------------------------------: | :----------------------------------------------------------------------: |
-|**243** | **187** | **15** | **445**|
+|**244** | **187** | **15** | **446**|
 
 
 <table>
@@ -539,3 +539,4 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 | `3110` | [Score of a String](https://leetcode.com/problems/score-of-a-string/)                                             |  ${\color{green}Easy}$   | [\</code\>](/3001%20-%203250/3110.py) |
 | `3120` | [Count the Number of Special Characters I](https://leetcode.com/problems/count-the-number-of-special-characters-i/) |${\color{green}Easy}$|[\</code\>](/3001%20-%203250/3120.py) |
 | `3163` | [String Compression III](https://leetcode.com/problems/string-compression-iii/) |${\color{orange}Medium}$|[\</code\>](/3001%20-%203250/3163.py) |
+| `3264` | [Final Array State After K Multiplication Operations I](https://leetcode.com/problems/final-array-state-after-k-multiplication-operations-i/) |${\color{green}Easy}$|[\</code\>](/3251%20-%203500/3264.py) |
