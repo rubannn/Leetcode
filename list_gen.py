@@ -60,22 +60,10 @@ def tryint(t):
     return res
 
 
+pattern = r"^\d.*\d$"
 color = {"Easy": "green", "Medium": "orange", "Hard": "red"}
 folder = [
-    "0001 - 0250",
-    "0251 - 0500",
-    "0501 - 0750",
-    "0751 - 1000",
-    "1001 - 1250",
-    "1251 - 1500",
-    "1501 - 1750",
-    "1751 - 2000",
-    "2001 - 2250",
-    "2251 - 2500",
-    "2501 - 2750",
-    "2751 - 3000",
-    "3001 - 3250",
-    "3251 - 3500",
+    item for item in os.listdir(".") if os.path.isdir(item) and re.match(pattern, item)
 ]
 
 task = get_task_data(lnk)
