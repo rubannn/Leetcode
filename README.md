@@ -17,7 +17,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
     <td><a href="#0251---0500">0251 - 0500</a></td>
     <td><a href="#1251---1500">1251 - 1500</a></td>
     <td><a href="#2251---2500">2251 - 2500</a></td>
-    <td><a href="#3251---3500">3001 - 3250</a></td>
+    <td><a href="#3251---3500">3251 - 3500</a></td>
   </tr>
   <tr>
     <td><a href="#0501---0750">0501 - 0750</a></td>
