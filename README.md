@@ -3,7 +3,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 
 | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{green}Easy}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{orange}Medium}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{red}Hard}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{black}Total}$ &nbsp;&nbsp;&nbsp;&nbsp; |
 | :---------------------------------------------------------------------: | :------------------------------------------------------------------------: | :-------------------------------------------------------------------: | :----------------------------------------------------------------------: |
-|**245** | **187** | **15** | **447**|
+|**245** | **188** | **15** | **448**|
 
 
 <table>
@@ -464,6 +464,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 | `2257` | [Count Unguarded Cells in the Grid](https://leetcode.com/problems/count-unguarded-cells-in-the-grid/)                                           | ${\color{orange}Medium}$ | [\</code\>](/2251%20-%202500/2257.py) |
 | `2264` | [Largest 3-Same-Digit Number in String](https://leetcode.com/problems/largest-3-same-digit-number-in-string/)                                   |  ${\color{green}Easy}$   | [\</code\>](/2251%20-%202500/2264.py) |
 | `2265` | [Count Nodes Equal to Average of Subtree](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/)                               | ${\color{orange}Medium}$ | [\</code\>](/2251%20-%202500/2265.py) |
+| `2270` | [Number of Ways to Split Array](https://leetcode.com/problems/number-of-ways-to-split-array/) |${\color{orange}Medium}$|[\</code\>](/2251%20-%202500/2270.py) |
 | `2275` | [Largest Combination With Bitwise AND Greater Than Zero](https://leetcode.com/problems/largest-combination-with-bitwise-and-greater-than-zero/) | ${\color{orange}Medium}$ | [\</code\>](/2251%20-%202500/2275.py) |
 | `2293` | [Min Max Game](https://leetcode.com/problems/min-max-game/)                                                                                     |  ${\color{green}Easy}$   | [\</code\>](/2251%20-%202500/2293.py) |
 | `2300` | [Successful Pairs of Spells and Potions](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/)                                 | ${\color{orange}Medium}$ | [\</code\>](/2251%20-%202500/2300.py) |
