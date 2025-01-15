@@ -5,7 +5,7 @@ import requests
 from icecream import ic
 
 
-lnk = "https://leetcode.com/problems/minimum-length-of-string-after-operations/"
+lnk = "https://leetcode.com/problems/minimize-xor/"
 
 
 def get_task_data(url):
