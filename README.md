@@ -3,7 +3,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 
 | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{green}Easy}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{orange}Medium}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{red}Hard}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{black}Total}$ &nbsp;&nbsp;&nbsp;&nbsp; |
 | :---------------------------------------------------------------------: | :------------------------------------------------------------------------: | :-------------------------------------------------------------------: | :----------------------------------------------------------------------: |
-|**245** | **190** | **15** | **450**|
+|**245** | **191** | **15** | **451**|
 
 
 <table>
@@ -482,6 +482,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 | `2404` | [Most Frequent Even Element](https://leetcode.com/problems/most-frequent-even-element/)                                                         |  ${\color{green}Easy}$   | [\</code\>](/2251%20-%202500/2404.py) |
 | `2413` | [Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple/)                                                                 |  ${\color{green}Easy}$   | [\</code\>](/2251%20-%202500/2413.py) |
 | `2418` | [Sort the People](https://leetcode.com/problems/sort-the-people/)                                                                               |  ${\color{green}Easy}$   | [\</code\>](/2251%20-%202500/2418.py) |
+| `2425` | [Bitwise XOR of All Pairings](https://leetcode.com/problems/bitwise-xor-of-all-pairings/) |${\color{orange}Medium}$|[\</code\>](/2251%20-%202500/2425.py) |
 | `2427` | [Number of Common Factors](https://leetcode.com/problems/number-of-common-factors/)                                                             |  ${\color{green}Easy}$   | [\</code\>](/2251%20-%202500/2427.py) |
 | `2429` | [Minimize XOR](https://leetcode.com/problems/minimize-xor/) |${\color{orange}Medium}$|[\</code\>](/2251%20-%202500/2429.py) |
 | `2433` | [Find The Original Array of Prefix Xor](https://leetcode.com/problems/find-the-original-array-of-prefix-xor/)                                   | ${\color{orange}Medium}$ | [\</code\>](/2251%20-%202500/2433.py) |
