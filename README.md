@@ -3,7 +3,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 
 | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{green}Easy}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{orange}Medium}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{red}Hard}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{black}Total}$ &nbsp;&nbsp;&nbsp;&nbsp; |
 | :---------------------------------------------------------------------: | :------------------------------------------------------------------------: | :-------------------------------------------------------------------: | :----------------------------------------------------------------------: |
-|**245** | **191** | **15** | **451**|
+|**245** | **192** | **15** | **452**|
 
 
 <table>
@@ -510,6 +510,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 | `2639` | [Find the Width of Columns of a Grid](https://leetcode.com/problems/find-the-width-of-columns-of-a-grid/)                                 |  ${\color{green}Easy}$   | [\</code\>](/2501%20-%202750/2639.py) |
 | `2643` | [Row With Maximum Ones](https://leetcode.com/problems/row-with-maximum-ones/)                                                             |  ${\color{green}Easy}$   | [\</code\>](/2501%20-%202750/2643.py) |
 | `2660` | [Determine the Winner of a Bowling Game](https://leetcode.com/problems/determine-the-winner-of-a-bowling-game/)                           |  ${\color{green}Easy}$   | [\</code\>](/2501%20-%202750/2660.py) |
+| `2661` | [First Completely Painted Row or Column](https://leetcode.com/problems/first-completely-painted-row-or-column/) |${\color{orange}Medium}$|[\</code\>](/2501%20-%202750/2661.py) |
 | `2678` | [Number of Senior Citizens](https://leetcode.com/problems/number-of-senior-citizens/)                                                     |  ${\color{green}Easy}$   | [\</code\>](/2501%20-%202750/2678.py) |
 | `2679` | [Sum in a Matrix](https://leetcode.com/problems/sum-in-a-matrix/)                                                                         | ${\color{orange}Medium}$ | [\</code\>](/2501%20-%202750/2679.py) |
 | `2696` | [Minimum String Length After Removing Substrings](https://leetcode.com/problems/minimum-string-length-after-removing-substrings/)         |  ${\color{green}Easy}$   | [\</code\>](/2501%20-%202750/2696.py) |
