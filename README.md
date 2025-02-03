@@ -3,7 +3,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 
 | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{green}Easy}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{orange}Medium}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{red}Hard}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{black}Total}$ &nbsp;&nbsp;&nbsp;&nbsp; |
 | :---------------------------------------------------------------------: | :------------------------------------------------------------------------: | :-------------------------------------------------------------------: | :----------------------------------------------------------------------: |
-|**247** | **192** | **15** | **454**|
+|**248** | **192** | **15** | **455**|
 
 
 <table>
@@ -402,6 +402,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 | Num    | Task name                                                                                                                                   |        Difficulty        |                  Code                  |
 | ------ | ------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------: | :------------------------------------: |
 | `1750` | [Minimum Length of String After Deleting Similar Ends](https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends/) | ${\color{orange}Medium}$ | [\</code\>](/1501%20-%201750/1750.py)  |
+| `1752` | [Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/) |${\color{green}Easy}$|[\</code\>](/1751%20-%202000/1752.py) |
 | `1757` | [Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/)                                           |  ${\color{green}Easy}$   | [\</code\>](/1751%20-%202000/1757.sql) |
 | `1758` | [Minimum Changes To Make Alternating Binary String](https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/)       |  ${\color{green}Easy}$   | [\</code\>](/1751%20-%202000/1758.py)  |
 | `1768` | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/)                                                       |  ${\color{green}Easy}$   | [\</code\>](/1751%20-%202000/1768.py)  |
