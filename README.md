@@ -3,7 +3,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 
 | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{green}Easy}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{orange}Medium}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{red}Hard}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{black}Total}$ &nbsp;&nbsp;&nbsp;&nbsp; |
 | :---------------------------------------------------------------------: | :------------------------------------------------------------------------: | :-------------------------------------------------------------------: | :----------------------------------------------------------------------: |
-|**248** | **192** | **15** | **455**|
+|**249** | **192** | **15** | **456**|
 
 
 <table>
@@ -409,6 +409,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 | `1773` | [Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/)                                                   |  ${\color{green}Easy}$   | [\</code\>](/1751%20-%202000/1773.py)  |
 | `1791` | [Find Center of Star Graph](https://leetcode.com/problems/find-center-of-star-graph/)                                                       |  ${\color{green}Easy}$   | [\</code\>](/1751%20-%202000/1791.py)  |
 | `1795` | [Rearrange Products Table](https://leetcode.com/problems/rearrange-products-table/)                                                         |  ${\color{green}Easy}$   | [\</code\>](/1751%20-%202000/1795.sql) |
+| `1800` | [Maximum Ascending Subarray Sum](https://leetcode.com/problems/maximum-ascending-subarray-sum/) |${\color{green}Easy}$|[\</code\>](/1751%20-%202000/1800.py) |
 | `1814` | [Count Nice Pairs in an Array](https://leetcode.com/problems/count-nice-pairs-in-an-array/)                                                 | ${\color{orange}Medium}$ | [\</code\>](/1751%20-%202000/1814.py)  |
 | `1823` | [Find the Winner of the Circular Game](https://leetcode.com/problems/find-the-winner-of-the-circular-game/)                                 | ${\color{orange}Medium}$ | [\</code\>](/1751%20-%202000/1823.py)  |
 | `1829` | [Maximum XOR for Each Query](https://leetcode.com/problems/maximum-xor-for-each-query/)                                                     | ${\color{orange}Medium}$ | [\</code\>](/1751%20-%202000/1829.py)  |
