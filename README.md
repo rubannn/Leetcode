@@ -3,7 +3,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 
 | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{green}Easy}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{orange}Medium}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{red}Hard}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{black}Total}$ &nbsp;&nbsp;&nbsp;&nbsp; |
 | :---------------------------------------------------------------------: | :------------------------------------------------------------------------: | :-------------------------------------------------------------------: | :----------------------------------------------------------------------: |
-|**249** | **192** | **15** | **456**|
+|**250** | **192** | **15** | **457**|
 
 
 <table>
@@ -407,6 +407,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 | `1758` | [Minimum Changes To Make Alternating Binary String](https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/)       |  ${\color{green}Easy}$   | [\</code\>](/1751%20-%202000/1758.py)  |
 | `1768` | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/)                                                       |  ${\color{green}Easy}$   | [\</code\>](/1751%20-%202000/1768.py)  |
 | `1773` | [Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/)                                                   |  ${\color{green}Easy}$   | [\</code\>](/1751%20-%202000/1773.py)  |
+| `1790` | [Check if One String Swap Can Make Strings Equal](https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal/) |${\color{green}Easy}$|[\</code\>](/1751%20-%202000/1790.py) |
 | `1791` | [Find Center of Star Graph](https://leetcode.com/problems/find-center-of-star-graph/)                                                       |  ${\color{green}Easy}$   | [\</code\>](/1751%20-%202000/1791.py)  |
 | `1795` | [Rearrange Products Table](https://leetcode.com/problems/rearrange-products-table/)                                                         |  ${\color{green}Easy}$   | [\</code\>](/1751%20-%202000/1795.sql) |
 | `1800` | [Maximum Ascending Subarray Sum](https://leetcode.com/problems/maximum-ascending-subarray-sum/) |${\color{green}Easy}$|[\</code\>](/1751%20-%202000/1800.py) |
