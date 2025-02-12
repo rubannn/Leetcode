@@ -3,7 +3,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 
 | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{green}Easy}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{orange}Medium}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{red}Hard}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{black}Total}$ &nbsp;&nbsp;&nbsp;&nbsp; |
 | :---------------------------------------------------------------------: | :------------------------------------------------------------------------: | :-------------------------------------------------------------------: | :----------------------------------------------------------------------: |
-|**251** | **193** | **15** | **459**|
+|**251** | **194** | **15** | **460**|
 
 
 <table>
@@ -476,6 +476,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 | `2319` | [Check if Matrix Is X-Matrix](https://leetcode.com/problems/check-if-matrix-is-x-matrix/)                                                       |  ${\color{green}Easy}$   | [\</code\>](/2251%20-%202500/2319.py) |
 | `2326` | [Spiral Matrix IV](https://leetcode.com/problems/spiral-matrix-iv/)                                                                             | ${\color{orange}Medium}$ | [\</code\>](/2251%20-%202500/2326.py) |
 | `2336` | [Smallest Number in Infinite Set](https://leetcode.com/problems/smallest-number-in-infinite-set/)                                               | ${\color{orange}Medium}$ | [\</code\>](/2251%20-%202500/2336.py) |
+| `2342` | [Max Sum of a Pair With Equal Sum of Digits](https://leetcode.com/problems/max-sum-of-a-pair-with-equal-sum-of-digits/) |${\color{orange}Medium}$|[\</code\>](/2251%20-%202500/2342.py) |
 | `2347` | [Best Poker Hand](https://leetcode.com/problems/best-poker-hand/)                                                                               |  ${\color{green}Easy}$   | [\</code\>](/2251%20-%202500/2347.py) |
 | `2352` | [Equal Row and Column Pairs](https://leetcode.com/problems/equal-row-and-column-pairs/)                                                         | ${\color{orange}Medium}$ | [\</code\>](/2251%20-%202500/2352.py) |
 | `2353` | [Design a Food Rating System](https://leetcode.com/problems/design-a-food-rating-system/)                                                       | ${\color{orange}Medium}$ | [\</code\>](/2251%20-%202500/2353.py) |

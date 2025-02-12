@@ -5,7 +5,7 @@ import requests
 from icecream import ic
 
 
-lnk = "https://leetcode.com/problems/remove-all-occurrences-of-a-substring/"
+lnk = "https://leetcode.com/problems/max-sum-of-a-pair-with-equal-sum-of-digits/"
 
 
 def get_task_data(url):
