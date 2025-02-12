@@ -8,7 +8,5 @@ class Solution(object):
         for v in dc.values():
             if len(v) > 1:
                 v.sort(reverse=True)
-                sm = sum(v[:2])
-                if sm > mx:
-                    mx = sm
+                mx = max(mx, sum(v[:2]))
         return mx
