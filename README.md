@@ -3,7 +3,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 
 | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{green}Easy}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{orange}Medium}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{red}Hard}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{black}Total}$ &nbsp;&nbsp;&nbsp;&nbsp; |
 | :---------------------------------------------------------------------: | :------------------------------------------------------------------------: | :-------------------------------------------------------------------: | :----------------------------------------------------------------------: |
-|**251** | **197** | **15** | **463**|
+|**252** | **197** | **15** | **464**|
 
 
 <table>
@@ -500,6 +500,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 >
 | Num    | Task name                                                                                                                                 |        Difficulty        |                 Code                  |
 | ------ | ----------------------------------------------------------------------------------------------------------------------------------------- | :----------------------: | :-----------------------------------: |
+| `2481` | [Minimum Cuts to Divide a Circle](https://leetcode.com/problems/minimum-cuts-to-divide-a-circle/) |${\color{green}Easy}$|[\</code\>](/2251%20-%202500/2481.py) |
 | `2482` | [Difference Between Ones and Zeros in Row and Column](https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column/) | ${\color{orange}Medium}$ | [\</code\>](/2251%20-%202500/2482.py) |
 | `2485` | [Find the Pivot Integer](https://leetcode.com/problems/find-the-pivot-integer/)                                                           |  ${\color{green}Easy}$   | [\</code\>](/2251%20-%202500/2485.py) |
 | `2490` | [Circular Sentence](https://leetcode.com/problems/circular-sentence/)                                                                     |  ${\color{green}Easy}$   | [\</code\>](/2251%20-%202500/2490.py) |
