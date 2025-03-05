@@ -3,7 +3,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 
 | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{green}Easy}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{orange}Medium}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{red}Hard}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{black}Total}$ &nbsp;&nbsp;&nbsp;&nbsp; |
 | :---------------------------------------------------------------------: | :------------------------------------------------------------------------: | :-------------------------------------------------------------------: | :----------------------------------------------------------------------: |
-|**251** | **196** | **15** | **462**|
+|**251** | **197** | **15** | **463**|
 
 
 <table>
@@ -508,6 +508,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 | `2530` | [Maximal Score After Applying K Operations](https://leetcode.com/problems/maximal-score-after-applying-k-operations/)                     | ${\color{orange}Medium}$ | [\</code\>](/2501%20-%202750/2530.py) |
 | `2540` | [Minimum Common Value](https://leetcode.com/problems/minimum-common-value/)                                                               |  ${\color{green}Easy}$   | [\</code\>](/2501%20-%202750/2540.py) |
 | `2542` | [Maximum Subsequence Score](https://leetcode.com/problems/maximum-subsequence-score/)                                                     | ${\color{orange}Medium}$ | [\</code\>](/2501%20-%202750/2542.py) |
+| `2579` | [Count Total Number of Colored Cells](https://leetcode.com/problems/count-total-number-of-colored-cells/) |${\color{orange}Medium}$|[\</code\>](/2501%20-%202750/2579.py) |
 | `2583` | [Kth Largest Sum in a Binary Tree](https://leetcode.com/problems/kth-largest-sum-in-a-binary-tree/)                                       | ${\color{orange}Medium}$ | [\</code\>](/2501%20-%202750/2583.py) |
 | `2596` | [Check Knight Tour Configuration](https://leetcode.com/problems/check-knight-tour-configuration/)                                         | ${\color{orange}Medium}$ | [\</code\>](/2501%20-%202750/2596.py) |
 | `2601` | [Prime Subtraction Operation](https://leetcode.com/problems/prime-subtraction-operation/)                                                 | ${\color{orange}Medium}$ | [\</code\>](/2501%20-%202750/2601.py) |
