@@ -3,7 +3,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 
 | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{green}Easy}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{orange}Medium}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{red}Hard}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{black}Total}$ &nbsp;&nbsp;&nbsp;&nbsp; |
 | :---------------------------------------------------------------------: | :------------------------------------------------------------------------: | :-------------------------------------------------------------------: | :----------------------------------------------------------------------: |
-|**253** | **197** | **15** | **465**|
+|**253** | **198** | **15** | **466**|
 
 
 <table>
@@ -505,6 +505,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 | `2485` | [Find the Pivot Integer](https://leetcode.com/problems/find-the-pivot-integer/)                                                           |  ${\color{green}Easy}$   | [\</code\>](/2251%20-%202500/2485.py) |
 | `2490` | [Circular Sentence](https://leetcode.com/problems/circular-sentence/)                                                                     |  ${\color{green}Easy}$   | [\</code\>](/2251%20-%202500/2490.py) |
 | `2491` | [Divide Players Into Teams of Equal Skill](https://leetcode.com/problems/divide-players-into-teams-of-equal-skill/)                       | ${\color{orange}Medium}$ | [\</code\>](/2251%20-%202500/2491.py) |
+| `2523` | [Closest Prime Numbers in Range](https://leetcode.com/problems/closest-prime-numbers-in-range/) |${\color{orange}Medium}$|[\</code\>](/2501%20-%202750/2523.py) |
 | `2525` | [Categorize Box According to Criteria](https://leetcode.com/problems/categorize-box-according-to-criteria/)                               |  ${\color{green}Easy}$   | [\</code\>](/2501%20-%202750/2525.py) |
 | `2530` | [Maximal Score After Applying K Operations](https://leetcode.com/problems/maximal-score-after-applying-k-operations/)                     | ${\color{orange}Medium}$ | [\</code\>](/2501%20-%202750/2530.py) |
 | `2540` | [Minimum Common Value](https://leetcode.com/problems/minimum-common-value/)                                                               |  ${\color{green}Easy}$   | [\</code\>](/2501%20-%202750/2540.py) |
