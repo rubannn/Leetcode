@@ -5,7 +5,7 @@ import requests
 from icecream import ic
 
 
-lnk = "https://leetcode.com/problems/partition-array-according-to-given-pivot/"
+lnk = "https://leetcode.com/problems/apply-operations-to-an-array/"
 
 
 def get_task_data(url):

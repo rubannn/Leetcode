@@ -3,7 +3,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 
 | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{green}Easy}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{orange}Medium}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{red}Hard}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{black}Total}$ &nbsp;&nbsp;&nbsp;&nbsp; |
 | :---------------------------------------------------------------------: | :------------------------------------------------------------------------: | :-------------------------------------------------------------------: | :----------------------------------------------------------------------: |
-|**253** | **199** | **15** | **467**|
+|**254** | **199** | **15** | **468**|
 
 
 <table>
@@ -495,6 +495,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 | `2429` | [Minimize XOR](https://leetcode.com/problems/minimize-xor/) |${\color{orange}Medium}$|[\</code\>](/2251%20-%202500/2429.py) |
 | `2433` | [Find The Original Array of Prefix Xor](https://leetcode.com/problems/find-the-original-array-of-prefix-xor/)                                   | ${\color{orange}Medium}$ | [\</code\>](/2251%20-%202500/2433.py) |
 | `2441` | [Largest Positive Integer That Exists With Its Negative](https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative/) |  ${\color{green}Easy}$   | [\</code\>](/2251%20-%202500/2441.py) |
+| `2460` | [Apply Operations to an Array](https://leetcode.com/problems/apply-operations-to-an-array/) |${\color{green}Easy}$|[\</code\>](/2251%20-%202500/2460.py) |
 | `2469` | [Convert the Temperature](https://leetcode.com/problems/convert-the-temperature/)                                                               |  ${\color{green}Easy}$   | [\</code\>](/2251%20-%202500/2469.py) |
 
 > ### 2501 - 2750
