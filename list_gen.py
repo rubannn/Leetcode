@@ -5,7 +5,7 @@ import requests
 from icecream import ic
 
 
-lnk = "https://leetcode.com/problems/closest-prime-numbers-in-range/"
+lnk = "https://leetcode.com/problems/partition-array-according-to-given-pivot/"
 
 
 def get_task_data(url):

@@ -3,7 +3,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 
 | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{green}Easy}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{orange}Medium}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{red}Hard}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{black}Total}$ &nbsp;&nbsp;&nbsp;&nbsp; |
 | :---------------------------------------------------------------------: | :------------------------------------------------------------------------: | :-------------------------------------------------------------------: | :----------------------------------------------------------------------: |
-|**253** | **198** | **15** | **466**|
+|**253** | **199** | **15** | **467**|
 
 
 <table>
@@ -454,6 +454,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 | `2133` | [Check if Every Row and Column Contains All Numbers](https://leetcode.com/problems/check-if-every-row-and-column-contains-all-numbers/)                 |  ${\color{green}Easy}$   | [\</code\>](/2001%20-%202250/2133.py) |
 | `2147` | [Number of Ways to Divide a Long Corridor](https://leetcode.com/problems/number-of-ways-to-divide-a-long-corridor/)                                     |   ${\color{red}Hard}$    | [\</code\>](/2001%20-%202250/2147.py) |
 | `2149` | [Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/)                                                     | ${\color{orange}Medium}$ | [\</code\>](/2001%20-%202250/2149.py) |
+| `2161` | [Partition Array According to Given Pivot](https://leetcode.com/problems/partition-array-according-to-given-pivot/) |${\color{orange}Medium}$|[\</code\>](/2001%20-%202250/2161.py) |
 | `2181` | [Merge Nodes in Between Zeros](https://leetcode.com/problems/merge-nodes-in-between-zeros/)                                                             | ${\color{orange}Medium}$ | [\</code\>](/2001%20-%202250/2181.py) |
 | `2191` | [Sort the Jumbled Numbers](https://leetcode.com/problems/sort-the-jumbled-numbers/)                                                                     | ${\color{orange}Medium}$ | [\</code\>](/2001%20-%202250/2191.py) |
 | `2194` | [Cells in a Range on an Excel Sheet](https://leetcode.com/problems/cells-in-a-range-on-an-excel-sheet/)                                                 |  ${\color{green}Easy}$   | [\</code\>](/2001%20-%202250/2194.py) |
