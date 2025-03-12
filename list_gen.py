@@ -6,7 +6,7 @@ from icecream import ic
 
 
 lnk = (
-    "https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks/"
+    "https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer/"
 )
 
 
