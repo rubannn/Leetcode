@@ -3,7 +3,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 
 | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{green}Easy}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{orange}Medium}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{red}Hard}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{black}Total}$ &nbsp;&nbsp;&nbsp;&nbsp; |
 | :---------------------------------------------------------------------: | :------------------------------------------------------------------------: | :-------------------------------------------------------------------: | :----------------------------------------------------------------------: |
-|**256** | **199** | **15** | **470**|
+|**257** | **199** | **15** | **471**|
 
 
 <table>
@@ -458,6 +458,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 | `2181` | [Merge Nodes in Between Zeros](https://leetcode.com/problems/merge-nodes-in-between-zeros/)                                                             | ${\color{orange}Medium}$ | [\</code\>](/2001%20-%202250/2181.py) |
 | `2191` | [Sort the Jumbled Numbers](https://leetcode.com/problems/sort-the-jumbled-numbers/)                                                                     | ${\color{orange}Medium}$ | [\</code\>](/2001%20-%202250/2191.py) |
 | `2194` | [Cells in a Range on an Excel Sheet](https://leetcode.com/problems/cells-in-a-range-on-an-excel-sheet/)                                                 |  ${\color{green}Easy}$   | [\</code\>](/2001%20-%202250/2194.py) |
+| `2206` | [Divide Array Into Equal Pairs](https://leetcode.com/problems/divide-array-into-equal-pairs/) |${\color{green}Easy}$|[\</code\>](/2001%20-%202250/2206.py) |
 | `2215` | [Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/)                                                   |  ${\color{green}Easy}$   | [\</code\>](/2001%20-%202250/2215.py) |
 | `2221` | [Find Triangular Sum of an Array](https://leetcode.com/problems/find-triangular-sum-of-an-array/)                                                       | ${\color{orange}Medium}$ | [\</code\>](/2001%20-%202250/2221.py) |
 | `2225` | [Find Players With Zero or One Losses](https://leetcode.com/problems/find-players-with-zero-or-one-losses/)                                             | ${\color{orange}Medium}$ | [\</code\>](/2001%20-%202250/2225.py) |

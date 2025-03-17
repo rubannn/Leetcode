@@ -5,9 +5,7 @@ import requests
 from icecream import ic
 
 
-lnk = (
-    "https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer/"
-)
+lnk = "https://leetcode.com/problems/divide-array-into-equal-pairs/"
 
 
 def get_task_data(url):
