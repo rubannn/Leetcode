@@ -3,7 +3,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 
 | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{green}Easy}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{orange}Medium}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{red}Hard}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{black}Total}$ &nbsp;&nbsp;&nbsp;&nbsp; |
 | :---------------------------------------------------------------------: | :------------------------------------------------------------------------: | :-------------------------------------------------------------------: | :----------------------------------------------------------------------: |
-|**257** | **199** | **15** | **471**|
+|**257** | **200** | **15** | **472**|
 
 
 <table>
@@ -569,5 +569,6 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 | Num    | Task name                                                                                                                                     |      Difficulty       |                 Code                  |
 | ------ | --------------------------------------------------------------------------------------------------------------------------------------------- | :-------------------: | :-----------------------------------: |
 | `3174` | [Clear Digits](https://leetcode.com/problems/clear-digits/) |${\color{green}Easy}$|[\</code\>](/3001%20-%203250/3174.py) |
+| `3191` | [Minimum Operations to Make Binary Array Elements Equal to One I](https://leetcode.com/problems/minimum-operations-to-make-binary-array-elements-equal-to-one-i/) |${\color{orange}Medium}$|[\</code\>](/3001%20-%203250/3191.py) |
 | `3223` | [Minimum Length of String After Operations](https://leetcode.com/problems/minimum-length-of-string-after-operations/) |${\color{orange}Medium}$|[\</code\>](/3001%20-%203250/3223.py) |
 | `3264` | [Final Array State After K Multiplication Operations I](https://leetcode.com/problems/final-array-state-after-k-multiplication-operations-i/) | ${\color{green}Easy}$ | [\</code\>](/3251%20-%203500/3264.py) |

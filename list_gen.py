@@ -5,7 +5,7 @@ import requests
 from icecream import ic
 
 
-lnk = "https://leetcode.com/problems/divide-array-into-equal-pairs/"
+lnk = "https://leetcode.com/problems/minimum-operations-to-make-binary-array-elements-equal-to-one-i/"
 
 
 def get_task_data(url):
