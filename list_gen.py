@@ -5,7 +5,7 @@ import requests
 from icecream import ic
 
 
-lnk = "https://leetcode.com/problems/minimum-operations-to-make-binary-array-elements-equal-to-one-i/"
+lnk = "https://leetcode.com/problems/minimum-number-of-operations-to-make-elements-in-array-distinct/"
 
 
 def get_task_data(url):
