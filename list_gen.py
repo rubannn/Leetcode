@@ -5,7 +5,7 @@ import requests
 from icecream import ic
 
 
-lnk = "https://leetcode.com/problems/minimum-number-of-operations-to-make-elements-in-array-distinct/"
+lnk = "https://leetcode.com/problems/count-symmetric-integers/"
 
 
 def get_task_data(url):
