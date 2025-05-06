@@ -5,7 +5,7 @@ import requests
 from icecream import ic
 
 
-lnk = "https://leetcode.com/problems/find-numbers-with-even-number-of-digits/"
+lnk = "https://leetcode.com/problems/build-array-from-permutation/"
 
 
 def get_task_data(url):

@@ -3,7 +3,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 
 | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{green}Easy}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{orange}Medium}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{red}Hard}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{black}Total}$ &nbsp;&nbsp;&nbsp;&nbsp; |
 | :---------------------------------------------------------------------: | :------------------------------------------------------------------------: | :-------------------------------------------------------------------: | :----------------------------------------------------------------------: |
-|**260** | **200** | **15** | **475**|
+|**261** | **200** | **15** | **476**|
 
 
 <table>
@@ -425,6 +425,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 | `1903` | [Largest Odd Number in String](https://leetcode.com/problems/largest-odd-number-in-string/)                                                 |  ${\color{green}Easy}$   | [\</code\>](/1751%20-%202000/1903.py)  |
 | `1910` | [Remove All Occurrences of a Substring](https://leetcode.com/problems/remove-all-occurrences-of-a-substring/) |${\color{orange}Medium}$|[\</code\>](/1751%20-%202000/1910.py) |
 | `1913` | [Maximum Product Difference Between Two Pairs](https://leetcode.com/problems/maximum-product-difference-between-two-pairs/)                 |  ${\color{green}Easy}$   | [\</code\>](/1751%20-%202000/1913.py)  |
+| `1920` | [Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/) |${\color{green}Easy}$|[\</code\>](/1751%20-%202000/1920.py) |
 | `1926` | [Nearest Exit from Entrance in Maze](https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/)                                     | ${\color{orange}Medium}$ | [\</code\>](/1751%20-%202000/1926.py)  |
 | `1929` | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/)                                                             |  ${\color{green}Easy}$   | [\</code\>](/1751%20-%202000/1929.py)  |
 | `1945` | [Sum of Digits of String After Convert](https://leetcode.com/problems/sum-of-digits-of-string-after-convert/)                               |  ${\color{green}Easy}$   | [\</code\>](/1751%20-%202000/1945.py)  |
