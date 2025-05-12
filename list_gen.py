@@ -5,7 +5,7 @@ import requests
 from icecream import ic
 
 
-lnk = "https://leetcode.com/problems/finding-3-digit-even-numbers/"
+lnk = "https://leetcode.com/problems/minimum-equal-sum-of-two-arrays-after-replacing-zeros/"
 
 
 def get_task_data(url):

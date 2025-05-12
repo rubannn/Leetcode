@@ -3,7 +3,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 
 | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{green}Easy}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{orange}Medium}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{red}Hard}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{black}Total}$ &nbsp;&nbsp;&nbsp;&nbsp; |
 | :---------------------------------------------------------------------: | :------------------------------------------------------------------------: | :-------------------------------------------------------------------: | :----------------------------------------------------------------------: |
-|**262** | **200** | **15** | **477**|
+|**262** | **201** | **15** | **478**|
 
 
 <table>
@@ -549,6 +549,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 | `2864` | [Maximum Odd Binary Number](https://leetcode.com/problems/maximum-odd-binary-number/)                                                                 |  ${\color{green}Easy}$   | [\</code\>](/2751%20-%203000/2864.py) |
 | `2870` | [Minimum Number of Operations to Make Array Empty](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-empty/)                   | ${\color{orange}Medium}$ | [\</code\>](/2751%20-%203000/2870.py) |
 | `2914` | [Minimum Number of Changes to Make Binary String Beautiful](https://leetcode.com/problems/minimum-number-of-changes-to-make-binary-string-beautiful/) | ${\color{orange}Medium}$ | [\</code\>](/2751%20-%203000/2914.py) |
+| `2918` | [Minimum Equal Sum of Two Arrays After Replacing Zeros](https://leetcode.com/problems/minimum-equal-sum-of-two-arrays-after-replacing-zeros/) |${\color{orange}Medium}$|[\</code\>](/2751%20-%203000/2918.py) |
 | `2960` | [Count Tested Devices After Test Operations](https://leetcode.com/problems/count-tested-devices-after-test-operations/)                               |  ${\color{green}Easy}$   | [\</code\>](/2751%20-%203000/2960.py) |
 | `2965` | [Find Missing and Repeated Values](https://leetcode.com/problems/find-missing-and-repeated-values/) |${\color{green}Easy}$|[\</code\>](/2751%20-%203000/2965.py) |
 | `2966` | [Divide Array Into Arrays With Max Difference](https://leetcode.com/problems/divide-array-into-arrays-with-max-difference/)                           | ${\color{orange}Medium}$ | [\</code\>](/2751%20-%203000/2966.py) |
