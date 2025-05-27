@@ -3,7 +3,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 
 | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{green}Easy}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{orange}Medium}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{red}Hard}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{black}Total}$ &nbsp;&nbsp;&nbsp;&nbsp; |
 | :---------------------------------------------------------------------: | :------------------------------------------------------------------------: | :-------------------------------------------------------------------: | :----------------------------------------------------------------------: |
-|**262** | **201** | **15** | **478**|
+|**263** | **201** | **15** | **479**|
 
 
 <table>
@@ -548,6 +548,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 | `2843` | [  Count Symmetric Integers](https://leetcode.com/problems/count-symmetric-integers/) |${\color{green}Easy}$|[\</code\>](/2751%20-%203000/2843.py) |
 | `2864` | [Maximum Odd Binary Number](https://leetcode.com/problems/maximum-odd-binary-number/)                                                                 |  ${\color{green}Easy}$   | [\</code\>](/2751%20-%203000/2864.py) |
 | `2870` | [Minimum Number of Operations to Make Array Empty](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-empty/)                   | ${\color{orange}Medium}$ | [\</code\>](/2751%20-%203000/2870.py) |
+| `2894` | [Divisible and Non-divisible Sums Difference](https://leetcode.com/problems/divisible-and-non-divisible-sums-difference/) |${\color{green}Easy}$|[\</code\>](/2751%20-%203000/2894.py) |
 | `2914` | [Minimum Number of Changes to Make Binary String Beautiful](https://leetcode.com/problems/minimum-number-of-changes-to-make-binary-string-beautiful/) | ${\color{orange}Medium}$ | [\</code\>](/2751%20-%203000/2914.py) |
 | `2918` | [Minimum Equal Sum of Two Arrays After Replacing Zeros](https://leetcode.com/problems/minimum-equal-sum-of-two-arrays-after-replacing-zeros/) |${\color{orange}Medium}$|[\</code\>](/2751%20-%203000/2918.py) |
 | `2960` | [Count Tested Devices After Test Operations](https://leetcode.com/problems/count-tested-devices-after-test-operations/)                               |  ${\color{green}Easy}$   | [\</code\>](/2751%20-%203000/2960.py) |

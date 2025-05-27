@@ -5,7 +5,7 @@ import requests
 from icecream import ic
 
 
-lnk = "https://leetcode.com/problems/minimum-equal-sum-of-two-arrays-after-replacing-zeros/"
+lnk = "https://leetcode.com/problems/divisible-and-non-divisible-sums-difference/"
 
 
 def get_task_data(url):
