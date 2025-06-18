@@ -3,7 +3,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 
 | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{green}Easy}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{orange}Medium}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{red}Hard}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{black}Total}$ &nbsp;&nbsp;&nbsp;&nbsp; |
 | :---------------------------------------------------------------------: | :------------------------------------------------------------------------: | :-------------------------------------------------------------------: | :----------------------------------------------------------------------: |
-|**263** | **201** | **15** | **479**|
+|**264** | **201** | **15** | **480**|
 
 
 <table>
@@ -441,6 +441,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 | `1980` | [Find Unique Binary String](https://leetcode.com/problems/find-unique-binary-string/)                                                                   | ${\color{orange}Medium}$ | [\</code\>](/1751%20-%202000/1980.py) |
 | `2000` | [Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word/)                                                                         |  ${\color{green}Easy}$   | [\</code\>](/1751%20-%202000/2000.py) |
 | `2001` | [Number of Pairs of Interchangeable Rectangles](https://leetcode.com/problems/number-of-pairs-of-interchangeable-rectangles/)                           | ${\color{orange}Medium}$ | [\</code\>](/2001%20-%202250/2001.py) |
+| `2016` | [Maximum Difference Between Increasing Elements](https://leetcode.com/problems/maximum-difference-between-increasing-elements/) |${\color{green}Easy}$|[\</code\>](/2001%20-%202250/2016.py) |
 | `2022` | [Convert 1D Array Into 2D Array](https://leetcode.com/problems/convert-1d-array-into-2d-array/)                                                         |  ${\color{green}Easy}$   | [\</code\>](/2001%20-%202250/2022.py) |
 | `2028` | [Find Missing Observations](https://leetcode.com/problems/find-missing-observations/)                                                                   | ${\color{orange}Medium}$ | [\</code\>](/2001%20-%202250/2028.py) |
 | `2037` | [Minimum Number of Moves to Seat Everyone](https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/)                                     |  ${\color{green}Easy}$   | [\</code\>](/2001%20-%202250/2037.py) |
