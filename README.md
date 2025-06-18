@@ -3,7 +3,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 
 | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{green}Easy}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{orange}Medium}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{red}Hard}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{black}Total}$ &nbsp;&nbsp;&nbsp;&nbsp; |
 | :---------------------------------------------------------------------: | :------------------------------------------------------------------------: | :-------------------------------------------------------------------: | :----------------------------------------------------------------------: |
-|**264** | **201** | **15** | **480**|
+|**264** | **202** | **15** | **481**|
 
 
 <table>
@@ -345,6 +345,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 | `1422` | [Maximum Score After Splitting a String](https://leetcode.com/problems/maximum-score-after-splitting-a-string/)                                                         |  ${\color{green}Easy}$   | [\</code\>](/1251%20-%201500/1422.py)  |
 | `1424` | [Diagonal Traverse II](https://leetcode.com/problems/diagonal-traverse-ii/)                                                                                             | ${\color{orange}Medium}$ | [\</code\>](/1251%20-%201500/1424.py)  |
 | `1431` | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)                                                     |  ${\color{green}Easy}$   | [\</code\>](/1251%20-%201500/1431.py)  |
+| `1432` | [Max Difference You Can Get From Changing an Integer](https://leetcode.com/problems/max-difference-you-can-get-from-changing-an-integer/) |${\color{orange}Medium}$|[\</code\>](/1251%20-%201500/1432.py) |
 | `1436` | [Destination City](https://leetcode.com/problems/destination-city/)                                                                                                     |  ${\color{green}Easy}$   | [\</code\>](/1251%20-%201500/1436.py)  |
 | `1441` | [Build an Array With Stack Operations](https://leetcode.com/problems/build-an-array-with-stack-operations/)                                                             | ${\color{orange}Medium}$ | [\</code\>](/1251%20-%201500/1441.py)  |
 | `1448` | [Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/)                                                                       | ${\color{orange}Medium}$ | [\</code\>](/1251%20-%201500/1448.py)  |
