@@ -5,7 +5,7 @@ import requests
 from icecream import ic
 
 
-lnk = "https://leetcode.com/problems/divisible-and-non-divisible-sums-difference/"
+lnk = "https://leetcode.com/problems/divide-array-into-arrays-with-max-difference/"
 
 
 def get_task_data(url):
