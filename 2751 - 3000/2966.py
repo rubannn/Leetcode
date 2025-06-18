@@ -4,10 +4,10 @@ class Solution:
         n = len(nums)
         res = []
         for i in range(0, n, 3):
-            arr = nums[i : i + 3]
-            if arr[2] - arr[0] > k:
+            elem = nums[i : i + 3]
+            if elem[2] - elem[0] > k:
                 return []
-            res.append(arr)
+            res.append(elem)
         return res
 
     def divideArray2(self, nums: List[int], k: int) -> List[List[int]]:
