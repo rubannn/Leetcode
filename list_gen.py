@@ -5,7 +5,7 @@ import requests
 from icecream import ic
 
 
-lnk = "https://leetcode.com/problems/max-difference-you-can-get-from-changing-an-integer/"
+lnk = "https://leetcode.com/problems/longest-harmonious-subsequence/"
 
 
 def get_task_data(url):
