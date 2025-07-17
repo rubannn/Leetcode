@@ -33,7 +33,7 @@ tests = [
     ("Ya$", False),
     ("IS", False),
 ]
-print()
+
 sol = Solution()
 for t, ans in tests:
     print(f"{t} --> {ans ==  sol.isValid2(t)}")
