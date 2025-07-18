@@ -3,7 +3,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 
 | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{green}Easy}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{orange}Medium}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{red}Hard}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{black}Total}$ &nbsp;&nbsp;&nbsp;&nbsp; |
 | :---------------------------------------------------------------------: | :------------------------------------------------------------------------: | :-------------------------------------------------------------------: | :----------------------------------------------------------------------: |
-|**271** | **202** | **15** | **488**|
+|**272** | **202** | **15** | **489**|
 
 
 <table>
@@ -155,6 +155,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 | `0278` | [First Bad Version](https://leetcode.com/problems/first-bad-version/)                                                   |  ${\color{green}Easy}$   | [\</code\>](/0251%20-%200500/0278.py) |
 | `0283` | [Move Zeroes](https://leetcode.com/problems/move-zeroes/)                                                               |  ${\color{green}Easy}$   | [\</code\>](/0251%20-%200500/0283.py) |
 | `0287` | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)                                   | ${\color{orange}Medium}$ | [\</code\>](/0251%20-%200500/0287.py) |
+| `0290` | [Word Pattern](https://leetcode.com/problems/word-pattern/) |${\color{green}Easy}$|[\</code\>](/0251%20-%200500/0290.py) |
 | `0292` | [Nim Game](https://leetcode.com/problems/nim-game/) |${\color{green}Easy}$|[\</code\>](/0251%20-%200500/0292.py) |
 | `0299` | [Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/)                                                         | ${\color{orange}Medium}$ | [\</code\>](/0251%20-%200500/0299.py) |
 | `0300` | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)                         | ${\color{orange}Medium}$ | [\</code\>](/0251%20-%200500/0300.py) |
