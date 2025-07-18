@@ -3,7 +3,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 
 | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{green}Easy}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{orange}Medium}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{red}Hard}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{black}Total}$ &nbsp;&nbsp;&nbsp;&nbsp; |
 | :---------------------------------------------------------------------: | :------------------------------------------------------------------------: | :-------------------------------------------------------------------: | :----------------------------------------------------------------------: |
-|**268** | **202** | **15** | **485**|
+|**269** | **202** | **15** | **486**|
 
 
 <table>
@@ -133,6 +133,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 | `0217` | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)                                                                           |  ${\color{green}Easy}$   | [\</code\>](/0001%20-%200250/0217.py)  |
 | `0223` | [Rectangle Area](https://leetcode.com/problems/rectangle-area/)                                                                                   | ${\color{orange}Medium}$ | [\</code\>](/0001%20-%200250/0223.py)  |
 | `0225` | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)                                                       |  ${\color{green}Easy}$   | [\</code\>](/0001%20-%200250/0225.py)  |
+| `0228` | [Summary Ranges](https://leetcode.com/problems/summary-ranges/) |${\color{green}Easy}$|[\</code\>](/0001%20-%200250/0228.py) |
 | `0229` | [Majority Element II](https://leetcode.com/problems/majority-element-ii/)                                                                         | ${\color{orange}Medium}$ | [\</code\>](/0001%20-%200250/0229.py)  |
 | `0231` | [Power of Two](https://leetcode.com/problems/power-of-two/)                                                                                       |  ${\color{green}Easy}$   | [\</code\>](/0001%20-%200250/0231.py)  |
 | `0232` | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)                                                       |  ${\color{green}Easy}$   | [\</code\>](/0001%20-%200250/0232.py)  |
