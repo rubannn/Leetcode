@@ -3,7 +3,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 
 | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{green}Easy}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{orange}Medium}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{red}Hard}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{black}Total}$ &nbsp;&nbsp;&nbsp;&nbsp; |
 | :---------------------------------------------------------------------: | :------------------------------------------------------------------------: | :-------------------------------------------------------------------: | :----------------------------------------------------------------------: |
-|**267** | **202** | **15** | **484**|
+|**268** | **202** | **15** | **485**|
 
 
 <table>
@@ -118,6 +118,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 | `0189` | [Rotate Array](https://leetcode.com/problems/rotate-array/)                                                                                       | ${\color{orange}Medium}$ | [\</code\>](/0001%20-%200250/0189.py)  |
 | `0190` | [Reverse Bits](https://leetcode.com/problems/reverse-bits/)                                                                                       |  ${\color{green}Easy}$   | [\</code\>](/0001%20-%200250/0190.py)  |
 | `0191` | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)                                                                               |  ${\color{green}Easy}$   | [\</code\>](/0001%20-%200250/0191.py)  |
+| `0193` | [Valid Phone Numbers](https://leetcode.com/problems/valid-phone-numbers/) |${\color{green}Easy}$|[\</code\>](/0001%20-%200250/0193.sh) |
 | `0196` | [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/)                                                                 |  ${\color{green}Easy}$   | [\</code\>](/0001%20-%200250/0196.sql) |
 | `0197` | [Rising Temperature](https://leetcode.com/problems/rising-temperature/)                                                                           |  ${\color{green}Easy}$   | [\</code\>](/0001%20-%200250/0197.sql) |
 | `0198` | [House Robber](https://leetcode.com/problems/house-robber/)                                                                                       | ${\color{orange}Medium}$ | [\</code\>](/0001%20-%200250/0198.py)  |

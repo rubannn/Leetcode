@@ -5,7 +5,7 @@ import requests
 from icecream import ic
 
 
-lnk = "https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/"
+lnk = "https://leetcode.com/problems/valid-phone-numbers/"
 
 
 def get_task_data(url):
@@ -43,7 +43,15 @@ def get_task_data(url):
         title = data["title"]
         difficulty = data["difficulty"]
         codelangs = [langinfo["lang"] for langinfo in data["codeSnippets"]]
-        extention = ".sql" if any(["SQL" in c for c in codelangs]) else ".py"
+
+        ext_map = {"SQL": ".sql", "Bash": ".sh", "Python": ".py"}
+        extention = ".py"  # default
+        for lang in codelangs:
+            for k, value in ext_map.items():
+                if k in lang:
+                    extention = value
+                    break
+
         return {
             "id": id,
             "title": title,
@@ -67,6 +75,7 @@ folder = [
 ]
 
 task = get_task_data(lnk)
+
 if not task:
     ic("No data for load")
     exit()
