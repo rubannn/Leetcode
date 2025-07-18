@@ -5,7 +5,7 @@ import requests
 from icecream import ic
 
 
-lnk = "https://leetcode.com/problems/summary-ranges/"
+lnk = "https://leetcode.com/problems/range-sum-query-immutable/"
 
 
 def get_task_data(url):
