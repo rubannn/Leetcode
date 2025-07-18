@@ -3,7 +3,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 
 | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{green}Easy}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{orange}Medium}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{red}Hard}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{black}Total}$ &nbsp;&nbsp;&nbsp;&nbsp; |
 | :---------------------------------------------------------------------: | :------------------------------------------------------------------------: | :-------------------------------------------------------------------: | :----------------------------------------------------------------------: |
-|**266** | **202** | **15** | **483**|
+|**267** | **202** | **15** | **484**|
 
 
 <table>
@@ -53,6 +53,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 | `0024` | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)                                                                         | ${\color{orange}Medium}$ | [\</code\>](/0001%20-%200250/0024.py)  |
 | `0026` | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)                                         |  ${\color{green}Easy}$   | [\</code\>](/0001%20-%200250/0026.py)  |
 | `0027` | [Remove Element](https://leetcode.com/problems/remove-element/)                                                                                   |  ${\color{green}Easy}$   | [\</code\>](/0001%20-%200250/0027.py)  |
+| `0028` | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) |${\color{green}Easy}$|[\</code\>](/0001%20-%200250/0028.py) |
 | `0032` | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)                                                             |   ${\color{red}Hard}$    | [\</code\>](/0001%20-%200250/0032.py)  |
 | `0033` | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)                                                   | ${\color{orange}Medium}$ | [\</code\>](/0001%20-%200250/0033.py)  |
 | `0034` | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | ${\color{orange}Medium}$ | [\</code\>](/0001%20-%200250/0034.py)  |

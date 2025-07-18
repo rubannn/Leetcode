@@ -5,7 +5,7 @@ import requests
 from icecream import ic
 
 
-lnk = "https://leetcode.com/problems/valid-word/"
+lnk = "https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/"
 
 
 def get_task_data(url):
