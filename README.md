@@ -23,6 +23,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
     <td><a href="#0501---0750">0501 - 0750</a></td>
     <td><a href="#1501---1750">1501 - 1750</a></td>
     <td><a href="#2501---2750">2501 - 2750</a></td>
+    <td><a href="#3501---3750">3501 - 3750</a></td>
   </tr>
   <tr>
     <td><a href="#0751---1000">0751 - 1000</a></td>
