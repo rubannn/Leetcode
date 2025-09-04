@@ -3,7 +3,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 
 | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{green}Easy}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{orange}Medium}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{red}Hard}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{black}Total}$ &nbsp;&nbsp;&nbsp;&nbsp; |
 | :---------------------------------------------------------------------: | :------------------------------------------------------------------------: | :-------------------------------------------------------------------: | :----------------------------------------------------------------------: |
-|**272** | **205** | **15** | **492**|
+|                                 **273**                                 |                                  **205**                                   |                                **15**                                 |                                 **493**                                  |
 
 
 <table>
@@ -53,7 +53,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 | `0024` | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)                                                                         | ${\color{orange}Medium}$ | [\</code\>](/0001%20-%200250/0024.py)  |
 | `0026` | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)                                         |  ${\color{green}Easy}$   | [\</code\>](/0001%20-%200250/0026.py)  |
 | `0027` | [Remove Element](https://leetcode.com/problems/remove-element/)                                                                                   |  ${\color{green}Easy}$   | [\</code\>](/0001%20-%200250/0027.py)  |
-| `0028` | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) |${\color{green}Easy}$|[\</code\>](/0001%20-%200250/0028.py) |
+| `0028` | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/)           |  ${\color{green}Easy}$   | [\</code\>](/0001%20-%200250/0028.py)  |
 | `0032` | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)                                                             |   ${\color{red}Hard}$    | [\</code\>](/0001%20-%200250/0032.py)  |
 | `0033` | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)                                                   | ${\color{orange}Medium}$ | [\</code\>](/0001%20-%200250/0033.py)  |
 | `0034` | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | ${\color{orange}Medium}$ | [\</code\>](/0001%20-%200250/0034.py)  |
@@ -118,7 +118,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 | `0189` | [Rotate Array](https://leetcode.com/problems/rotate-array/)                                                                                       | ${\color{orange}Medium}$ | [\</code\>](/0001%20-%200250/0189.py)  |
 | `0190` | [Reverse Bits](https://leetcode.com/problems/reverse-bits/)                                                                                       |  ${\color{green}Easy}$   | [\</code\>](/0001%20-%200250/0190.py)  |
 | `0191` | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)                                                                               |  ${\color{green}Easy}$   | [\</code\>](/0001%20-%200250/0191.py)  |
-| `0193` | [Valid Phone Numbers](https://leetcode.com/problems/valid-phone-numbers/) |${\color{green}Easy}$|[\</code\>](/0001%20-%200250/0193.sh) |
+| `0193` | [Valid Phone Numbers](https://leetcode.com/problems/valid-phone-numbers/)                                                                         |  ${\color{green}Easy}$   | [\</code\>](/0001%20-%200250/0193.sh)  |
 | `0196` | [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/)                                                                 |  ${\color{green}Easy}$   | [\</code\>](/0001%20-%200250/0196.sql) |
 | `0197` | [Rising Temperature](https://leetcode.com/problems/rising-temperature/)                                                                           |  ${\color{green}Easy}$   | [\</code\>](/0001%20-%200250/0197.sql) |
 | `0198` | [House Robber](https://leetcode.com/problems/house-robber/)                                                                                       | ${\color{orange}Medium}$ | [\</code\>](/0001%20-%200250/0198.py)  |
@@ -133,7 +133,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 | `0217` | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)                                                                           |  ${\color{green}Easy}$   | [\</code\>](/0001%20-%200250/0217.py)  |
 | `0223` | [Rectangle Area](https://leetcode.com/problems/rectangle-area/)                                                                                   | ${\color{orange}Medium}$ | [\</code\>](/0001%20-%200250/0223.py)  |
 | `0225` | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)                                                       |  ${\color{green}Easy}$   | [\</code\>](/0001%20-%200250/0225.py)  |
-| `0228` | [Summary Ranges](https://leetcode.com/problems/summary-ranges/) |${\color{green}Easy}$|[\</code\>](/0001%20-%200250/0228.py) |
+| `0228` | [Summary Ranges](https://leetcode.com/problems/summary-ranges/)                                                                                   |  ${\color{green}Easy}$   | [\</code\>](/0001%20-%200250/0228.py)  |
 | `0229` | [Majority Element II](https://leetcode.com/problems/majority-element-ii/)                                                                         | ${\color{orange}Medium}$ | [\</code\>](/0001%20-%200250/0229.py)  |
 | `0231` | [Power of Two](https://leetcode.com/problems/power-of-two/)                                                                                       |  ${\color{green}Easy}$   | [\</code\>](/0001%20-%200250/0231.py)  |
 | `0232` | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)                                                       |  ${\color{green}Easy}$   | [\</code\>](/0001%20-%200250/0232.py)  |
@@ -155,11 +155,11 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 | `0278` | [First Bad Version](https://leetcode.com/problems/first-bad-version/)                                                   |  ${\color{green}Easy}$   | [\</code\>](/0251%20-%200500/0278.py) |
 | `0283` | [Move Zeroes](https://leetcode.com/problems/move-zeroes/)                                                               |  ${\color{green}Easy}$   | [\</code\>](/0251%20-%200500/0283.py) |
 | `0287` | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)                                   | ${\color{orange}Medium}$ | [\</code\>](/0251%20-%200500/0287.py) |
-| `0290` | [Word Pattern](https://leetcode.com/problems/word-pattern/) |${\color{green}Easy}$|[\</code\>](/0251%20-%200500/0290.py) |
-| `0292` | [Nim Game](https://leetcode.com/problems/nim-game/) |${\color{green}Easy}$|[\</code\>](/0251%20-%200500/0292.py) |
+| `0290` | [Word Pattern](https://leetcode.com/problems/word-pattern/)                                                             |  ${\color{green}Easy}$   | [\</code\>](/0251%20-%200500/0290.py) |
+| `0292` | [Nim Game](https://leetcode.com/problems/nim-game/)                                                                     |  ${\color{green}Easy}$   | [\</code\>](/0251%20-%200500/0292.py) |
 | `0299` | [Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/)                                                         | ${\color{orange}Medium}$ | [\</code\>](/0251%20-%200500/0299.py) |
 | `0300` | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)                         | ${\color{orange}Medium}$ | [\</code\>](/0251%20-%200500/0300.py) |
-| `0303` | [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/) |${\color{green}Easy}$|[\</code\>](/0251%20-%200500/0303.py) |
+| `0303` | [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)                                 |  ${\color{green}Easy}$   | [\</code\>](/0251%20-%200500/0303.py) |
 | `0326` | [Power of Three](https://leetcode.com/problems/power-of-three/)                                                         |  ${\color{green}Easy}$   | [\</code\>](/0251%20-%200500/0326.py) |
 | `0328` | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)                                             | ${\color{orange}Medium}$ | [\</code\>](/0251%20-%200500/0328.py) |
 | `0334` | [Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/)                         | ${\color{orange}Medium}$ | [\</code\>](/0251%20-%200500/0334.py) |
@@ -220,7 +220,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 | `0584` | [Find Customer Referee](https://leetcode.com/problems/find-customer-referee/)                                                               |  ${\color{green}Easy}$   | [\</code\>](/0501%20-%200750/0584.sql) |
 | `0586` | [Customer Placing the Largest Number of Orders](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/)               |  ${\color{green}Easy}$   | [\</code\>](/0501%20-%200750/0586.sql) |
 | `0592` | [Fraction Addition and Subtraction](https://leetcode.com/problems/fraction-addition-and-subtraction/)                                       | ${\color{orange}Medium}$ | [\</code\>](/0501%20-%200750/0592.py)  |
-| `0594` | [Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/) |${\color{green}Easy}$|[\</code\>](/0501%20-%200750/0594.py) |
+| `0594` | [Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/)                                             |  ${\color{green}Easy}$   | [\</code\>](/0501%20-%200750/0594.py)  |
 | `0595` | [Big Countries](https://leetcode.com/problems/big-countries/)                                                                               |  ${\color{green}Easy}$   | [\</code\>](/0501%20-%200750/0595.sql) |
 | `0598` | [Range Addition II](https://leetcode.com/problems/range-addition-ii/)                                                                       |  ${\color{green}Easy}$   | [\</code\>](/0501%20-%200750/0598.py)  |
 | `0599` | [Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists/)                                             |  ${\color{green}Easy}$   | [\</code\>](/0501%20-%200750/0599.py)  |
@@ -329,7 +329,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 | `1289` | [Minimum Falling Path Sum II](https://leetcode.com/problems/minimum-falling-path-sum-ii/)                                                                               |   ${\color{red}Hard}$    | [\</code\>](/1251%20-%201500/1289.py)  |
 | `1290` | [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/)                                   |  ${\color{green}Easy}$   | [\</code\>](/1251%20-%201500/1290.py)  |
 | `1291` | [Sequential Digits](https://leetcode.com/problems/sequential-digits/)                                                                                                   | ${\color{orange}Medium}$ | [\</code\>](/1251%20-%201500/1291.py)  |
-| `1295` | [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) |${\color{green}Easy}$|[\</code\>](/1251%20-%201500/1295.py) |
+| `1295` | [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)                                                       |  ${\color{green}Easy}$   | [\</code\>](/1251%20-%201500/1295.py)  |
 | `1314` | [Matrix Block Sum](https://leetcode.com/problems/matrix-block-sum/)                                                                                                     | ${\color{orange}Medium}$ | [\</code\>](/1251%20-%201500/1314.py)  |
 | `1318` | [Minimum Flips to Make a OR b Equal to c](https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/)                                                       | ${\color{orange}Medium}$ | [\</code\>](/1251%20-%201500/1318.py)  |
 | `1323` | [Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/)                                                                                                   |  ${\color{green}Easy}$   | [\</code\>](/1251%20-%201500/1323.py)  |
@@ -352,7 +352,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 | `1422` | [Maximum Score After Splitting a String](https://leetcode.com/problems/maximum-score-after-splitting-a-string/)                                                         |  ${\color{green}Easy}$   | [\</code\>](/1251%20-%201500/1422.py)  |
 | `1424` | [Diagonal Traverse II](https://leetcode.com/problems/diagonal-traverse-ii/)                                                                                             | ${\color{orange}Medium}$ | [\</code\>](/1251%20-%201500/1424.py)  |
 | `1431` | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)                                                     |  ${\color{green}Easy}$   | [\</code\>](/1251%20-%201500/1431.py)  |
-| `1432` | [Max Difference You Can Get From Changing an Integer](https://leetcode.com/problems/max-difference-you-can-get-from-changing-an-integer/) |${\color{orange}Medium}$|[\</code\>](/1251%20-%201500/1432.py) |
+| `1432` | [Max Difference You Can Get From Changing an Integer](https://leetcode.com/problems/max-difference-you-can-get-from-changing-an-integer/)                               | ${\color{orange}Medium}$ | [\</code\>](/1251%20-%201500/1432.py)  |
 | `1436` | [Destination City](https://leetcode.com/problems/destination-city/)                                                                                                     |  ${\color{green}Easy}$   | [\</code\>](/1251%20-%201500/1436.py)  |
 | `1441` | [Build an Array With Stack Operations](https://leetcode.com/problems/build-an-array-with-stack-operations/)                                                             | ${\color{orange}Medium}$ | [\</code\>](/1251%20-%201500/1441.py)  |
 | `1448` | [Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/)                                                                       | ${\color{orange}Medium}$ | [\</code\>](/1251%20-%201500/1448.py)  |
@@ -369,7 +369,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 | ------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------: | :------------------------------------: |
 | `1496` | [Path Crossing](https://leetcode.com/problems/path-crossing/)                                                                                               |  ${\color{green}Easy}$   | [\</code\>](/1251%20-%201500/1496.py)  |
 | `1512` | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)                                                                                 |  ${\color{green}Easy}$   | [\</code\>](/1501%20-%201750/1512.py)  |
-| `1517` | [Find Users With Valid E-Mails](https://leetcode.com/problems/find-users-with-valid-e-mails/) |${\color{green}Easy}$|[\</code\>](/1501%20-%201750/1517.sql) |
+| `1517` | [Find Users With Valid E-Mails](https://leetcode.com/problems/find-users-with-valid-e-mails/)                                                               |  ${\color{green}Easy}$   | [\</code\>](/1501%20-%201750/1517.sql) |
 | `1518` | [Water Bottles](https://leetcode.com/problems/water-bottles/)                                                                                               |  ${\color{green}Easy}$   | [\</code\>](/1501%20-%201750/1518.py)  |
 | `1527` | [Patients With a Condition](https://leetcode.com/problems/patients-with-a-condition/)                                                                       |  ${\color{green}Easy}$   | [\</code\>](/1501%20-%201750/1527.sql) |
 | `1531` | [String Compression II](https://leetcode.com/problems/string-compression-ii/)                                                                               |   ${\color{red}Hard}$    | [\</code\>](/1501%20-%201750/1531.py)  |
@@ -411,16 +411,16 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 | Num    | Task name                                                                                                                                   |        Difficulty        |                  Code                  |
 | ------ | ------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------: | :------------------------------------: |
 | `1750` | [Minimum Length of String After Deleting Similar Ends](https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends/) | ${\color{orange}Medium}$ | [\</code\>](/1501%20-%201750/1750.py)  |
-| `1752` | [Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/) |${\color{green}Easy}$|[\</code\>](/1751%20-%202000/1752.py) |
+| `1752` | [Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/)                                 |  ${\color{green}Easy}$   | [\</code\>](/1751%20-%202000/1752.py)  |
 | `1757` | [Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/)                                           |  ${\color{green}Easy}$   | [\</code\>](/1751%20-%202000/1757.sql) |
 | `1758` | [Minimum Changes To Make Alternating Binary String](https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/)       |  ${\color{green}Easy}$   | [\</code\>](/1751%20-%202000/1758.py)  |
 | `1768` | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/)                                                       |  ${\color{green}Easy}$   | [\</code\>](/1751%20-%202000/1768.py)  |
 | `1773` | [Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/)                                                   |  ${\color{green}Easy}$   | [\</code\>](/1751%20-%202000/1773.py)  |
-| `1780` | [Check if Number is a Sum of Powers of Three](https://leetcode.com/problems/check-if-number-is-a-sum-of-powers-of-three/) |${\color{orange}Medium}$|[\</code\>](/1751%20-%202000/1780.py) |
-| `1790` | [Check if One String Swap Can Make Strings Equal](https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal/) |${\color{green}Easy}$|[\</code\>](/1751%20-%202000/1790.py) |
+| `1780` | [Check if Number is a Sum of Powers of Three](https://leetcode.com/problems/check-if-number-is-a-sum-of-powers-of-three/)                   | ${\color{orange}Medium}$ | [\</code\>](/1751%20-%202000/1780.py)  |
+| `1790` | [Check if One String Swap Can Make Strings Equal](https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal/)           |  ${\color{green}Easy}$   | [\</code\>](/1751%20-%202000/1790.py)  |
 | `1791` | [Find Center of Star Graph](https://leetcode.com/problems/find-center-of-star-graph/)                                                       |  ${\color{green}Easy}$   | [\</code\>](/1751%20-%202000/1791.py)  |
 | `1795` | [Rearrange Products Table](https://leetcode.com/problems/rearrange-products-table/)                                                         |  ${\color{green}Easy}$   | [\</code\>](/1751%20-%202000/1795.sql) |
-| `1800` | [Maximum Ascending Subarray Sum](https://leetcode.com/problems/maximum-ascending-subarray-sum/) |${\color{green}Easy}$|[\</code\>](/1751%20-%202000/1800.py) |
+| `1800` | [Maximum Ascending Subarray Sum](https://leetcode.com/problems/maximum-ascending-subarray-sum/)                                             |  ${\color{green}Easy}$   | [\</code\>](/1751%20-%202000/1800.py)  |
 | `1814` | [Count Nice Pairs in an Array](https://leetcode.com/problems/count-nice-pairs-in-an-array/)                                                 | ${\color{orange}Medium}$ | [\</code\>](/1751%20-%202000/1814.py)  |
 | `1823` | [Find the Winner of the Circular Game](https://leetcode.com/problems/find-the-winner-of-the-circular-game/)                                 | ${\color{orange}Medium}$ | [\</code\>](/1751%20-%202000/1823.py)  |
 | `1829` | [Maximum XOR for Each Query](https://leetcode.com/problems/maximum-xor-for-each-query/)                                                     | ${\color{orange}Medium}$ | [\</code\>](/1751%20-%202000/1829.py)  |
@@ -431,9 +431,9 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 | `1890` | [The Latest Login in 2020](https://leetcode.com/problems/the-latest-login-in-2020/)                                                         |  ${\color{green}Easy}$   | [\</code\>](/1751%20-%202000/1890.sql) |
 | `1897` | [Redistribute Characters to Make All Strings Equal](https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal/)       |  ${\color{green}Easy}$   | [\</code\>](/1751%20-%202000/1897.py)  |
 | `1903` | [Largest Odd Number in String](https://leetcode.com/problems/largest-odd-number-in-string/)                                                 |  ${\color{green}Easy}$   | [\</code\>](/1751%20-%202000/1903.py)  |
-| `1910` | [Remove All Occurrences of a Substring](https://leetcode.com/problems/remove-all-occurrences-of-a-substring/) |${\color{orange}Medium}$|[\</code\>](/1751%20-%202000/1910.py) |
+| `1910` | [Remove All Occurrences of a Substring](https://leetcode.com/problems/remove-all-occurrences-of-a-substring/)                               | ${\color{orange}Medium}$ | [\</code\>](/1751%20-%202000/1910.py)  |
 | `1913` | [Maximum Product Difference Between Two Pairs](https://leetcode.com/problems/maximum-product-difference-between-two-pairs/)                 |  ${\color{green}Easy}$   | [\</code\>](/1751%20-%202000/1913.py)  |
-| `1920` | [Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/) |${\color{green}Easy}$|[\</code\>](/1751%20-%202000/1920.py) |
+| `1920` | [Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/)                                                 |  ${\color{green}Easy}$   | [\</code\>](/1751%20-%202000/1920.py)  |
 | `1926` | [Nearest Exit from Entrance in Maze](https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/)                                     | ${\color{orange}Medium}$ | [\</code\>](/1751%20-%202000/1926.py)  |
 | `1929` | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/)                                                             |  ${\color{green}Easy}$   | [\</code\>](/1751%20-%202000/1929.py)  |
 | `1945` | [Sum of Digits of String After Convert](https://leetcode.com/problems/sum-of-digits-of-string-after-convert/)                               |  ${\color{green}Easy}$   | [\</code\>](/1751%20-%202000/1945.py)  |
@@ -449,14 +449,14 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 | `1980` | [Find Unique Binary String](https://leetcode.com/problems/find-unique-binary-string/)                                                                   | ${\color{orange}Medium}$ | [\</code\>](/1751%20-%202000/1980.py) |
 | `2000` | [Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word/)                                                                         |  ${\color{green}Easy}$   | [\</code\>](/1751%20-%202000/2000.py) |
 | `2001` | [Number of Pairs of Interchangeable Rectangles](https://leetcode.com/problems/number-of-pairs-of-interchangeable-rectangles/)                           | ${\color{orange}Medium}$ | [\</code\>](/2001%20-%202250/2001.py) |
-| `2016` | [Maximum Difference Between Increasing Elements](https://leetcode.com/problems/maximum-difference-between-increasing-elements/) |${\color{green}Easy}$|[\</code\>](/2001%20-%202250/2016.py) |
+| `2016` | [Maximum Difference Between Increasing Elements](https://leetcode.com/problems/maximum-difference-between-increasing-elements/)                         |  ${\color{green}Easy}$   | [\</code\>](/2001%20-%202250/2016.py) |
 | `2022` | [Convert 1D Array Into 2D Array](https://leetcode.com/problems/convert-1d-array-into-2d-array/)                                                         |  ${\color{green}Easy}$   | [\</code\>](/2001%20-%202250/2022.py) |
 | `2028` | [Find Missing Observations](https://leetcode.com/problems/find-missing-observations/)                                                                   | ${\color{orange}Medium}$ | [\</code\>](/2001%20-%202250/2028.py) |
 | `2037` | [Minimum Number of Moves to Seat Everyone](https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/)                                     |  ${\color{green}Easy}$   | [\</code\>](/2001%20-%202250/2037.py) |
 | `2038` | [Remove Colored Pieces if Both Neighbors are the Same Color](https://leetcode.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color/) | ${\color{orange}Medium}$ | [\</code\>](/2001%20-%202250/2038.py) |
 | `2053` | [Kth Distinct String in an Array](https://leetcode.com/problems/kth-distinct-string-in-an-array/)                                                       |  ${\color{green}Easy}$   | [\</code\>](/2001%20-%202250/2053.py) |
 | `2073` | [Time Needed to Buy Tickets](https://leetcode.com/problems/time-needed-to-buy-tickets/)                                                                 |  ${\color{green}Easy}$   | [\</code\>](/2001%20-%202250/2073.py) |
-| `2094` | [Finding 3-Digit Even Numbers](https://leetcode.com/problems/finding-3-digit-even-numbers/) |${\color{green}Easy}$|[\</code\>](/2001%20-%202250/2094.py) |
+| `2094` | [Finding 3-Digit Even Numbers](https://leetcode.com/problems/finding-3-digit-even-numbers/)                                                             |  ${\color{green}Easy}$   | [\</code\>](/2001%20-%202250/2094.py) |
 | `2095` | [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/)                                       | ${\color{orange}Medium}$ | [\</code\>](/2001%20-%202250/2095.py) |
 | `2108` | [Find First Palindromic String in the Array](https://leetcode.com/problems/find-first-palindromic-string-in-the-array/)                                 |  ${\color{green}Easy}$   | [\</code\>](/2001%20-%202250/2108.py) |
 | `2109` | [Adding Spaces to a String](https://leetcode.com/problems/adding-spaces-to-a-string/)                                                                   | ${\color{orange}Medium}$ | [\</code\>](/2001%20-%202250/2109.py) |
@@ -466,11 +466,11 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 | `2133` | [Check if Every Row and Column Contains All Numbers](https://leetcode.com/problems/check-if-every-row-and-column-contains-all-numbers/)                 |  ${\color{green}Easy}$   | [\</code\>](/2001%20-%202250/2133.py) |
 | `2147` | [Number of Ways to Divide a Long Corridor](https://leetcode.com/problems/number-of-ways-to-divide-a-long-corridor/)                                     |   ${\color{red}Hard}$    | [\</code\>](/2001%20-%202250/2147.py) |
 | `2149` | [Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/)                                                     | ${\color{orange}Medium}$ | [\</code\>](/2001%20-%202250/2149.py) |
-| `2161` | [Partition Array According to Given Pivot](https://leetcode.com/problems/partition-array-according-to-given-pivot/) |${\color{orange}Medium}$|[\</code\>](/2001%20-%202250/2161.py) |
+| `2161` | [Partition Array According to Given Pivot](https://leetcode.com/problems/partition-array-according-to-given-pivot/)                                     | ${\color{orange}Medium}$ | [\</code\>](/2001%20-%202250/2161.py) |
 | `2181` | [Merge Nodes in Between Zeros](https://leetcode.com/problems/merge-nodes-in-between-zeros/)                                                             | ${\color{orange}Medium}$ | [\</code\>](/2001%20-%202250/2181.py) |
 | `2191` | [Sort the Jumbled Numbers](https://leetcode.com/problems/sort-the-jumbled-numbers/)                                                                     | ${\color{orange}Medium}$ | [\</code\>](/2001%20-%202250/2191.py) |
 | `2194` | [Cells in a Range on an Excel Sheet](https://leetcode.com/problems/cells-in-a-range-on-an-excel-sheet/)                                                 |  ${\color{green}Easy}$   | [\</code\>](/2001%20-%202250/2194.py) |
-| `2206` | [Divide Array Into Equal Pairs](https://leetcode.com/problems/divide-array-into-equal-pairs/) |${\color{green}Easy}$|[\</code\>](/2001%20-%202250/2206.py) |
+| `2206` | [Divide Array Into Equal Pairs](https://leetcode.com/problems/divide-array-into-equal-pairs/)                                                           |  ${\color{green}Easy}$   | [\</code\>](/2001%20-%202250/2206.py) |
 | `2215` | [Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/)                                                   |  ${\color{green}Easy}$   | [\</code\>](/2001%20-%202250/2215.py) |
 | `2221` | [Find Triangular Sum of an Array](https://leetcode.com/problems/find-triangular-sum-of-an-array/)                                                       | ${\color{orange}Medium}$ | [\</code\>](/2001%20-%202250/2221.py) |
 | `2225` | [Find Players With Zero or One Losses](https://leetcode.com/problems/find-players-with-zero-or-one-losses/)                                             | ${\color{orange}Medium}$ | [\</code\>](/2001%20-%202250/2225.py) |
@@ -484,66 +484,66 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 | `2257` | [Count Unguarded Cells in the Grid](https://leetcode.com/problems/count-unguarded-cells-in-the-grid/)                                           | ${\color{orange}Medium}$ | [\</code\>](/2251%20-%202500/2257.py) |
 | `2264` | [Largest 3-Same-Digit Number in String](https://leetcode.com/problems/largest-3-same-digit-number-in-string/)                                   |  ${\color{green}Easy}$   | [\</code\>](/2251%20-%202500/2264.py) |
 | `2265` | [Count Nodes Equal to Average of Subtree](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/)                               | ${\color{orange}Medium}$ | [\</code\>](/2251%20-%202500/2265.py) |
-| `2270` | [Number of Ways to Split Array](https://leetcode.com/problems/number-of-ways-to-split-array/) |${\color{orange}Medium}$|[\</code\>](/2251%20-%202500/2270.py) |
+| `2270` | [Number of Ways to Split Array](https://leetcode.com/problems/number-of-ways-to-split-array/)                                                   | ${\color{orange}Medium}$ | [\</code\>](/2251%20-%202500/2270.py) |
 | `2275` | [Largest Combination With Bitwise AND Greater Than Zero](https://leetcode.com/problems/largest-combination-with-bitwise-and-greater-than-zero/) | ${\color{orange}Medium}$ | [\</code\>](/2251%20-%202500/2275.py) |
 | `2293` | [Min Max Game](https://leetcode.com/problems/min-max-game/)                                                                                     |  ${\color{green}Easy}$   | [\</code\>](/2251%20-%202500/2293.py) |
 | `2300` | [Successful Pairs of Spells and Potions](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/)                                 | ${\color{orange}Medium}$ | [\</code\>](/2251%20-%202500/2300.py) |
 | `2319` | [Check if Matrix Is X-Matrix](https://leetcode.com/problems/check-if-matrix-is-x-matrix/)                                                       |  ${\color{green}Easy}$   | [\</code\>](/2251%20-%202500/2319.py) |
 | `2326` | [Spiral Matrix IV](https://leetcode.com/problems/spiral-matrix-iv/)                                                                             | ${\color{orange}Medium}$ | [\</code\>](/2251%20-%202500/2326.py) |
 | `2336` | [Smallest Number in Infinite Set](https://leetcode.com/problems/smallest-number-in-infinite-set/)                                               | ${\color{orange}Medium}$ | [\</code\>](/2251%20-%202500/2336.py) |
-| `2342` | [Max Sum of a Pair With Equal Sum of Digits](https://leetcode.com/problems/max-sum-of-a-pair-with-equal-sum-of-digits/) |${\color{orange}Medium}$|[\</code\>](/2251%20-%202500/2342.py) |
+| `2342` | [Max Sum of a Pair With Equal Sum of Digits](https://leetcode.com/problems/max-sum-of-a-pair-with-equal-sum-of-digits/)                         | ${\color{orange}Medium}$ | [\</code\>](/2251%20-%202500/2342.py) |
 | `2347` | [Best Poker Hand](https://leetcode.com/problems/best-poker-hand/)                                                                               |  ${\color{green}Easy}$   | [\</code\>](/2251%20-%202500/2347.py) |
 | `2352` | [Equal Row and Column Pairs](https://leetcode.com/problems/equal-row-and-column-pairs/)                                                         | ${\color{orange}Medium}$ | [\</code\>](/2251%20-%202500/2352.py) |
 | `2353` | [Design a Food Rating System](https://leetcode.com/problems/design-a-food-rating-system/)                                                       | ${\color{orange}Medium}$ | [\</code\>](/2251%20-%202500/2353.py) |
 | `2358` | [Maximum Number of Groups Entering a Competition](https://leetcode.com/problems/maximum-number-of-groups-entering-a-competition/)               | ${\color{orange}Medium}$ | [\</code\>](/2251%20-%202500/2358.py) |
 | `2364` | [Count Number of Bad Pairs](https://leetcode.com/problems/count-number-of-bad-pairs/)                                                           | ${\color{orange}Medium}$ | [\</code\>](/2251%20-%202500/2364.py) |
 | `2373` | [Largest Local Values in a Matrix](https://leetcode.com/problems/largest-local-values-in-a-matrix/)                                             |  ${\color{green}Easy}$   | [\</code\>](/2251%20-%202500/2373.py) |
-| `2379` | [Minimum Recolors to Get K Consecutive Black Blocks](https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks/) |${\color{green}Easy}$|[\</code\>](/2251%20-%202500/2379.py) |
+| `2379` | [Minimum Recolors to Get K Consecutive Black Blocks](https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks/)         |  ${\color{green}Easy}$   | [\</code\>](/2251%20-%202500/2379.py) |
 | `2385` | [Amount of Time for Binary Tree to Be Infected](https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected/)                   | ${\color{orange}Medium}$ | [\</code\>](/2251%20-%202500/2385.py) |
 | `2390` | [Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/)                                                     | ${\color{orange}Medium}$ | [\</code\>](/2251%20-%202500/2390.py) |
 | `2404` | [Most Frequent Even Element](https://leetcode.com/problems/most-frequent-even-element/)                                                         |  ${\color{green}Easy}$   | [\</code\>](/2251%20-%202500/2404.py) |
 | `2413` | [Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple/)                                                                 |  ${\color{green}Easy}$   | [\</code\>](/2251%20-%202500/2413.py) |
 | `2418` | [Sort the People](https://leetcode.com/problems/sort-the-people/)                                                                               |  ${\color{green}Easy}$   | [\</code\>](/2251%20-%202500/2418.py) |
-| `2425` | [Bitwise XOR of All Pairings](https://leetcode.com/problems/bitwise-xor-of-all-pairings/) |${\color{orange}Medium}$|[\</code\>](/2251%20-%202500/2425.py) |
+| `2425` | [Bitwise XOR of All Pairings](https://leetcode.com/problems/bitwise-xor-of-all-pairings/)                                                       | ${\color{orange}Medium}$ | [\</code\>](/2251%20-%202500/2425.py) |
 | `2427` | [Number of Common Factors](https://leetcode.com/problems/number-of-common-factors/)                                                             |  ${\color{green}Easy}$   | [\</code\>](/2251%20-%202500/2427.py) |
-| `2429` | [Minimize XOR](https://leetcode.com/problems/minimize-xor/) |${\color{orange}Medium}$|[\</code\>](/2251%20-%202500/2429.py) |
+| `2429` | [Minimize XOR](https://leetcode.com/problems/minimize-xor/)                                                                                     | ${\color{orange}Medium}$ | [\</code\>](/2251%20-%202500/2429.py) |
 | `2433` | [Find The Original Array of Prefix Xor](https://leetcode.com/problems/find-the-original-array-of-prefix-xor/)                                   | ${\color{orange}Medium}$ | [\</code\>](/2251%20-%202500/2433.py) |
 | `2441` | [Largest Positive Integer That Exists With Its Negative](https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative/) |  ${\color{green}Easy}$   | [\</code\>](/2251%20-%202500/2441.py) |
-| `2460` | [Apply Operations to an Array](https://leetcode.com/problems/apply-operations-to-an-array/) |${\color{green}Easy}$|[\</code\>](/2251%20-%202500/2460.py) |
+| `2460` | [Apply Operations to an Array](https://leetcode.com/problems/apply-operations-to-an-array/)                                                     |  ${\color{green}Easy}$   | [\</code\>](/2251%20-%202500/2460.py) |
 | `2469` | [Convert the Temperature](https://leetcode.com/problems/convert-the-temperature/)                                                               |  ${\color{green}Easy}$   | [\</code\>](/2251%20-%202500/2469.py) |
 
 > ### 2501 - 2750
 >
-| Num    | Task name                                                                                                                                 |        Difficulty        |                 Code                  |
-| ------ | ----------------------------------------------------------------------------------------------------------------------------------------- | :----------------------: | :-----------------------------------: |
-| `2481` | [Minimum Cuts to Divide a Circle](https://leetcode.com/problems/minimum-cuts-to-divide-a-circle/) |${\color{green}Easy}$|[\</code\>](/2251%20-%202500/2481.py) |
-| `2482` | [Difference Between Ones and Zeros in Row and Column](https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column/) | ${\color{orange}Medium}$ | [\</code\>](/2251%20-%202500/2482.py) |
-| `2485` | [Find the Pivot Integer](https://leetcode.com/problems/find-the-pivot-integer/)                                                           |  ${\color{green}Easy}$   | [\</code\>](/2251%20-%202500/2485.py) |
-| `2490` | [Circular Sentence](https://leetcode.com/problems/circular-sentence/)                                                                     |  ${\color{green}Easy}$   | [\</code\>](/2251%20-%202500/2490.py) |
-| `2491` | [Divide Players Into Teams of Equal Skill](https://leetcode.com/problems/divide-players-into-teams-of-equal-skill/)                       | ${\color{orange}Medium}$ | [\</code\>](/2251%20-%202500/2491.py) |
-| `2523` | [Closest Prime Numbers in Range](https://leetcode.com/problems/closest-prime-numbers-in-range/) |${\color{orange}Medium}$|[\</code\>](/2501%20-%202750/2523.py) |
-| `2525` | [Categorize Box According to Criteria](https://leetcode.com/problems/categorize-box-according-to-criteria/)                               |  ${\color{green}Easy}$   | [\</code\>](/2501%20-%202750/2525.py) |
-| `2529` | [Maximum Count of Positive Integer and Negative Integer](https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer/) |${\color{green}Easy}$|[\</code\>](/2501%20-%202750/2529.py) |
-| `2530` | [Maximal Score After Applying K Operations](https://leetcode.com/problems/maximal-score-after-applying-k-operations/)                     | ${\color{orange}Medium}$ | [\</code\>](/2501%20-%202750/2530.py) |
-| `2540` | [Minimum Common Value](https://leetcode.com/problems/minimum-common-value/)                                                               |  ${\color{green}Easy}$   | [\</code\>](/2501%20-%202750/2540.py) |
-| `2542` | [Maximum Subsequence Score](https://leetcode.com/problems/maximum-subsequence-score/)                                                     | ${\color{orange}Medium}$ | [\</code\>](/2501%20-%202750/2542.py) |
-| `2579` | [Count Total Number of Colored Cells](https://leetcode.com/problems/count-total-number-of-colored-cells/) |${\color{orange}Medium}$|[\</code\>](/2501%20-%202750/2579.py) |
-| `2583` | [Kth Largest Sum in a Binary Tree](https://leetcode.com/problems/kth-largest-sum-in-a-binary-tree/)                                       | ${\color{orange}Medium}$ | [\</code\>](/2501%20-%202750/2583.py) |
-| `2596` | [Check Knight Tour Configuration](https://leetcode.com/problems/check-knight-tour-configuration/)                                         | ${\color{orange}Medium}$ | [\</code\>](/2501%20-%202750/2596.py) |
-| `2601` | [Prime Subtraction Operation](https://leetcode.com/problems/prime-subtraction-operation/)                                                 | ${\color{orange}Medium}$ | [\</code\>](/2501%20-%202750/2601.py) |
-| `2605` | [Form Smallest Number From Two Digit Arrays](https://leetcode.com/problems/form-smallest-number-from-two-digit-arrays/)                   |  ${\color{green}Easy}$   | [\</code\>](/2501%20-%202750/2605.py) |
-| `2610` | [Convert an Array Into a 2D Array With Conditions](https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions/)       | ${\color{orange}Medium}$ | [\</code\>](/2501%20-%202750/2610.py) |
-| `2614` | [Prime In Diagonal](https://leetcode.com/problems/prime-in-diagonal/)                                                                     |  ${\color{green}Easy}$   | [\</code\>](/2501%20-%202750/2614.py) |
-| `2639` | [Find the Width of Columns of a Grid](https://leetcode.com/problems/find-the-width-of-columns-of-a-grid/)                                 |  ${\color{green}Easy}$   | [\</code\>](/2501%20-%202750/2639.py) |
-| `2643` | [Row With Maximum Ones](https://leetcode.com/problems/row-with-maximum-ones/)                                                             |  ${\color{green}Easy}$   | [\</code\>](/2501%20-%202750/2643.py) |
-| `2660` | [Determine the Winner of a Bowling Game](https://leetcode.com/problems/determine-the-winner-of-a-bowling-game/)                           |  ${\color{green}Easy}$   | [\</code\>](/2501%20-%202750/2660.py) |
-| `2661` | [First Completely Painted Row or Column](https://leetcode.com/problems/first-completely-painted-row-or-column/) |${\color{orange}Medium}$|[\</code\>](/2501%20-%202750/2661.py) |
-| `2678` | [Number of Senior Citizens](https://leetcode.com/problems/number-of-senior-citizens/)                                                     |  ${\color{green}Easy}$   | [\</code\>](/2501%20-%202750/2678.py) |
-| `2679` | [Sum in a Matrix](https://leetcode.com/problems/sum-in-a-matrix/)                                                                         | ${\color{orange}Medium}$ | [\</code\>](/2501%20-%202750/2679.py) |
-| `2696` | [Minimum String Length After Removing Substrings](https://leetcode.com/problems/minimum-string-length-after-removing-substrings/)         |  ${\color{green}Easy}$   | [\</code\>](/2501%20-%202750/2696.py) |
-| `2706` | [Buy Two Chocolates](https://leetcode.com/problems/buy-two-chocolates/)                                                                   |  ${\color{green}Easy}$   | [\</code\>](/2501%20-%202750/2706.py) |
-| `2716` | [Minimize String Length](https://leetcode.com/problems/minimize-string-length/)                                                           |  ${\color{green}Easy}$   | [\</code\>](/2501%20-%202750/2716.py) |
-| `2718` | [Sum of Matrix After Queries](https://leetcode.com/problems/sum-of-matrix-after-queries/)                                                 | ${\color{orange}Medium}$ | [\</code\>](/2501%20-%202750/2718.py) |
+| Num    | Task name                                                                                                                                       |        Difficulty        |                 Code                  |
+| ------ | ----------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------: | :-----------------------------------: |
+| `2481` | [Minimum Cuts to Divide a Circle](https://leetcode.com/problems/minimum-cuts-to-divide-a-circle/)                                               |  ${\color{green}Easy}$   | [\</code\>](/2251%20-%202500/2481.py) |
+| `2482` | [Difference Between Ones and Zeros in Row and Column](https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column/)       | ${\color{orange}Medium}$ | [\</code\>](/2251%20-%202500/2482.py) |
+| `2485` | [Find the Pivot Integer](https://leetcode.com/problems/find-the-pivot-integer/)                                                                 |  ${\color{green}Easy}$   | [\</code\>](/2251%20-%202500/2485.py) |
+| `2490` | [Circular Sentence](https://leetcode.com/problems/circular-sentence/)                                                                           |  ${\color{green}Easy}$   | [\</code\>](/2251%20-%202500/2490.py) |
+| `2491` | [Divide Players Into Teams of Equal Skill](https://leetcode.com/problems/divide-players-into-teams-of-equal-skill/)                             | ${\color{orange}Medium}$ | [\</code\>](/2251%20-%202500/2491.py) |
+| `2523` | [Closest Prime Numbers in Range](https://leetcode.com/problems/closest-prime-numbers-in-range/)                                                 | ${\color{orange}Medium}$ | [\</code\>](/2501%20-%202750/2523.py) |
+| `2525` | [Categorize Box According to Criteria](https://leetcode.com/problems/categorize-box-according-to-criteria/)                                     |  ${\color{green}Easy}$   | [\</code\>](/2501%20-%202750/2525.py) |
+| `2529` | [Maximum Count of Positive Integer and Negative Integer](https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer/) |  ${\color{green}Easy}$   | [\</code\>](/2501%20-%202750/2529.py) |
+| `2530` | [Maximal Score After Applying K Operations](https://leetcode.com/problems/maximal-score-after-applying-k-operations/)                           | ${\color{orange}Medium}$ | [\</code\>](/2501%20-%202750/2530.py) |
+| `2540` | [Minimum Common Value](https://leetcode.com/problems/minimum-common-value/)                                                                     |  ${\color{green}Easy}$   | [\</code\>](/2501%20-%202750/2540.py) |
+| `2542` | [Maximum Subsequence Score](https://leetcode.com/problems/maximum-subsequence-score/)                                                           | ${\color{orange}Medium}$ | [\</code\>](/2501%20-%202750/2542.py) |
+| `2579` | [Count Total Number of Colored Cells](https://leetcode.com/problems/count-total-number-of-colored-cells/)                                       | ${\color{orange}Medium}$ | [\</code\>](/2501%20-%202750/2579.py) |
+| `2583` | [Kth Largest Sum in a Binary Tree](https://leetcode.com/problems/kth-largest-sum-in-a-binary-tree/)                                             | ${\color{orange}Medium}$ | [\</code\>](/2501%20-%202750/2583.py) |
+| `2596` | [Check Knight Tour Configuration](https://leetcode.com/problems/check-knight-tour-configuration/)                                               | ${\color{orange}Medium}$ | [\</code\>](/2501%20-%202750/2596.py) |
+| `2601` | [Prime Subtraction Operation](https://leetcode.com/problems/prime-subtraction-operation/)                                                       | ${\color{orange}Medium}$ | [\</code\>](/2501%20-%202750/2601.py) |
+| `2605` | [Form Smallest Number From Two Digit Arrays](https://leetcode.com/problems/form-smallest-number-from-two-digit-arrays/)                         |  ${\color{green}Easy}$   | [\</code\>](/2501%20-%202750/2605.py) |
+| `2610` | [Convert an Array Into a 2D Array With Conditions](https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions/)             | ${\color{orange}Medium}$ | [\</code\>](/2501%20-%202750/2610.py) |
+| `2614` | [Prime In Diagonal](https://leetcode.com/problems/prime-in-diagonal/)                                                                           |  ${\color{green}Easy}$   | [\</code\>](/2501%20-%202750/2614.py) |
+| `2639` | [Find the Width of Columns of a Grid](https://leetcode.com/problems/find-the-width-of-columns-of-a-grid/)                                       |  ${\color{green}Easy}$   | [\</code\>](/2501%20-%202750/2639.py) |
+| `2643` | [Row With Maximum Ones](https://leetcode.com/problems/row-with-maximum-ones/)                                                                   |  ${\color{green}Easy}$   | [\</code\>](/2501%20-%202750/2643.py) |
+| `2660` | [Determine the Winner of a Bowling Game](https://leetcode.com/problems/determine-the-winner-of-a-bowling-game/)                                 |  ${\color{green}Easy}$   | [\</code\>](/2501%20-%202750/2660.py) |
+| `2661` | [First Completely Painted Row or Column](https://leetcode.com/problems/first-completely-painted-row-or-column/)                                 | ${\color{orange}Medium}$ | [\</code\>](/2501%20-%202750/2661.py) |
+| `2678` | [Number of Senior Citizens](https://leetcode.com/problems/number-of-senior-citizens/)                                                           |  ${\color{green}Easy}$   | [\</code\>](/2501%20-%202750/2678.py) |
+| `2679` | [Sum in a Matrix](https://leetcode.com/problems/sum-in-a-matrix/)                                                                               | ${\color{orange}Medium}$ | [\</code\>](/2501%20-%202750/2679.py) |
+| `2696` | [Minimum String Length After Removing Substrings](https://leetcode.com/problems/minimum-string-length-after-removing-substrings/)               |  ${\color{green}Easy}$   | [\</code\>](/2501%20-%202750/2696.py) |
+| `2706` | [Buy Two Chocolates](https://leetcode.com/problems/buy-two-chocolates/)                                                                         |  ${\color{green}Easy}$   | [\</code\>](/2501%20-%202750/2706.py) |
+| `2716` | [Minimize String Length](https://leetcode.com/problems/minimize-string-length/)                                                                 |  ${\color{green}Easy}$   | [\</code\>](/2501%20-%202750/2716.py) |
+| `2718` | [Sum of Matrix After Queries](https://leetcode.com/problems/sum-of-matrix-after-queries/)                                                       | ${\color{orange}Medium}$ | [\</code\>](/2501%20-%202750/2718.py) |
 
 > ### 2751 - 3000
 >
@@ -554,41 +554,47 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 | `2785` | [Sort Vowels in a String](https://leetcode.com/problems/sort-vowels-in-a-string/)                                                                     | ${\color{orange}Medium}$ | [\</code\>](/2751%20-%203000/2785.py) |
 | `2816` | [Double a Number Represented as a Linked List](https://leetcode.com/problems/double-a-number-represented-as-a-linked-list/)                           | ${\color{orange}Medium}$ | [\</code\>](/2751%20-%203000/2816.py) |
 | `2825` | [Make String a Subsequence Using Cyclic Increments](https://leetcode.com/problems/make-string-a-subsequence-using-cyclic-increments/)                 | ${\color{orange}Medium}$ | [\</code\>](/2751%20-%203000/2825.py) |
-| `2843` | [  Count Symmetric Integers](https://leetcode.com/problems/count-symmetric-integers/) |${\color{green}Easy}$|[\</code\>](/2751%20-%203000/2843.py) |
+| `2843` | [  Count Symmetric Integers](https://leetcode.com/problems/count-symmetric-integers/)                                                                 |  ${\color{green}Easy}$   | [\</code\>](/2751%20-%203000/2843.py) |
 | `2864` | [Maximum Odd Binary Number](https://leetcode.com/problems/maximum-odd-binary-number/)                                                                 |  ${\color{green}Easy}$   | [\</code\>](/2751%20-%203000/2864.py) |
 | `2870` | [Minimum Number of Operations to Make Array Empty](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-empty/)                   | ${\color{orange}Medium}$ | [\</code\>](/2751%20-%203000/2870.py) |
-| `2894` | [Divisible and Non-divisible Sums Difference](https://leetcode.com/problems/divisible-and-non-divisible-sums-difference/) |${\color{green}Easy}$|[\</code\>](/2751%20-%203000/2894.py) |
+| `2894` | [Divisible and Non-divisible Sums Difference](https://leetcode.com/problems/divisible-and-non-divisible-sums-difference/)                             |  ${\color{green}Easy}$   | [\</code\>](/2751%20-%203000/2894.py) |
 | `2914` | [Minimum Number of Changes to Make Binary String Beautiful](https://leetcode.com/problems/minimum-number-of-changes-to-make-binary-string-beautiful/) | ${\color{orange}Medium}$ | [\</code\>](/2751%20-%203000/2914.py) |
-| `2918` | [Minimum Equal Sum of Two Arrays After Replacing Zeros](https://leetcode.com/problems/minimum-equal-sum-of-two-arrays-after-replacing-zeros/) |${\color{orange}Medium}$|[\</code\>](/2751%20-%203000/2918.py) |
+| `2918` | [Minimum Equal Sum of Two Arrays After Replacing Zeros](https://leetcode.com/problems/minimum-equal-sum-of-two-arrays-after-replacing-zeros/)         | ${\color{orange}Medium}$ | [\</code\>](/2751%20-%203000/2918.py) |
 | `2960` | [Count Tested Devices After Test Operations](https://leetcode.com/problems/count-tested-devices-after-test-operations/)                               |  ${\color{green}Easy}$   | [\</code\>](/2751%20-%203000/2960.py) |
-| `2965` | [Find Missing and Repeated Values](https://leetcode.com/problems/find-missing-and-repeated-values/) |${\color{green}Easy}$|[\</code\>](/2751%20-%203000/2965.py) |
+| `2965` | [Find Missing and Repeated Values](https://leetcode.com/problems/find-missing-and-repeated-values/)                                                   |  ${\color{green}Easy}$   | [\</code\>](/2751%20-%203000/2965.py) |
 | `2966` | [Divide Array Into Arrays With Max Difference](https://leetcode.com/problems/divide-array-into-arrays-with-max-difference/)                           | ${\color{orange}Medium}$ | [\</code\>](/2751%20-%203000/2966.py) |
 | `2971` | [Find Polygon With the Largest Perimeter](https://leetcode.com/problems/find-polygon-with-the-largest-perimeter/)                                     | ${\color{orange}Medium}$ | [\</code\>](/2751%20-%203000/2971.py) |
 
 > ### 3001 - 3250
 >
-| Num    | Task name                                                                                                           |        Difficulty        |                 Code                  |
-| ------ | ------------------------------------------------------------------------------------------------------------------- | :----------------------: | :-----------------------------------: |
-| `3005` | [Count Elements With Maximum Frequency](https://leetcode.com/problems/count-elements-with-maximum-frequency/)       |  ${\color{green}Easy}$   | [\</code\>](/3001%20-%203250/3005.py) |
-| `3011` | [Find if Array Can Be Sorted](https://leetcode.com/problems/find-if-array-can-be-sorted/)                           | ${\color{orange}Medium}$ | [\</code\>](/3001%20-%203250/3011.py) |
-| `3016` | [Minimum Number of Pushes to Type Word II](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/) | ${\color{orange}Medium}$ | [\</code\>](/3001%20-%203250/3016.py) |
-| `3021` | [Alice and Bob Playing Flower Game](https://leetcode.com/problems/alice-and-bob-playing-flower-game/) |${\color{orange}Medium}$|[\</code\>](/3001%20-%203250/3021.py) |
-| `3066` | [Minimum Operations to Exceed Threshold Value II](https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-ii/) |${\color{orange}Medium}$|[\</code\>](/3001%20-%203250/3066.py) |
-| `3075` | [Maximize Happiness of Selected Children](https://leetcode.com/problems/maximize-happiness-of-selected-children/)   | ${\color{orange}Medium}$ | [\</code\>](/3001%20-%203250/3075.py) |
-| `3110` | [Score of a String](https://leetcode.com/problems/score-of-a-string/)                                               |  ${\color{green}Easy}$   | [\</code\>](/3001%20-%203250/3110.py) |
-| `3120` | [Count the Number of Special Characters I](https://leetcode.com/problems/count-the-number-of-special-characters-i/) |  ${\color{green}Easy}$   | [\</code\>](/3001%20-%203250/3120.py) |
-| `3136` | [Valid Word](https://leetcode.com/problems/valid-word/) |${\color{green}Easy}$|[\</code\>](/3001%20-%203250/3136.py) |
-| `3151` | [Special Array I](https://leetcode.com/problems/special-array-i/) |${\color{green}Easy}$|[\</code\>](/3001%20-%203250/3151.py) |
-| `3163` | [String Compression III](https://leetcode.com/problems/string-compression-iii/)                                     | ${\color{orange}Medium}$ | [\</code\>](/3001%20-%203250/3163.py) |
+| Num    | Task name                                                                                                                         |        Difficulty        |                 Code                  |
+| ------ | --------------------------------------------------------------------------------------------------------------------------------- | :----------------------: | :-----------------------------------: |
+| `3005` | [Count Elements With Maximum Frequency](https://leetcode.com/problems/count-elements-with-maximum-frequency/)                     |  ${\color{green}Easy}$   | [\</code\>](/3001%20-%203250/3005.py) |
+| `3011` | [Find if Array Can Be Sorted](https://leetcode.com/problems/find-if-array-can-be-sorted/)                                         | ${\color{orange}Medium}$ | [\</code\>](/3001%20-%203250/3011.py) |
+| `3016` | [Minimum Number of Pushes to Type Word II](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/)               | ${\color{orange}Medium}$ | [\</code\>](/3001%20-%203250/3016.py) |
+| `3021` | [Alice and Bob Playing Flower Game](https://leetcode.com/problems/alice-and-bob-playing-flower-game/)                             | ${\color{orange}Medium}$ | [\</code\>](/3001%20-%203250/3021.py) |
+| `3066` | [Minimum Operations to Exceed Threshold Value II](https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-ii/) | ${\color{orange}Medium}$ | [\</code\>](/3001%20-%203250/3066.py) |
+| `3075` | [Maximize Happiness of Selected Children](https://leetcode.com/problems/maximize-happiness-of-selected-children/)                 | ${\color{orange}Medium}$ | [\</code\>](/3001%20-%203250/3075.py) |
+| `3110` | [Score of a String](https://leetcode.com/problems/score-of-a-string/)                                                             |  ${\color{green}Easy}$   | [\</code\>](/3001%20-%203250/3110.py) |
+| `3120` | [Count the Number of Special Characters I](https://leetcode.com/problems/count-the-number-of-special-characters-i/)               |  ${\color{green}Easy}$   | [\</code\>](/3001%20-%203250/3120.py) |
+| `3136` | [Valid Word](https://leetcode.com/problems/valid-word/)                                                                           |  ${\color{green}Easy}$   | [\</code\>](/3001%20-%203250/3136.py) |
+| `3151` | [Special Array I](https://leetcode.com/problems/special-array-i/)                                                                 |  ${\color{green}Easy}$   | [\</code\>](/3001%20-%203250/3151.py) |
+| `3163` | [String Compression III](https://leetcode.com/problems/string-compression-iii/)                                                   | ${\color{orange}Medium}$ | [\</code\>](/3001%20-%203250/3163.py) |
 
 > ### 3251 - 3500
 >
-| Num    | Task name                                                                                                                                     |      Difficulty       |                 Code                  |
-| ------ | --------------------------------------------------------------------------------------------------------------------------------------------- | :-------------------: | :-----------------------------------: |
-| `3174` | [Clear Digits](https://leetcode.com/problems/clear-digits/) |${\color{green}Easy}$|[\</code\>](/3001%20-%203250/3174.py) |
-| `3191` | [Minimum Operations to Make Binary Array Elements Equal to One I](https://leetcode.com/problems/minimum-operations-to-make-binary-array-elements-equal-to-one-i/) |${\color{orange}Medium}$|[\</code\>](/3001%20-%203250/3191.py) |
-| `3195` | [Find the Minimum Area to Cover All Ones I](https://leetcode.com/problems/find-the-minimum-area-to-cover-all-ones-i/) |${\color{orange}Medium}$|[\</code\>](/3001%20-%203250/3195.py) |
-| `3223` | [Minimum Length of String After Operations](https://leetcode.com/problems/minimum-length-of-string-after-operations/) |${\color{orange}Medium}$|[\</code\>](/3001%20-%203250/3223.py) |
-| `3264` | [Final Array State After K Multiplication Operations I](https://leetcode.com/problems/final-array-state-after-k-multiplication-operations-i/) | ${\color{green}Easy}$ | [\</code\>](/3251%20-%203500/3264.py) |
-| `3396` | [Minimum Number of Operations to Make Elements in Array Distinct](https://leetcode.com/problems/minimum-number-of-operations-to-make-elements-in-array-distinct/) |${\color{green}Easy}$|[\</code\>](/3251%20-%203500/3396.py) |
-| `3446` | [Sort Matrix by Diagonals](https://leetcode.com/problems/sort-matrix-by-diagonals/) |${\color{orange}Medium}$|[\</code\>](/3251%20-%203500/3446.py) |
+| Num    | Task name                                                                                                                                                         |        Difficulty        |                 Code                  |
+| ------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------: | :-----------------------------------: |
+| `3174` | [Clear Digits](https://leetcode.com/problems/clear-digits/)                                                                                                       |  ${\color{green}Easy}$   | [\</code\>](/3001%20-%203250/3174.py) |
+| `3191` | [Minimum Operations to Make Binary Array Elements Equal to One I](https://leetcode.com/problems/minimum-operations-to-make-binary-array-elements-equal-to-one-i/) | ${\color{orange}Medium}$ | [\</code\>](/3001%20-%203250/3191.py) |
+| `3195` | [Find the Minimum Area to Cover All Ones I](https://leetcode.com/problems/find-the-minimum-area-to-cover-all-ones-i/)                                             | ${\color{orange}Medium}$ | [\</code\>](/3001%20-%203250/3195.py) |
+| `3223` | [Minimum Length of String After Operations](https://leetcode.com/problems/minimum-length-of-string-after-operations/)                                             | ${\color{orange}Medium}$ | [\</code\>](/3001%20-%203250/3223.py) |
+| `3264` | [Final Array State After K Multiplication Operations I](https://leetcode.com/problems/final-array-state-after-k-multiplication-operations-i/)                     |  ${\color{green}Easy}$   | [\</code\>](/3251%20-%203500/3264.py) |
+| `3396` | [Minimum Number of Operations to Make Elements in Array Distinct](https://leetcode.com/problems/minimum-number-of-operations-to-make-elements-in-array-distinct/) |  ${\color{green}Easy}$   | [\</code\>](/3251%20-%203500/3396.py) |
+| `3446` | [Sort Matrix by Diagonals](https://leetcode.com/problems/sort-matrix-by-diagonals/)                                                                               | ${\color{orange}Medium}$ | [\</code\>](/3251%20-%203500/3446.py) |
+
+> ### 3501 - 3750
+>
+| Num    | Task name                                                                 |      Difficulty       |                 Code                  |
+| ------ | ------------------------------------------------------------------------- | :-------------------: | :-----------------------------------: |
+| `3516` | [Find Closest Person](https://leetcode.com/problems/find-closest-person/) | ${\color{green}Easy}$ | [\</code\>](/3501%20-%203750/3516.py) |
