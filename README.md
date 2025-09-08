@@ -3,7 +3,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 
 | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{green}Easy}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{orange}Medium}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{red}Hard}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{black}Total}$ &nbsp;&nbsp;&nbsp;&nbsp; |
 | :---------------------------------------------------------------------: | :------------------------------------------------------------------------: | :-------------------------------------------------------------------: | :----------------------------------------------------------------------: |
-|                                 **273**                                 |                                  **205**                                   |                                **15**                                 |                                 **493**                                  |
+|**274** | **205** | **15** | **494**|
 
 
 <table>
@@ -332,6 +332,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 | `1291` | [Sequential Digits](https://leetcode.com/problems/sequential-digits/)                                                                                                   | ${\color{orange}Medium}$ | [\</code\>](/1251%20-%201500/1291.py)  |
 | `1295` | [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)                                                       |  ${\color{green}Easy}$   | [\</code\>](/1251%20-%201500/1295.py)  |
 | `1314` | [Matrix Block Sum](https://leetcode.com/problems/matrix-block-sum/)                                                                                                     | ${\color{orange}Medium}$ | [\</code\>](/1251%20-%201500/1314.py)  |
+| `1317` | [Convert Integer to the Sum of Two No-Zero Integers](https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers/) |${\color{green}Easy}$|[\</code\>](/1251%20-%201500/1317.py) |
 | `1318` | [Minimum Flips to Make a OR b Equal to c](https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/)                                                       | ${\color{orange}Medium}$ | [\</code\>](/1251%20-%201500/1318.py)  |
 | `1323` | [Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/)                                                                                                   |  ${\color{green}Easy}$   | [\</code\>](/1251%20-%201500/1323.py)  |
 | `1327` | [List the Products Ordered in a Period](https://leetcode.com/problems/list-the-products-ordered-in-a-period/)                                                           |  ${\color{green}Easy}$   | [\</code\>](/1251%20-%201500/1327.sql) |
