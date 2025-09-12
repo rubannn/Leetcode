@@ -5,7 +5,7 @@ import requests
 from icecream import ic
 
 
-lnk = "https://leetcode.com/problems/sort-vowels-in-a-string/"
+lnk = "https://leetcode.com/problems/vowels-game-in-a-string/"
 
 
 def get_task_data(url):

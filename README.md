@@ -3,7 +3,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 
 | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{green}Easy}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{orange}Medium}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{red}Hard}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{black}Total}$ &nbsp;&nbsp;&nbsp;&nbsp; |
 | :---------------------------------------------------------------------: | :------------------------------------------------------------------------: | :-------------------------------------------------------------------: | :----------------------------------------------------------------------: |
-|**274** | **205** | **15** | **494**|
+|**274** | **206** | **15** | **495**|
 
 
 <table>
@@ -591,6 +591,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 | `3191` | [Minimum Operations to Make Binary Array Elements Equal to One I](https://leetcode.com/problems/minimum-operations-to-make-binary-array-elements-equal-to-one-i/) | ${\color{orange}Medium}$ | [\</code\>](/3001%20-%203250/3191.py) |
 | `3195` | [Find the Minimum Area to Cover All Ones I](https://leetcode.com/problems/find-the-minimum-area-to-cover-all-ones-i/)                                             | ${\color{orange}Medium}$ | [\</code\>](/3001%20-%203250/3195.py) |
 | `3223` | [Minimum Length of String After Operations](https://leetcode.com/problems/minimum-length-of-string-after-operations/)                                             | ${\color{orange}Medium}$ | [\</code\>](/3001%20-%203250/3223.py) |
+| `3227` | [Vowels Game in a String](https://leetcode.com/problems/vowels-game-in-a-string/) |${\color{orange}Medium}$|[\</code\>](/3001%20-%203250/3227.py) |
 | `3264` | [Final Array State After K Multiplication Operations I](https://leetcode.com/problems/final-array-state-after-k-multiplication-operations-i/)                     |  ${\color{green}Easy}$   | [\</code\>](/3251%20-%203500/3264.py) |
 | `3396` | [Minimum Number of Operations to Make Elements in Array Distinct](https://leetcode.com/problems/minimum-number-of-operations-to-make-elements-in-array-distinct/) |  ${\color{green}Easy}$   | [\</code\>](/3251%20-%203500/3396.py) |
 | `3446` | [Sort Matrix by Diagonals](https://leetcode.com/problems/sort-matrix-by-diagonals/)                                                                               | ${\color{orange}Medium}$ | [\</code\>](/3251%20-%203500/3446.py) |
