@@ -3,7 +3,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 
 | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{green}Easy}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{orange}Medium}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{red}Hard}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{black}Total}$ &nbsp;&nbsp;&nbsp;&nbsp; |
 | :---------------------------------------------------------------------: | :------------------------------------------------------------------------: | :-------------------------------------------------------------------: | :----------------------------------------------------------------------: |
-|**274** | **206** | **15** | **495**|
+|**275** | **206** | **15** | **496**|
 
 
 <table>
@@ -438,6 +438,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 | `1920` | [Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/)                                                 |  ${\color{green}Easy}$   | [\</code\>](/1751%20-%202000/1920.py)  |
 | `1926` | [Nearest Exit from Entrance in Maze](https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/)                                     | ${\color{orange}Medium}$ | [\</code\>](/1751%20-%202000/1926.py)  |
 | `1929` | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/)                                                             |  ${\color{green}Easy}$   | [\</code\>](/1751%20-%202000/1929.py)  |
+| `1935` | [Maximum Number of Words You Can Type](https://leetcode.com/problems/maximum-number-of-words-you-can-type/) |${\color{green}Easy}$|[\</code\>](/1751%20-%202000/1935.py) |
 | `1945` | [Sum of Digits of String After Convert](https://leetcode.com/problems/sum-of-digits-of-string-after-convert/)                               |  ${\color{green}Easy}$   | [\</code\>](/1751%20-%202000/1945.py)  |
 | `1952` | [Three Divisors](https://leetcode.com/problems/three-divisors/)                                                                             |  ${\color{green}Easy}$   | [\</code\>](/1751%20-%202000/1952.py)  |
 | `1957` | [Delete Characters to Make Fancy String](https://leetcode.com/problems/delete-characters-to-make-fancy-string/)                             |  ${\color{green}Easy}$   | [\</code\>](/1751%20-%202000/1957.py)  |
