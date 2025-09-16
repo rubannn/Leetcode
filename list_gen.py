@@ -5,7 +5,7 @@ import requests
 from icecream import ic
 
 
-lnk = "https://leetcode.com/problems/maximum-number-of-words-you-can-type/"
+lnk = "https://leetcode.com/problems/replace-non-coprime-numbers-in-array/"
 
 
 def get_task_data(url):
