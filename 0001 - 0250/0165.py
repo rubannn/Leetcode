@@ -13,6 +13,21 @@ class Solution:
                 return 1
         return 0
 
+    def compareVersion2(self, version1: str, version2: str) -> int:
+        ver1 = list(map(int, version1.split(".")))
+        ver2 = list(map(int, version2.split(".")))
+        diff_len = abs(len(ver1) - len(ver2))
+        if len(ver1) > len(ver2):
+            ver2 += [0] * diff_len
+        else:
+            ver1 += [0] * diff_len
+        for a, b in zip(ver1, ver2):
+            if a > b:
+                return 1
+            elif a < b:
+                return -1
+        return 0
+
 
 tests = [
     ("1.0.1", "1", 1),
