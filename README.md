@@ -3,7 +3,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 
 | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{green}Easy}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{orange}Medium}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{red}Hard}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{black}Total}$ &nbsp;&nbsp;&nbsp;&nbsp; |
 | :---------------------------------------------------------------------: | :------------------------------------------------------------------------: | :-------------------------------------------------------------------: | :----------------------------------------------------------------------: |
-|**275** | **208** | **16** | **499**|
+|**275** | **209** | **16** | **500**|
 
 
 <table>
@@ -94,6 +94,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 | `0104` | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)                                                       |  ${\color{green}Easy}$   | [\</code\>](/0001%20-%200250/0104.py)  |
 | `0118` | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)                                                                              |  ${\color{green}Easy}$   | [\</code\>](/0001%20-%200250/0118.py)  |
 | `0119` | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)                                                                        |  ${\color{green}Easy}$   | [\</code\>](/0001%20-%200250/0119.py)  |
+| `0120` | [Triangle](https://leetcode.com/problems/triangle/) |${\color{orange}Medium}$|[\</code\>](/0001%20-%200250/0120.py) |
 | `0121` | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)                                                 |  ${\color{green}Easy}$   | [\</code\>](/0001%20-%200250/0121.py)  |
 | `0125` | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)                                                                               |  ${\color{green}Easy}$   | [\</code\>](/0001%20-%200250/0125.py)  |
 | `0136` | [Single Number](https://leetcode.com/problems/single-number/)                                                                                     |  ${\color{green}Easy}$   | [\</code\>](/0001%20-%200250/0136.py)  |
