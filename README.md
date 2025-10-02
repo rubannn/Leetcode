@@ -3,7 +3,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 
 | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{green}Easy}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{orange}Medium}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{red}Hard}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{black}Total}$ &nbsp;&nbsp;&nbsp;&nbsp; |
 | :---------------------------------------------------------------------: | :------------------------------------------------------------------------: | :-------------------------------------------------------------------: | :----------------------------------------------------------------------: |
-|**275** | **209** | **16** | **500**|
+|**275** | **210** | **16** | **501**|
 
 
 <table>
@@ -581,6 +581,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 | `3021` | [Alice and Bob Playing Flower Game](https://leetcode.com/problems/alice-and-bob-playing-flower-game/)                             | ${\color{orange}Medium}$ | [\</code\>](/3001%20-%203250/3021.py) |
 | `3066` | [Minimum Operations to Exceed Threshold Value II](https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-ii/) | ${\color{orange}Medium}$ | [\</code\>](/3001%20-%203250/3066.py) |
 | `3075` | [Maximize Happiness of Selected Children](https://leetcode.com/problems/maximize-happiness-of-selected-children/)                 | ${\color{orange}Medium}$ | [\</code\>](/3001%20-%203250/3075.py) |
+| `3100` | [Water Bottles II](https://leetcode.com/problems/water-bottles-ii/) |${\color{orange}Medium}$|[\</code\>](/3001%20-%203250/3100.py) |
 | `3110` | [Score of a String](https://leetcode.com/problems/score-of-a-string/)                                                             |  ${\color{green}Easy}$   | [\</code\>](/3001%20-%203250/3110.py) |
 | `3120` | [Count the Number of Special Characters I](https://leetcode.com/problems/count-the-number-of-special-characters-i/)               |  ${\color{green}Easy}$   | [\</code\>](/3001%20-%203250/3120.py) |
 | `3136` | [Valid Word](https://leetcode.com/problems/valid-word/)                                                                           |  ${\color{green}Easy}$   | [\</code\>](/3001%20-%203250/3136.py) |
