@@ -3,7 +3,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 
 | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{green}Easy}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{orange}Medium}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{red}Hard}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{black}Total}$ &nbsp;&nbsp;&nbsp;&nbsp; |
 | :---------------------------------------------------------------------: | :------------------------------------------------------------------------: | :-------------------------------------------------------------------: | :----------------------------------------------------------------------: |
-|**277** | **210** | **16** | **503**|
+|**278** | **210** | **16** | **504**|
 
 
 <table>
@@ -607,5 +607,6 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 >
 | Num    | Task name                                                                 |      Difficulty       |                 Code                  |
 | ------ | ------------------------------------------------------------------------- | :-------------------: | :-----------------------------------: |
+| `3461` | [Check If Digits Are Equal in String After Operations I](https://leetcode.com/problems/check-if-digits-are-equal-in-string-after-operations-i/) |${\color{green}Easy}$|[\</code\>](/3251%20-%203500/3461.py) |
 | `3484` | [Design Spreadsheet](https://leetcode.com/problems/design-spreadsheet/) |${\color{orange}Medium}$|[\</code\>](/3251%20-%203500/3484.py) |
 | `3516` | [Find Closest Person](https://leetcode.com/problems/find-closest-person/) | ${\color{green}Easy}$ | [\</code\>](/3501%20-%203750/3516.py) |
