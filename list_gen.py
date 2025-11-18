@@ -5,9 +5,7 @@ import requests
 from icecream import ic
 
 
-lnk = (
-    "https://leetcode.com/problems/check-if-digits-are-equal-in-string-after-operations-i/"
-)
+lnk = "https://leetcode.com/problems/1-bit-and-2-bit-characters/"
 
 
 def get_task_data(url):

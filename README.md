@@ -3,7 +3,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 
 | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{green}Easy}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{orange}Medium}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{red}Hard}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{black}Total}$ &nbsp;&nbsp;&nbsp;&nbsp; |
 | :---------------------------------------------------------------------: | :------------------------------------------------------------------------: | :-------------------------------------------------------------------: | :----------------------------------------------------------------------: |
-|**278** | **210** | **16** | **504**|
+|**279** | **210** | **16** | **505**|
 
 
 <table>
@@ -247,6 +247,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 | `0706` | [Design HashMap](https://leetcode.com/problems/design-hashmap/)                                                                             |  ${\color{green}Easy}$   | [\</code\>](/0501%20-%200750/0706.py)  |
 | `0710` | [Random Pick with Blacklist](https://leetcode.com/problems/random-pick-with-blacklist/)                                                     |   ${\color{red}Hard}$    | [\</code\>](/0501%20-%200750/0710.py)  |
 | `0714` | [Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) | ${\color{orange}Medium}$ | [\</code\>](/0501%20-%200750/0714.py)  |
+| `0717` | [1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/) |${\color{green}Easy}$|[\</code\>](/0501%20-%200750/0717.py) |
 | `0724` | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)                                                                         |  ${\color{green}Easy}$   | [\</code\>](/0501%20-%200750/0724.py)  |
 | `0728` | [Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/)                                                               |  ${\color{green}Easy}$   | [\</code\>](/0501%20-%200750/0728.py)  |
 
