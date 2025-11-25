@@ -5,7 +5,7 @@ import requests
 from icecream import ic
 
 
-lnk = "https://leetcode.com/problems/1-bit-and-2-bit-characters/"
+lnk = "https://leetcode.com/problems/smallest-integer-divisible-by-k/"
 
 
 def get_task_data(url):
