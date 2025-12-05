@@ -5,7 +5,7 @@ import requests
 from icecream import ic
 
 
-lnk = "https://leetcode.com/problems/smallest-integer-divisible-by-k/"
+lnk = "https://leetcode.com/problems/count-partitions-with-even-sum-difference/"
 
 
 def get_task_data(url):
