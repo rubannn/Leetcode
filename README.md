@@ -3,7 +3,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 
 | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{green}Easy}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{orange}Medium}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{red}Hard}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{black}Total}$ &nbsp;&nbsp;&nbsp;&nbsp; |
 | :---------------------------------------------------------------------: | :------------------------------------------------------------------------: | :-------------------------------------------------------------------: | :----------------------------------------------------------------------: |
-|**281** | **211** | **16** | **508**|
+|**282** | **211** | **16** | **509**|
 
 
 <table>
@@ -455,6 +455,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 | Num    | Task name                                                                                                                                               |        Difficulty        |                 Code                  |
 | ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------: | :-----------------------------------: |
 | `1980` | [Find Unique Binary String](https://leetcode.com/problems/find-unique-binary-string/)                                                                   | ${\color{orange}Medium}$ | [\</code\>](/1751%20-%202000/1980.py) |
+| `1984` | [Minimum Difference Between Highest and Lowest of K Scores](https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/) |${\color{green}Easy}$|[\</code\>](/1751%20-%202000/1984.py) |
 | `2000` | [Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word/)                                                                         |  ${\color{green}Easy}$   | [\</code\>](/1751%20-%202000/2000.py) |
 | `2001` | [Number of Pairs of Interchangeable Rectangles](https://leetcode.com/problems/number-of-pairs-of-interchangeable-rectangles/)                           | ${\color{orange}Medium}$ | [\</code\>](/2001%20-%202250/2001.py) |
 | `2011` | [Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/) |${\color{green}Easy}$|[\</code\>](/2001%20-%202250/2011.py) |
