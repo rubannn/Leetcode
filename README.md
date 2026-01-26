@@ -3,7 +3,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 
 | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{green}Easy}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{orange}Medium}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{red}Hard}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{black}Total}$ &nbsp;&nbsp;&nbsp;&nbsp; |
 | :---------------------------------------------------------------------: | :------------------------------------------------------------------------: | :-------------------------------------------------------------------: | :----------------------------------------------------------------------: |
-|**280** | **211** | **16** | **507**|
+|**281** | **211** | **16** | **508**|
 
 
 <table>
@@ -316,6 +316,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 | `1160` | [Find Words That Can Be Formed by Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/)                           |  ${\color{green}Easy}$   | [\</code\>](/1001%20-%201250/1160.py)  |
 | `1161` | [Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/)                                             | ${\color{orange}Medium}$ | [\</code\>](/1001%20-%201250/1161.py)  |
 | `1185` | [Day of the Week](https://leetcode.com/problems/day-of-the-week/)                                                                                   |  ${\color{green}Easy}$   | [\</code\>](/1001%20-%201250/1185.py)  |
+| `1200` | [Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/) |${\color{green}Easy}$|[\</code\>](/1001%20-%201250/1200.py) |
 | `1207` | [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/)                                                         |  ${\color{green}Easy}$   | [\</code\>](/1001%20-%201250/1207.py)  |
 | `1209` | [Remove All Adjacent Duplicates in String II](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/)                           | ${\color{orange}Medium}$ | [\</code\>](/1001%20-%201250/1209.py)  |
 | `1250` | [Check If It Is a Good Array](https://leetcode.com/problems/check-if-it-is-a-good-array/)                                                           |   ${\color{red}Hard}$    | [\</code\>](/1001%20-%201250/1250.py)  |
