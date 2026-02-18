@@ -3,7 +3,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 
 | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{green}Easy}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{orange}Medium}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{red}Hard}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{black}Total}$ &nbsp;&nbsp;&nbsp;&nbsp; |
 | :---------------------------------------------------------------------: | :------------------------------------------------------------------------: | :-------------------------------------------------------------------: | :----------------------------------------------------------------------: |
-|**284** | **211** | **16** | **511**|
+|**285** | **211** | **16** | **512**|
 
 
 <table>
@@ -242,6 +242,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 | `0661` | [Image Smoother](https://leetcode.com/problems/image-smoother/)                                                                             |  ${\color{green}Easy}$   | [\</code\>](/0501%20-%200750/0661.py)  |
 | `0670` | [Maximum Swap](https://leetcode.com/problems/maximum-swap/)                                                                                 | ${\color{orange}Medium}$ | [\</code\>](/0501%20-%200750/0670.py)  |
 | `0682` | [Baseball Game](https://leetcode.com/problems/baseball-game/)                                                                               |  ${\color{green}Easy}$   | [\</code\>](/0501%20-%200750/0682.py)  |
+| `0693` | [Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits/) |${\color{green}Easy}$|[\</code\>](/0501%20-%200750/0693.py) |
 | `0700` | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)                                             |  ${\color{green}Easy}$   | [\</code\>](/0501%20-%200750/0700.py)  |
 | `0703` | [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/)                                           |  ${\color{green}Easy}$   | [\</code\>](/0501%20-%200750/0703.py)  |
 | `0706` | [Design HashMap](https://leetcode.com/problems/design-hashmap/)                                                                             |  ${\color{green}Easy}$   | [\</code\>](/0501%20-%200750/0706.py)  |
