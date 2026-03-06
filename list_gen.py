@@ -5,7 +5,7 @@ import requests
 from icecream import ic
 
 
-lnk = "https://leetcode.com/problems/binary-number-with-alternating-bits/"
+lnk = "https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones/"
 
 
 def get_task_data(url):
