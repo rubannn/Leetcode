@@ -5,7 +5,7 @@ import requests
 from icecream import ic
 
 
-lnk = "https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones/"
+lnk = "https://leetcode.com/problems/furthest-point-from-origin/"
 
 
 def get_task_data(url):
