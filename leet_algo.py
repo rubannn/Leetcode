@@ -6,9 +6,7 @@ def is_prime_quick(n):
     p, q, h = 7, 11, n**0.5
     while q <= h and (n % p != 0) and (n % q != 0):
         p, q = p + 6, q + 6
-    if q <= h or p <= h and n % p == 0:
-        return False
-    return True
+    return not (q <= h or p <= h and n % p == 0)
 
 
 def is_prime(n):
