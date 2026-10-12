@@ -168,6 +168,40 @@ if solved["Total"] != total_files:
     )
 
 Path("README.md").write_text("".join(content))
+
+
+def update_folder_readmes(readme_lines):
+    row_re = re.compile(
+        r"^\|\s*`(\d{4})`\s*\|\s*\[(?P<title>[^\]]+)\]\((?P<url>[^)]+)\)\s*\|"
+        r"\s*\$\{\\color\{(?P<color>\w+)\}(?P<diff>\w+)\}\$\s*\|"
+        r"\s*\[\\</code\\>\]\((?P<code>[^)]+)\)\s*\|"
+    )
+    header = (
+        "| Num    | Task name                                                  "
+        "|        Difficulty        |                 Code                  |\n"
+        "| ------ | ----------------------------------------------------------- "
+        "| :----------------------: | :------------------------------------: |\n"
+    )
+
+    folders = {}
+    for line in readme_lines:
+        m = row_re.match(line.strip())
+        if not m:
+            continue
+        folder = m.group("code").split("/")[1].replace("%20", " ")
+        folders.setdefault(folder, []).append(line.strip() + "\n")
+
+    for fld, rows in folders.items():
+        folder_dir = Path(fld)
+        if not folder_dir.is_dir():
+            continue
+        lo, hi = fld.split(" - ")
+        text = f"# {lo} - {hi}\n\n[← Back to main README](../README.md)\n\n" + header
+        text += "".join(rows)
+        folder_dir.joinpath("README.md").write_text(text, encoding="utf-8")
+
+
+update_folder_readmes(content)
 print(task, solved, sep="\n")
 
 # check task type
