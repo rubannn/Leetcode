@@ -156,6 +156,7 @@ total_files = 0
 names_real = []
 for root, dirs, files in os.walk(folder):
     if " - " in root:
+        files = [f for f in files if f != "README.md"]
         total_files += len(files)
         names_real += files
 
