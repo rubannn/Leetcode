@@ -171,7 +171,7 @@ if solved["Total"] != total_files:
 Path("README.md").write_text("".join(content))
 
 
-def update_folder_readmes(readme_lines):
+def update_folder_readmes(readme_lines, target_folder):
     row_re = re.compile(
         r"^\|\s*`(\d{4})`\s*\|\s*\[(?P<title>[^\]]+)\]\((?P<url>[^)]+)\)\s*\|"
         r"\s*\$\{\\color\{(?P<color>\w+)\}(?P<diff>\w+)\}\$\s*\|"
@@ -184,25 +184,25 @@ def update_folder_readmes(readme_lines):
         "| :----------------------: | :------------------------------------: |\n"
     )
 
-    folders = {}
+    rows = []
     for line in readme_lines:
         m = row_re.match(line.strip())
         if not m:
             continue
         folder = m.group("code").split("/")[1].replace("%20", " ")
-        folders.setdefault(folder, []).append(line.strip() + "\n")
+        if folder == target_folder:
+            rows.append(line.strip() + "\n")
 
-    for fld, rows in folders.items():
-        folder_dir = Path(fld)
-        if not folder_dir.is_dir():
-            continue
-        lo, hi = fld.split(" - ")
-        text = f"# {lo} - {hi}\n\n[← Back to main README](../README.md)\n\n" + header
-        text += "".join(rows)
-        folder_dir.joinpath("README.md").write_text(text, encoding="utf-8")
+    folder_dir = Path(target_folder)
+    if not folder_dir.is_dir():
+        return
+    lo, hi = target_folder.split(" - ")
+    text = f"# {lo} - {hi}\n\n[← Back to main README](../README.md)\n\n" + header
+    text += "".join(rows)
+    folder_dir.joinpath("README.md").write_text(text, encoding="utf-8")
 
 
-update_folder_readmes(content)
+update_folder_readmes(content, foldername)
 print(task, solved, sep="\n")
 
 # check task type
