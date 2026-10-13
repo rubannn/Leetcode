@@ -3,7 +3,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 
 | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{green}Easy}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{orange}Medium}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{red}Hard}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{black}Total}$ &nbsp;&nbsp;&nbsp;&nbsp; |
 | :---------------------------------------------------------------------: | :------------------------------------------------------------------------: | :-------------------------------------------------------------------: | :----------------------------------------------------------------------: |
-|                                 **287**                                 |                                  **211**                                   |                                **16**                                 |                                 **514**                                  |
+|**287** | **212** | **16** | **515**|
 
 
 <table>
@@ -620,3 +620,4 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 | ------ | ----------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------: | :-----------------------------------: |
 | `3516` | [Find Closest Person](https://leetcode.com/problems/find-closest-person/)                                                                       |  ${\color{green}Easy}$   | [\</code\>](/3501%20-%203750/3516.py) |
 | `3637` | [Trionic Array I](https://leetcode.com/problems/trionic-array-i/)                                                                               |  ${\color{green}Easy}$   | [\</code\>](/3501%20-%203750/3637.py) |
+| `3727` | [Maximum Alternating Sum of Squares](https://leetcode.com/problems/maximum-alternating-sum-of-squares/) |${\color{orange}Medium}$|[\</code\>](/3501%20-%203750/3727.py) |

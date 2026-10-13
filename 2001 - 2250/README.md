@@ -5,7 +5,7 @@
 | Num    | Task name                                                  |        Difficulty        |                 Code                  |
 | ------ | ----------------------------------------------------------- | :----------------------: | :------------------------------------: |
 | `2001` | [Number of Pairs of Interchangeable Rectangles](https://leetcode.com/problems/number-of-pairs-of-interchangeable-rectangles/)                           | ${\color{orange}Medium}$ | [\</code\>](/2001%20-%202250/2001.py) |
-| `2011` | [Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/) |${\color{green}Easy}$|[\</code\>](/2001%20-%202250/2011.py) |
+| `2011` | [Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/)               |  ${\color{green}Easy}$   | [\</code\>](/2001%20-%202250/2011.py) |
 | `2016` | [Maximum Difference Between Increasing Elements](https://leetcode.com/problems/maximum-difference-between-increasing-elements/)                         |  ${\color{green}Easy}$   | [\</code\>](/2001%20-%202250/2016.py) |
 | `2022` | [Convert 1D Array Into 2D Array](https://leetcode.com/problems/convert-1d-array-into-2d-array/)                                                         |  ${\color{green}Easy}$   | [\</code\>](/2001%20-%202250/2022.py) |
 | `2028` | [Find Missing Observations](https://leetcode.com/problems/find-missing-observations/)                                                                   | ${\color{orange}Medium}$ | [\</code\>](/2001%20-%202250/2028.py) |
@@ -27,7 +27,7 @@
 | `2181` | [Merge Nodes in Between Zeros](https://leetcode.com/problems/merge-nodes-in-between-zeros/)                                                             | ${\color{orange}Medium}$ | [\</code\>](/2001%20-%202250/2181.py) |
 | `2191` | [Sort the Jumbled Numbers](https://leetcode.com/problems/sort-the-jumbled-numbers/)                                                                     | ${\color{orange}Medium}$ | [\</code\>](/2001%20-%202250/2191.py) |
 | `2194` | [Cells in a Range on an Excel Sheet](https://leetcode.com/problems/cells-in-a-range-on-an-excel-sheet/)                                                 |  ${\color{green}Easy}$   | [\</code\>](/2001%20-%202250/2194.py) |
-| `2197` | [Replace Non-Coprime Numbers in Array](https://leetcode.com/problems/replace-non-coprime-numbers-in-array/) |${\color{red}Hard}$|[\</code\>](/2001%20-%202250/2197.py) |
+| `2197` | [Replace Non-Coprime Numbers in Array](https://leetcode.com/problems/replace-non-coprime-numbers-in-array/)                                             |   ${\color{red}Hard}$    | [\</code\>](/2001%20-%202250/2197.py) |
 | `2206` | [Divide Array Into Equal Pairs](https://leetcode.com/problems/divide-array-into-equal-pairs/)                                                           |  ${\color{green}Easy}$   | [\</code\>](/2001%20-%202250/2206.py) |
 | `2215` | [Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/)                                                   |  ${\color{green}Easy}$   | [\</code\>](/2001%20-%202250/2215.py) |
 | `2221` | [Find Triangular Sum of an Array](https://leetcode.com/problems/find-triangular-sum-of-an-array/)                                                       | ${\color{orange}Medium}$ | [\</code\>](/2001%20-%202250/2221.py) |

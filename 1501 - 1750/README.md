@@ -41,4 +41,4 @@
 | `1729` | [Find Followers Count](https://leetcode.com/problems/find-followers-count/)                                                                                 |  ${\color{green}Easy}$   | [\</code\>](/1501%20-%201750/1729.sql) |
 | `1732` | [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/)                                                                       |  ${\color{green}Easy}$   | [\</code\>](/1501%20-%201750/1732.py)  |
 | `1741` | [Find Total Time Spent by Each Employee](https://leetcode.com/problems/find-total-time-spent-by-each-employee/)                                             |  ${\color{green}Easy}$   | [\</code\>](/1501%20-%201750/1741.sql) |
-| `1750` | [Minimum Length of String After Deleting Similar Ends](https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends/) | ${\color{orange}Medium}$ | [\</code\>](/1501%20-%201750/1750.py)  |
+| `1750` | [Minimum Length of String After Deleting Similar Ends](https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends/)     | ${\color{orange}Medium}$ | [\</code\>](/1501%20-%201750/1750.py)  |

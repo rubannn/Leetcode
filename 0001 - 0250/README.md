@@ -62,7 +62,7 @@
 | `0104` | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)                                                       |  ${\color{green}Easy}$   | [\</code\>](/0001%20-%200250/0104.py)  |
 | `0118` | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)                                                                              |  ${\color{green}Easy}$   | [\</code\>](/0001%20-%200250/0118.py)  |
 | `0119` | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)                                                                        |  ${\color{green}Easy}$   | [\</code\>](/0001%20-%200250/0119.py)  |
-| `0120` | [Triangle](https://leetcode.com/problems/triangle/) |${\color{orange}Medium}$|[\</code\>](/0001%20-%200250/0120.py) |
+| `0120` | [Triangle](https://leetcode.com/problems/triangle/)                                                                                               | ${\color{orange}Medium}$ | [\</code\>](/0001%20-%200250/0120.py)  |
 | `0121` | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)                                                 |  ${\color{green}Easy}$   | [\</code\>](/0001%20-%200250/0121.py)  |
 | `0125` | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)                                                                               |  ${\color{green}Easy}$   | [\</code\>](/0001%20-%200250/0125.py)  |
 | `0136` | [Single Number](https://leetcode.com/problems/single-number/)                                                                                     |  ${\color{green}Easy}$   | [\</code\>](/0001%20-%200250/0136.py)  |
@@ -75,7 +75,7 @@
 | `0160` | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)                                               |  ${\color{green}Easy}$   | [\</code\>](/0001%20-%200250/0160.py)  |
 | `0162` | [Find Peak Element](https://leetcode.com/problems/find-peak-element/)                                                                             | ${\color{orange}Medium}$ | [\</code\>](/0001%20-%200250/0162.py)  |
 | `0165` | [Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/)                                                                 | ${\color{orange}Medium}$ | [\</code\>](/0001%20-%200250/0165.py)  |
-| `0166` | [Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/) |${\color{orange}Medium}$|[\</code\>](/0001%20-%200250/0166.py) |
+| `0166` | [Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/)                                                     | ${\color{orange}Medium}$ | [\</code\>](/0001%20-%200250/0166.py)  |
 | `0168` | [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)                                                               |  ${\color{green}Easy}$   | [\</code\>](/0001%20-%200250/0168.py)  |
 | `0169` | [Majority Element](https://leetcode.com/problems/majority-element/)                                                                               |  ${\color{green}Easy}$   | [\</code\>](/0001%20-%200250/0169.py)  |
 | `0171` | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)                                                             |  ${\color{green}Easy}$   | [\</code\>](/0001%20-%200250/0171.py)  |
