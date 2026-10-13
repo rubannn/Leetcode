@@ -90,6 +90,7 @@
 | `0190` | [Reverse Bits](https://leetcode.com/problems/reverse-bits/)                                                                                       |  ${\color{green}Easy}$   | [\</code\>](/0001%20-%200250/0190.py)  |
 | `0191` | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)                                                                               |  ${\color{green}Easy}$   | [\</code\>](/0001%20-%200250/0191.py)  |
 | `0193` | [Valid Phone Numbers](https://leetcode.com/problems/valid-phone-numbers/)                                                                         |  ${\color{green}Easy}$   | [\</code\>](/0001%20-%200250/0193.sh)  |
+| `0195` | [Tenth Line](https://leetcode.com/problems/tenth-line/) |${\color{green}Easy}$|[\</code\>](/0001%20-%200250/0195.sh) |
 | `0196` | [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/)                                                                 |  ${\color{green}Easy}$   | [\</code\>](/0001%20-%200250/0196.sql) |
 | `0197` | [Rising Temperature](https://leetcode.com/problems/rising-temperature/)                                                                           |  ${\color{green}Easy}$   | [\</code\>](/0001%20-%200250/0197.sql) |
 | `0198` | [House Robber](https://leetcode.com/problems/house-robber/)                                                                                       | ${\color{orange}Medium}$ | [\</code\>](/0001%20-%200250/0198.py)  |
