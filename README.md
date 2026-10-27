@@ -3,7 +3,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 
 | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{green}Easy}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{orange}Medium}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{red}Hard}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{black}Total}$ &nbsp;&nbsp;&nbsp;&nbsp; |
 | :---------------------------------------------------------------------: | :------------------------------------------------------------------------: | :-------------------------------------------------------------------: | :----------------------------------------------------------------------: |
-|**288** | **213** | **16** | **517**|
+|**290** | **213** | **16** | **519**|
 
 
 <table>
@@ -29,6 +29,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
     <td><a href="#0751---1000">0751 - 1000</a></td>
     <td><a href="#1751---2000">1751 - 2000</a></td>
     <td><a href="#2751---3000">2751 - 3000</a></td>
+    <td><a href="#3751---4000">3751 - 4000</a></td>
   </tr>
 </table>
 
@@ -623,3 +624,9 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 | `3637` | [Trionic Array I](https://leetcode.com/problems/trionic-array-i/)                                                                               |  ${\color{green}Easy}$   | [\</code\>](/3501%20-%203750/3637.py) |
 | `3723` | [Maximize Sum of Squares of Digits](https://leetcode.com/problems/maximize-sum-of-squares-of-digits/) |${\color{orange}Medium}$|[\</code\>](/3501%20-%203750/3723.py) |
 | `3727` | [Maximum Alternating Sum of Squares](https://leetcode.com/problems/maximum-alternating-sum-of-squares/) |${\color{orange}Medium}$|[\</code\>](/3501%20-%203750/3727.py) |
+
+> ### 3751 - 4000
+>
+| Num    | Task name                                                                                                 |       Difficulty       |                 Code                  |
+| ------ | ---------------------------------------------------------------------------------------------------------- | :---------------------: | :-----------------------------------: |
+| `3963` | [Create Grid With Exactly One Path](https://leetcode.com/problems/create-grid-with-exactly-one-path/)     |  ${\color{green}Easy}$  | [\</code\>](/3751%20-%204000/3963.py) |
