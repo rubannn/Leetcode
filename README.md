@@ -3,7 +3,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 
 | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{green}Easy}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{orange}Medium}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{red}Hard}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{black}Total}$ &nbsp;&nbsp;&nbsp;&nbsp; |
 | :---------------------------------------------------------------------: | :------------------------------------------------------------------------: | :-------------------------------------------------------------------: | :----------------------------------------------------------------------: |
-|**290** | **213** | **16** | **519**|
+|**289** | **214** | **16** | **519**|
 
 
 <table>
@@ -200,6 +200,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 | `0451` | [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)                             | ${\color{orange}Medium}$ | [\</code\>](/0251%20-%200500/0451.py) |
 | `0452` | [Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/) | ${\color{orange}Medium}$ | [\</code\>](/0251%20-%200500/0452.py) |
 | `0459` | [Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/)                                 |  ${\color{green}Easy}$   | [\</code\>](/0251%20-%200500/0459.py) |
+| `0462` | [Minimum Moves to Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/) |${\color{orange}Medium}$|[\</code\>](/0251%20-%200500/0462.py) |
 | `0463` | [Island Perimeter](https://leetcode.com/problems/island-perimeter/)                                                                         |  ${\color{green}Easy}$   | [\</code\>](/0251%20-%200500/0463.py)  |
 | `0468` | [Validate IP Address](https://leetcode.com/problems/validate-ip-address/)                                                                   | ${\color{orange}Medium}$ | [\</code\>](/0251%20-%200500/0468.py)  |
 | `0476` | [Number Complement](https://leetcode.com/problems/number-complement/)                                                                       |  ${\color{green}Easy}$   | [\</code\>](/0251%20-%200500/0476.py)  |
