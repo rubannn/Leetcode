@@ -3,7 +3,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 
 | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{green}Easy}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{orange}Medium}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{red}Hard}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{black}Total}$ &nbsp;&nbsp;&nbsp;&nbsp; |
 | :---------------------------------------------------------------------: | :------------------------------------------------------------------------: | :-------------------------------------------------------------------: | :----------------------------------------------------------------------: |
-|**289** | **214** | **16** | **519**|
+|**290** | **214** | **16** | **520**|
 
 
 <table>
@@ -630,4 +630,5 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 >
 | Num    | Task name                                                                                                 |       Difficulty       |                 Code                  |
 | ------ | ---------------------------------------------------------------------------------------------------------- | :---------------------: | :-----------------------------------: |
+| `3736` | [Minimum Moves to Equal Array Elements III](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-iii/) |${\color{green}Easy}$|[\</code\>](/3501%20-%203750/3736.py) |
 | `3963` | [Create Grid With Exactly One Path](https://leetcode.com/problems/create-grid-with-exactly-one-path/)     |  ${\color{green}Easy}$  | [\</code\>](/3751%20-%204000/3963.py) |
