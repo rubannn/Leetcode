@@ -3,7 +3,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 
 | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{green}Easy}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{orange}Medium}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{red}Hard}$ &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ${\color{black}Total}$ &nbsp;&nbsp;&nbsp;&nbsp; |
 | :---------------------------------------------------------------------: | :------------------------------------------------------------------------: | :-------------------------------------------------------------------: | :----------------------------------------------------------------------: |
-|**290** | **214** | **16** | **520**|
+|**290** | **215** | **16** | **521**|
 
 
 <table>
@@ -351,6 +351,7 @@ Python solutions of problems from [LeetCode](https://leetcode.com/problemset/all
 | `1346` | [Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/)                                                                       |  ${\color{green}Easy}$   | [\</code\>](/1251%20-%201500/1346.py)  |
 | `1347` | [Minimum Number of Steps to Make Two Strings Anagram](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/)                               | ${\color{orange}Medium}$ | [\</code\>](/1251%20-%201500/1347.py)  |
 | `1351` | [Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/)                                                   |  ${\color{green}Easy}$   | [\</code\>](/1251%20-%201500/1351.py)  |
+| `1352` | [Product of the Last K Numbers](https://leetcode.com/problems/product-of-the-last-k-numbers/) |${\color{orange}Medium}$|[\</code\>](/1251%20-%201500/1352.py) |
 | `1356` | [Sort Integers by The Number of 1 Bits](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/)                                                           |  ${\color{green}Easy}$   | [\</code\>](/1251%20-%201500/1356.py)  |
 | `1361` | [Validate Binary Tree Nodes](https://leetcode.com/problems/validate-binary-tree-nodes/)                                                                                 | ${\color{orange}Medium}$ | [\</code\>](/1251%20-%201500/1361.py)  |
 | `1365` | [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)                             |  ${\color{green}Easy}$   | [\</code\>](/1251%20-%201500/1365.py)  |
